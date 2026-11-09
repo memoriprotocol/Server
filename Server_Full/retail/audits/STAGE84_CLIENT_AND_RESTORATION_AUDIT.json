@@ -1,0 +1,90 @@
+{
+  "stage": 84,
+  "baseStage": 83,
+  "version": "0.55.0-stage84-level-up-dan-records",
+  "builtAtMoscow": "2026-11-07T09:20:13.453532+03:00",
+  "baseArchive": {
+    "name": "SERVER_STAGE83_MAINHALL_DEATH_REENTRY_FIX.zip",
+    "sha256": "98a0a74a07935aca6f05ad6d3d44ed8091c17ac49663a07ca48390a6c05b469d",
+    "bytes": 6652361
+  },
+  "client": "HeroLand 3.12.7 / 2024-02-22; ORIGINAL CLIENT UNMODIFIED",
+  "originalIndexSHA256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "nativeModulesByteIdentical": {
+    "TitleManager.ts": "c580b94de93ac1cb4f6cf8042b71abb3a6e73c30b116921e2eaf63852e8d0f73",
+    "CCBloodBarComp.ts": "4854d87a30ed66de20ff9e594b2e399a6c30b08284edabb149796a99b566fbc5",
+    "DanController.ts": "2dcf06ea59d2475551eec5f8076ae89c059e0eec662b6a0f9cbb0a8901f175a2",
+    "ConstantsManager.ts": "02365f5d140b55c7d06b79236b55c654fb63c6fd419bd3acbd612197080d29d2",
+    "DanView.ts": "d57800aac3481c60d506ac4098132531c73e34191c4a02fdd9541458d1ab21d1",
+    "LevelExpConfigManager.ts": "ed04e34fac4faeec70b1ec84aa7f25bc6cb89947f218b7553fcb84accd61bc35",
+    "DanManager.ts": "deac3f8ff6c3a9979e5ef97852b93248dfd5e1f3ead3fee1b612e6781dbf0cfe",
+    "CCAvatarUIComp.ts": "18c7f7377d5c4257e74663b3d62220eb1cd939bb3a3a56aad35561405bed39ec",
+    "ItemPanelNetwork.ts": "3352e25170748c1e80a97c39da14ffd135e5dd527d35c14d0ab5f88414b00acc",
+    "DanModel.ts": "75870fc58f1e7721277e8d879c1de8420084f89e167f335e4eff797322bec521",
+    "ScoreItemView.ts": "2ba6c77e8a6cbfcdfb1c2ee9594f9f0686c9c5d865151e2615c9eee76bb05827"
+  },
+  "verifiedNativeBehavior": [
+    "CCAvatarUIComp.onAddExp updates experience bar, onLevelUp updates ordinary hero level",
+    "CCBloodBarComp and ItemPanelNetwork consume upgradeLevel",
+    "DanController reqMineRecords consumes infos/score/danInfos",
+    "DanManager inclusive raw thresholds from DanScheme, 12 ranks",
+    "Dan UI presents Your Best10 Totals",
+    "ConstantsManager recordSaveTime: 1728000 seconds = 20 days",
+    "ScoreItemView consumes showTick milliseconds"
+  ],
+  "serverChanges": [
+    "Sell, fishing and quest XP deliver public upgradeLevel/setHP, with authoritative current property snapshot",
+    "Retry pending level/XP snapshots with zero addedExp; no duplicate XP or healing",
+    "Delivery bound to world, actor, room, map, battle life; stale delivery discarded",
+    "Kill callback cannot rewind more recent stats or deliver into a replacement life",
+    "Best ten unexpired per-life results feed native Dan response, profile, global and map rankings",
+    "Offline/online expired result caches persisted in one atomic batch",
+    "Legacy cumulative score archived; only known dated pending result imported"
+  ],
+  "localPoliciesNotRecoveredRetail": [
+    "Per-life score currently uses authoritative xpEarned. Retail scoring formula NOT proven from client UI.",
+    "Bound stored result archive to 4096 records and signed-int32 score cap",
+    "Unknown legacy match history is not fabricated; corrected rank may decrease after migration",
+    "Daily Dan rewards and every rank-related pet/drop constraint are not certified complete"
+  ],
+  "validation": {
+    "tests": 2313,
+    "passed": 2313,
+    "newStage84Tests": 90,
+    "existingTests": 2223,
+    "networkSmoke": "PASS",
+    "windowsRenderedClient": false,
+    "legacyTestChanges": {
+      "Server_Full/Server/tests/stage64-map-ranks-native.test.js": "Cumulative 4000 + new run 1000 expectation replaced with real known run 1000; legacy 4000 preserved in archive.",
+      "Server_Full/Server/tests/stage63-account-hall-rank.test.js": "Runtime rank recovery fixture supplies native Dan result rather than mutating derived p.score cache."
+    },
+    "supportOnlyNotShipped": "Two legacy website source-inspection tests read unchanged stage72 Website_Full copied beside server for validation. Stage83 contains no website; this fixture is not included in Stage84 archive. Empty Server/data supplied for legacy layout check."
+  },
+  "preserved": {
+    "cityWallsByteIdenticalToStage44": {
+      "Server_Full/Server/config/city-main-3127.json": {
+        "stage44SHA256": "72b5f5ff9e1ad900272d1caf96bab5ae92c6d082d5b32416cb2c213216758730",
+        "stage84SHA256": "72b5f5ff9e1ad900272d1caf96bab5ae92c6d082d5b32416cb2c213216758730",
+        "identical": true
+      },
+      "Server_Full/Server/config/map2-city-objects-3127.json": {
+        "stage44SHA256": "4e0fe572d2cb8d33aca7b6ce480c685bc5de098431f992b6225684cff2bb8bfa",
+        "stage84SHA256": "4e0fe572d2cb8d33aca7b6ce480c685bc5de098431f992b6225684cff2bb8bfa",
+        "identical": true
+      }
+    },
+    "PVPBoard": "Entire config except rank policy unchanged from Stage83",
+    "unmodifiedConfigFiles": 139,
+    "changedConfig": [
+      "Server_Full/Server/config/account-rank-policy-3127.json"
+    ],
+    "stage83HallDeathReentry": "Regression tests + real HTTP/WS exit/reenter PASS; no extra toMain"
+  },
+  "heroes": {
+    "complete1to1": false,
+    "nativeRosterCount": 26,
+    "source": "Stage82/83 hero modules retained. Stage84 tests real XP 9 -> 10 enabling Ninja passive752 without map reentry. This is not full effect validation of all heroes.",
+    "next": "Continue active/passive/VFX/star mechanics for the entire roster against original client factories; retain construction levels/visuals backlog."
+  },
+  "restorationComplete": false
+}

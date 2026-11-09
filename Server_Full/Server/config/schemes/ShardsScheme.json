@@ -1,0 +1,212 @@
+{
+  "Shards": [
+    {
+      "ID": 300100,
+      "Star": 2,
+      "Name": "斯巴达碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄骑士或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 300200,
+      "Star": 2,
+      "Name": "修女碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄修女或升星",
+      "Icon": "io_game/shop/shards/xiunv/spriteFrame"
+    },
+    {
+      "ID": 300300,
+      "Star": 2,
+      "Name": "吸血鬼碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄吸血鬼或升星",
+      "Icon": "io_game/shop/shards/xixuegui/spriteFrame"
+    },
+    {
+      "ID": 300400,
+      "Star": 2,
+      "Name": "魔法师碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄魔法师或升星",
+      "Icon": "io_game/shop/shards/xiunv/spriteFrame"
+    },
+    {
+      "ID": 300500,
+      "Star": 2,
+      "Name": "亡灵术士碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄亡灵术士或升星",
+      "Icon": "io_game/shop/shards/xiunv/spriteFrame"
+    },
+    {
+      "ID": 300600,
+      "Star": 2,
+      "Name": "圣骑士碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄圣骑士或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 300700,
+      "Star": 2,
+      "Name": "木乃伊碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄木乃伊或升星",
+      "Icon": "io_game/shop/shards/xiunv/spriteFrame"
+    },
+    {
+      "ID": 300800,
+      "Star": 2,
+      "Name": "德鲁伊碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄德鲁伊或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 300900,
+      "Star": 2,
+      "Name": "树人碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄树人或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 301000,
+      "Star": 2,
+      "Name": "国王碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄国王或升星",
+      "Icon": "io_game/shop/shards/xiunv/spriteFrame"
+    },
+    {
+      "ID": 301100,
+      "Star": 2,
+      "Name": "女巫碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄女巫或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 301200,
+      "Star": 2,
+      "Name": "忍者碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄忍者或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 301300,
+      "Star": 2,
+      "Name": "吟游诗人碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄吟游诗人或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 301500,
+      "Star": 2,
+      "Name": "兔耳游侠碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄闪电兔或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 301700,
+      "Star": 2,
+      "Name": "厨娘碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄厨娘或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 301900,
+      "Star": 2,
+      "Name": "史莱姆碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄史莱姆或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302000,
+      "Star": 2,
+      "Name": "小恶魔碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄小恶魔或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302100,
+      "Star": 2,
+      "Name": "炸弹人碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄炸弹人或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302200,
+      "Star": 2,
+      "Name": "狼人碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄狼人或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302300,
+      "Star": 2,
+      "Name": "咕咕碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄咕咕或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302400,
+      "Star": 2,
+      "Name": "仓鼠碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄仓鼠或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302500,
+      "Star": 2,
+      "Name": "剑客碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄剑客或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302600,
+      "Star": 2,
+      "Name": "工程师碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄工程师或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302700,
+      "Star": 2,
+      "Name": "维京碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄维京或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302800,
+      "Star": 2,
+      "Name": "龙太子碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得英雄龙太子或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    },
+    {
+      "ID": 302900,
+      "Star": 2,
+      "Name": "花仙子碎片",
+      "Weight": 120,
+      "Describe": "集齐碎片可获得英雄花仙子或升星",
+      "Icon": "io_game/shop/shards/qishi/spriteFrame"
+    }
+  ]
+}

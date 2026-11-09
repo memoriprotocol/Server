@@ -1,0 +1,563 @@
+{
+  "stage": 39,
+  "fullRestoration1to1": false,
+  "clientRenderVerified": false,
+  "placement": {
+    "policy": {
+      "treeRadius": 180,
+      "wellRadius": 220,
+      "wellMinDistance": 2400,
+      "arenaMargin": 4500
+    },
+    "invalidIDs": [],
+    "minWellDistance": 2736.8345492762214,
+    "counts": {
+      "mob": 289,
+      "boss": 4,
+      "tree": 160,
+      "stone": 100,
+      "ore": 80,
+      "well": 24,
+      "statue": 24
+    },
+    "note": "Local corrective placement and conservative boss-area buffer, not recovered retail positions"
+  },
+  "bossChecks": [
+    {
+      "cid": 1305,
+      "id": 60000290,
+      "wireMatchesOriginal": true
+    },
+    {
+      "cid": 1302,
+      "id": 60000291,
+      "wireMatchesOriginal": true
+    },
+    {
+      "cid": 1306,
+      "id": 60000292,
+      "wireMatchesOriginal": true
+    },
+    {
+      "cid": 1307,
+      "id": 60000293,
+      "wireMatchesOriginal": true
+    }
+  ],
+  "actorSkills": [
+    {
+      "cid": 1210,
+      "skills": [
+        {
+          "id": 2047,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1300,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2236,
+          "type": 331,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1235,
+      "skills": [
+        {
+          "id": 2079,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1000,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2235,
+          "type": 330,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1211,
+      "skills": [
+        {
+          "id": 2048,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1300,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2238,
+          "type": 333,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1227,
+      "skills": [
+        {
+          "id": 2068,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 800,
+          "castPointTime": 400,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2228,
+          "type": 318,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1230,
+      "skills": [
+        {
+          "id": 2071,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 900,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2249,
+          "type": 370,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1238,
+      "skills": [
+        {
+          "id": 2085,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1150,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2248,
+          "type": 70,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1228,
+      "skills": [
+        {
+          "id": 2069,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1650,
+          "castPointTime": 650,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1213,
+      "skills": [
+        {
+          "id": 2051,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1150,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2232,
+          "type": 327,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1264,
+      "skills": [
+        {
+          "id": 2267,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 900,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2268,
+          "type": 406,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 400,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1226,
+      "skills": [
+        {
+          "id": 2067,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1300,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1232,
+      "skills": [
+        {
+          "id": 2073,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 2400,
+          "castPointTime": 700,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2074,
+          "type": 108,
+          "animationIndex": 1,
+          "cd": 4200,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1258,
+      "skills": [
+        {
+          "id": 2297,
+          "type": 388,
+          "animationIndex": 0,
+          "cd": 15000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2298,
+          "type": 69,
+          "animationIndex": 1,
+          "cd": 2500,
+          "castPointTime": 800,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2299,
+          "type": 125,
+          "animationIndex": 2,
+          "cd": 2500,
+          "castPointTime": 800,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1260,
+      "skills": [
+        {
+          "id": 2255,
+          "type": 394,
+          "animationIndex": 0,
+          "cd": 10000,
+          "castPointTime": 1200,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2256,
+          "type": 69,
+          "animationIndex": 1,
+          "cd": 2500,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "LEGACY_CONTACT_DAMAGE",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2257,
+          "type": 395,
+          "animationIndex": 2,
+          "cd": 5000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1305,
+      "skills": [
+        {
+          "id": 2086,
+          "type": 119,
+          "animationIndex": 0,
+          "cd": 4000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2087,
+          "type": 120,
+          "animationIndex": 1,
+          "cd": 5000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2247,
+          "type": 221,
+          "animationIndex": 2,
+          "cd": 25000,
+          "castPointTime": 700,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1302,
+      "skills": [
+        {
+          "id": 2049,
+          "type": 89,
+          "animationIndex": 0,
+          "cd": 5000,
+          "castPointTime": 2000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2050,
+          "type": 90,
+          "animationIndex": 1,
+          "cd": 3000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1306,
+      "skills": [
+        {
+          "id": 2088,
+          "type": 121,
+          "animationIndex": 0,
+          "cd": 5000,
+          "castPointTime": 1500,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2089,
+          "type": 122,
+          "animationIndex": 1,
+          "cd": 7000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2105,
+          "type": 601,
+          "animationIndex": 2,
+          "cd": 4000,
+          "castPointTime": 1300,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    },
+    {
+      "cid": 1307,
+      "skills": [
+        {
+          "id": 2090,
+          "type": 123,
+          "animationIndex": 0,
+          "cd": 6000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2091,
+          "type": 124,
+          "animationIndex": 1,
+          "cd": 4000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2092,
+          "type": 125,
+          "animationIndex": 2,
+          "cd": 5000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        },
+        {
+          "id": 2106,
+          "type": 70,
+          "animationIndex": 3,
+          "cd": 3000,
+          "castPointTime": 650,
+          "casting": "native-events",
+          "effects": "NOT_IMPLEMENTED",
+          "damageFormula": "NOT_RETAIL"
+        }
+      ]
+    }
+  ],
+  "city": {
+    "changed": false,
+    "eligibleEntities": 58,
+    "layoutStatus": "UNRESOLVED_RETAIL_PLACEMENT",
+    "manualLayout": true
+  },
+  "routeCoverage": {
+    "verified": 32,
+    "provisional": 75,
+    "unsupported": 95,
+    "unmapped": 24
+  },
+  "validation": {
+    "targeted": {
+      "tests": 19,
+      "pass": 19,
+      "fail": 0
+    },
+    "fullSuiteBeforeAdditionalMineCornerTest": {
+      "tests": 200,
+      "pass": 183,
+      "fail": 17
+    },
+    "originalStage38": {
+      "tests": 190,
+      "pass": 173,
+      "fail": 17
+    },
+    "newFailuresComparedToBaseline": [],
+    "originalFailures": [
+      "stage17 exposes manual central-city wall ring and bridges only on main map2",
+      "stage17 keeps original 2024 safe rectangles and adds central gates",
+      "geometry closes wall edges but four cardinal 1600-wide exits stay open for movement",
+      "stage17 no longer quarantines city entirely; old off flag still disables objects",
+      "native map2 still preserves 5 safe rectangles and now adds manual perimeter objects",
+      "catalog documents client assets; Stage17 uses only assets available in this client",
+      "NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs",
+      "NPC are never spawned on guide map; opt-in mode isolates them from city walls",
+      "legacy safe mode can disable all NPCs without disabling five real safe zones",
+      "Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs",
+      "full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds",
+      "city visibility is configured in normal and previous recommended bat launchers",
+      "world protobuf snapshots include city only when requested; movement still unchanged",
+      "actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC",
+      "Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly",
+      "plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates",
+      "stage30: clean outer root and internal runtime/retail"
+    ]
+  }
+}

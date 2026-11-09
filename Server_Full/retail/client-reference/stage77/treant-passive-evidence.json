@@ -1,0 +1,87 @@
+{
+  "client": "Hero Land 3.12.7 (22 Feb 2024) original client strings / client-reference stage73",
+  "source": "retail/client-reference/stage73/native-descriptions.json and original SkillScheme",
+  "english": "Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (hpArgs% of Treant Max HP)",
+  "chinese": "被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶",
+  "passiveSkill": [
+    {
+      "ID": 6028,
+      "level": 1,
+      "skillType": 490,
+      "name": "树人被动1星",
+      "cd": 2000,
+      "castPointTime": 200,
+      "skillSpeed": 1500,
+      "effectSize": [
+        1500
+      ],
+      "skillSize": [
+        110,
+        110
+      ],
+      "triggerType": 8,
+      "args": [
+        "damage:0",
+        "atkArgs:0",
+        "num:3",
+        "hpArgs:10",
+        "accelerationTime:1500",
+        "acceleration:1000",
+        "flyingTime:5000"
+      ]
+    },
+    {
+      "ID": 6028,
+      "level": 2,
+      "skillType": 491,
+      "name": "树人被动2星",
+      "cd": 2000,
+      "castPointTime": 200,
+      "skillSpeed": 1500,
+      "effectSize": [
+        1500
+      ],
+      "skillSize": [
+        110,
+        110
+      ],
+      "triggerType": 8,
+      "args": [
+        "damage:0",
+        "atkArgs:0",
+        "num:3",
+        "hpArgs:10",
+        "accelerationTime:1500",
+        "acceleration:1000",
+        "flyingTime:5000"
+      ]
+    },
+    {
+      "ID": 6028,
+      "level": 3,
+      "skillType": 492,
+      "name": "树人被动3星",
+      "cd": 2000,
+      "castPointTime": 200,
+      "skillSpeed": 1500,
+      "effectSize": [
+        1500
+      ],
+      "skillSize": [
+        110,
+        110
+      ],
+      "triggerType": 8,
+      "args": [
+        "damage:0",
+        "atkArgs:0",
+        "num:3",
+        "hpArgs:10",
+        "accelerationTime:1500",
+        "acceleration:1000",
+        "flyingTime:5000"
+      ]
+    }
+  ],
+  "note": "Descriptions and configuration are original-client evidence; hit decisions and friendly unit selection are server reconstruction. No proof of enemy-hit healing. Live render not verified."
+}

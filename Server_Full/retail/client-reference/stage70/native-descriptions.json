@@ -1,0 +1,42 @@
+[
+  {
+    "language": "en",
+    "key": "hero/skill/6015/1",
+    "verbatimFragment": "hero/skill/6015/1\",'Passive:\\x20+${cfg.args.attackArgs}%\\x20to\\x20ally\\x20heroes\\x20nearby\\x0aBard\\x27s\\x20${cfg.args.duration/1000}-sec\\x20performance\\x20regens\\x20${cfg.args.hpArgs}%\\x20Max\\x20HP\\x20per\\x20sec\\x20and\\x20+${cfg.args.speedArgs}\\x20SPD\\x20for\\x20allies\\x20nearby'"
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6015/3",
+    "verbatimFragment": "hero/skill/6015/3',\"Passive: +${cfg.args.attackArgs}% to ally heroes nearby\\nBard's ${cfg.args.duration/1000}-sec performance applies [Dance] to enemy heroes nearby for ${cfg.onHitEnemyBuffArgs.duration/1000} seconds. It also regens ${cfg.args.hpArgs}% Max HP per sec and +${cfg.args.speedArgs} SPD for allies nearby. [Dance: Unable to attack or cast skills]\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6005/2",
+    "verbatimFragment": "hero/skill/6005/2\",\"Removes most CC and Debuff Effects on friendly units nearby. Provides a ${cfg.HpShield} (${cfg.args.hpArgs}% of Max HP) Shield for them, lasting ${cfg.args.duration/1000} seconds\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6005/3",
+    "verbatimFragment": "hero/skill/6005/3\",\"Becomes invincible for ${cfg.args.duration/1000} seconds. Remove most CC and Debuff Effects on friendly units nearby. Provides a ${cfg.HpShield} (${cfg.args.hpArgs}% of Max HP) Shield for them, lasting ${cfg.args.duration/1000} seconds\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6015/1",
+    "verbatimFragment": "hero/skill/6015/1\",\"被动：周围友方英雄攻击力提升${cfg.args.attackArgs}%\\n吟游诗人开始演奏，每秒回复友方${cfg.args.hpArgs}%最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒。\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6015/3",
+    "verbatimFragment": "hero/skill/6015/3\",\"被动：周围友方英雄攻击力提升${cfg.args.attackArgs}%\\n吟游诗人开始演奏，使范围内敌方英雄【跳舞】${cfg.onHitEnemyBuffArgs.duration/1000}秒，每秒回复友方${cfg.args.hpArgs}%最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒。【跳舞：可以移动，但不能攻击和释放技能】\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6005/2",
+    "verbatimFragment": "hero/skill/6005/2\",'为自身周围的己方单位解除其身上控制及绝大部分负面效果，并提供一个${cfg.HpShield}(${cfg.args.hpArgs}%最大生命值)的护盾，护盾持续${cfg.args.duration/1000}秒'"
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6005/3",
+    "verbatimFragment": "hero/skill/6005/3\",\"自身获得持续${cfg.args.duration/1000}秒的无敌效果，为自身周围的友方单位解除其身上控制及绝大部分负面效果，并提供一个${cfg.HpShield}(${cfg.args.hpArgs}%最大生命值)的护盾，护盾持续${cfg.args.duration/1000}秒【无敌：不受伤害】\""
+  }
+]

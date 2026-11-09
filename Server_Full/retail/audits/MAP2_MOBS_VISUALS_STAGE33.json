@@ -1,0 +1,112 @@
+{
+  "stage": "33",
+  "referenceBuild": "3.12.7",
+  "purpose": "Map2 mob appearance data, informational only",
+  "sourceFiles": [
+    "Server/config/schemes/CreatureScheme.json",
+    "Server/config/schemes/MapProductionScheme.json",
+    "Server/config/world-content-3127.json"
+  ],
+  "clientVerification": "Creature IDs, names and map2 production are grounded in 3.12.7 schemes; model prefab paths are existing server configurations and are NOT confirmed by unpacking every 3.12 client bundle. In-game render test is required.",
+  "creatureIds": [
+    {
+      "cid": 1210,
+      "name_zh": "羊",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1210/a/monster",
+      "map2ProductionRecords": 28
+    },
+    {
+      "cid": 1211,
+      "name_zh": "狐狸",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1211/a/monster",
+      "map2ProductionRecords": 28
+    },
+    {
+      "cid": 1213,
+      "name_zh": "平头哥",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1213/a/monster",
+      "map2ProductionRecords": 19
+    },
+    {
+      "cid": 1226,
+      "name_zh": "鳄鱼",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1226/a/monster",
+      "map2ProductionRecords": 17
+    },
+    {
+      "cid": 1227,
+      "name_zh": "猩猩",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1227/a/monster",
+      "map2ProductionRecords": 44
+    },
+    {
+      "cid": 1228,
+      "name_zh": "犀牛",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1228/a/monster",
+      "map2ProductionRecords": 24
+    },
+    {
+      "cid": 1230,
+      "name_zh": "熊猫",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1230/a/monster",
+      "map2ProductionRecords": 44
+    },
+    {
+      "cid": 1232,
+      "name_zh": "树木之灵",
+      "type": 342,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1232/a/monster",
+      "map2ProductionRecords": 12
+    },
+    {
+      "cid": 1235,
+      "name_zh": "小浣熊",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1235/a/monster",
+      "map2ProductionRecords": 28
+    },
+    {
+      "cid": 1238,
+      "name_zh": "黑猫",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1238/a/monster",
+      "map2ProductionRecords": 24
+    },
+    {
+      "cid": 1258,
+      "name_zh": "大花怪",
+      "type": 342,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1258/a/monster",
+      "map2ProductionRecords": 6
+    },
+    {
+      "cid": 1260,
+      "name_zh": "臭屁菇",
+      "type": 1061,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1260/monster",
+      "map2ProductionRecords": 6
+    },
+    {
+      "cid": 1264,
+      "name_zh": "秃鹫",
+      "type": 76,
+      "prefab_path_candidate": "arena_3d/monsters/monster_1264/a/monster",
+      "map2ProductionRecords": 19
+    }
+  ],
+  "bossesUnchanged": true,
+  "bossPrefabOrNetworkChanges": false,
+  "npc420": {
+    "clientCreatureNameZh": "不死之地入口",
+    "prefab_path": "arena/npc/420/npc-0",
+    "source": "client 3.12 indexed asset path",
+    "note": "Undead Land (map 6) entrance model; not asserted to implement PvP transport on server"
+  }
+}

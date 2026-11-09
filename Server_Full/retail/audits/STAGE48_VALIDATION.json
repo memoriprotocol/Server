@@ -1,0 +1,25 @@
+{
+  "stage": 48,
+  "version": "0.26.0-stage48-safezone-portals",
+  "serverTests": {
+    "tests": 455,
+    "pass": 455,
+    "fail": 0,
+    "newStage48Tests": 28
+  },
+  "portalCount": 5,
+  "portalPositions": "user requested centers of all five unchanged Stage44 safe-zone rectangles",
+  "cityWallsByteIdenticalToStage44": true,
+  "clientIndexModified": false,
+  "siteOrClientAddonModifiedThisStage": false,
+  "windowsClientRendered": false,
+  "map5BossSkills": {
+    "count": 17,
+    "serverDamageAndSpecialEffectsImplemented": 0
+  },
+  "restoration1to1Complete": false,
+  "nativeHandlersExecutedInVM": [
+    "BSNetworkController.onPlayerLeave",
+    "IslandController.matchSuccEnterScene"
+  ]
+}

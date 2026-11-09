@@ -1,0 +1,23 @@
+[
+  {
+    "path": "arena/skills/vultureHurriance/prefab/vultureHurriance",
+    "index": 47783,
+    "pack": "7192ab18-76f3-4c00-a045-8fe81de15163",
+    "sha256": "17e8e8919497b634fe0346e853553ecf41d3132bc72a93b0f220a271a6f87208",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/heilong_skill/perfab/heilong_skill01",
+    "index": 41554,
+    "pack": "02cf251d5",
+    "sha256": "269cdbfecab40defda2e0159ff724c11fcb9469b397ff5fd5a51e7ed886216a0",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/monster_48/prefab/skill",
+    "index": 49201,
+    "pack": "8c8f46f5-a258-4ca0-b212-578ac110ed4f",
+    "sha256": "9b45d710a0779d017911028d08ee2268df77c56ff32f289ba23ebfe3c53b10b4",
+    "crcVerified": true
+  }
+]

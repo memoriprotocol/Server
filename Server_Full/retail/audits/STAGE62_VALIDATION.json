@@ -1,0 +1,90 @@
+{
+  "stage": 62,
+  "version": "0.40.0-stage62-native-item-exchange",
+  "tests": {
+    "tests": 1107,
+    "pass": 1107,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage62": 43,
+    "updatedPriorExpectations": 1
+  },
+  "syntax": {
+    "status": "PASS",
+    "changedJSFiles": 10,
+    "files": [
+      "stage62/Server_Full/Server/lib/bag.js",
+      "stage62/Server_Full/Server/lib/game.js",
+      "stage62/Server_Full/Server/lib/inventory.js",
+      "stage62/Server_Full/Server/lib/item-exchange-3127.js",
+      "stage62/Server_Full/Server/lib/pass-restoration-3127.js",
+      "stage62/Server_Full/Server/lib/world.js",
+      "stage62/Server_Full/Server/tests/stage61-pass-cycle.test.js",
+      "stage62/Server_Full/Server/tests/stage62-item-exchange.test.js",
+      "stage62/Server_Full/Server/tests/stage62-native-exchange.test.js",
+      "stage62/Server_Full/server.js"
+    ]
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.40.0-stage62-native-item-exchange",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "preservedFiles": [
+      "Server_Full/Server/lib/city-3127.js",
+      "Server_Full/Server/config/portals-3127.json",
+      "Server_Full/Server/lib/dungeons-3127.js",
+      "Server_Full/Server/lib/navigation-3127.js",
+      "Server_Full/Server/lib/monster-ai-3127.js",
+      "Server_Full/Server/lib/monster-recovery-3127.js",
+      "Server_Full/Server/config/map2-monster-recovery-3127.json",
+      "Server_Full/Server/lib/payments-3127.js",
+      "Server_Full/Server/lib/passes-3127.js",
+      "Server_Full/Server/lib/activities-3127.js",
+      "Server_Full/Server/lib/progression-3127.js",
+      "Server_Full/Server/lib/life-3127.js"
+    ],
+    "websiteClientAddonByteIdenticalToStage61": true,
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

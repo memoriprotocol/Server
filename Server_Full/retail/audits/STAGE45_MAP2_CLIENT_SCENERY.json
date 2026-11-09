@@ -1,0 +1,229 @@
+{
+  "client": "3.12.7",
+  "mapPrefab": "arena/maps/map_2",
+  "layers": [
+    {
+      "node": 20,
+      "layer": "ground",
+      "assetIndex": 4962,
+      "uuid": "0cBZBzUSRMFaTAAgPin1wZ",
+      "importFile": "05094e101.json",
+      "exportTime": "2024/2/22下午9:22:23",
+      "count": 244
+    },
+    {
+      "node": 41,
+      "layer": "underground",
+      "assetIndex": 48874,
+      "uuid": "86WhpiXgNGBpR4njDTQ75H",
+      "importFile": "05094e101.json",
+      "exportTime": "2024/2/22下午9:22:23",
+      "count": 0
+    },
+    {
+      "node": 42,
+      "layer": "wall",
+      "assetIndex": 47604,
+      "uuid": "6erW2kyT9KGqSp/yCby3dP",
+      "importFile": "05094e101.json",
+      "exportTime": "2024/2/22下午9:22:23",
+      "count": 1
+    },
+    {
+      "node": 43,
+      "layer": "ground-top",
+      "assetIndex": 3881,
+      "uuid": "09ai4rC11PB7F8RtDBQWLl",
+      "importFile": "05094e101.json",
+      "exportTime": "2024/2/22下午9:22:23",
+      "count": 928
+    },
+    {
+      "node": 44,
+      "layer": "things",
+      "assetIndex": 43845,
+      "uuid": "29657j5FNCppqdvEMIYq4u",
+      "importFile": "05094e101.json",
+      "exportTime": "2024/2/22下午9:22:23",
+      "count": 1654
+    }
+  ],
+  "clientOwnedVisuals": 2827,
+  "uniquePrefabPaths": 57,
+  "verifiedImports": {
+    "01ba3b118.json": {
+      "sha256": "7e6a9da80da2a612ce138e33c86a48b4ed90a07b6fe8656d9bf8004a976000bc",
+      "crc32": "34c7252c"
+    },
+    "05094e101.json": {
+      "sha256": "9107e637efc2a21d79bfe3f0babdd7558249a792af085322af046d0648db53cc",
+      "crc32": "3a5fde5d"
+    },
+    "f5a8e9ab-e021-4b5d-931f-95784cf4cf0a.json": {
+      "sha256": "952c90a98d4526d2e78fe54bf04806fe301c5577e92e8e8e90728b3d5bbadbfc",
+      "crc32": "c5a1560b"
+    },
+    "10b26534-de47-4491-8c39-5fa02ef7f93a.json": {
+      "sha256": "9de68a44729f8ba29f86eb99f24df58115bcb294a63ef21cd0224923efe6fe61",
+      "crc32": "e3470dcb"
+    },
+    "0a23ca475.json": {
+      "sha256": "d98394cb4e711f8fa2c8d05f2698e6747c5f4968379ab11bdd3cfb225847c246",
+      "crc32": "b752ec8b"
+    },
+    "3fb12bee-06b5-495e-af7e-540ff4157a47.json": {
+      "sha256": "c84614e5eceaaa1d39dfaef3207b92161376ba732c346f6635886cce312126c2",
+      "crc32": "d427fa8b"
+    },
+    "603facbd-7291-4917-92c6-9ac02a8c4ec1.json": {
+      "sha256": "e220e01de43ba7922a7433291f6d7221c8a634d9b044fde73f84165eb38d2620",
+      "crc32": "7f453504"
+    },
+    "14a24adb-0e26-49e2-8a2f-ea560b6b75e5.json": {
+      "sha256": "84fb9fe471f093f505e358e91f24a4b2e809a8f388137321bfd41723a56a0088",
+      "crc32": "126a5db7"
+    },
+    "5e866944-84cc-4f7c-b953-d5e27f6965b4.json": {
+      "sha256": "2fb869db72b07ad8d8427f06749978fccdc9dc5a67d56cad9bb305e9a375fc49",
+      "crc32": "de52b90e"
+    },
+    "8304a091-8278-465e-bfef-0998cb0d5390.json": {
+      "sha256": "46b24a43642bea984ec67b406128c43f43704e92bbc0816f5ab9a6c71f1f9bc8",
+      "crc32": "46762bfe"
+    },
+    "0a076917f.json": {
+      "sha256": "c45d85f2dae0f009d5f1276e75fca9bf1335edef7cb597f40d761ae8cca153a9",
+      "crc32": "b8175323"
+    },
+    "07523d57c.json": {
+      "sha256": "fec3edad8650a2b1b5acf2b66502777b1172a0c9e22a57a14797e821ba1155fc",
+      "crc32": "2ecdc403"
+    },
+    "7870bd24-999b-439f-8664-2c20409a7b97.json": {
+      "sha256": "b118d4e9039f712c5b4064c0d6d8bd430c5a59af5bd9ad2a55ab49024c5586a0",
+      "crc32": "c9ecab8e"
+    },
+    "05fa1be58.json": {
+      "sha256": "0959366edf76c370eeef84674ac6511deeaddb6ea317a6fdeaa48d42c1fe8ffa",
+      "crc32": "7c4fa014"
+    },
+    "0c8cf564e.json": {
+      "sha256": "39fa7de16a9643f67c9da5f9bb2790f13c315ee4aa862815ebfda2dede6d52a3",
+      "crc32": "1faa54ae"
+    },
+    "08b58d04b.json": {
+      "sha256": "941dd1b208ae7feb602cff15474200019fd4aa58a692df4d8f321e9606b69c96",
+      "crc32": "f8864077"
+    },
+    "02c074c64.json": {
+      "sha256": "0d10c045b92e192520f11739d4ed2c5cc1e743b5c5fbf7792ab87b978d7e8ef0",
+      "crc32": "ec17bd06"
+    },
+    "0b371969f.json": {
+      "sha256": "5abbdc041c935537961e97feb45e9cce3db3df63ea9e3013540e72ef112b8abb",
+      "crc32": "5dd891fe"
+    },
+    "0fbcd5125.json": {
+      "sha256": "a9823bdb17d751c40e8b513f9cd6031273ab9d22eb5f31ce1994afde0a134312",
+      "crc32": "8a862d57"
+    },
+    "09b6c6a07.json": {
+      "sha256": "731f948b6989284540039cf7f401bc0e2462b06d19f22a11ac252fe218ad9ede",
+      "crc32": "22c18c8b"
+    },
+    "01cf14810.json": {
+      "sha256": "e87097727bbe673b3fd8f05c0bcb3dcc24b7bf729ee25a35d32b0a24d593e33f",
+      "crc32": "e15bb6f6"
+    },
+    "04a1a2a98.json": {
+      "sha256": "74a22af27508f1ef197ea0cee5b135e8698fbdb2428d903d2a76a8b23656a33f",
+      "crc32": "8b5bba26"
+    },
+    "0e544bf20.json": {
+      "sha256": "4f69e1ae08a922d3ab3c69d6b607683b76154b8d946a4b2f99a136474f576cd0",
+      "crc32": "fda1a230"
+    },
+    "78980039-60b2-4d58-9272-5d5bb8547918.json": {
+      "sha256": "3eb28e30f42641fcbede59f3bed4e9b17ad713784cec76f2fbc7c19fcc3c4579",
+      "crc32": "4ae2e454"
+    },
+    "856f6f95-aa1f-4500-95d6-d4c960cec189.json": {
+      "sha256": "caf4b1bb8cec7d6ff82003fe0efebdf1a06174b1cc38bf4c8400780830a5161c",
+      "crc32": "e7d81140"
+    },
+    "d075a284-69ad-46cb-a821-f2f5a2a51a22.json": {
+      "sha256": "35cc225dc0a21d211e3828dabd1822050eed10f4573bc72d6a98b989dd213ea4",
+      "crc32": "9647c81b"
+    },
+    "8023322a-cd4a-494a-b0c5-07bc68ec4976.json": {
+      "sha256": "484f5ace420edd8fba9d713cabda24bf62fe2013a7ddc44f187a2161fc4ac132",
+      "crc32": "27e98cdd"
+    },
+    "a0df88fa-c281-4e77-b695-07473132960f.json": {
+      "sha256": "e2422c2bebb67bb347433f637534634a42fb09da767cb7de2bf9d34a3980e41d",
+      "crc32": "d12d970b"
+    },
+    "469b380d-701b-4db4-aef3-0e9bebef574e.json": {
+      "sha256": "47bffbfe70337a51810ba6be7fe29543c0b3550f9cdcf9d1cbb6bcb4bcbb65e9",
+      "crc32": "e55d3ac5"
+    },
+    "ee978463-3477-405e-9cd0-2c4a8c5f0114.json": {
+      "sha256": "f8c58fe2a7c06f841c312d443e6746fb9d69ed2957af1890b21539baa3370746",
+      "crc32": "cd843aa5"
+    },
+    "a755c504-fcca-42df-bb4c-44c6ce971cd9.json": {
+      "sha256": "6772724ed8f4e092e2757c0d5f84d9d8993d458413101cc98b8c85bc2656cf47",
+      "crc32": "6690083e"
+    },
+    "6fb5ff5c-5c6d-4758-b434-0b522115703c.json": {
+      "sha256": "d84d50046fbb7628c921568dd2c7aa68fa0be1e037e84dc7eb8b9ccfd4a07f66",
+      "crc32": "a5e37f18"
+    },
+    "3937e321-9af4-49c4-acc1-6d752b309d9e.json": {
+      "sha256": "a3cc99e8c3203ca1b40003ab333c9c464cf5b9fdbbd35ad6991c12535104aa55",
+      "crc32": "4fc7aa5c"
+    },
+    "4863da02-3ca8-4e78-8e2b-fdb72d4efdc8.json": {
+      "sha256": "3b9e9e7469dd0a5299cdd8a73e252c7cab7fd3e44b5f8efa8f587ce72fddb622",
+      "crc32": "0421969f"
+    },
+    "323d05ba-9756-4c37-aebf-13fb13742835.json": {
+      "sha256": "cb218369382e7b5a2ad0b88352b11b39e72d6efa826357e7725ad68f42e36db8",
+      "crc32": "8bfaf661"
+    },
+    "099cf8798.json": {
+      "sha256": "cb70884ad090ce7f291bc14e8eb1a75143fd254ac29251c42b35460d86aa2da7",
+      "crc32": "4773ec66"
+    },
+    "0cfaf521a.json": {
+      "sha256": "deca4e81cb7d567c91ffd390992e3124060f39d0f6d1d851e4071d134067153c",
+      "crc32": "cea1f142"
+    },
+    "90133854-f8c0-4d1d-8d42-6ccd96855d26.json": {
+      "sha256": "ebdd1cdb1f44503917861aef2fed9d9eff8c141856217bcee3ab1dcc4dd86836",
+      "crc32": "5d48a100"
+    },
+    "0b359664b.json": {
+      "sha256": "7ba5d75d83569f15d51a7f36034502e081aeab7e22a79aec60870942e8a20b69",
+      "crc32": "deee2838"
+    },
+    "0edb1710f.json": {
+      "sha256": "855559a89708aedcad0e8cf767af69000fb98e3ec407d0f532ba42200ff72781",
+      "crc32": "293a06d8"
+    },
+    "08e9076b1.json": {
+      "sha256": "b2a61b2eabc17928d6937005bcb7827c3aaf7f0ca0a4062796c397254afdd224",
+      "crc32": "5bc1e422"
+    },
+    "0f73649ea.json": {
+      "sha256": "280fe7bdd0b9be225385ff0b95268d7ad24d5d52c3f6df1859c516ce79a44240",
+      "crc32": "7b3588bb"
+    }
+  },
+  "serverPlacementReferences": [
+    "${server_path}/submods/ioprotocol/config/map_editor/2/scene_placements.json"
+  ],
+  "originalInteractiveServerPlacementsRecovered": false,
+  "finding": "Packed ViewGrid JSON restores original scenery positions; editor scene_placements.json is an external server path, not this scenery table.",
+  "runtimeMutation": "Only suppress exact duplicate optional decor. Operator fences, bridges and NPC placements are preserved."
+}

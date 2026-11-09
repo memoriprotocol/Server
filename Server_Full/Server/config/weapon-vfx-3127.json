@@ -1,0 +1,1377 @@
+{
+  "client": "3.12.7",
+  "plans": {
+    "149": {
+      "handler": "CCWitchPotion",
+      "entityType": 103,
+      "skillType": 149,
+      "exampleID": 3143,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/nvwuyaoji/prefab/nvwuyaoji_final",
+          "pathIndex": 34745,
+          "import": "090b86c53"
+        }
+      ]
+    },
+    "166": {
+      "handler": "CCLeiShenChui",
+      "entityType": 119,
+      "skillType": 166,
+      "exampleID": 3044,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/thorhammer/prefab/hammer-001",
+          "pathIndex": 34843,
+          "import": "08085fa74"
+        }
+      ]
+    },
+    "154": {
+      "handler": "CCMiniBlackHole",
+      "entityType": 1016,
+      "skillType": 154,
+      "exampleID": 3146,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena_3d/blackHoleMini/main",
+          "pathIndex": 4979,
+          "import": "0256acd31"
+        }
+      ]
+    },
+    "386": {
+      "handler": "CCIcicle",
+      "entityType": 1041,
+      "skillType": 386,
+      "exampleID": 3194,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a01_1",
+          "pathIndex": 21401,
+          "import": "07ffbf937"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a01_2",
+          "pathIndex": 30621,
+          "import": "0c5d95c90"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a01_2_difang",
+          "pathIndex": 31614,
+          "import": "09b18ea2d"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a02_1",
+          "pathIndex": 48449,
+          "import": "7e25311c-23cc-44cd-97a0-ff97eecad0df"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a02_2",
+          "pathIndex": 50314,
+          "import": "a12dd9b6-94c6-403c-a0a5-96e439fa1b08"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a02_2_difang",
+          "pathIndex": 55358,
+          "import": "fc5f3be4-4f24-4dbc-b280-4caf0b202645"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a03_1",
+          "pathIndex": 45994,
+          "import": "5054ba4a-8929-4ad1-ab69-916e553f54d6"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a03_2",
+          "pathIndex": 45729,
+          "import": "4bd41db1-1ff2-4160-82a8-3b0bc8934a3e"
+        },
+        {
+          "path": "arena/skills/icicle/prefab/juyabingzhu_skill_a03_2_difang",
+          "pathIndex": 45663,
+          "import": "4ad9c82d-f9ec-41e8-9b7f-11a1f3e994a6"
+        }
+      ]
+    },
+    "426": {
+      "handler": "CCIcespearWind",
+      "entityType": 1065,
+      "skillType": 426,
+      "exampleID": 3213,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/fengshenzhanmao/prefab/fengshengzhanmao_skill_01_1",
+          "pathIndex": 7940,
+          "import": "03906d633"
+        },
+        {
+          "path": "arena/skills/fengshenzhanmao/prefab/fengshengzhanmao_skill_01_2",
+          "pathIndex": 20518,
+          "import": "0ddd7955c"
+        },
+        {
+          "path": "arena/skills/fengshenzhanmao/prefab/fengshengzhanmao_skill_01_3",
+          "pathIndex": 7525,
+          "import": "0a9a13085"
+        },
+        {
+          "path": "arena/skills/fengshenzhanmao/prefab/fengshengzhanmao_skill_02_1",
+          "pathIndex": 32125,
+          "import": "01946d069"
+        },
+        {
+          "path": "arena/skills/fengshenzhanmao/prefab/fengshengzhanmao_skill_02_2",
+          "pathIndex": 26675,
+          "import": "0226c8905"
+        },
+        {
+          "path": "arena/skills/fengshenzhanmao/prefab/fengshengzhanmao_skill_02_3",
+          "pathIndex": 7711,
+          "import": "0e5c454c7"
+        }
+      ]
+    },
+    "543": {
+      "handler": "CCPoisonDart",
+      "entityType": 1145,
+      "skillType": 543,
+      "exampleID": 3251,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/poison_dart_skill/prefab/dubiao_dazhao",
+          "pathIndex": 2701,
+          "import": "0e4ba4aba"
+        }
+      ]
+    },
+    "575": {
+      "handler": "CCCactusWeaponSkill",
+      "entityType": 1174,
+      "skillType": 575,
+      "exampleID": 3263,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/cactusSkill/prefab/cactusFly",
+          "pathIndex": 10805,
+          "import": "0f283d514"
+        }
+      ]
+    },
+    "590": {
+      "handler": "CCCrabClaws",
+      "entityType": 1180,
+      "skillType": 590,
+      "exampleID": 3268,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/crabClawsSkill/prefab/620100_skill_01_1",
+          "pathIndex": 25866,
+          "import": "0643b1c51"
+        }
+      ]
+    },
+    "665": {
+      "handler": "CCGuardianSwordSkill",
+      "entityType": 1244,
+      "skillType": 665,
+      "exampleID": 3278,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/620800/prefab/620800_skill_1_1",
+          "pathIndex": 39959,
+          "import": "060200df4"
+        },
+        {
+          "path": "arena/skills/620800/prefab/620800_skill_1_2",
+          "pathIndex": 19881,
+          "import": "083660e00"
+        },
+        {
+          "path": "arena/skills/620800/prefab/620800_skill_1_3",
+          "pathIndex": 32331,
+          "import": "0576307f5"
+        },
+        {
+          "path": "arena/skills/620800/prefab/620800_skill_2_1",
+          "pathIndex": 20315,
+          "import": "023fae8d1"
+        },
+        {
+          "path": "arena/skills/620800/prefab/620800_skill_2_2",
+          "pathIndex": 51258,
+          "import": "b1e798ad-875b-4786-9e7c-84b495e9ef70"
+        }
+      ]
+    },
+    "701": {
+      "handler": "CCChristmasTree",
+      "entityType": 1254,
+      "skillType": 701,
+      "exampleID": 3293,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/622000/prefab/christmasTree",
+          "pathIndex": 34714,
+          "import": "0bbe79847"
+        }
+      ]
+    },
+    "814": {
+      "handler": "CCFairylandLampSkill",
+      "entityType": 1414,
+      "skillType": 814,
+      "exampleID": 3326,
+      "verified": true,
+      "prefabs": [
+        {
+          "path": "arena/skills/622600/prefab/622600_skill_01",
+          "pathIndex": 49658,
+          "import": "94e7be89-c940-4720-b3f6-10547f90dce8"
+        }
+      ]
+    }
+  },
+  "coverage": [
+    {
+      "skillID": 3186,
+      "weaponID": 614600,
+      "skillType": 164
+    },
+    {
+      "skillID": 3184,
+      "weaponID": 613000,
+      "skillType": 161
+    },
+    {
+      "skillID": 3143,
+      "weaponID": 614500,
+      "skillType": 149
+    },
+    {
+      "skillID": 3185,
+      "weaponID": 611800,
+      "skillType": 163
+    },
+    {
+      "skillID": 3094,
+      "weaponID": 612000,
+      "skillType": 78
+    },
+    {
+      "skillID": 3037,
+      "weaponID": 610100,
+      "skillType": 109
+    },
+    {
+      "skillID": 3044,
+      "weaponID": 609800,
+      "skillType": 166
+    },
+    {
+      "skillID": 3150,
+      "weaponID": 610300,
+      "skillType": 86
+    },
+    {
+      "skillID": 3146,
+      "weaponID": 613600,
+      "skillType": 154
+    },
+    {
+      "skillID": 3104,
+      "weaponID": 609700,
+      "skillType": 145
+    },
+    {
+      "skillID": 3088,
+      "weaponID": 609900,
+      "skillType": 110
+    },
+    {
+      "skillID": 3093,
+      "weaponID": 614100,
+      "skillType": 126
+    },
+    {
+      "skillID": 3008,
+      "weaponID": 614800,
+      "skillType": 79
+    },
+    {
+      "skillID": 3144,
+      "weaponID": 611200,
+      "skillType": 305
+    },
+    {
+      "skillID": 3158,
+      "weaponID": 616200,
+      "skillType": 162
+    },
+    {
+      "skillID": 3159,
+      "weaponID": 616300,
+      "skillType": 157
+    },
+    {
+      "skillID": 3160,
+      "weaponID": 616400,
+      "skillType": 158
+    },
+    {
+      "skillID": 3161,
+      "weaponID": 616500,
+      "skillType": 165
+    },
+    {
+      "skillID": 3162,
+      "weaponID": 616600,
+      "skillType": 160
+    },
+    {
+      "skillID": 3163,
+      "weaponID": 616700,
+      "skillType": 148
+    },
+    {
+      "skillID": 3157,
+      "weaponID": 616900,
+      "skillType": 320
+    },
+    {
+      "skillID": 3189,
+      "weaponID": 617300,
+      "skillType": 379
+    },
+    {
+      "skillID": 3187,
+      "weaponID": 617400,
+      "skillType": 143
+    },
+    {
+      "skillID": 6174012,
+      "weaponID": 617401,
+      "skillType": 143
+    },
+    {
+      "skillID": 6174022,
+      "weaponID": 617402,
+      "skillType": 143
+    },
+    {
+      "skillID": 6174032,
+      "weaponID": 617403,
+      "skillType": 143
+    },
+    {
+      "skillID": 6174042,
+      "weaponID": 617404,
+      "skillType": 143
+    },
+    {
+      "skillID": 3194,
+      "weaponID": 617500,
+      "skillType": 386
+    },
+    {
+      "skillID": 3192,
+      "weaponID": 617700,
+      "skillType": 385
+    },
+    {
+      "skillID": 3198,
+      "weaponID": 617800,
+      "skillType": 390
+    },
+    {
+      "skillID": 6178012,
+      "weaponID": 617801,
+      "skillType": 390
+    },
+    {
+      "skillID": 6178022,
+      "weaponID": 617802,
+      "skillType": 390
+    },
+    {
+      "skillID": 6178032,
+      "weaponID": 617803,
+      "skillType": 390
+    },
+    {
+      "skillID": 6178042,
+      "weaponID": 617804,
+      "skillType": 390
+    },
+    {
+      "skillID": 3202,
+      "weaponID": 618000,
+      "skillType": 404
+    },
+    {
+      "skillID": 3204,
+      "weaponID": 618100,
+      "skillType": 408
+    },
+    {
+      "skillID": 6181012,
+      "weaponID": 618101,
+      "skillType": 408
+    },
+    {
+      "skillID": 6181022,
+      "weaponID": 618102,
+      "skillType": 408
+    },
+    {
+      "skillID": 6181032,
+      "weaponID": 618103,
+      "skillType": 408
+    },
+    {
+      "skillID": 6181042,
+      "weaponID": 618104,
+      "skillType": 408
+    },
+    {
+      "skillID": 6181502,
+      "weaponID": 618150,
+      "skillType": 408
+    },
+    {
+      "skillID": 3207,
+      "weaponID": 618200,
+      "skillType": 417
+    },
+    {
+      "skillID": 6182012,
+      "weaponID": 618201,
+      "skillType": 417
+    },
+    {
+      "skillID": 6182022,
+      "weaponID": 618202,
+      "skillType": 417
+    },
+    {
+      "skillID": 6182032,
+      "weaponID": 618203,
+      "skillType": 417
+    },
+    {
+      "skillID": 6182042,
+      "weaponID": 618204,
+      "skillType": 417
+    },
+    {
+      "skillID": 3210,
+      "weaponID": 618300,
+      "skillType": 423
+    },
+    {
+      "skillID": 6183012,
+      "weaponID": 618301,
+      "skillType": 423
+    },
+    {
+      "skillID": 6183022,
+      "weaponID": 618302,
+      "skillType": 423
+    },
+    {
+      "skillID": 6183032,
+      "weaponID": 618303,
+      "skillType": 423
+    },
+    {
+      "skillID": 6183042,
+      "weaponID": 618304,
+      "skillType": 423
+    },
+    {
+      "skillID": 6183502,
+      "weaponID": 618350,
+      "skillType": 423
+    },
+    {
+      "skillID": 3213,
+      "weaponID": 618400,
+      "skillType": 426
+    },
+    {
+      "skillID": 6184012,
+      "weaponID": 618401,
+      "skillType": 426
+    },
+    {
+      "skillID": 6184022,
+      "weaponID": 618402,
+      "skillType": 426
+    },
+    {
+      "skillID": 6184032,
+      "weaponID": 618403,
+      "skillType": 426
+    },
+    {
+      "skillID": 6184042,
+      "weaponID": 618404,
+      "skillType": 426
+    },
+    {
+      "skillID": 3216,
+      "weaponID": 618500,
+      "skillType": 436
+    },
+    {
+      "skillID": 6185012,
+      "weaponID": 618501,
+      "skillType": 436
+    },
+    {
+      "skillID": 6185022,
+      "weaponID": 618502,
+      "skillType": 436
+    },
+    {
+      "skillID": 6185032,
+      "weaponID": 618503,
+      "skillType": 436
+    },
+    {
+      "skillID": 6185042,
+      "weaponID": 618504,
+      "skillType": 436
+    },
+    {
+      "skillID": 3219,
+      "weaponID": 618600,
+      "skillType": 442
+    },
+    {
+      "skillID": 6186012,
+      "weaponID": 618601,
+      "skillType": 442
+    },
+    {
+      "skillID": 6186022,
+      "weaponID": 618602,
+      "skillType": 442
+    },
+    {
+      "skillID": 6186032,
+      "weaponID": 618603,
+      "skillType": 442
+    },
+    {
+      "skillID": 6186042,
+      "weaponID": 618604,
+      "skillType": 442
+    },
+    {
+      "skillID": 3222,
+      "weaponID": 618700,
+      "skillType": 461
+    },
+    {
+      "skillID": 6187012,
+      "weaponID": 618701,
+      "skillType": 461
+    },
+    {
+      "skillID": 6187022,
+      "weaponID": 618702,
+      "skillType": 461
+    },
+    {
+      "skillID": 6187032,
+      "weaponID": 618703,
+      "skillType": 461
+    },
+    {
+      "skillID": 6187042,
+      "weaponID": 618704,
+      "skillType": 461
+    },
+    {
+      "skillID": 6187502,
+      "weaponID": 618750,
+      "skillType": 461
+    },
+    {
+      "skillID": 3226,
+      "weaponID": 618800,
+      "skillType": 466
+    },
+    {
+      "skillID": 6188012,
+      "weaponID": 618801,
+      "skillType": 466
+    },
+    {
+      "skillID": 6188022,
+      "weaponID": 618802,
+      "skillType": 466
+    },
+    {
+      "skillID": 6188032,
+      "weaponID": 618803,
+      "skillType": 466
+    },
+    {
+      "skillID": 6188042,
+      "weaponID": 618804,
+      "skillType": 466
+    },
+    {
+      "skillID": 3230,
+      "weaponID": 618900,
+      "skillType": 472
+    },
+    {
+      "skillID": 6189012,
+      "weaponID": 618901,
+      "skillType": 472
+    },
+    {
+      "skillID": 6189022,
+      "weaponID": 618902,
+      "skillType": 472
+    },
+    {
+      "skillID": 6189032,
+      "weaponID": 618903,
+      "skillType": 472
+    },
+    {
+      "skillID": 6189042,
+      "weaponID": 618904,
+      "skillType": 472
+    },
+    {
+      "skillID": 6189502,
+      "weaponID": 618950,
+      "skillType": 472
+    },
+    {
+      "skillID": 3233,
+      "weaponID": 619100,
+      "skillType": 474
+    },
+    {
+      "skillID": 6191012,
+      "weaponID": 619101,
+      "skillType": 474
+    },
+    {
+      "skillID": 6191022,
+      "weaponID": 619102,
+      "skillType": 474
+    },
+    {
+      "skillID": 6191032,
+      "weaponID": 619103,
+      "skillType": 474
+    },
+    {
+      "skillID": 6191042,
+      "weaponID": 619104,
+      "skillType": 474
+    },
+    {
+      "skillID": 3236,
+      "weaponID": 619000,
+      "skillType": 478
+    },
+    {
+      "skillID": 6190012,
+      "weaponID": 619001,
+      "skillType": 478
+    },
+    {
+      "skillID": 6190022,
+      "weaponID": 619002,
+      "skillType": 478
+    },
+    {
+      "skillID": 6190032,
+      "weaponID": 619003,
+      "skillType": 478
+    },
+    {
+      "skillID": 6190042,
+      "weaponID": 619004,
+      "skillType": 478
+    },
+    {
+      "skillID": 3240,
+      "weaponID": 619300,
+      "skillType": 488
+    },
+    {
+      "skillID": 6193012,
+      "weaponID": 619301,
+      "skillType": 488
+    },
+    {
+      "skillID": 6193022,
+      "weaponID": 619302,
+      "skillType": 488
+    },
+    {
+      "skillID": 6193032,
+      "weaponID": 619303,
+      "skillType": 488
+    },
+    {
+      "skillID": 6193042,
+      "weaponID": 619304,
+      "skillType": 488
+    },
+    {
+      "skillID": 6193502,
+      "weaponID": 619350,
+      "skillType": 488
+    },
+    {
+      "skillID": 3244,
+      "weaponID": 619400,
+      "skillType": 526
+    },
+    {
+      "skillID": 6194012,
+      "weaponID": 619401,
+      "skillType": 526
+    },
+    {
+      "skillID": 6194022,
+      "weaponID": 619402,
+      "skillType": 526
+    },
+    {
+      "skillID": 6194032,
+      "weaponID": 619403,
+      "skillType": 526
+    },
+    {
+      "skillID": 6194042,
+      "weaponID": 619404,
+      "skillType": 526
+    },
+    {
+      "skillID": 3246,
+      "weaponID": 619500,
+      "skillType": 538
+    },
+    {
+      "skillID": 6195012,
+      "weaponID": 619501,
+      "skillType": 538
+    },
+    {
+      "skillID": 6195022,
+      "weaponID": 619502,
+      "skillType": 538
+    },
+    {
+      "skillID": 6195032,
+      "weaponID": 619503,
+      "skillType": 538
+    },
+    {
+      "skillID": 6195042,
+      "weaponID": 619504,
+      "skillType": 538
+    },
+    {
+      "skillID": 6195502,
+      "weaponID": 619550,
+      "skillType": 538
+    },
+    {
+      "skillID": 3249,
+      "weaponID": 619600,
+      "skillType": 541
+    },
+    {
+      "skillID": 3251,
+      "weaponID": 619700,
+      "skillType": 543
+    },
+    {
+      "skillID": 6197012,
+      "weaponID": 619701,
+      "skillType": 543
+    },
+    {
+      "skillID": 6197022,
+      "weaponID": 619702,
+      "skillType": 543
+    },
+    {
+      "skillID": 6197032,
+      "weaponID": 619703,
+      "skillType": 543
+    },
+    {
+      "skillID": 6197042,
+      "weaponID": 619704,
+      "skillType": 543
+    },
+    {
+      "skillID": 6197502,
+      "weaponID": 619750,
+      "skillType": 543
+    },
+    {
+      "skillID": 3254,
+      "weaponID": 619800,
+      "skillType": 548
+    },
+    {
+      "skillID": 6198012,
+      "weaponID": 619801,
+      "skillType": 548
+    },
+    {
+      "skillID": 6198022,
+      "weaponID": 619802,
+      "skillType": 548
+    },
+    {
+      "skillID": 6198032,
+      "weaponID": 619803,
+      "skillType": 548
+    },
+    {
+      "skillID": 6198042,
+      "weaponID": 619804,
+      "skillType": 548
+    },
+    {
+      "skillID": 3257,
+      "weaponID": 619900,
+      "skillType": 552
+    },
+    {
+      "skillID": 6199012,
+      "weaponID": 619901,
+      "skillType": 552
+    },
+    {
+      "skillID": 6199022,
+      "weaponID": 619902,
+      "skillType": 552
+    },
+    {
+      "skillID": 6199032,
+      "weaponID": 619903,
+      "skillType": 552
+    },
+    {
+      "skillID": 6199042,
+      "weaponID": 619904,
+      "skillType": 552
+    },
+    {
+      "skillID": 3260,
+      "weaponID": 620000,
+      "skillType": 561
+    },
+    {
+      "skillID": 6200012,
+      "weaponID": 620001,
+      "skillType": 561
+    },
+    {
+      "skillID": 6200022,
+      "weaponID": 620002,
+      "skillType": 561
+    },
+    {
+      "skillID": 6200032,
+      "weaponID": 620003,
+      "skillType": 561
+    },
+    {
+      "skillID": 6200042,
+      "weaponID": 620004,
+      "skillType": 561
+    },
+    {
+      "skillID": 6200502,
+      "weaponID": 620050,
+      "skillType": 561
+    },
+    {
+      "skillID": 3263,
+      "weaponID": 620200,
+      "skillType": 575
+    },
+    {
+      "skillID": 6202012,
+      "weaponID": 620201,
+      "skillType": 575
+    },
+    {
+      "skillID": 6202022,
+      "weaponID": 620202,
+      "skillType": 575
+    },
+    {
+      "skillID": 6202032,
+      "weaponID": 620203,
+      "skillType": 575
+    },
+    {
+      "skillID": 6202042,
+      "weaponID": 620204,
+      "skillType": 575
+    },
+    {
+      "skillID": 3266,
+      "weaponID": 620300,
+      "skillType": 587
+    },
+    {
+      "skillID": 6203012,
+      "weaponID": 620301,
+      "skillType": 587
+    },
+    {
+      "skillID": 6203022,
+      "weaponID": 620302,
+      "skillType": 587
+    },
+    {
+      "skillID": 6203032,
+      "weaponID": 620303,
+      "skillType": 587
+    },
+    {
+      "skillID": 6203042,
+      "weaponID": 620304,
+      "skillType": 587
+    },
+    {
+      "skillID": 3268,
+      "weaponID": 620100,
+      "skillType": 590
+    },
+    {
+      "skillID": 6201012,
+      "weaponID": 620101,
+      "skillType": 590
+    },
+    {
+      "skillID": 6201022,
+      "weaponID": 620102,
+      "skillType": 590
+    },
+    {
+      "skillID": 6201032,
+      "weaponID": 620103,
+      "skillType": 590
+    },
+    {
+      "skillID": 6201042,
+      "weaponID": 620104,
+      "skillType": 590
+    },
+    {
+      "skillID": 3270,
+      "weaponID": 620500,
+      "skillType": 604
+    },
+    {
+      "skillID": 6205012,
+      "weaponID": 620501,
+      "skillType": 604
+    },
+    {
+      "skillID": 6205022,
+      "weaponID": 620502,
+      "skillType": 604
+    },
+    {
+      "skillID": 6205032,
+      "weaponID": 620503,
+      "skillType": 604
+    },
+    {
+      "skillID": 6205042,
+      "weaponID": 620504,
+      "skillType": 604
+    },
+    {
+      "skillID": 3272,
+      "weaponID": 620900,
+      "skillType": 622
+    },
+    {
+      "skillID": 6209012,
+      "weaponID": 620901,
+      "skillType": 622
+    },
+    {
+      "skillID": 6209022,
+      "weaponID": 620902,
+      "skillType": 622
+    },
+    {
+      "skillID": 6209032,
+      "weaponID": 620903,
+      "skillType": 622
+    },
+    {
+      "skillID": 6209042,
+      "weaponID": 620904,
+      "skillType": 622
+    },
+    {
+      "skillID": 3274,
+      "weaponID": 621300,
+      "skillType": 650
+    },
+    {
+      "skillID": 3276,
+      "weaponID": 620400,
+      "skillType": 654
+    },
+    {
+      "skillID": 6204012,
+      "weaponID": 620401,
+      "skillType": 654
+    },
+    {
+      "skillID": 6204022,
+      "weaponID": 620402,
+      "skillType": 654
+    },
+    {
+      "skillID": 6204032,
+      "weaponID": 620403,
+      "skillType": 654
+    },
+    {
+      "skillID": 6204042,
+      "weaponID": 620404,
+      "skillType": 654
+    },
+    {
+      "skillID": 3278,
+      "weaponID": 620800,
+      "skillType": 665
+    },
+    {
+      "skillID": 6208012,
+      "weaponID": 620801,
+      "skillType": 665
+    },
+    {
+      "skillID": 6208022,
+      "weaponID": 620802,
+      "skillType": 665
+    },
+    {
+      "skillID": 6208032,
+      "weaponID": 620803,
+      "skillType": 665
+    },
+    {
+      "skillID": 6208042,
+      "weaponID": 620804,
+      "skillType": 665
+    },
+    {
+      "skillID": 3280,
+      "weaponID": 621100,
+      "skillType": 667
+    },
+    {
+      "skillID": 6211012,
+      "weaponID": 621101,
+      "skillType": 667
+    },
+    {
+      "skillID": 6211022,
+      "weaponID": 621102,
+      "skillType": 667
+    },
+    {
+      "skillID": 6211032,
+      "weaponID": 621103,
+      "skillType": 667
+    },
+    {
+      "skillID": 6211042,
+      "weaponID": 621104,
+      "skillType": 667
+    },
+    {
+      "skillID": 3282,
+      "weaponID": 620600,
+      "skillType": 674
+    },
+    {
+      "skillID": 6206012,
+      "weaponID": 620601,
+      "skillType": 674
+    },
+    {
+      "skillID": 6206022,
+      "weaponID": 620602,
+      "skillType": 674
+    },
+    {
+      "skillID": 6206032,
+      "weaponID": 620603,
+      "skillType": 674
+    },
+    {
+      "skillID": 6206042,
+      "weaponID": 620604,
+      "skillType": 674
+    },
+    {
+      "skillID": 3286,
+      "weaponID": 621800,
+      "skillType": 678
+    },
+    {
+      "skillID": 3289,
+      "weaponID": 621900,
+      "skillType": 697
+    },
+    {
+      "skillID": 6219012,
+      "weaponID": 621901,
+      "skillType": 697
+    },
+    {
+      "skillID": 6219022,
+      "weaponID": 621902,
+      "skillType": 697
+    },
+    {
+      "skillID": 6219032,
+      "weaponID": 621903,
+      "skillType": 697
+    },
+    {
+      "skillID": 6219042,
+      "weaponID": 621904,
+      "skillType": 697
+    },
+    {
+      "skillID": 3293,
+      "weaponID": 622000,
+      "skillType": 701
+    },
+    {
+      "skillID": 6220012,
+      "weaponID": 622001,
+      "skillType": 701
+    },
+    {
+      "skillID": 6220022,
+      "weaponID": 622002,
+      "skillType": 701
+    },
+    {
+      "skillID": 6220032,
+      "weaponID": 622003,
+      "skillType": 701
+    },
+    {
+      "skillID": 6220042,
+      "weaponID": 622004,
+      "skillType": 701
+    },
+    {
+      "skillID": 3295,
+      "weaponID": 621700,
+      "skillType": 724
+    },
+    {
+      "skillID": 6217012,
+      "weaponID": 621701,
+      "skillType": 724
+    },
+    {
+      "skillID": 6217022,
+      "weaponID": 621702,
+      "skillType": 724
+    },
+    {
+      "skillID": 6217032,
+      "weaponID": 621703,
+      "skillType": 724
+    },
+    {
+      "skillID": 6217042,
+      "weaponID": 621704,
+      "skillType": 724
+    },
+    {
+      "skillID": 3305,
+      "weaponID": 622300,
+      "skillType": 746
+    },
+    {
+      "skillID": 6223012,
+      "weaponID": 622301,
+      "skillType": 746
+    },
+    {
+      "skillID": 6223022,
+      "weaponID": 622302,
+      "skillType": 746
+    },
+    {
+      "skillID": 6223032,
+      "weaponID": 622303,
+      "skillType": 746
+    },
+    {
+      "skillID": 6223042,
+      "weaponID": 622304,
+      "skillType": 746
+    },
+    {
+      "skillID": 3308,
+      "weaponID": 622400,
+      "skillType": 761
+    },
+    {
+      "skillID": 6224012,
+      "weaponID": 622401,
+      "skillType": 761
+    },
+    {
+      "skillID": 6224022,
+      "weaponID": 622402,
+      "skillType": 761
+    },
+    {
+      "skillID": 6224032,
+      "weaponID": 622403,
+      "skillType": 761
+    },
+    {
+      "skillID": 6224042,
+      "weaponID": 622404,
+      "skillType": 761
+    },
+    {
+      "skillID": 3311,
+      "weaponID": 622500,
+      "skillType": 771
+    },
+    {
+      "skillID": 6225012,
+      "weaponID": 622501,
+      "skillType": 771
+    },
+    {
+      "skillID": 6225022,
+      "weaponID": 622502,
+      "skillType": 771
+    },
+    {
+      "skillID": 6225032,
+      "weaponID": 622503,
+      "skillType": 771
+    },
+    {
+      "skillID": 6225042,
+      "weaponID": 622504,
+      "skillType": 771
+    },
+    {
+      "skillID": 3319,
+      "weaponID": 622100,
+      "skillType": 801
+    },
+    {
+      "skillID": 6221012,
+      "weaponID": 622101,
+      "skillType": 801
+    },
+    {
+      "skillID": 6221022,
+      "weaponID": 622102,
+      "skillType": 801
+    },
+    {
+      "skillID": 6221032,
+      "weaponID": 622103,
+      "skillType": 801
+    },
+    {
+      "skillID": 6221042,
+      "weaponID": 622104,
+      "skillType": 801
+    },
+    {
+      "skillID": 3323,
+      "weaponID": 622200,
+      "skillType": 805
+    },
+    {
+      "skillID": 6222012,
+      "weaponID": 622201,
+      "skillType": 805
+    },
+    {
+      "skillID": 6222022,
+      "weaponID": 622202,
+      "skillType": 805
+    },
+    {
+      "skillID": 6222032,
+      "weaponID": 622203,
+      "skillType": 805
+    },
+    {
+      "skillID": 6222042,
+      "weaponID": 622204,
+      "skillType": 805
+    },
+    {
+      "skillID": 3326,
+      "weaponID": 622600,
+      "skillType": 814
+    },
+    {
+      "skillID": 6226012,
+      "weaponID": 622601,
+      "skillType": 814
+    },
+    {
+      "skillID": 6226022,
+      "weaponID": 622602,
+      "skillType": 814
+    },
+    {
+      "skillID": 6226032,
+      "weaponID": 622603,
+      "skillType": 814
+    },
+    {
+      "skillID": 6226042,
+      "weaponID": 622604,
+      "skillType": 814
+    }
+  ],
+  "method": "Native CCEntityOf registrations, actual userdata readers and CRC-verified original prefab imports. No later-client replacement models."
+}

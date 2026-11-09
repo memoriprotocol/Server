@@ -1,0 +1,184 @@
+{
+  "Jewel": [
+    {
+      "ID": 400201,
+      "Star": 1,
+      "Name": "一星万能宝石",
+      "Type": 8,
+      "Weight": 0,
+      "Describe": "右键使用，可与任意一星装备合成二星",
+      "Icon": "arena/ui/layers/item/icons/jewel/universal/spriteFrame"
+    },
+    {
+      "ID": 400202,
+      "Star": 2,
+      "Name": "二星万能宝石",
+      "Type": 8,
+      "Weight": 0,
+      "Describe": "右键使用，可与任意二星装备合成三星",
+      "Icon": "arena/ui/layers/item/icons/jewel/universal/spriteFrame"
+    },
+    {
+      "ID": 400203,
+      "Star": 3,
+      "Name": "三星万能宝石",
+      "Type": 8,
+      "Weight": 0,
+      "Describe": "右键使用，可与任意三星装备合成四星",
+      "Icon": "arena/ui/layers/item/icons/jewel/universal/spriteFrame"
+    },
+    {
+      "ID": 400204,
+      "Star": 4,
+      "Name": "四星万能宝石",
+      "Type": 8,
+      "Weight": 0,
+      "Describe": "右键使用，可与任意四星装备合成五星",
+      "Icon": "arena/ui/layers/item/icons/jewel/universal/spriteFrame"
+    },
+    {
+      "ID": 400401,
+      "Star": 1,
+      "Name": "一星衣服宝石",
+      "Type": 1,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意一星衣服合成二星",
+      "Icon": "arena/ui/layers/item/icons/jewel/clothes/spriteFrame"
+    },
+    {
+      "ID": 400402,
+      "Star": 2,
+      "Name": "二星衣服宝石",
+      "Type": 1,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意二星衣服合成三星",
+      "Icon": "arena/ui/layers/item/icons/jewel/clothes/spriteFrame"
+    },
+    {
+      "ID": 400403,
+      "Star": 3,
+      "Name": "三星衣服宝石",
+      "Type": 1,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意三星衣服合成四星",
+      "Icon": "arena/ui/layers/item/icons/jewel/clothes/spriteFrame"
+    },
+    {
+      "ID": 400404,
+      "Star": 4,
+      "Name": "四星衣服宝石",
+      "Type": 1,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意四星衣服合成五星",
+      "Icon": "arena/ui/layers/item/icons/jewel/clothes/spriteFrame"
+    },
+    {
+      "ID": 400501,
+      "Star": 1,
+      "Name": "一星鞋子宝石",
+      "Type": 3,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意一星鞋子合成二星",
+      "Icon": "arena/ui/layers/item/icons/jewel/shoes/spriteFrame"
+    },
+    {
+      "ID": 400502,
+      "Star": 2,
+      "Name": "二星鞋子宝石",
+      "Type": 3,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意二星鞋子合成三星",
+      "Icon": "arena/ui/layers/item/icons/jewel/shoes/spriteFrame"
+    },
+    {
+      "ID": 400503,
+      "Star": 3,
+      "Name": "三星鞋子宝石",
+      "Type": 3,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意三星鞋子合成四星",
+      "Icon": "arena/ui/layers/item/icons/jewel/shoes/spriteFrame"
+    },
+    {
+      "ID": 400504,
+      "Star": 4,
+      "Name": "四星鞋子宝石",
+      "Type": 3,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意四星鞋子合成五星",
+      "Icon": "arena/ui/layers/item/icons/jewel/shoes/spriteFrame"
+    },
+    {
+      "ID": 400701,
+      "Star": 1,
+      "Name": "一星项链宝石",
+      "Type": 5,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意一星项链合成二星",
+      "Icon": "arena/ui/layers/item/icons/jewel/necklace/spriteFrame"
+    },
+    {
+      "ID": 400702,
+      "Star": 2,
+      "Name": "二星项链宝石",
+      "Type": 5,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意二星项链合成三星",
+      "Icon": "arena/ui/layers/item/icons/jewel/necklace/spriteFrame"
+    },
+    {
+      "ID": 400703,
+      "Star": 3,
+      "Name": "三星项链宝石",
+      "Type": 5,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意三星项链合成四星",
+      "Icon": "arena/ui/layers/item/icons/jewel/necklace/spriteFrame"
+    },
+    {
+      "ID": 400704,
+      "Star": 4,
+      "Name": "四星项链宝石",
+      "Type": 5,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意四星项链合成五星",
+      "Icon": "arena/ui/layers/item/icons/jewel/necklace/spriteFrame"
+    },
+    {
+      "ID": 400901,
+      "Star": 1,
+      "Name": "一星戒指宝石",
+      "Type": 7,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意一星戒指合成二星",
+      "Icon": "arena/ui/layers/item/icons/jewel/ring/spriteFrame"
+    },
+    {
+      "ID": 400902,
+      "Star": 2,
+      "Name": "二星戒指宝石",
+      "Type": 7,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意二星戒指合成三星",
+      "Icon": "arena/ui/layers/item/icons/jewel/ring/spriteFrame"
+    },
+    {
+      "ID": 400903,
+      "Star": 3,
+      "Name": "三星戒指宝石",
+      "Type": 7,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意三星戒指合成四星",
+      "Icon": "arena/ui/layers/item/icons/jewel/ring/spriteFrame"
+    },
+    {
+      "ID": 400904,
+      "Star": 4,
+      "Name": "四星戒指宝石",
+      "Type": 7,
+      "Weight": 100,
+      "Describe": "右键使用，可与任意四星戒指合成五星",
+      "Icon": "arena/ui/layers/item/icons/jewel/ring/spriteFrame"
+    }
+  ]
+}

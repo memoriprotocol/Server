@@ -1,0 +1,1717 @@
+{
+  "client": "3.12.7 / 2024-02-22",
+  "heroes": 26,
+  "nativeSkillStarRows": 96,
+  "allHeroMechanicsComplete": false,
+  "note": "Native parameter enumeration and passing route tests DO NOT prove full mechanics. Earlier staged mechanics include reconstructed policies; consult their audits.",
+  "rows": [
+    {
+      "heroID": 1,
+      "name": "Spartan",
+      "nativeName": "斯巴达",
+      "skillIDs": [
+        6013
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6013,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 351,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Activate [Spartan Stance], dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) physical DMG every 1.5 sec to enemies nearby. Spartan Stance consumes ${cfg.args.physicalBurn} Stamina every 1.5 sec. It deactivates when Stamina is insufficient.",
+                "zh": "开启【斯巴达战阵】，每1.5秒对周围敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点物理伤害。每1.5秒消耗${cfg.args.physicalBurn}点体力，体力不足时解除【斯巴达战阵】。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 352,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Activate [Spartan Stance], dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) physical DMG every 1.5 sec to enemies nearby, stunning them for ${cfg.onHitEnemyBuffArgs.duration/1000}. Spartan Stance consumes ${cfg.args.physicalBurn} Stamina every 1.5 sec. It deactivates when Stamina is insufficient.",
+                "zh": "开启【斯巴达战阵】，每1.5秒对周围敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点物理伤害,并附加${cfg.onHitEnemyBuffArgs.duration/1000}秒短暂眩晕。每1.5秒消耗${cfg.args.physicalBurn}点体力，体力不足时解除【斯巴达战阵】。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 353,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Activate [Spartan Stance], gaining ${cfg.args.defence}% DMG Taken Reduction, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) physical DMG every 1.5 sec to enemies nearby, stunning them for ${cfg.onHitEnemyBuffArgs.duration/1000}. Spartan Stance consumes ${cfg.args.physicalBurn} Stamina every 1.5 sec. It deactivates when Stamina is insufficient.",
+                "zh": "开启【斯巴达战阵】，获得${cfg.args.defence}%伤害减免，每1.5秒对周围敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点物理伤害,并附加${cfg.onHitEnemyBuffArgs.duration/1000}秒短暂眩晕。每1.5秒消耗${cfg.args.physicalBurn}点体力，体力不足时解除【斯巴达战阵】。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 2,
+      "name": "Nun",
+      "nativeName": "修女",
+      "skillIDs": [
+        6006
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6006,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 312,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Regens ${cfg.HpShield} HP (${cfg.args.hpArgs}% of Nun's Max HP) per sec to allies within range for ${cfg.args.duration/1000}s. Passive: Healing effect of Nun's weapons and gears is improved by 50%",
+                "zh": "范围内友方每秒回复${cfg.HpShield}点生命值（${cfg.args.hpArgs}%修女最大生命值），持续${cfg.args.duration/1000}秒。被动：修女武器及装备造成的治疗效果增加50%"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 313,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Restores ${cfg.HpShield2} HP (${cfg.args.hpArgs2}% of Nun's Max HP) and regens ${cfg.HpShield} HP (${cfg.args.hpArgs}% of Nun's Max HP) per sec to allies within range for ${cfg.args.duration/1000}s. Passive: Healing effect of Nun's weapons and gears is improved by 50%",
+                "zh": "立即回复范围内友方${cfg.HpShield2}点生命值（${cfg.args.hpArgs2}%修女最大生命值），并在接下来的${cfg.args.duration/1000}秒内每秒回复${cfg.HpShield}点生命值（${cfg.args.hpArgs}%修女最大生命值）。被动：修女武器及装备造成的治疗效果增加50%"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 314,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Restores ${cfg.HpShield2} HP (${cfg.args.hpArgs2}% of Nun's Max HP), inflicts ${cfg.args.defence}% DMG Reduction, and regens ${cfg.HpShield} HP (${cfg.args.hpArgs}% of Nun's Max HP) per sec to allies within range for ${cfg.args.duration/1000}s. Passive: Healing effect of Nun's weapons and gears is improved by 50%",
+                "zh": "立即回复范围内友方${cfg.HpShield2}点生命值（${cfg.args.hpArgs2}%修女最大生命值），并在接下来的${cfg.args.duration/1000}秒获内获得${cfg.args.defence}%减伤效果，每秒回复${cfg.HpShield}点生命值（${cfg.args.hpArgs}%修女最大生命值）。被动：修女武器及装备造成的治疗效果增加50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 3,
+      "name": "Vampire",
+      "nativeName": "吸血鬼",
+      "skillIDs": [
+        6003
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6003,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 300,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: ${cfg.args.healRate}% Lifesteal\nBe immune to DMG within ${cfg.args.invincibleTime/1000}s, dealing ${cfg.AtkDamage}(${cfg.args.atkArgs}% ATK) DMG each sec to enemies within range[Deals 300% DMG to regular monsters.]",
+                "zh": "被动：额外拥有${cfg.args.healRate}%吸血\n在${cfg.args.invincibleTime/1000}秒内免疫伤害，每秒对范围内的敌人造成${cfg.AtkDamage}(${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 301,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: ${cfg.args.healRate}% Lifesteal\nBe immune to DMG within ${cfg.args.invincibleTime/1000}s, dealing ${cfg.AtkDamage}(${cfg.args.atkArgs}% ATK) DMG each sec to enemies within range[Deals 300% DMG to regular monsters.]",
+                "zh": "被动：额外拥有${cfg.args.healRate}%吸血\n在${cfg.args.invincibleTime/1000}秒内免疫伤害，每秒对范围内的敌人造成${cfg.AtkDamage}(${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 302,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: ${cfg.args.healRate}% Lifesteal\nBe immune to DMG within ${cfg.args.invincibleTime/1000}s, dealing ${cfg.AtkDamage}(${cfg.args.atkArgs}% ATK) DMG each sec to enemies within range[Deals 300% DMG to regular monsters.]",
+                "zh": "被动：额外拥有${cfg.args.healRate}%吸血\n在${cfg.args.invincibleTime/1000}秒内免疫伤害，每秒对范围内的敌人造成${cfg.AtkDamage}(${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 4,
+      "name": "Wizard",
+      "nativeName": "魔法师",
+      "skillIDs": [
+        6004
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6004,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 306,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Staff Weapon Skill CD -${cfg.args.cdArgs}%\nSummons a Blizzard that lasts for ${cfg.args.duration/1000}s, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG every 0.5 sec to enemies within range and also slowing down enemies by ${cfg.onHitEnemyBuffArgs.propValue}%",
+                "zh": "被动：法杖技能冷却缩减${cfg.args.cdArgs}%\n制造持续${cfg.args.duration/1000}秒的暴风雪，每0.5秒对范围内的敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，使敌人减速${cfg.onHitEnemyBuffArgs.propValue}%"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 307,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Staff Weapon Skill CD -${cfg.args.cdArgs}%\nSummons a Blizzard that lasts for ${cfg.args.duration/1000}s, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG every 0.5 sec to enemies within range and also slowing down enemies by ${cfg.onHitEnemyBuffArgs.propValue}%",
+                "zh": "被动：法杖技能冷却缩减${cfg.args.cdArgs}%\n制造持续${cfg.args.duration/1000}秒的暴风雪，每0.5秒对范围内的敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，使敌人减速${cfg.onHitEnemyBuffArgs.propValue}%"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 308,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Staff Weapon Skill CD -${cfg.args.cdArgs}%\nCreate a Blizzard that lasts for ${cfg.args.duration/1000}s, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG every 0.5 sec to enemies, slowing enemies by ${cfg.onHitEnemyBuffArgs.propValue}%, and appling a frost stack (froze enemy with ${cfg.args.freezeNum} stacks)",
+                "zh": "被动：法杖技能冷却缩减${cfg.args.cdArgs}%\n制造持续${cfg.args.duration/1000}秒的暴风雪，每0.5秒对范围内的敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，使敌人减速${cfg.onHitEnemyBuffArgs.propValue}%并添加一层冰冻层数，冰冻层数达到${cfg.args.freezeNum}层的玩家将被冻结"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 5,
+      "name": "Necromancer",
+      "nativeName": "亡灵术士",
+      "skillIDs": [
+        6007
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6007,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 315,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Necromancer summons an Imp to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up",
+                "zh": "亡灵术士从地狱召唤一只小型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 316,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Necromancer summons a Felfiend with [Lifesteal] to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up",
+                "zh": "亡灵术士从地狱召唤一只中型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔获得攻击吸血，持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 317,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Necromancer summons an Overfiend with [Lifesteal] and [Immune to Control] to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up",
+                "zh": "亡灵术士从地狱召唤一只大型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔获得控制免疫及攻击吸血，持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 6,
+      "name": "Paladin",
+      "nativeName": "圣骑士",
+      "skillIDs": [
+        6005
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6005,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 309,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Provides a ${cfg.HpShield} (${cfg.args.hpArgs}% of Max HP) Shield for friendly units nearby, lasting ${cfg.args.duration/1000} seconds",
+                "zh": "为自身周围的己方单位提供一个${cfg.HpShield}(${cfg.args.hpArgs}%最大生命值)的护盾，护盾持续${cfg.args.duration/1000}秒"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 310,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Removes most CC and Debuff Effects on friendly units nearby. Provides a ${cfg.HpShield} (${cfg.args.hpArgs}% of Max HP) Shield for them, lasting ${cfg.args.duration/1000} seconds",
+                "zh": "为自身周围的己方单位解除其身上控制及绝大部分负面效果，并提供一个${cfg.HpShield}(${cfg.args.hpArgs}%最大生命值)的护盾，护盾持续${cfg.args.duration/1000}秒"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 311,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Becomes invincible for ${cfg.args.duration/1000} seconds. Remove most CC and Debuff Effects on friendly units nearby. Provides a ${cfg.HpShield} (${cfg.args.hpArgs}% of Max HP) Shield for them, lasting ${cfg.args.duration/1000} seconds",
+                "zh": "自身获得持续${cfg.args.duration/1000}秒的无敌效果，为自身周围的友方单位解除其身上控制及绝大部分负面效果，并提供一个${cfg.HpShield}(${cfg.args.hpArgs}%最大生命值)的护盾，护盾持续${cfg.args.duration/1000}秒【无敌：不受伤害】"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 7,
+      "name": "Mummy",
+      "nativeName": "木乃伊",
+      "skillIDs": [
+        6009,
+        6023
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6009,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 336,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Release ${cfg.args.num} explosive scarabs. Each scarab deals ${cfg.args.damage/100} DMG. Release an extra scarab for every 1000 Max HP Mummy has.",
+                "zh": "向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害。每有1000最大生命值，可额外释放1只圣甲虫。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 337,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Release ${cfg.args.num} explosive scarabs. Each scarab deals ${cfg.args.damage/100} DMG, restoring ${cfg.DamageHealth} HP for Mummy. Release an extra scarab for every 1000 Max HP Mummy has.",
+                "zh": "向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害，并为木乃伊提供${cfg.DamageHealth}点生命回复。每有1000最大生命值，可额外释放1只圣甲虫。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 338,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Release ${cfg.args.num} explosive scarabs. Each scarab deals ${cfg.args.damage/100} DMG, restoring ${cfg.DamageHealth} HP for Mummy. Release an extra scarab for every 1000 Max HP Mummy has. Passive: Automatically release a scarab when taking damage; Cooldown ${cfg.args.passiveCD/1000} seconds.",
+                "zh": "向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害，并为木乃伊提供${cfg.DamageHealth}点生命回复。每有1000最大生命值，可额外释放1只圣甲虫。被动：被攻击时自动释放一只圣甲虫，冷却${cfg.args.passiveCD/1000}秒。"
+              }
+            }
+          ]
+        },
+        {
+          "skillID": 6023,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 413,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 414,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 415,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 8,
+      "name": "Druid",
+      "nativeName": "德鲁伊",
+      "skillIDs": [
+        6008
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6008,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 324,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Time under enemy's Crowd Control -${cfg.args.druidCtrlReduce}%\nDruid grows in size for ${cfg.args.duration/1000}s, with base Max HP +${cfg.args.hpArgs}%, SPD +${cfg.args.speedArgs}",
+                "zh": "被动：所受控制效果时间减少${cfg.args.druidCtrlReduce}%\n德鲁伊体型变大，获得额外${cfg.args.hpArgs}%基础最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 325,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Time under enemy's Crowd Control -${cfg.args.druidCtrlReduce}%\nDruid grows in size for ${cfg.args.duration/1000}s, with base Max HP +${cfg.args.hpArgs}%, SPD +${cfg.args.speedArgs}",
+                "zh": "被动：所受控制效果时间减少${cfg.args.druidCtrlReduce}%\n德鲁伊体型变大，获得额外${cfg.args.hpArgs}%基础最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 326,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Time under enemy's Crowd Control -${cfg.args.druidCtrlReduce}%\nDruid grows in size for ${cfg.args.duration/1000}s, with base Max HP +${cfg.args.hpArgs}%, SPD +${cfg.args.speedArgs}",
+                "zh": "被动：所受控制效果时间减少${cfg.args.druidCtrlReduce}%\n德鲁伊体型变大，获得额外${cfg.args.hpArgs}%基础最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 9,
+      "name": "Treant",
+      "nativeName": "树人",
+      "skillIDs": [
+        6010,
+        6028
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6010,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 340,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\nShoots spikes outwards, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG.",
+                "zh": "被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\n向前方释放尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 341,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\nShoots spikes outwards, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG, and applying a ${cfg.args.duration/1000}s Root effect to enemies [Root: Can’t move].",
+                "zh": "被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\n向前方释放尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,并对敌人施加${cfg.args.duration/1000}秒的束缚状态【束缚：无法移动】"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 342,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\nShoots spikes outwards two times, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG, and applying a ${cfg.args.duration/1000}s Root effect to enemies [Root: Can’t move].",
+                "zh": "被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\n向前方释放两次尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,并对敌人施加${cfg.args.duration/1000}秒的束缚状态【束缚：无法移动】"
+              }
+            }
+          ]
+        },
+        {
+          "skillID": 6028,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 490,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 491,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 492,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 10,
+      "name": "King",
+      "nativeName": "国王",
+      "skillIDs": [
+        6011
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6011,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 343,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds. Royal legion's stats grow as King levels up.",
+                "zh": "国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒（皇家军团的等级与国王的等级相关）"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 344,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. Royal legion's stats grow as King levels up.",
+                "zh": "国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒。脱战时皇家军团每秒恢复${cfg.args.healRate}%血量。（皇家军团的等级与国王的等级相关）"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 345,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. King gains ${cfg.args.defence}% DMG Reduction for each soldier on the field. Royal legion's stats grow as King levels up.",
+                "zh": "国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒。脱战时皇家军团每秒恢复${cfg.args.healRate}%血量。每有一名士兵在场上时，国王获得${cfg.args.defence}%减伤。（皇家军团的等级与国王的等级相关）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 11,
+      "name": "Witch",
+      "nativeName": "女巫",
+      "skillIDs": [
+        6012
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6012,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 346,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Witch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG.",
+                "zh": "女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 347,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Witch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG and applying [Poisoning]. [Poisoning: Deals ${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}% ATK) Poison DMG and loses STA every sec]",
+                "zh": "女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害，并施加【中毒】效果。【中毒：每秒造成${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}%攻击力）点毒属性伤害并扣除${cfg.onHitEnemyBuffArgs.propValue}点体力】"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 348,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: For each Poison weapon equipped, ATK increases by +10%\nWitch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG and applying [Poisoning]. [Poisoning: Deals ${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}% ATK) Poison DMG and loses STA every sec]",
+                "zh": "被动：武器栏每装备一把毒属性武器，攻击力增加10%\n女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害，并施加【中毒】效果。【中毒：每秒造成${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}%攻击力）点毒属性伤害并扣除${cfg.onHitEnemyBuffArgs.propValue}点体力】"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 12,
+      "name": "Ninja",
+      "nativeName": "忍者",
+      "skillIDs": [
+        6014
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6014,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 354,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: SKL CD -${cfg.args.heroSkillCD}% after killing a Hero\nNinja blinks forward for a short distance and throws ${cfg.args.num} shurikens, each dealing ${cfg.TotalDamage} (${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) DMG on hit",
+                "zh": "被动：击杀英雄后英雄、武器技能冷却缩减${cfg.args.heroSkillCD}%\n忍者向前方瞬移一小段距离，向四周释放${cfg.args.num}个飞镖，每个飞镖对敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 355,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: SKL CD -${cfg.args.heroSkillCD}% after killing a Hero\nNinja blinks forward for a distance and throws ${cfg.args.num} shurikens, each dealing {cfg.TotalDamage} (${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) DMG on hit. Each hit restores ${cfg.args.hpArgs}% of your Max HP",
+                "zh": "被动：击杀英雄后英雄、武器技能冷却缩减${cfg.args.heroSkillCD}%\n忍者向前方瞬移一段距离，向四周释放${cfg.args.num}个飞镖，每个飞镖对敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,飞镖每造成一次伤害恢复自身最大生命值${cfg.args.hpArgs}%的血量"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 356,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: SKL CD -${cfg.args.heroSkillCD}% after killing a Hero\nNinja blinks forward for a large distance and throws ${cfg.args.num} shurikens, each dealing ${cfg.TotalDamage}(${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) DMG on hit. Each hit restores ${cfg.args.hpArgs}% of your Max HP and inflicts ${cfg.onHitEnemyBuffArgs.propValue}% enemy slowdown for ${cfg.onHitEnemyBuffArgs.duration/1000}s",
+                "zh": "被动：击杀英雄后英雄、武器技能冷却缩减${cfg.args.heroSkillCD}%\n忍者向前方瞬移一大段距离，向四周释放${cfg.args.num}个飞镖，每个飞镖对敌人造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,飞镖每造成一次伤害恢复自身最大生命值${cfg.args.hpArgs}%的血量，并对敌人造成${cfg.onHitEnemyBuffArgs.propValue}%的减速，持续${cfg.onHitEnemyBuffArgs.duration/1000}秒"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 13,
+      "name": "Bard",
+      "nativeName": "吟游诗人",
+      "skillIDs": [
+        6015,
+        6032
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6015,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 364,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: +${cfg.args.attackArgs}% to ally heroes nearby\nBard's ${cfg.args.duration/1000}-sec performance regens ${cfg.args.hpArgs}% Max HP per sec and +${cfg.args.speedArgs} SPD for allies nearby",
+                "zh": "被动：周围友方英雄攻击力提升${cfg.args.attackArgs}%\n吟游诗人开始演奏，每秒回复友方${cfg.args.hpArgs}%最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 365,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: +${cfg.args.attackArgs}% to ally heroes nearby\nBard's ${cfg.args.duration/1000}-sec performance regens ${cfg.args.hpArgs}% Max HP per sec and +${cfg.args.speedArgs} SPD for allies nearby",
+                "zh": "被动：周围友方英雄攻击力提升${cfg.args.attackArgs}%\n吟游诗人开始演奏，每秒回复友方${cfg.args.hpArgs}%最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 366,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: +${cfg.args.attackArgs}% to ally heroes nearby\nBard's ${cfg.args.duration/1000}-sec performance applies [Dance] to enemy heroes nearby for ${cfg.onHitEnemyBuffArgs.duration/1000} seconds. It also regens ${cfg.args.hpArgs}% Max HP per sec and +${cfg.args.speedArgs} SPD for allies nearby. [Dance: Unable to attack or cast skills]",
+                "zh": "被动：周围友方英雄攻击力提升${cfg.args.attackArgs}%\n吟游诗人开始演奏，使范围内敌方英雄【跳舞】${cfg.onHitEnemyBuffArgs.duration/1000}秒，每秒回复友方${cfg.args.hpArgs}%最大生命值和${cfg.args.speedArgs}点移速，持续${cfg.args.duration/1000}秒。【跳舞：可以移动，但不能攻击和释放技能】"
+              }
+            }
+          ]
+        },
+        {
+          "skillID": 6032,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 663,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 663,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 663,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 15,
+      "name": "Rabbit Ranger",
+      "nativeName": "兔耳游侠",
+      "skillIDs": [
+        6017
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Native two charges, timed speed2000/dodge200, buffs317/602/346/482; star2/3 per-second PvE aura. Native star3 SpeedGrowth already present, not added twice.",
+      "remaining": [
+        "Authoritative unit-collision and PvP behavior require validation; static walls remain solid.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6017,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 372,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Increases SPD to Max, Dodge +${cfg.args.missArgs}, and ignores unit collision for ${cfg.args.duration/1000} seconds. Stores up to 2 attempts",
+                "zh": "召唤雷电覆盖身体，获得${cfg.args.missArgs}闪避，提升移速至上限且无视碰撞，持续${cfg.args.duration/1000}秒。技能可储存2次"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 373,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Increases SPD to Max, Dodge +${cfg.args.missArgs}, ignores unit collision, and deals ${cfg.TotalDamage} DMG (${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) to enemies nearby for ${cfg.args.duration/1000} seconds. Stores up to 2 attempts",
+                "zh": "召唤雷电覆盖身体，获得${cfg.args.missArgs}闪避，提升移速至上限且无视碰撞，对周围目标造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，持续${cfg.args.duration/1000}秒。技能可储存2次"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 374,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Gain +1 Bonus SPD for each level up\nIncreases SPD to Max, Dodge +${cfg.args.missArgs}, ignores unit collision, and deals ${cfg.TotalDamage} DMG (${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) to enemies nearby for ${cfg.args.duration/1000} seconds. Stores up to 2 attempts",
+                "zh": "被动：每提升1级获得1点移速加成\n召唤雷电覆盖身体，获得${cfg.args.missArgs}闪避，提升移速至上限且无视碰撞，对周围目标造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，持续${cfg.args.duration/1000}秒。技能可储存2次"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 17,
+      "name": "Maid",
+      "nativeName": "厨娘",
+      "skillIDs": [
+        6019
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6019,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 375,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Base GTH +100 Make ${cfg.args.num} delicacies. Eat to gain ${cfg.HpShield} HP and ${cfg.HpShield} Shield (${cfg.args.hpArgs}% of Maid's Max HP) for 80s",
+                "zh": "被动：基础采集+100\n制作${cfg.args.num}道美食，食用后立即恢复${cfg.HpShield}点血量（${cfg.args.hpArgs}%厨娘最大生命值）并获得等量护盾值，效果持续80秒。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 376,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Base GTH +100 Make ${cfg.args.num} delicacies. Eat to gain ${cfg.HpShield} HP, ${cfg.HpShield} Shield (${cfg.args.hpArgs}% of Maid's Max HP), and +80 ATK for 80s",
+                "zh": "被动：基础采集+100\n制作${cfg.args.num}道美食，食用后立即恢复${cfg.HpShield}点血量（${cfg.args.hpArgs}%厨娘最大生命值）并获得等量护盾值，提升80点攻击力，效果持续80秒。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 377,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Base GTH +100 Make ${cfg.args.num} delicacies. Eat to gain ${cfg.HpShield} HP, ${cfg.HpShield} Shield (${cfg.args.hpArgs}% of Maid's Max HP), +80 ATK, and +100 SPD for 80s",
+                "zh": "被动：基础采集+100\n制作${cfg.args.num}道美食，食用后立即恢复${cfg.HpShield}点血量（${cfg.args.hpArgs}%厨娘最大生命值）并获得等量护盾值，提升80点攻击力和100点速度，效果持续80秒。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 19,
+      "name": "Slime",
+      "nativeName": "史莱姆",
+      "skillIDs": [
+        6020,
+        6021
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6020,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 397,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Slime morphs into the nearest resource or monster (BOSS not included). When Slime breaks her disguise, she casts a pool of goo for ${cfg.duration/1000}s, dealing ${cfg.TotalDamage} DMG (${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) per second. Recovers ${cfg.args.hpArgs}% HP if forced to un-morph due to DMG Taken",
+                "zh": "幻变成为附近的资源或普通怪物。史莱姆打破变身状态时，不断向四周释放粘液，每秒造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，持续${cfg.duration/1000}秒。受到伤害导致变身解除时，额外恢复${cfg.args.hpArgs}%血量"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 398,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Slime morphs into the nearest resource or monster (BOSS not included). When Slime breaks her disguise, she casts a pool of goo for ${cfg.duration/1000}s, dealing ${cfg.TotalDamage} DMG (${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) per second (Affected enemies -25% SPD). Recovers ${cfg.args.hpArgs}% HP if forced to un-morph due to DMG Taken",
+                "zh": "幻变成为附近的资源或普通怪物。史莱姆打破变身状态时，不断向四周释放粘液，每秒造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，持续${cfg.duration/1000}秒（同时造成25%减速效果）。受到伤害导致变身解除时，额外恢复${cfg.args.hpArgs}%血量"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 399,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Slime morphs into the nearest resource or monster (BOSS not included). When Slime breaks her disguise, she inflicts 1.5s [Chaos] to enemies nearby and casts a pool of goo for ${cfg.duration/1000}s, dealing ${cfg.TotalDamage} DMG (${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) per second (Affected enemies -35% SPD). Recovers ${cfg.args.hpArgs}% HP if forced to un-morph due to DMG Taken",
+                "zh": "幻变成为附近的资源或普通怪物。史莱姆打破变身状态时，向周围施加1.5秒混乱效果并不断向四周释放粘液，每秒造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害，持续${cfg.duration/1000}秒（同时造成35%减速效果）。受到伤害导致变身解除时，额外恢复${cfg.args.hpArgs}%血量"
+              }
+            }
+          ]
+        },
+        {
+          "skillID": 6021,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 400,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 401,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 402,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 20,
+      "name": "Little Devil",
+      "nativeName": "小恶魔",
+      "skillIDs": [
+        6022
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Fire bonus5/10/15%; native fire RES100 retained once; delayed1500ms meteor1055; four burn297 pulses; stun298 stars2/3; silence302 star3.",
+      "remaining": [
+        "PvP meteor and original Windows rendered animations not validated; snapshot/pulse-edge mitigation policies remain reconstructed.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6022,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 410,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Fire DMG +${cfg.args.fireIncrDmg}%, Fire RES +100\nSummons a small meteor. After 1.5s, the meteor hits the ground, dealing ${cfg.TotalDamage} (${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) AoE DMG. Inflicts ${cfg.BuffDamage1} (${cfg.onHitEnemyBuffArgs.propValue}% ATK) DMG per second to affected enemies for 4s.",
+                "zh": "被动：火属性伤害+${cfg.args.fireIncrDmg}%、火抗+100\n召唤一颗小型天外陨石，1.5秒后陨石击中地面造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点爆炸伤害，同时对目标施加每秒${cfg.BuffDamage1}(${cfg.onHitEnemyBuffArgs.propValue}%攻击力）点伤害，持续4秒。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 411,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Fire DMG +${cfg.args.fireIncrDmg}%, Fire RES +100\nSummons a medium meteor. After 1.5s, the meteor hits the ground, dealing ${cfg.TotalDamage} (${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) AoE DMG, stunning enemies for 1s. Inflicts ${cfg.BuffDamage1} (${cfg.onHitEnemyBuffArgs.propValue}% ATK) DMG per second to affected enemies for 4s.",
+                "zh": "被动：火属性伤害+${cfg.args.fireIncrDmg}%、火抗+100\n召唤一颗中型天外陨石，1.5秒后陨石击中地面造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点爆炸伤害，附加1秒眩晕。同时对目标施加每秒${cfg.BuffDamage1}(${cfg.onHitEnemyBuffArgs.propValue}%攻击力）点伤害，持续4秒。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 412,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Fire DMG +${cfg.args.fireIncrDmg}%, Fire RES +100\nSummons a large meteor. After 1.5s, the meteor hits the ground, dealing ${cfg.TotalDamage} (${cfg.args.damage/100} + ${cfg.args.atkArgs}% ATK) AoE DMG, stunning enemies for 1s. Inflicts ${cfg.BuffDamage1} (${cfg.onHitEnemyBuffArgs.propValue}% ATK) DMG per second and [Silence] to affected enemies for 4s. [Silence: Cannot cast active skills]",
+                "zh": "被动：火属性伤害+${cfg.args.fireIncrDmg}%、火抗+100\n召唤一颗大型天外陨石，1.5秒后陨石击中地面造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点爆炸伤害，附加1秒眩晕。同时对目标施加每秒${cfg.BuffDamage1}(${cfg.onHitEnemyBuffArgs.propValue}%攻击力）点伤害和【沉默】，持续4秒。【沉默：不能释放主动技能】"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 21,
+      "name": "Bomber",
+      "nativeName": "炸弹人",
+      "skillIDs": [
+        6024,
+        6025
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Native weapon CD reduction from buff343 at stars2/3: 3/6%.",
+      "remaining": [
+        "Weapon-cast bomb with native2s trigger, AoE and star3 stun still missing.",
+        "Death bomb volley and3-second native revival/cooldown still missing.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6024,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 450,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Throws a bomb (2S CD) at the nearest enemy whenever he casts an active weapon skill, dealing ${cfg.TotalDamage} AoE DMG (${cfg.args.atkArgs}% ATK). When being defeated, throws multiple bombs around, and revives with 20% Max HP 3s later [Revive Cooldown: 30 minutes]",
+                "zh": "被动技能：释放武器技能时自动向附近敌人投掷炸弹（2秒冷却），造成${cfg.TotalDamage}(${cfg.args.atkArgs}%攻击力)点伤害。阵亡时向周围抛洒大量炸弹，3秒后原地复活并回复20%最大血量，冷却时间30分钟。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 451,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Reduces the cooldown of active weapon skills by ${cfg.args.initSelfBuffArgs[1].propValue}%; Throws a bomb (2S CD) at the nearest enemy whenever he casts an active weapon skill, dealing ${cfg.TotalDamage} AoE DMG (${cfg.args.atkArgs}% ATK). When being defeated, throws multiple bombs around, and revives with 40% Max HP 3s later [Revive Cooldown: 30 minutes]",
+                "zh": "被动技能：缩短${cfg.args.initSelfBuffArgs[1].propValue}%武器技能冷却时间，释放武器技能时自动向附近敌人投掷炸弹（2秒冷却），造成${cfg.TotalDamage}(${cfg.args.atkArgs}%攻击力)点伤害。阵亡时向周围抛洒大量炸弹，3秒后原地复活并回复40%最大血量，冷却时间30分钟。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 452,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Reduces the cooldown of active weapon skills by ${cfg.args.initSelfBuffArgs[1].propValue}%; Throws a bomb (2S CD) at the nearest enemy whenever he casts an active weapon skill, dealing ${cfg.TotalDamage} AoE DMG (${cfg.args.atkArgs}% ATK), stunning them for 0.3s. When being defeated, throws multiple bombs around, and revives with 60% Max HP 3s later [Revive Cooldown: 30 minutes]",
+                "zh": "被动技能：缩短${cfg.args.initSelfBuffArgs[1].propValue}%武器技能冷却时间，释放武器技能时自动向附近敌人投掷炸弹（2秒冷却），造成${cfg.TotalDamage}(${cfg.args.atkArgs}%攻击力)点伤害和0.3s眩晕。阵亡时向周围抛洒大量炸弹，3秒后原地复活并回复60%最大血量，冷却时间30分钟。"
+              }
+            }
+          ]
+        },
+        {
+          "skillID": 6025,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 453,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 454,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 455,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 22,
+      "name": "Werewolf",
+      "nativeName": "狼人",
+      "skillIDs": [
+        6026
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6026,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 481,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Shift between a humanoid and a beast. HP bars of the two forms are independent. Dies if one form reaches 0 HP.\nBEAST: + ${cfg.args.hpArgs}% Max HP and + ${cfg.args.speedArgs} Bonus SPD. Unable to cast weapon active skills. Basic attacks evolve into bites, dealing ${cfg.TotalDamage} DMG (${cfg.args.damage/100} + ${cfg.args.atkArgs}%ATK)",
+                "zh": "可以在人形态和狼形态之间切换。两个状态都拥有独立血量，任意状态血量为0都会死亡\n狼形态：额外拥有${cfg.args.hpArgs}%生命值和${cfg.args.speedArgs}点移速。不可使用武器主动技能，普攻进化为撕咬，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 482,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Shift between a humanoid and a beast. HP bars of the two forms are independent. Dies if one form reaches 0 HP.\nBEAST: + ${cfg.args.hpArgs}% Max HP and + ${cfg.args.speedArgs} Bonus SPD. Unable to cast weapon active skills. Basic attacks evolve into bites, dealing ${cfg.TotalDamage} DMG (${cfg.args.damage/100} + ${cfg.args.atkArgs}%ATK)",
+                "zh": "可以在人形态和狼形态之间切换。两个状态都拥有独立血量，任意状态血量为0都会死亡\n狼形态：额外拥有${cfg.args.hpArgs}%生命值和${cfg.args.speedArgs}点移速。不可使用武器主动技能，普攻进化为撕咬，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 483,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Shift between a humanoid and a beast. HP bars of the two forms are independent. Dies if one form reaches 0 HP.\nHUMANOID: Able to cast weapon skills\nBEAST: + ${cfg.args.hpArgs}% Max HP, + ${cfg.args.speedArgs} Bonus SPD, and ${cfg.args.healRate}% [Lifesteal]. Unable to cast weapon active skills. Basic attacks evolve into bites, dealing ${cfg.TotalDamage} DMG (${cfg.args.damage/100} + ${cfg.args.atkArgs}%ATK)",
+                "zh": "可以在人形态和狼形态之间切换。两个状态都拥有独立血量，任意状态血量为0都会死亡\n狼形态：额外拥有${cfg.args.hpArgs}%生命值、${cfg.args.speedArgs}点移速、${cfg.args.healRate}%吸血。不可使用武器主动技能，普攻进化为撕咬，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 23,
+      "name": "Chicken",
+      "nativeName": "咕咕",
+      "skillIDs": [
+        6029
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6029,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 534,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: When using a bow, Basic Attack Range +100, DMG +5%\nActivate [Chicken Run] to become immune to DMG and Control, gaining +${cfg.args.speedUp} bonus SPD, but cannot attack or cast spells for ${cfg.args.duration/1000}s.",
+                "zh": "被动：使用弓箭类武器时，普通攻击射程+100，伤害提升5%\n变身咕咕鸡，解除自身控制和绝大部分负面效果，获得${cfg.args.speedUp}额外移速并进入无敌状态，变身状态不可攻击，持续${cfg.args.duration/1000}秒"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 535,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: When using a bow, Basic Attack Range +150, DMG +6%\nActivate [Chicken Run] to become immune to DMG and Control, gaining +${cfg.args.speedUp} bonus SPD, but cannot attack or cast spells for ${cfg.args.duration/1000}s.",
+                "zh": "被动：使用弓箭类武器时，普通攻击射程+150，伤害提升10%\n变身咕咕鸡，解除自身控制和绝大部分负面效果，获得${cfg.args.speedUp}额外移速并进入无敌状态，变身状态不可攻击，持续${cfg.args.duration/1000}秒"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 536,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: When using a bow, Basic Attack Range +200, DMG +10%\nActivate [Chicken Run] to become immune to DMG and Control, gaining +${cfg.args.speedUp} bonus SPD, but cannot attack or cast spells for ${cfg.args.duration/1000}s.",
+                "zh": "被动：使用弓箭类武器时，普通攻击射程+200，伤害提升15%\n变身咕咕鸡，解除自身控制和绝大部分负面效果，获得${cfg.args.speedUp}额外移速并进入无敌状态，变身状态不可攻击，持续${cfg.args.duration/1000}秒"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 24,
+      "name": "Hamster",
+      "nativeName": "仓鼠",
+      "skillIDs": [
+        6030
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Native maxHP passive now activates on the same real XP9-to10 transition, without duplicate scaling.",
+      "remaining": [
+        "Devour/release player, ally healing, shield and spit-out stun/damage remain incomplete.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6030,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 583,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Max HP +${cfg.args.hpArgs}%\nDevour a hero, gaining a Shield (${cfg.args.shieldArgs}% of Nibbles' Max HP). Recast to spit them out, dealing ${cfg.HpShield2} Physical DMG (${cfg.args.hpArgs2}% of Nibbles' Max HP) to enemies spitted and hit, stunning them for ${cfg.args.freezeDuration/1000}s. Restores HP for the devoured hero if they are an ally",
+                "zh": "被动：额外获得${cfg.args.hpArgs}%生命值\n释放技能吞噬一个英雄，自身获得${cfg.args.shieldArgs}%最大生命值的护盾。再次施放技能向前方吐出英雄，对目标和路径上的敌方英雄造成${cfg.HpShield2}（${cfg.args.hpArgs2}%吞吞鼠最大生命值）伤害和${cfg.args.freezeDuration/1000}秒眩晕。如果吞下友方，则会为其治疗"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 584,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Max HP +${cfg.args.hpArgs}%\nDevour a hero, gaining a Shield (${cfg.args.shieldArgs}% of Nibbles' Max HP). Recast to spit them out, dealing ${cfg.HpShield2} Physical DMG (${cfg.args.hpArgs2}% of Nibbles' Max HP) to enemies spitted and hit, stunning them for ${cfg.args.freezeDuration/1000}s. Restores HP for the devoured hero if they are an ally",
+                "zh": "被动：额外获得${cfg.args.hpArgs}%生命值\n释放技能吞噬一个英雄，自身获得${cfg.args.shieldArgs}%最大生命值的护盾。再次施放技能向前方吐出英雄，对目标和路径上的敌方英雄造成${cfg.HpShield2}（${cfg.args.hpArgs2}%吞吞鼠最大生命值）伤害和${cfg.args.freezeDuration/1000}秒眩晕。如果吞下友方，则会为其治疗"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 585,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Max HP +${cfg.args.hpArgs}%\nDevour a hero, gaining a Shield (${cfg.args.shieldArgs}% of Nibbles' Max HP). Recast to spit them out, dealing ${cfg.HpShield2} Physical DMG (${cfg.args.hpArgs2}% of Nibbles' Max HP) to enemies spitted and hit, stunning them for ${cfg.args.freezeDuration/1000}s. Restores HP for the devoured hero if they are an ally",
+                "zh": "被动：额外获得${cfg.args.hpArgs}%生命值\n释放技能吞噬一个英雄，自身获得${cfg.args.shieldArgs}%最大生命值的护盾。再次施放技能向前方吐出英雄，对目标和路径上的敌方英雄造成${cfg.HpShield2}（${cfg.args.hpArgs2}%吞吞鼠最大生命值）伤害和${cfg.args.freezeDuration/1000}秒眩晕。如果吞下友方，则会为其治疗"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 25,
+      "name": "Swordsman",
+      "nativeName": "剑客",
+      "skillIDs": [
+        6031
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Earlier Stage84 implementation retained; native rows/descriptions and current-star cooldown synchronization checked.",
+      "remaining": [
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6031,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 634,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: -${cfg.args.cdArgs}% SKL CD for each equipped Blade/Sword. After casting a Blade/Sword skill, SPD +${cfg.args.speedUp} and ASPD +${cfg.args.atkSpeedArgs}% for ${cfg.duration/1000}s\nActive: Step back and cleave to launch ${cfg.args.num} blade barrages forward (dealing higher DMG to enemies who lost more HP)",
+                "zh": "被动：每装备1把刀剑类武器，武器技能冷却-${cfg.args.cdArgs}%，释放刀剑技能后，移速+${cfg.args.speedUp}、攻速+${cfg.args.atkSpeedArgs}%，持续${cfg.duration/1000}秒\n主动：后跳并向前发射${cfg.args.num}道剑气（目标血量越低，剑气伤害越高）"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 635,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: -${cfg.args.cdArgs}% SKL CD for each equipped Blade/Sword. After casting a Blade/Sword skill, SPD +${cfg.args.speedUp} and ASPD +${cfg.args.atkSpeedArgs}% for ${cfg.duration/1000}s\nActive: Step back and cleave to launch ${cfg.args.num} blade barrages forward (dealing higher DMG to enemies who lost more HP)",
+                "zh": "被动：每装备1把刀剑类武器，武器技能冷却-${cfg.args.cdArgs}%，释放刀剑技能后，移速+${cfg.args.speedUp}、攻速+${cfg.args.atkSpeedArgs}%，持续${cfg.duration/1000}秒\n主动：后跳并向前发射${cfg.args.num}道剑气（目标血量越低，剑气伤害越高）"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 636,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: -${cfg.args.cdArgs}% SKL CD for each equipped Blade/Sword. After casting a Blade/Sword skill, SPD +${cfg.args.speedUp} and ASPD +${cfg.args.atkSpeedArgs}% for ${cfg.duration/1000}s\nActive: Step back and cleave to launch ${cfg.args.num} blade barrages forward (dealing higher DMG to enemies who lost more HP)",
+                "zh": "被动：每装备1把刀剑类武器，武器技能冷却-${cfg.args.cdArgs}%，释放刀剑技能后，移速+${cfg.args.speedUp}、攻速+${cfg.args.atkSpeedArgs}%，持续${cfg.duration/1000}秒\n主动：后跳并向前发射${cfg.args.num}道剑气（目标血量越低，剑气伤害越高）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 26,
+      "name": "Gadgeteer",
+      "nativeName": "工程师",
+      "skillIDs": [
+        6033
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Native PvE monster/boss XP bonus3/6/10% included atomically in per-recipient progression.",
+      "remaining": [
+        "GM-74 transform, native movement/attack animation, shield regeneration, STA restoration, elemental bullets and CC immunity remain incomplete.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6033,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 668,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Gain +${cfg.args.exp}% EXP by defeating monsters\nPilot the GM-74 for ${cfg.duration/1000}s, during which he is immune to CC but cannot cast weapon skills. The GM-74 spawns with a Shield (Gadgeteer's Max HP) and fires Elemental Bullets (based on equipped weapons). It regenerates Shield (+${cfg.args.shield}% Max HP) and +${cfg.args.staminaRec} STA every ${cfg.args.interval/1000}s. Gadgeteer exits his GM-74 when it is destroyed.",
+                "zh": "被动：击败怪物经验获取+${cfg.args.exp}%\n驾驶GM-74战斗，持续${cfg.duration/1000}秒。期间获得控制免疫但无法使用武器技能，普攻射出高速子弹（子弹根据携带的武器变化属性）。GM-74拥有与工程师最大血量相同的护盾值，每${cfg.args.interval/1000}秒恢复最大生命值${cfg.args.shield}%的护盾、${cfg.args.staminaRec}点体力。工程师会在GM-74损毁时逃离。"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 669,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Gain +${cfg.args.exp}% EXP by defeating monsters\nPilot the GM-74 for ${cfg.duration/1000}s, during which he is immune to CC but cannot cast weapon skills. The GM-74 spawns with a Shield (Gadgeteer's Max HP) and fires Elemental Bullets (based on equipped weapons). It regenerates Shield (+${cfg.args.shield}% Max HP) and +${cfg.args.staminaRec} STA every ${cfg.args.interval/1000}s. Gadgeteer exits his GM-74 when it is destroyed.",
+                "zh": "被动：击败怪物经验获取+${cfg.args.exp}%\n驾驶GM-74战斗，持续${cfg.duration/1000}秒。期间获得控制免疫但无法使用武器技能，普攻射出高速子弹（子弹根据携带的武器变化属性）。GM-74拥有与工程师最大血量相同的护盾值，每${cfg.args.interval/1000}秒恢复最大生命值${cfg.args.shield}%的护盾、${cfg.args.staminaRec}点体力。工程师会在GM-74损毁时逃离。"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 670,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Gain +${cfg.args.exp}% EXP by defeating monsters\nPilot the GM-74 for ${cfg.duration/1000}s, during which he is immune to CC but cannot cast weapon skills. The GM-74 spawns with a Shield (Gadgeteer's Max HP) and fires Elemental Bullets (based on equipped weapons). It regenerates Shield (+${cfg.args.shield}% Max HP) and +${cfg.args.staminaRec} STA every ${cfg.args.interval/1000}s. Gadgeteer exits his GM-74 when it is destroyed.",
+                "zh": "被动：击败怪物经验获取+${cfg.args.exp}%\n驾驶GM-74战斗，持续${cfg.duration/1000}秒。期间获得控制免疫但无法使用武器技能，普攻射出高速子弹（子弹根据携带的武器变化属性）。GM-74拥有与工程师最大血量相同的护盾值，每${cfg.args.interval/1000}秒恢复最大生命值${cfg.args.shield}%的护盾、${cfg.args.staminaRec}点体力。工程师会在GM-74损毁时逃离。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 27,
+      "name": "Viking",
+      "nativeName": "维京战士",
+      "skillIDs": [
+        6039
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "HP-loss passive stacks from buff724: at4% missingHP, +1% melee damage/-2% incoming, max15 stacks. Numerical threshold interpretation is a local reconstruction.",
+      "remaining": [
+        "Big axe HP cost, projectile, maxHP damage, stun and lifesteal still use incomplete generic path.",
+        "Star3 small axe trigger/cooldown/slow remains incomplete.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6039,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 730,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: DMG Taken decreases (Max 30%), and Melee Weapon DMG increases (Max 15%) as you lose HP.\nLose HP to throw a big axe that does DMG (${cfg.args.atkArgs}% ATK + ${cfg.args.hurtPer}% of target's Max Hp) with ${cfg.args.suckHp}% Lifesteal. Stun target for ${cfg.args.stunTime/1000}s (DMG to monsters capped).",
+                "zh": "被动：当前生命值越低，获得越多的减伤（最多30%）和近战武器伤害加成（最多15%）\n消耗生命值向前方投掷大飞斧，对目标造成（${cfg.args.atkArgs}%攻击力+${cfg.args.hurtPer}%目标最大生命值）的物理伤害和${cfg.args.stunTime/1000}秒眩晕（对怪物伤害有上限），飞斧有${cfg.args.suckHp}%吸血效果"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 731,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: DMG Taken decreases (Max 30%), and Melee Weapon DMG increases (Max 15%) as you lose HP.\nLose HP to throw a big axe that does DMG (${cfg.args.atkArgs}% ATK + ${cfg.args.hurtPer}% of target's Max Hp) with ${cfg.args.suckHp}% Lifesteal. Stun target for ${cfg.args.stunTime/1000}s (DMG to monsters capped).",
+                "zh": "被动：当前生命值越低，获得越多的减伤（最多30%）和近战武器伤害加成（最多15%）\n消耗生命值向前方投掷大飞斧，对目标造成（${cfg.args.atkArgs}%攻击力+${cfg.args.hurtPer}%目标最大生命值）的物理伤害和${cfg.args.stunTime/1000}秒眩晕（对怪物伤害有上限），飞斧有${cfg.args.suckHp}%吸血效果"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 732,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: DMG Taken decreases (Max 30%), and Melee Weapon DMG increases (Max 15%) as you lose HP. Basic ATK throws a small axe that does DMG, Slowdown, and Lifesteal (CD: ${cfg.args.smallAxeCD/1000}s).\nLose HP to throw a big axe that does DMG (${cfg.args.atkArgs}% ATK + ${cfg.args.hurtPer}% of target's Max Hp) with ${cfg.args.suckHp}% Lifesteal. Stun target for ${cfg.args.stunTime/1000}s (DMG to monsters capped).",
+                "zh": "被动：当前生命值越低，获得越多的减伤（最多30%）和近战武器伤害加成（最多15%），普攻时向前方丢出小飞斧，造成伤害和减速效果（冷却：${cfg.args.smallAxeCD/1000}秒）\n消耗生命值向前方投掷大飞斧，对目标造成（${cfg.args.atkArgs}%攻击力+${cfg.args.hurtPer}%目标最大生命值）的物理伤害和${cfg.args.stunTime/1000}秒眩晕（对怪物伤害有上限），飞斧有${cfg.args.suckHp}%吸血效果"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 28,
+      "name": "Wyvern",
+      "nativeName": "龙太子",
+      "skillIDs": [
+        6040,
+        6041
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Native cloud/lightning1315; caster-following nearest one PvE target; pulse intervals1000/700/500ms for30s.",
+      "remaining": [
+        "Star3 movement-created healing marsh still incomplete; native distance trigger is not recovered here.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6040,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 780,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Active: Summon a thundercloud to attack the closest enemy every ${cfg.args.onceTime/1000}s, dealing ${cfg.TotalDamage} (${cfg.args.damage/100}+${cfg.args.atkArgs}% of ATK) Thunder DMG for ${cfg.duration/1000}s.",
+                "zh": "主动：召唤一片乌云，每${cfg.args.onceTime/1000}秒电击范围内最近的敌方单位，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点雷属性伤害，持续${cfg.duration/1000}秒"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 781,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Active: Summon a thundercloud to attack the closest enemy every ${cfg.args.onceTime/1000}s, dealing ${cfg.TotalDamage} (${cfg.args.damage/100}+${cfg.args.atkArgs}% of ATK) Thunder DMG for ${cfg.duration/1000}s.",
+                "zh": "主动：召唤一片乌云，每${cfg.args.onceTime/1000}秒电击范围内最近的敌方单位，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点雷属性伤害，持续${cfg.duration/1000}秒"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 782,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Moving a certain distance creates a healing marsh,  restoring HP (${cfg.args.cureArgs}% of Wyvern's Max HP) per sec for allies and dealing (${cfg.args.hurt}% of Max HP) Ice DMG.\nActive: Summon a thundercloud to attack the closest enemy every ${cfg.args.onceTime/1000}s, dealing ${cfg.TotalDamage} (${cfg.args.damage/100}+${cfg.args.atkArgs}% of ATK) Thunder DMG for ${cfg.duration/1000}s.",
+                "zh": "被动：每移动一段距离，释放一片水泽，为范围内的友方单位恢复龙语者最大生命值${cfg.args.cureArgs}%的血量，对敌方单位造成龙语者最大生命值${cfg.args.hurt}%的冰属性伤害\n主动：召唤一片乌云，每${cfg.args.onceTime/1000}秒电击范围内最近的敌方单位，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点雷属性伤害，持续${cfg.duration/1000}秒"
+              }
+            }
+          ]
+        },
+        {
+          "skillID": 6041,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 783,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 784,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 785,
+              "passive": true,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": null,
+                "zh": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heroID": 29,
+      "name": "Flower Fairy",
+      "nativeName": "花仙子",
+      "skillIDs": [
+        6042
+      ],
+      "starsChecked": [
+        1,
+        2,
+        3
+      ],
+      "unlockLevel": 10,
+      "complete1to1": false,
+      "status": "PARTIAL",
+      "stage85": "Native max-HP regeneration1/1.5/2% per second; bound to actor/life/hero/star/skin, no catchup burst.",
+      "remaining": [
+        "Persistent ally link, native wire1411, shared damage and healing still incomplete.",
+        "Complete original Windows rendered skin/star/VFX and PvP interactions are not certified by protocol tests."
+      ],
+      "descriptions": [
+        {
+          "skillID": 6042,
+          "stars": [
+            {
+              "star": 1,
+              "skillType": 811,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Recovers ${cfg.args.hpArgs}% of her Max HP per sec\nActive: Link up with an ally to absorb ${cfg.args.hurtShare}% of their DMG Taken and provide them ${cfg.args.cureShare}% of her HP recovery",
+                "zh": "被动：花妖每秒恢复最大生命值${cfg.args.hpArgs}%的血量\n主动：连接一个友方单位，花妖为连接目标承受${cfg.args.hurtShare}%的伤害，自身恢复血量时，同时给予目标${cfg.args.cureShare}%的血量恢复"
+              }
+            },
+            {
+              "star": 2,
+              "skillType": 812,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Recovers ${cfg.args.hpArgs}% of her Max HP per sec\nActive: Link up with an ally to absorb ${cfg.args.hurtShare}% of their DMG Taken and provide them ${cfg.args.cureShare}% of her HP recovery",
+                "zh": "被动：花妖每秒恢复最大生命值${cfg.args.hpArgs}%的血量\n主动：连接一个友方单位，花妖为连接目标承受${cfg.args.hurtShare}%的伤害，自身恢复血量时，同时给予目标${cfg.args.cureShare}%的血量恢复"
+              }
+            },
+            {
+              "star": 3,
+              "skillType": 813,
+              "passive": false,
+              "unlockLv": 10,
+              "descriptions": {
+                "en": "Passive: Recovers ${cfg.args.hpArgs}% of her Max HP per sec\nActive: Link up with an ally to absorb ${cfg.args.hurtShare}% of their DMG Taken and provide them ${cfg.args.cureShare}% of her HP recovery",
+                "zh": "被动：花妖每秒恢复最大生命值${cfg.args.hpArgs}%的血量\n主动：连接一个友方单位，花妖为连接目标承受${cfg.args.hurtShare}%的伤害，自身恢复血量时，同时给予目标${cfg.args.cureShare}%的血量恢复"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

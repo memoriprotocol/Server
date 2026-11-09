@@ -1,0 +1,78 @@
+{
+  "stage": "37",
+  "scope": "Guard ID consistency; no new NPC or town assets",
+  "guards": {
+    "city": 8,
+    "remoteSafeZones": 4,
+    "unifiedCID": 3001,
+    "unifiedNativeCreatureId": 3001,
+    "originalAnglesPreserved": true,
+    "positionsPreserved": true
+  },
+  "changedNativeCreatureIds": [
+    {
+      "sourceId": 26602,
+      "role": "gate-guard",
+      "old": 3002,
+      "new": 3001
+    },
+    {
+      "sourceId": 26603,
+      "role": "gate-guard",
+      "old": 3003,
+      "new": 3001
+    },
+    {
+      "sourceId": 26604,
+      "role": "gate-guard",
+      "old": 3004,
+      "new": 3001
+    },
+    {
+      "sourceId": 26605,
+      "role": "gate-guard",
+      "old": 3005,
+      "new": 3001
+    },
+    {
+      "sourceId": 26607,
+      "role": "gate-guard",
+      "old": 3002,
+      "new": 3001
+    },
+    {
+      "sourceId": 26608,
+      "role": "gate-guard",
+      "old": 3003,
+      "new": 3001
+    },
+    {
+      "sourceId": 26612,
+      "role": "safezone-guard",
+      "old": 3002,
+      "new": 3001
+    },
+    {
+      "sourceId": 26613,
+      "role": "safezone-guard",
+      "old": 3003,
+      "new": 3001
+    },
+    {
+      "sourceId": 26614,
+      "role": "safezone-guard",
+      "old": 3004,
+      "new": 3001
+    }
+  ],
+  "renderNote": "The client entity uses cid=3001 already in Stage36; this fixes stale config metadata. Visual confirmation of exact sprites requires running the client.",
+  "unchanged": [
+    "bosses",
+    "monsters",
+    "all non-guard NPCs",
+    "wall",
+    "bridges",
+    "decor",
+    "account data"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "stage": 63,
+  "version": "0.41.0-stage63-shop-reputation-rank",
+  "tests": {
+    "tests": 1145,
+    "pass": 1145,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage63": 38,
+    "updatedPriorScenarios": 7,
+    "reason": "resource fixtures now granted after fresh entry; catalog size includes7daily rewards"
+  },
+  "syntax": {
+    "status": "PASS",
+    "files": [
+      "Server_Full/server.js",
+      "Client_Payment_Addon/resources/app/cocosExport/web-desktop/local-bootstrap.js",
+      "Website_Full/public/admin-console.js",
+      "Server_Full/Server/tests/stage63-native-hot-events.test.js",
+      "Server_Full/Server/tests/world-network-stage7.test.js",
+      "Server_Full/Server/tests/stage63-account-hall-rank.test.js",
+      "Server_Full/Server/tests/inventory-stage7.test.js",
+      "Server_Full/Server/tests/stage42-restoration.test.js",
+      "Server_Full/Server/lib/profile.js",
+      "Server_Full/Server/lib/game.js",
+      "Server_Full/Server/lib/admin-3127.js",
+      "Server_Full/Server/lib/event-window-3127.js",
+      "Server_Full/Server/lib/room-rank-3127.js",
+      "Server_Full/Server/lib/account-economy-3127.js",
+      "Server_Full/Server/lib/activities-3127.js",
+      "Server_Full/Server/lib/event-window-adapter-3127.js",
+      "Server_Full/Server/lib/life-3127.js",
+      "Server_Full/Server/lib/world.js"
+    ],
+    "count": 18
+  },
+  "smoke": {
+    "stage63": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.41.0-stage63-shop-reputation-rank",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "preservedFiles": [
+      "Server_Full/Server/lib/city-3127.js",
+      "Server_Full/Server/config/portals-3127.json",
+      "Server_Full/Server/lib/dungeons-3127.js",
+      "Server_Full/Server/lib/navigation-3127.js",
+      "Server_Full/Server/lib/monster-ai-3127.js",
+      "Server_Full/Server/lib/monster-recovery-3127.js",
+      "Server_Full/Server/config/map2-monster-recovery-3127.json",
+      "Server_Full/Server/lib/payments-3127.js",
+      "Server_Full/Server/lib/passes-3127.js",
+      "Server_Full/Server/lib/progression-3127.js"
+    ],
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

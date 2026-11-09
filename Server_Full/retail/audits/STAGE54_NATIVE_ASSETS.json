@@ -1,0 +1,23 @@
+[
+  {
+    "path": "arena/skills/wind_attack/prefab/missile",
+    "index": 48698,
+    "pack": "82a4ca86-900b-4948-89e9-fa34168d4cf2",
+    "sha256": "bcd1918956a5d08086dc3cfa1a1e83c65f67bb93ed799901e0f97a0401eef788",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/windpassive/prefab/missile",
+    "index": 49114,
+    "pack": "8af6641d-e410-4328-9e10-8cf703f60a19",
+    "sha256": "b903ba077d2b13bdaf413fe5aa0155d7a41197d697d33bc413932094eaa3f370",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/windpassive2/prefab/missile",
+    "index": 46547,
+    "pack": "5a8bfa7a-e7dc-4f07-80e0-be93fe6d18eb",
+    "sha256": "9b152c8f231aa371ced9990476061c1e8c64c55a8298194b3b2226065dcd79a1",
+    "crcVerified": true
+  }
+]

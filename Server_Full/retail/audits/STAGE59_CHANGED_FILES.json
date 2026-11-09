@@ -1,0 +1,107 @@
+[
+  {
+    "path": "ISSUES_STAGE59_RU.txt",
+    "change": "added",
+    "sha256": "e7bd4efdfb84f1b747d46ecff7bad1c8054ed6a5af4be09808a86b8f8767ef36"
+  },
+  {
+    "path": "README_STAGE59_RU.txt",
+    "change": "added",
+    "sha256": "84ccd052acc7e58adb8cbba542a01bbbad2fc7e23e307cbaa3c50f09be667b0d"
+  },
+  {
+    "path": "Server_Full/README_STAGE59_RU.txt",
+    "change": "added",
+    "sha256": "84ccd052acc7e58adb8cbba542a01bbbad2fc7e23e307cbaa3c50f09be667b0d"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "change": "modified",
+    "sha256": "59b020e2b661f1d74ebd2b98c0c0e27147e052fd063de2763448b6044793cd65"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "b768bc6c7da6d8c0a84e491a39556fa0073ffe681135576b64c3b52349edfd3f"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "408a634c3db0facc8edef0c36e16f8a12d468ce3aaa89878ed917922d6fbe311"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "change": "modified",
+    "sha256": "88f6585920ec3d804bb6247e655e296e0388ad81de5716fec613f49fa0ae3d0d"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-primary-3127.js",
+    "change": "modified",
+    "sha256": "aff88ba719471b24479764f601c57e7032569ad0a68b9e29bb9517ece52ed9aa"
+  },
+  {
+    "path": "Server_Full/Server/lib/wintertide-3127.js",
+    "change": "added",
+    "sha256": "c73e3925efd8a9b285e9880816064fcebd40c33b3ac708b812eea879b915fed0"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage59-native-contract.test.js",
+    "change": "added",
+    "sha256": "c6ac6ad5e67f53b34e122711d2d14b10cffc6f45c39d17497fb38ba3952e095a"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage59-wintertide.test.js",
+    "change": "added",
+    "sha256": "8e126585cfec02e1705b6ab72dd5c7d29a10687d3706cd54a176e746440a1123"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "c43246a18665b4cdb312dcf7d21c1aafb4cad0977e4b2a484d9bf85e4226a2cc"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE59_NATIVE_ASSETS.json",
+    "change": "added",
+    "sha256": "ddd59ce1bcd54452bc7abe58d84e45c7535d8e7c75300f18d4f75d38cc4650a6"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE59_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "ae98fd04fea2e06475580d1c3bfd39bec6fd7a78d9ed9c4136aefc491c69f163"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE59_TESTS.log",
+    "change": "added",
+    "sha256": "72c9999b58b244469c98c128b0ec232497544560f5894a818d6f5095125fde1b"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE59_VALIDATION.json",
+    "change": "added",
+    "sha256": "a9dbb071852e11e58281b9d66fbb30c1b25ea883babc34d1e1962ced25b533ee"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE59_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE59_WINTERTIDE.json",
+    "change": "added",
+    "sha256": "663ada5840935fd5575eca8f54d53ff98906820bda41781c190f426fa4d3bf2b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage59/CCIceStaffAttack.ts",
+    "change": "added",
+    "sha256": "d6cbe9094cb248d2ac6ea66f4d657cf78a598c1dae0197ead69bc44fae559787"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage59/Creatures.ts",
+    "change": "added",
+    "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "9fe2938e674a17aff085fc360aba31ec7aa27c003497977d4cdcd3467c826363"
+  }
+]

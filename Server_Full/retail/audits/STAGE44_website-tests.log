@@ -1,0 +1,46 @@
+✔ mail composer searches live native definitions and excludes obsolete metadata IDs (24.792968ms)
+✔ attachment add, merge, remove and all-user send preserve quantities and trusted CSRF (16.318586ms)
+✔ single-ownership attachment quantities remain disabled after changing recipient mode (3.277532ms)
+✔ fixed mail cannot accidentally submit hidden attachments or normal expiry (2.678119ms)
+✔ unknown send response survives reload and repeats the exact request ID and payload (4.778518ms)
+✔ mail-only permission exposes game operations mail tab, composer and attachment picker without credentials (72.753815ms)
+✔ mail API rejects unauthorized session  (13.601489ms)
+✔ mail API rejects unauthorized session local_sid=user (7.517717ms)
+✔ mail API rejects unauthorized session local_sid=revoked (11.264809ms)
+✔ sending requires CSRF before touching the game mail dispatcher (10.101316ms)
+✔ website proxies only trusted session and whitelisted mail fields; preserves conflict (24.101789ms)
+✔ mail definitions can resolve localized client search candidates, targets and history paging (25.935049ms)
+✔ game-side permission revocation and network failure cannot be displayed as sent (24.076041ms)
+✔ mail static assets are served as JS/CSS and parse without injection-prone HTML generation (37.483551ms)
+✔ hero skin tab has real grouped UI and its loaded script, retaining 17 tabs (164.954878ms)
+✔ hero read routes to scoped action and never forwards user-supplied actor (67.418519ms)
+✔ hero ownership POST uses trusted token, exact selected IDs and boolean final ownership (61.731192ms)
+✔ hero mutation requires CSRF and fails closed for unknown sections (48.483106ms)
+✔ hero notices imported once with hero, base, variant, revoke detail in each locale (2.46413ms)
+✔ foreign recipient and malformed ownership notices rejected (0.328359ms)
+✔ new JS/CSS assets are served; script is syntactically valid without innerHTML writes (62.898943ms)
+✔ user settings has game identity, edit control and exactly 17 distinct tabs (165.200123ms)
+✔ fresh site permissions reject regular (30.139142ms)
+✔ fresh site permissions reject revoked (20.131436ms)
+✔ read proxy keeps actor token server-side and locks target to account id (23.017989ms)
+✔ CSRF must pass before any mutation (22.919918ms)
+✔ protected target cannot be changed by ordinary admin (29.065834ms)
+✔ save uses trusted actor, preserves conflict and does not invent completed notification (32.38725ms)
+✔ successful changed event imports once and projection includes before/after quantity (27.502986ms)
+✔ network failure is unavailable, never successful (15.17311ms)
+✔ scripts and styles served as real assets and script has no innerHTML mutation (53.600763ms)
+✔ mount tab has real grouped UI and its loaded script, retaining 17 tabs (80.719991ms)
+✔ mount read routes to scoped action and never forwards user-supplied actor (28.41261ms)
+✔ mount ownership POST uses trusted token, exact selected IDs and boolean final ownership (23.563107ms)
+✔ mount mutation requires CSRF and fails closed for unknown sections (29.455123ms)
+✔ mount notices imported once with hero, base, variant, revoke detail in each locale (2.706872ms)
+✔ foreign recipient and malformed ownership notices rejected (0.505653ms)
+✔ new JS/CSS assets are served; script is syntactically valid without innerHTML writes (60.353135ms)
+ℹ tests 38
+ℹ suites 0
+ℹ pass 38
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 746.335247

@@ -1,0 +1,277 @@
+{
+  "targetClient": "3.12.7",
+  "fullRestoration1to1": false,
+  "clientChanged": false,
+  "originalIndexSha256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "resourcesConfigSha256": "3c101918ae592ba59ddd9c6cdf3cbc98ecc1adb756af0c5d3b0a96156a6bf5b7",
+  "DamageType": {
+    "none": 0,
+    "normal": 1,
+    "crit": 2,
+    "poison": 3,
+    "continueDmg": 4,
+    "miss": 5,
+    "resCollect": 6,
+    "shieldResist": 7,
+    "specialShieldResist": 8
+  },
+  "evidence": {
+    "criticalDisplay": "Blood.onSubHP routes DamageType.crit to showCriticalDamage; CCBloodBarComp forwards subHP.dmgType.",
+    "shieldDisplay": "Blood.onSubHP uses showChangeHP for shieldResist, rather than the zero HP decrement.",
+    "criticalStats": "PropLevels Crit and CritHarm; equipment PropertyIDs39/40; complete retail mitigation unresolved.",
+    "death": "CCMainBody.onDeath hides body after3s; onRelive cancels hide and shows it. CCDigger.onDeathSettle opens DeadPanel after5s.",
+    "respawn": "LoginController.requestRespawn -> battle.iob.reEnter(IOGameEnterReq.enterType). EnterType.replay1,reborn3. DeadPanel labels continue level as ceil(level/2).",
+    "price": "ConstantsManager.getReliveCost(a,b) = trunc(2^(a-b-1)*lifeCost). Server parameter convention remains inferred.",
+    "destruction": "CCEntitySystem.onEntityDestroyed: typ1 -> release(leave); otherwise release(dead).",
+    "models": "CCMonster plus MonsterContent.Form. All paths checked as cc.Prefab in the original resources/config.json."
+  },
+  "localizedUIProof": {
+    "arena/dead_panel/tip1": "Continue playing to inherit half level",
+    "arena/dead_panel/tip2": "You have {0} chances to continue",
+    "arena/dead_panel/continue": "Respawn from Lv.{0} ({1}s)",
+    "arena/dead_panel/replay": "Restart",
+    "arena/dead_panel/return": "Homescreen"
+  },
+  "prefabs": [
+    {
+      "path": "arena_3d/monsters/monster_1208/a/monster",
+      "catalogIndex": "37540",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1208/b/monster",
+      "catalogIndex": "20282",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1208/c/monster",
+      "catalogIndex": "13395",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1210/a/monster",
+      "catalogIndex": "29898",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1210/b/monster",
+      "catalogIndex": "19119",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1210/c/monster",
+      "catalogIndex": "20816",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1211/a/monster",
+      "catalogIndex": "29127",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1211/b/monster",
+      "catalogIndex": "28585",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1211/c/monster",
+      "catalogIndex": "39576",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1213/a/monster",
+      "catalogIndex": "14646",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1213/b/monster",
+      "catalogIndex": "16356",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1213/c/monster",
+      "catalogIndex": "26556",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1226/a/monster",
+      "catalogIndex": "26880",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1226/b/monster",
+      "catalogIndex": "39351",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1226/c/monster",
+      "catalogIndex": "18856",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1227/a/monster",
+      "catalogIndex": "28385",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1227/b/monster",
+      "catalogIndex": "32956",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1227/c/monster",
+      "catalogIndex": "37440",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1228/a/monster",
+      "catalogIndex": "13565",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1228/b/monster",
+      "catalogIndex": "21524",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1228/c/monster",
+      "catalogIndex": "18505",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1230/a/monster",
+      "catalogIndex": "8049",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1230/b/monster",
+      "catalogIndex": "22580",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1230/c/monster",
+      "catalogIndex": "11216",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1232/a/monster",
+      "catalogIndex": "13148",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1232/b/monster",
+      "catalogIndex": "3000",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1232/c/monster",
+      "catalogIndex": "53074",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1235/a/monster",
+      "catalogIndex": "8504",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1235/b/monster",
+      "catalogIndex": "10293",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1235/c/monster",
+      "catalogIndex": "32494",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1238/a/monster",
+      "catalogIndex": "24539",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1238/b/monster",
+      "catalogIndex": "3467",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1238/c/monster",
+      "catalogIndex": "19888",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1258/a/monster",
+      "catalogIndex": "1909",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1258/b/monster",
+      "catalogIndex": "45496",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1258/c/monster",
+      "catalogIndex": "43465",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1259/monster",
+      "catalogIndex": "9247",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1260/monster",
+      "catalogIndex": "9104",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1264/a/monster",
+      "catalogIndex": "25750",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1264/b/monster",
+      "catalogIndex": "31777",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1264/c/monster",
+      "catalogIndex": "5753",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1302/monster",
+      "catalogIndex": "52767",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1305/monster",
+      "catalogIndex": "24436",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1306/monster",
+      "catalogIndex": "21747",
+      "type": "cc.Prefab"
+    },
+    {
+      "path": "arena_3d/monsters/monster_1307/monster",
+      "catalogIndex": "29787",
+      "type": "cc.Prefab"
+    }
+  ],
+  "moduleSha256": {
+    "CommType.ts": "8cad6e11459fa7aa5d18a94a2d3a99ba6aef118c2de62e138e9773f75f1a2f69",
+    "Blood.ts": "e472bc4689d33592d31d8ef59bdb6dc9b3ad89356d3b5d92ff96dcee97329b7a",
+    "CCBloodBarComp.ts": "4854d87a30ed66de20ff9e594b2e399a6c30b08284edabb149796a99b566fbc5",
+    "CCMainBody.ts": "7a3336883796036ef6a8d843e18e193976d47c494cd89d88d59ac8108ec35428",
+    "CCEntitySystem.ts": "1f6345f458cd5d07f23e2ca971c84c70c0aa3b80090d70e6e915a6bdc5aa8d75",
+    "CCDigger.ts": "c6a158e48374ad6ab8a255d894094b23099fcf0b25127b5c844e08f81986b2a3",
+    "LoginController.ts": "4723a03d6433c989bbedc3454fc88bdb52aad13e94d0bb14e1870f3eddb602f4",
+    "DeadPanel.ts": "1abd005c5a36450c94dc4016fdd42ff14e3b99a6d1f70bd868889e2658c17815",
+    "EnterType.ts": "1033e3db52c90e78286d843dc01597988a9b4d2d5c20d4efa2e0d70f5cde5f34",
+    "ConstantsManager.ts": "02365f5d140b55c7d06b79236b55c654fb63c6fd419bd3acbd612197080d29d2",
+    "BuffCfg.ts": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+    "CCMonster.ts": "142263d851cc827da187a98d170b8f022414e7533c07585e88d2b06fd7c1533d",
+    "MonsterCfg.ts": "9a27d8ed69fe56ccd82d916cca95833a3098a6193cdfeb7e5e28605593485756"
+  }
+}

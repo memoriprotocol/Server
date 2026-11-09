@@ -1,0 +1,214 @@
+{
+  "clientVersionTarget": "3.12.7",
+  "clientFilesModified": false,
+  "inputSources": {
+    "reference40/main-index.js": {
+      "bytes": 20184545,
+      "sha256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b"
+    },
+    "reference40/resources-config.json": {
+      "bytes": 5307186,
+      "sha256": "3c101918ae592ba59ddd9c6cdf3cbc98ecc1adb756af0c5d3b0a96156a6bf5b7"
+    },
+    "reference40/server-s32.js": {
+      "bytes": 3009164,
+      "sha256": "bb159752707edd714c1e27102db4300efe910b873fc6fbe3fdd7400c7a4149d9"
+    }
+  },
+  "method": "Source module factories registered in isolated VM, string lookups decoded; no game module or renderer executed. Client ZIP members were CRC-validated. Module names and obfuscated identifiers are retained.",
+  "decodedModules": [
+    {
+      "file": "CCSkillFactory.ts",
+      "bytes": 3476,
+      "sha256": "025f127bb6eca5291484800c795f7baf4ef9335ee45380484e64d7d2a067fce2"
+    },
+    {
+      "file": "CCBodyMonsterAnimComp.ts",
+      "bytes": 43439,
+      "sha256": "185ffb9dc3638d25f7a55ecb93c70f3b61afa041afa7706967ebce6a03a1a4bd"
+    },
+    {
+      "file": "CCBodyEliteMonsterAnimComp.ts",
+      "bytes": 12299,
+      "sha256": "ebbb550864ce010c66f04324e28a0f3e315c920d006e965c7b1ead0c8b023f48"
+    },
+    {
+      "file": "CCEliteMonster.ts",
+      "bytes": 5322,
+      "sha256": "932a0195862954216d9e841af3a4e66c17dea72dba405a4e6923f479b35c39c3"
+    },
+    {
+      "file": "CCBodyBossAnimComp.ts",
+      "bytes": 27239,
+      "sha256": "d91346821202b2227dce28ff306a5ffecafd1919d6717f2a906e6b5252890cfc"
+    },
+    {
+      "file": "CCBodyBossTaurenAnimComp.ts",
+      "bytes": 998,
+      "sha256": "82918e5e5d0a4c2f8a0bafe6feec10b581a65cf207707a095678ca6691a231ef"
+    },
+    {
+      "file": "CCBodyBossShaChongAnimComp.ts",
+      "bytes": 2007,
+      "sha256": "3a647b450b80cd031c4d39674e9ae2b7cb7408287b16b04e060c7de8137e9062"
+    },
+    {
+      "file": "CCBodyBossCyclopsAnimComp.ts",
+      "bytes": 1733,
+      "sha256": "0c892f8d91145331662dcfaded8e7f4e358103cc484ab8e98666a65b4ec0c3b3"
+    },
+    {
+      "file": "CCBodyBossCyclopsKingAnimComp.ts",
+      "bytes": 1863,
+      "sha256": "791d896ff6e1808ca7d63f6153f1fecca04f6ee5797b9f1b9faca0eaf09e5746"
+    },
+    {
+      "file": "HeroSkill.ts",
+      "bytes": 17182,
+      "sha256": "d19beaeb50b7eb5fae8aca6d2731df4e37675eea4b0ec556007e13822faa95cb"
+    },
+    {
+      "file": "PropLevelSchemeMananger.ts",
+      "bytes": 7315,
+      "sha256": "3e1f4306c5f234420fe345679d724762491690ef0f4d3afc12bf6e9e1f98dddc"
+    },
+    {
+      "file": "DropGroupSchemeManager.ts",
+      "bytes": 8531,
+      "sha256": "cb1490e0d866565665eb6121d4cf095bc711fabdaa9bf4d5e2dfd911bfd3c06d"
+    },
+    {
+      "file": "DropGroup.ts",
+      "bytes": 2635,
+      "sha256": "2d0bb52dadae9b299556dad60d2b3882bd69ed1a57d6fb0cee3bf0f7cd2a57eb"
+    },
+    {
+      "file": "DropDeathSchemeManager.ts",
+      "bytes": 3175,
+      "sha256": "4cc5832534c66aab89092f27b9d948b4e3c436348fcae8d0819227a57677172f"
+    },
+    {
+      "file": "DropDeath.ts",
+      "bytes": 1329,
+      "sha256": "4480ea60819b1abc9e17dcd2f75a31d68d24653744241cdf64827b46e2397d75"
+    },
+    {
+      "file": "CCMsgSystem.ts",
+      "bytes": 10695,
+      "sha256": "d11e1e3be5c140ddf3b0c32bcd03bd76efa399df894b288980ed66eff51af2ca"
+    },
+    {
+      "file": "CCMsgItem.ts",
+      "bytes": 11160,
+      "sha256": "fdeb25e6ed2f3600201b41cf864c7879ce67132f1b4b943dbfe56a655dd50830"
+    },
+    {
+      "file": "CCMinimapSystem.ts",
+      "bytes": 10432,
+      "sha256": "8c96326e8402070fbc20d477e8c0154dcdf502320e3229ababd778e3d74df486"
+    },
+    {
+      "file": "CCAcidBullet.ts",
+      "bytes": 7319,
+      "sha256": "efe6387e56faefe4ded8bfbfbb6b844b3c146fab58e9c593047584c761c2eddc"
+    },
+    {
+      "file": "CCDrillGroundAlert.ts",
+      "bytes": 3955,
+      "sha256": "d9da7e7f1a3138d48e5416c89270efa14d4ca50d4745690981ed269711ebd920"
+    },
+    {
+      "file": "CCMissileLoadByPath.ts",
+      "bytes": 5452,
+      "sha256": "fd5684a4232ad6c50824c1e1547ea9e509658cbc1f2d93164fa580cd76687be2"
+    },
+    {
+      "file": "CCVultureHurriance.ts",
+      "bytes": 3271,
+      "sha256": "a9dd06444c7c58c6b28ed91ec405bfa38077fca3d899fb8956defd51c5956f10"
+    },
+    {
+      "file": "CCShroomFart.ts",
+      "bytes": 3657,
+      "sha256": "adbfab1ed9642ae49fd67f67abad79e3f67ac3713a5bcb14e87e90a06902b38a"
+    },
+    {
+      "file": "CCRealShroom.ts",
+      "bytes": 2871,
+      "sha256": "d463d95d33c0eeb2939a8392d39974a81cc3719acfcd203abcf5118ccd172d36"
+    },
+    {
+      "file": "CCBodyRealShroomAnimComp.ts",
+      "bytes": 5936,
+      "sha256": "84656cd491298fdbe1ee44830499defa8114534f9fc21733071d7956b1088268"
+    },
+    {
+      "file": "CCBornAnimItem.ts",
+      "bytes": 2350,
+      "sha256": "2bdc39529e3e076781a6fda0d5d5acf15e2d1c63008762417efa8dbd47270f86"
+    },
+    {
+      "file": "CCBodyBornItemAnimComp.ts",
+      "bytes": 5077,
+      "sha256": "eec551bfd21a1508ff06370b137ad45c0f559c7c779929c769eb021dea36b833"
+    },
+    {
+      "file": "Property.ts",
+      "bytes": 4976,
+      "sha256": "104fe2c28315e495c65113e8cb2fb3e61169c60555a4fee4ed0377072e3de7fd"
+    },
+    {
+      "file": "PropertyManager.ts",
+      "bytes": 1395,
+      "sha256": "a8ad78a0551e5dca61ef65bfbe8aaaa0fb1b89208c9a6afecb478e332724ba8a"
+    },
+    {
+      "file": "Jewel.ts",
+      "bytes": 2616,
+      "sha256": "bd6f7036739d89bd7f8ed0529b9ce3b4ba048e5aa75f6c11d2b65e615a0660cd"
+    },
+    {
+      "file": "Equipment.ts",
+      "bytes": 2904,
+      "sha256": "cced3cd75760e87feb8fa161bfa9081447ada71f9c829389f50df33713d7d571"
+    },
+    {
+      "file": "LevelExp.ts",
+      "bytes": 1383,
+      "sha256": "6fddebe504f6c0cc76fd1117e3c400675b6a78c8a752ee5e485215a5f2d79247"
+    },
+    {
+      "file": "MonsterCfg.ts",
+      "bytes": 4246,
+      "sha256": "9a27d8ed69fe56ccd82d916cca95833a3098a6193cdfeb7e5e28605593485756"
+    }
+  ],
+  "contracts": {
+    "nativeSkillLevel": 1,
+    "damageTooltip": "floor(damage/100 + attackRaw*atkArgs/10000), before unresolved mitigation",
+    "heal2236": "3% caster maxHP",
+    "shield2235": "5% caster maxHP, 5000ms; distinct from healing",
+    "attack2238": "13% caster ATK, 5000ms",
+    "crit2232": "55 crit, 5000ms",
+    "summon2247": "4 x CID1208, level40, 18000ms",
+    "projectile87": "CCAcidBullet: initPos,targetPos,maxDist; listens skillBoom",
+    "projectile9": "CCMissileLoadByPath: skillId, recognized energy prefabs only",
+    "projectile1053": "CCVultureHurriance: prefab_path",
+    "gas1056": "CCShroomFart: radius, visual 8000ms; server damage cadence locally selected",
+    "illusion": "CCRealShroom 1057/1058, native prefabs, HP3. Life-cycle implemented, retail damage-transfer unresolved",
+    "flower": "CCBornAnimItem type1108, CID1259, native prefab, HP2. Lifetime implemented; combat modifiers unresolved",
+    "notice312": "SystemType.msg22 / SystemEvent.systemMsg20 / {type,data(JSON)}",
+    "notice715": "s3.2 envelope systemType25 must not be copied into 3.12",
+    "bossKill": "kill_boss {bossID,killer,name,skin}",
+    "bossWarning": "boss_alert {bossCID}, 30000ms before respawn",
+    "bossRespawn": "SystemType.mapResources9 / createBoss {id,x,y,cid,asNew:true}",
+    "rarePickup": "get_valuable {itemId,name,skin}; weapons grade>5/equipment Star>5"
+  },
+  "limitations": [
+    "Native base damage formula is a display calculation, not proof of full retail combat calculation.",
+    "Client schemas and assets do not expose complete original server AI, mitigation, RNG or city placement.",
+    "Mushroom and flower are explicitly partial. Ordinary fox/hamster projectile visuals remain unverified.",
+    "No client 7.15 city placement or packet25 was transplanted.",
+    "No Windows/Cocos renderer verification."
+  ]
+}

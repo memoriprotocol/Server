@@ -1,0 +1,53 @@
+{
+  "stage": 26,
+  "clientVersion": "3.12.7",
+  "mapId": 2,
+  "layoutAuthority": "Explicit operator request for safe-zone perimeter and editable NPC ring",
+  "originalRetailCoordinates": false,
+  "preloadEvidence": {
+    "source": "arena/maps/map_preload_2/preload",
+    "uuid": "b16wPWnQhEBYBTHN0T6Rx9",
+    "packedImport": "05094e101.json",
+    "packIndex": 22,
+    "bridgePaths": [
+      "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_002-2",
+      "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001",
+      "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001",
+      "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_002-2"
+    ],
+    "npcPaths": [
+      "arena/npc/408/npc",
+      "arena/npc/425/npc",
+      "arena/npc/423/npc-0",
+      "arena/npc/424/npc-0",
+      "arena/npc/414/npc",
+      "arena/npc/415/npc"
+    ]
+  },
+  "nativeFenceGeometry": {
+    "horizontalPrefab": "town/new/LD_mz_001",
+    "horizontalCollider": [
+      780,
+      100
+    ],
+    "verticalPrefab": "town/new/LD_mz_002",
+    "verticalCollider": [
+      83.696,
+      679.722
+    ],
+    "clientPrefabYScale": 1.154
+  },
+  "layoutCounts": {
+    "npc": 6,
+    "wall": 40,
+    "bridge": 4
+  },
+  "editableNpcConfig": "config/map2-native-npcs-3127.json",
+  "editableTownConfig": "config/city-main-3127.json",
+  "validation": {
+    "targetedTestsPassed": 27,
+    "realServerCtrlR": "tested in Linux PTY; state saved, worker PID changed, auth/game ports reopened",
+    "windowsConsole": "not tested on a Windows host",
+    "clientRendering": "not verified in game"
+  }
+}

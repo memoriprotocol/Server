@@ -1,0 +1,132 @@
+[
+  {
+    "path": "ISSUES_STAGE52_RU.txt",
+    "sha256": "107549feedb0f6593b6ad14e0539855e6896b74ee810730c72c9d61353b4a998",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE52_RU.txt",
+    "sha256": "c1151beb7edea4f52e077400a0ca656165a553757a6c9c619d6b794d01ecd442",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE52_RU.txt",
+    "sha256": "c1151beb7edea4f52e077400a0ca656165a553757a6c9c619d6b794d01ecd442",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "sha256": "e5d44728780cedbaf178f64dfd975c52b46bf70189ba2514e0791f3b61c0db7f",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "sha256": "d4b5572c6ff23b8400278c8c874e4eba2d1e8c45b1f835056a0095e83c989e8a",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-summons-3127.js",
+    "sha256": "552dc324d12b6559939d32151b307b3e59b22c7e86f4c77af295859aa82338a0",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/life-3127.js",
+    "sha256": "51dd45b08abfdd3fd392434dbfb48003bc1954b32579c1d891a06ca5acb1854f",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "sha256": "3a21fa49aeeb1a41140ec3ce29f3ce288415607ece1cc8440403a41474ef49a3",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "sha256": "d29d7ba51a6d6dd02becf537bca229606e5ff6ba4251f3eda5a93ee774ffc4f4",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "4df7a54dbf7101edceb8f7283c2c0e31a98f7d0b6e26aa4213f0306d29fd9a00",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-projectiles-3127.js",
+    "sha256": "59293a45c350ffff72eaefde04de4fae69c546f0e1208b0d2a7f161f14610959",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "23720e8bc34d45fffe09fcb17f65c67bbae03e86f4cc6b852d2bd41c14c44067",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage52-native-projectiles.test.js",
+    "sha256": "92454e121d10d7f933734095dbbe64a9b93584fb6e82fbeeacd9b890f970fc36",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage52-weapon-salvos.test.js",
+    "sha256": "7e3889b7528ac3de8b86ffa9aa6d08d6e1689065af202680ffc0cc9433ca304f",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "8578f5e4749dd734b3ab73d4aa6e34d49cffdc38111af68a1a042f13d47bbb30",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE52_NATIVE_ASSETS.json",
+    "sha256": "58c47550e1cf51103f961aff05a50465c99ae91c018aa620678c022cd54b76ee",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE52_PROJECTILES.json",
+    "sha256": "66861c22eebda1bdca49425b7941b20406da630f35e2a86b1ccca6421b70c06b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE52_TESTS.log",
+    "sha256": "64149809b40199a93953b987c788c9c8b2e910c3929dd234dc004611f2465b9a",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE52_VALIDATION.json",
+    "sha256": "6a173db720c9057654e811387fe3ecb05b9ae1a18b2ddfbb62e894375fa9817f",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE52_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage52/CCAsyncBulletEntity.ts",
+    "sha256": "6cb08bb1d333166dae1a44d91741c75746d55e14ab96b5c5d6255f1c6def319b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage52/CCEntityFactory.ts",
+    "sha256": "1973e5eae86accf1b174dff5138200a66bc9b8a8a35ff8e0df6872402662ecb4",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage52/PathUtil.ts",
+    "sha256": "070d900a72f4109b06ebe3e0e7b5d198ceba750ba15ac398f1883929515a2fb8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage52/SkillCfg.ts",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage52/SkillResUtil.ts",
+    "sha256": "cff319dbf840e6cd30a5b3c1ca1efa9b4b81cb6ee1fe7b5c883dd8b16c9c5987",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "fa0fa3507c322115e56b613bcc61bda6009cf9376ab0b2c84fd66c0ea0b682bb",
+    "change": "modified"
+  }
+]

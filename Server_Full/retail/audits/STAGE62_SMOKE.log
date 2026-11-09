@@ -1,0 +1,26 @@
+[STAGE62] Native NPC415 item-to-XP exchange, item locks, quest/pass sale progress; full 1:1 unfinished; Stage44 walls preserved
+[WORLD CONTENT] map=2 {"mob":289,"boss":4,"tree":160,"stone":100,"ore":80,"well":24,"statue":8,"chest":104} waterCells=857 render=UNVERIFIED
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=27
+[game] login uid=1 account=smoke-actor lang=
+[GAME ROUTE] game.passHandler.passInfo uid=1 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=1 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=1 bytes=0
+[PASS] game.passHandler.getPassAward PASS_REWARD_UNAVAILABLE
+[GAME ROUTE] game.activityHandler.loadActivity uid=1 bytes=0
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=1 bytes=5
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=1 bytes=5
+[ACTIVITY] game.activityHandler.getActivityAwards ACTIVITY_REWARD_UNAVAILABLE
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=19
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME ROUTE] battle.iob.enter uid=1 bytes=0
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=6 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=6 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=16
+[WORLD LOAD] uid=1 phase=loginLoadingFinish
+[CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+{"status":"PASS","version":"0.40.0-stage62-native-item-exchange","authHTTP":true,"gameHTTP":true,"websiteHTTP":true,"nativeExchangeRealWebSocket":{"frame89":true,"frame162Lock":true,"lockedBatchRejected":true,"unlockAccepted":true,"nativeXP100500":true,"noGoldInvented":true,"inventoryConsumed":true,"repeatedUUIDRejected":true,"bothPassSaleTypesRecorded":true},"passCycleRealWebSocket":{"authenticated":true,"nativeReadReplyWithoutReset":true,"automaticWeeklyXPAndTaskPush":true,"rewardPersisted":true,"repeatedClaimRejected":true,"sevenDayRewardPersisted":true},"isolatedPaymentTestMode":{"realHTTPWebsiteToAuthenticatedGameCallback":true,"missingSecretRejected":true,"openingDoesNotGrant":true,"creditPersisted":true,"repeatDoesNotDoubleCredit":true,"reconciliationUsesCurrentBalance":true},"maps":19,"clientOpenMaps":17,"frozenArmorVariants":6,"livePaymentProviderCharged":false,"windowsClientRendered":false}

@@ -1,0 +1,60 @@
+{
+  "DanBr": [
+    {
+      "ID": 1,
+      "name": "挑战新秀",
+      "score": 0,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_01",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_01"
+    },
+    {
+      "ID": 2,
+      "name": "挑战斗士",
+      "score": 10,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_02",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_02"
+    },
+    {
+      "ID": 3,
+      "name": "挑战先锋",
+      "score": 20,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_03",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_03"
+    },
+    {
+      "ID": 4,
+      "name": "挑战精英",
+      "score": 30,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_04",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_04"
+    },
+    {
+      "ID": 5,
+      "name": "挑战大师",
+      "score": 50,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_05",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_05"
+    },
+    {
+      "ID": 6,
+      "name": "挑战宗师",
+      "score": 100,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_06",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_06"
+    },
+    {
+      "ID": 7,
+      "name": "挑战传奇",
+      "score": 250,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_07",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_07"
+    },
+    {
+      "ID": 8,
+      "name": "挑战神话",
+      "score": 500,
+      "iconPath": "arena/digger/rank_br_icon/ui_challenge_rank_icon_08",
+      "bigIconPath": "arena/digger/rank_br_icon_big/ui_challenge_rank_icon_08"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "stage": 81,
+  "baseStage": 80,
+  "version": "0.54.5-stage81-chicken-verified-passives",
+  "client": "3.12.7 (2024-02-22)",
+  "scope": "ChickenMan confirmed initSelfBuff protocol lifetime separated from F form buffs",
+  "sourceProof": {
+    "SkillID": 6029,
+    "initSelfBuff": [
+      237,
+      457
+    ],
+    "levels": [
+      1,
+      2,
+      3
+    ],
+    "buff457ArgByStar": [
+      {
+        "star": 1,
+        "hunt": 5,
+        "dist": 100
+      },
+      {
+        "star": 2,
+        "hunt": 10,
+        "dist": 150
+      },
+      {
+        "star": 3,
+        "hunt": 15,
+        "dist": 200
+      }
+    ],
+    "formBuffIDs": [
+      458,
+      459,
+      460
+    ]
+  },
+  "notImplementedWithoutEvidence": [
+    "debuff dispel from F",
+    "hunt/dist damage or targeting formula"
+  ],
+  "testsPassed": 2117,
+  "testsTotal": 2117,
+  "newTests": 7,
+  "previousTestsPassed": 2110,
+  "windowsClientVisualVerified": false,
+  "originalClientModified": false,
+  "oldFilesModified": [
+    "Server_Full/Server/lib/chicken-3127.js",
+    "Server_Full/Server/lib/hero-vfx-3127.js",
+    "Server_Full/Server/tests/stage79-chicken-native.test.js",
+    "Server_Full/package.json"
+  ],
+  "oldFilesMissing": [],
+  "sha256ChangedFiles": {
+    "Server_Full/Server/lib/chicken-3127.js": "9b68ad4589220cb536932fc439613430f34eda949791a134a7c78c6c2d1c2928",
+    "Server_Full/Server/lib/hero-vfx-3127.js": "be21f38ae64add824fb88c7a989c7fcc7224e5c7b6fff5e3f24f6971969e9ef0",
+    "Server_Full/Server/tests/stage79-chicken-native.test.js": "180d77325ea8f003ba49ef7b95ddf0123d551b7807bd64da3ff8ed2070935a59",
+    "Server_Full/package.json": "8655559f7f2e24f05f2ddfc576147ed7b01934633851fd11c7d6fa27e2978a07",
+    "Server_Full/Server/tests/stage81-chicken-verified-passives.test.js": "4356943cdf57877b02f3c4696e8b081971c807ffd154d5abcd644b0e34f97df9",
+    "README_STAGE81_RU.txt": "d33034cca562611aec4ba350bae8b63b0eb72b40c71de1107ab97d8b23e24621",
+    "ISSUES_STAGE81_RU.txt": "8dfb8a9e2046792260025208aeac8fd36f4dcde89573336395df0430563990b6",
+    "Server_Full/README_STAGE81_RU.txt": "d33034cca562611aec4ba350bae8b63b0eb72b40c71de1107ab97d8b23e24621"
+  }
+}

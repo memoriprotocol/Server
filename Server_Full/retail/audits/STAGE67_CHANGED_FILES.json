@@ -1,0 +1,192 @@
+[
+  {
+    "path": "ISSUES_STAGE67_RU.txt",
+    "change": "added",
+    "sha256": "73b649542a3326a6205b9c8feae3a2e7d3d434aea37e3d6333e57eb44ee86144"
+  },
+  {
+    "path": "README_STAGE67_RU.txt",
+    "change": "added",
+    "sha256": "da2f62e3f2de45e8ca6a472536fce8ab5cba638a5133165a5f32e6bc8391c691"
+  },
+  {
+    "path": "SKILL_COVERAGE_STAGE67_RU.txt",
+    "change": "added",
+    "sha256": "1f8bcceace2808f2710c37eca9cdd6d167ee9e2a7b4d8c786d84f7a9087c3962"
+  },
+  {
+    "path": "Server_Full/README_STAGE67_RU.txt",
+    "change": "added",
+    "sha256": "da2f62e3f2de45e8ca6a472536fce8ab5cba638a5133165a5f32e6bc8391c691"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "change": "modified",
+    "sha256": "190a84c4a34e2ee2173d550e99d9a15fda3b67047cdd2b395484ace1028b1fda"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "60b24b175de228667d89eeb21e96ba9ceba5b44f675e5d377298cbd29a1647b7"
+  },
+  {
+    "path": "Server_Full/Server/lib/displacement-3127.js",
+    "change": "modified",
+    "sha256": "2f6fe16ad40acfa8a2a135ad610afe6b4b497a21a695b41773c1e9ca981ca4f1"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-passives-3127.js",
+    "change": "modified",
+    "sha256": "10767ec3730712fdff585091bf36dac3f65dca5c7dfc44966cc43797ecb9e199"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "9c7854738b96a16c273286a43f53e61dbc3c028cfd686182fa6d7ef6b00d2d05"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "1212951063b31d8b0852ea83e8382e0da09003e900362a493357e41ad888353a"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "change": "modified",
+    "sha256": "027849479decff3fd9553a9f30e505f8649178fa5399c3d8b9dbfca064264514"
+  },
+  {
+    "path": "Server_Full/Server/lib/storm-skills-3127.js",
+    "change": "modified",
+    "sha256": "3dca53c13ec7b71c74d924648fa3c4cfa852a740ed3a72028a641aca808151a3"
+  },
+  {
+    "path": "Server_Full/Server/lib/swordsman-3127.js",
+    "change": "added",
+    "sha256": "d834f02b0b38b402eeb9762263f54aa5625a6b639d65defc28cb79886ed5fb83"
+  },
+  {
+    "path": "Server_Full/Server/lib/wizard-frost-3127.js",
+    "change": "added",
+    "sha256": "c57ba4acdf0e35da8de7abf4e350afd505273a956f9fcce238a2387f9edf97f7"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage67-native.js",
+    "change": "added",
+    "sha256": "0a035a74f4017e9c338ecde188fa6bfb0e51cfbc3350fc2db0d8ac647583d91a"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage67-frost-passives.test.js",
+    "change": "added",
+    "sha256": "438385a189281cfb5cd6bfc5be1c256b722c270b3a7c06c40b09f6fb8368cc52"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage67-native-visuals.test.js",
+    "change": "added",
+    "sha256": "c5a159ba31d0217ef13a127519fd45b8573c6e76281b12b656fc9f5f634acb5c"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage67-swordsman.test.js",
+    "change": "added",
+    "sha256": "6eed9c2c1c4b2d396ea7837ff101c93e204f48580356fc0315833034ab738b09"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "ebabed4156276e25a075551d224268aefcc8852c60c219c65d9b8d80c607d595"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_HERO_MECHANICS.json",
+    "change": "added",
+    "sha256": "09589d38a024a0f07f2e84071929cabfc8c4f080f498e2111cdebd341ec617a0"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "1a5a1d2cf2a2108035c642efe1a6a7d6a18ded65e928ee680191f2b453702c90"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "ca40f532da993221f8a3cbeb3fc235c2c407d11893d06246308823093bf7d8f1"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_SMOKE.log",
+    "change": "added",
+    "sha256": "77a69c1004c09951d0e9af144333f4521df15417fc2ba14a76b17f022172fa9f"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_TESTS.log",
+    "change": "added",
+    "sha256": "05be8792745c964ac0bc0dcfb9b7106fceb8cda60f34c772df79f59e5968c308"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_VALIDATION.json",
+    "change": "added",
+    "sha256": "a7d34e58014dee18cd543edf82d5475b8c720d25c8b8d3411f2e1f6e1c7b066e"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE67_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/BuffCfg.ts",
+    "change": "added",
+    "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/CCSkillCDComp.ts",
+    "change": "added",
+    "sha256": "bed804be8f05eccf664fd9946b1639b29264b03e3492df9c891b303907edb436"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/CCSwordQi.ts",
+    "change": "added",
+    "sha256": "7558dff66cac2ab896f52fd130277d6c53fb99a92b13fefa720276e5db1c89e1"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/Creatures.ts",
+    "change": "added",
+    "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/SkillCDData.ts",
+    "change": "added",
+    "sha256": "66c94b81da1d83238dbbe72b0365511df6edd702b07af243679d64d8717ee5e5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/SkillCfg.ts",
+    "change": "added",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/Weapon.ts",
+    "change": "added",
+    "sha256": "8ecb52a7fee4b802fd8dd33ffcc4e7755052feb084c6114e3eb350f702395f37"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/frost-assets.json",
+    "change": "added",
+    "sha256": "644241eb90d280583ab732c6ac59b6eff73b513c95dd6ba6a5312e694b7e1d70"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/native-skill-descriptions.json",
+    "change": "added",
+    "sha256": "d930cfb2faf504247c5e14013b15f906d1b623473e72bca5467165df5cf979c7"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage67/swordsman-assets.json",
+    "change": "added",
+    "sha256": "ffd6a091347c23d5ecc86a6c776d1fd010f493fabd445bd8c2c8c30e9c0c7aa6"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "38f918bb4aaaf1c38c6928f401b20afe0833b1c9481a045f9b5c2438c821995e"
+  }
+]

@@ -1,0 +1,490 @@
+{
+  "Hero": [
+    {
+      "ID": 1,
+      "Name": "斯巴达",
+      "Grade": 2,
+      "ItemId": 300100,
+      "Skills": [
+        6013
+      ],
+      "ResourcePath": "arena/player/001斯巴达",
+      "Skins": [
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "Price": 0,
+      "Icon": "io_game/shop/ui/101/spriteFrame",
+      "Sort": 1
+    },
+    {
+      "ID": 2,
+      "Name": "修女",
+      "Grade": 2,
+      "ItemId": 300200,
+      "Skills": [
+        6006
+      ],
+      "ResourcePath": "arena/player/002修女",
+      "Skins": [
+        201,
+        202,
+        203,
+        204
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/201/spriteFrame",
+      "Sort": 2
+    },
+    {
+      "ID": 3,
+      "Name": "吸血鬼",
+      "Grade": 2,
+      "ItemId": 300300,
+      "Skills": [
+        6003
+      ],
+      "ResourcePath": "arena/player/003吸血鬼",
+      "Skins": [
+        302,
+        301,
+        303
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/301/spriteFrame",
+      "Sort": 5
+    },
+    {
+      "ID": 4,
+      "Name": "魔法师",
+      "Grade": 2,
+      "ItemId": 300400,
+      "Skills": [
+        6004
+      ],
+      "ResourcePath": "arena/player/004魔法师",
+      "Skins": [
+        401,
+        403,
+        402
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/401/spriteFrame",
+      "Sort": 4
+    },
+    {
+      "ID": 5,
+      "Name": "亡灵术士",
+      "Grade": 2,
+      "ItemId": 300500,
+      "Skills": [
+        6007
+      ],
+      "ResourcePath": "arena/player/005亡灵术士",
+      "Skins": [
+        501,
+        502,
+        503
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/501/spriteFrame",
+      "Sort": 6
+    },
+    {
+      "ID": 6,
+      "Name": "圣骑士",
+      "Grade": 2,
+      "ItemId": 300600,
+      "Skills": [
+        6005
+      ],
+      "ResourcePath": "arena/player/006圣骑士",
+      "Skins": [
+        601,
+        602,
+        603,
+        604
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/601/spriteFrame",
+      "Sort": 7
+    },
+    {
+      "ID": 7,
+      "Name": "木乃伊",
+      "Grade": 2,
+      "ItemId": 300700,
+      "Skills": [
+        6009,
+        6023
+      ],
+      "ResourcePath": "arena/player/007木乃伊",
+      "Skins": [
+        701,
+        702,
+        703
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/701/spriteFrame",
+      "Sort": 8
+    },
+    {
+      "ID": 8,
+      "Name": "德鲁伊",
+      "Grade": 2,
+      "ItemId": 300800,
+      "Skills": [
+        6008
+      ],
+      "ResourcePath": "arena/player/008德鲁伊",
+      "Skins": [
+        801,
+        805
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/801/spriteFrame",
+      "Sort": 9
+    },
+    {
+      "ID": 9,
+      "Name": "树人",
+      "Grade": 2,
+      "ItemId": 300900,
+      "Skills": [
+        6010,
+        6028
+      ],
+      "ResourcePath": "arena/player/009树人",
+      "Skins": [
+        901,
+        902,
+        903,
+        904
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/901/spriteFrame",
+      "Sort": 10
+    },
+    {
+      "ID": 10,
+      "Name": "国王",
+      "Grade": 2,
+      "ItemId": 301000,
+      "Skills": [
+        6011
+      ],
+      "ResourcePath": "arena/player/010圣骑士",
+      "Skins": [
+        1001,
+        1002,
+        1003
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1001/spriteFrame",
+      "Sort": 11
+    },
+    {
+      "ID": 11,
+      "Name": "女巫",
+      "Grade": 2,
+      "ItemId": 301100,
+      "Skills": [
+        6012
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        1101,
+        1102,
+        1103
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1101/spriteFrame",
+      "Sort": 3
+    },
+    {
+      "ID": 12,
+      "Name": "忍者",
+      "Grade": 2,
+      "ItemId": 301200,
+      "Skills": [
+        6014
+      ],
+      "ResourcePath": "arena/player/010忍者",
+      "Skins": [
+        1201,
+        1202,
+        1203,
+        1204
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1201/spriteFrame",
+      "Sort": 12
+    },
+    {
+      "ID": 13,
+      "Name": "吟游诗人",
+      "Grade": 2,
+      "ItemId": 301300,
+      "Skills": [
+        6015,
+        6032
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        1301,
+        1302,
+        1303,
+        1304
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1301/spriteFrame",
+      "Sort": 13
+    },
+    {
+      "ID": 15,
+      "Name": "兔耳游侠",
+      "Grade": 2,
+      "ItemId": 301500,
+      "Skills": [
+        6017
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        1501,
+        1502,
+        1503,
+        1504,
+        1505
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1501/spriteFrame",
+      "Sort": 14
+    },
+    {
+      "ID": 17,
+      "Name": "厨娘",
+      "Grade": 2,
+      "ItemId": 301700,
+      "Skills": [
+        6019
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        1701,
+        1702,
+        1703,
+        1704,
+        1705
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1701/spriteFrame",
+      "Sort": 15
+    },
+    {
+      "ID": 19,
+      "Name": "史莱姆",
+      "Grade": 2,
+      "ItemId": 301900,
+      "Skills": [
+        6020,
+        6021
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        1901,
+        1902
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/1901/spriteFrame",
+      "Sort": 16
+    },
+    {
+      "ID": 20,
+      "Name": "小恶魔",
+      "Grade": 2,
+      "ItemId": 302000,
+      "Skills": [
+        6022
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2001,
+        2002,
+        2003,
+        2004
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2001/spriteFrame",
+      "Sort": 17
+    },
+    {
+      "ID": 21,
+      "Name": "炸弹人",
+      "Grade": 2,
+      "ItemId": 302100,
+      "Skills": [
+        6024,
+        6025
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2101,
+        2105,
+        2102,
+        2103,
+        2104,
+        2106
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2101/spriteFrame",
+      "Sort": 18
+    },
+    {
+      "ID": 22,
+      "Name": "狼人",
+      "Grade": 2,
+      "ItemId": 302200,
+      "Skills": [
+        6026
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2201,
+        2203,
+        2205,
+        2207
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2201/spriteFrame",
+      "Sort": 19
+    },
+    {
+      "ID": 23,
+      "Name": "咕咕",
+      "Grade": 2,
+      "ItemId": 302300,
+      "Skills": [
+        6029
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2301,
+        2303,
+        2305,
+        2307
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2301/spriteFrame",
+      "Sort": 20
+    },
+    {
+      "ID": 24,
+      "Name": "仓鼠",
+      "Grade": 2,
+      "ItemId": 302400,
+      "Skills": [
+        6030
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2401,
+        2402
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2401/spriteFrame",
+      "Sort": 21
+    },
+    {
+      "ID": 25,
+      "Name": "剑客",
+      "Grade": 2,
+      "ItemId": 302500,
+      "Skills": [
+        6031
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2501,
+        2502,
+        2503
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2501/spriteFrame",
+      "Sort": 22
+    },
+    {
+      "ID": 26,
+      "Name": "工程师",
+      "Grade": 2,
+      "ItemId": 302600,
+      "Skills": [
+        6033
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2601,
+        2603
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2601/spriteFrame",
+      "Sort": 23
+    },
+    {
+      "ID": 27,
+      "Name": "维京战士",
+      "Grade": 2,
+      "ItemId": 302700,
+      "Skills": [
+        6039
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2701,
+        2702,
+        2703,
+        2704
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2701/spriteFrame",
+      "Sort": 24
+    },
+    {
+      "ID": 28,
+      "Name": "龙太子",
+      "Grade": 2,
+      "ItemId": 302800,
+      "Skills": [
+        6040,
+        6041
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2801,
+        2802
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2801/spriteFrame",
+      "Sort": 25
+    },
+    {
+      "ID": 29,
+      "Name": "花仙子",
+      "Grade": 2,
+      "ItemId": 302900,
+      "Skills": [
+        6042
+      ],
+      "ResourcePath": "arena/player/011女巫",
+      "Skins": [
+        2901,
+        2902
+      ],
+      "Price": 100,
+      "Icon": "io_game/shop/ui/2901/spriteFrame",
+      "Sort": 26
+    }
+  ]
+}

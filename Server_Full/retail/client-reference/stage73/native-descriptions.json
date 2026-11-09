@@ -1,0 +1,32 @@
+[
+  {
+    "language": "en",
+    "key": "hero/skill/6010/1",
+    "verbatimFragment": "\"hero/skill/6010/1\",\"Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\\nShoots spikes outwards, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG.\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6010/2",
+    "verbatimFragment": "\"hero/skill/6010/2\",\"Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\\nShoots spikes outwards, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG, and applying a ${cfg.args.duration/1000}s Root effect to enemies [Root: Can’t move].\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6010/3",
+    "verbatimFragment": "\"hero/skill/6010/3\",'Passive:\\x20When\\x20casting\\x20a\\x20weapon\\x20skill,\\x20apply\\x20a\\x20healing\\x20leaf\\x20to\\x20yourself\\x20and\\x20up\\x20to\\x203\\x20allies\\x20nearby,\\x20restoring\\x20HP\\x20(${cfg.args.hpArgs}%\\x20of\\x20Treant\\x27s\\x20Max\\x20HP)\\x0aShoots\\x20spikes\\x20outwards\\x20two\\x20times,\\x20with\\x20each\\x20spike\\x20dealing\\x20${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%\\x20ATK)\\x20DMG,\\x20and\\x20applying\\x20a\\x20${cfg.args.duration/1000}s\\x20Root\\x20effect\\x20to\\x20enemies\\x20[Root:\\x20Can’t\\x20move].'"
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6010/1",
+    "verbatimFragment": "'hero/skill/6010/1',\"被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\\n向前方释放尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6010/2",
+    "verbatimFragment": "\"hero/skill/6010/2\",\"被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\\n向前方释放尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,并对敌人施加${cfg.args.duration/1000}秒的束缚状态【束缚：无法移动】\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6010/3",
+    "verbatimFragment": "'hero/skill/6010/3',\"被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\\n向前方释放两次尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,并对敌人施加${cfg.args.duration/1000}秒的束缚状态【束缚：无法移动】\""
+  }
+]

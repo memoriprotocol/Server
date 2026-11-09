@@ -1,0 +1,208 @@
+TAP version 13
+# Subtest: Chicken star1 skin2301 native form, speed, buffs, expiry
+ok 1 - Chicken star1 skin2301 native form, speed, buffs, expiry
+  ---
+  duration_ms: 42.217818
+  type: 'test'
+  ...
+# Subtest: Chicken star1 skin2307 native form, speed, buffs, expiry
+ok 2 - Chicken star1 skin2307 native form, speed, buffs, expiry
+  ---
+  duration_ms: 3.505998
+  type: 'test'
+  ...
+# Subtest: Chicken star1 skin2305 native form, speed, buffs, expiry
+ok 3 - Chicken star1 skin2305 native form, speed, buffs, expiry
+  ---
+  duration_ms: 4.132078
+  type: 'test'
+  ...
+# Subtest: Chicken star1 skin2303 native form, speed, buffs, expiry
+ok 4 - Chicken star1 skin2303 native form, speed, buffs, expiry
+  ---
+  duration_ms: 3.899318
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2301 native form, speed, buffs, expiry
+ok 5 - Chicken star2 skin2301 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.784473
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2307 native form, speed, buffs, expiry
+ok 6 - Chicken star2 skin2307 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.324933
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2305 native form, speed, buffs, expiry
+ok 7 - Chicken star2 skin2305 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.285393
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2303 native form, speed, buffs, expiry
+ok 8 - Chicken star2 skin2303 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.559826
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2301 native form, speed, buffs, expiry
+ok 9 - Chicken star3 skin2301 native form, speed, buffs, expiry
+  ---
+  duration_ms: 4.310577
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2307 native form, speed, buffs, expiry
+ok 10 - Chicken star3 skin2307 native form, speed, buffs, expiry
+  ---
+  duration_ms: 3.769623
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2305 native form, speed, buffs, expiry
+ok 11 - Chicken star3 skin2305 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.441798
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2303 native form, speed, buffs, expiry
+ok 12 - Chicken star3 skin2303 native form, speed, buffs, expiry
+  ---
+  duration_ms: 1.737901
+  type: 'test'
+  ...
+# Subtest: Native 3.12.7 tables prove 4 normal/alternate skin pairs and 4 buff identifiers
+ok 13 - Native 3.12.7 tables prove 4 normal/alternate skin pairs and 4 buff identifiers
+  ---
+  duration_ms: 0.378979
+  type: 'test'
+  ...
+# Subtest: Chicken form blocks weapon and basic attacks but keeps movement state
+ok 14 - Chicken form blocks weapon and basic attacks but keeps movement state
+  ---
+  duration_ms: 2.187746
+  type: 'test'
+  ...
+# Subtest: Chicken cannot double-cast or spend another charge during form
+ok 15 - Chicken cannot double-cast or spend another charge during form
+  ---
+  duration_ms: 1.97008
+  type: 'test'
+  ...
+# Subtest: Native level gate rejects Chicken F before cooldown
+ok 16 - Native level gate rejects Chicken F before cooldown
+  ---
+  duration_ms: 1.886344
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on death
+ok 17 - Chicken form invalidates on death
+  ---
+  duration_ms: 2.082088
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on hero
+ok 18 - Chicken form invalidates on hero
+  ---
+  duration_ms: 2.185463
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on skin
+ok 19 - Chicken form invalidates on skin
+  ---
+  duration_ms: 2.060216
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on room
+ok 20 - Chicken form invalidates on room
+  ---
+  duration_ms: 2.528869
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on map
+ok 21 - Chicken form invalidates on map
+  ---
+  duration_ms: 2.159915
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on life
+ok 22 - Chicken form invalidates on life
+  ---
+  duration_ms: 4.385788
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on actor
+ok 23 - Chicken form invalidates on actor
+  ---
+  duration_ms: 1.951431
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on loading
+ok 24 - Chicken form invalidates on loading
+  ---
+  duration_ms: 1.639723
+  type: 'test'
+  ...
+# Subtest: Chicken cleanup on hero switch retains no transformed buff or native visual
+ok 25 - Chicken cleanup on hero switch retains no transformed buff or native visual
+  ---
+  duration_ms: 5.550319
+  type: 'test'
+  ...
+# Subtest: Chicken no fabricated visual entity, projectile or direct damage
+ok 26 - Chicken no fabricated visual entity, projectile or direct damage
+  ---
+  duration_ms: 8.606024
+  type: 'test'
+  ...
+# Subtest: Client-defined Chicken passive initSelfBuff 237 + 457 for 1 stars
+ok 27 - Client-defined Chicken passive initSelfBuff 237 + 457 for 1 stars
+  ---
+  duration_ms: 25.30982
+  type: 'test'
+  ...
+# Subtest: Client-defined Chicken passive initSelfBuff 237 + 457 for 2 stars
+ok 28 - Client-defined Chicken passive initSelfBuff 237 + 457 for 2 stars
+  ---
+  duration_ms: 1.887616
+  type: 'test'
+  ...
+# Subtest: Client-defined Chicken passive initSelfBuff 237 + 457 for 3 stars
+ok 29 - Client-defined Chicken passive initSelfBuff 237 + 457 for 3 stars
+  ---
+  duration_ms: 1.933645
+  type: 'test'
+  ...
+# Subtest: Chicken passive exists without casting F and does not expire with F
+ok 30 - Chicken passive exists without casting F and does not expire with F
+  ---
+  duration_ms: 15.340217
+  type: 'test'
+  ...
+# Subtest: Chicken F does not silently borrow Paladin debuff cleansing
+ok 31 - Chicken F does not silently borrow Paladin debuff cleansing
+  ---
+  duration_ms: 3.483844
+  type: 'test'
+  ...
+# Subtest: Chicken passive updates star arguments and cleans old life
+ok 32 - Chicken passive updates star arguments and cleans old life
+  ---
+  duration_ms: 1.479763
+  type: 'test'
+  ...
+# Subtest: No Chicken passive buff leaks across hero switch
+ok 33 - No Chicken passive buff leaks across hero switch
+  ---
+  duration_ms: 2.129464
+  type: 'test'
+  ...
+1..33
+# tests 33
+# suites 0
+# pass 33
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 469.062355

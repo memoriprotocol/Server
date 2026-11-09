@@ -1,0 +1,26 @@
+[
+  {
+    "path": "arena/skills/bingjinglingfazhang/prefab/bingjinglingfazhang_skill_01",
+    "index": 50422,
+    "pack": "a3314b8b-3c8c-4cb6-a742-2740cef6da37",
+    "crcVerified": true,
+    "sha256": "6e67f98664ab556cc348d60f3a621ced7e5eed58e7ab02310e62676a73997ed4",
+    "bytes": 6623
+  },
+  {
+    "path": "arena/skills/bingjinglingfazhang/prefab/bingjinglingfazhang_skill_02",
+    "index": 36313,
+    "pack": "0e7cec3f6",
+    "crcVerified": true,
+    "sha256": "6a3400eb1ae38611b8ffd01ae4ad002851972ddbf93eaa1e58f5b0407d76ad29",
+    "bytes": 3091
+  },
+  {
+    "path": "arena/skills/bingjinglingfazhang/prefab/bingjinglingfazhang_skill_03",
+    "index": 51741,
+    "pack": "ba0dc064-57c6-45f7-b7a8-b5441ea67167",
+    "crcVerified": true,
+    "sha256": "324c42369e522b987ba19ab0db6196316ea7c910478cba2bd79a6651745d09d7",
+    "bytes": 4627
+  }
+]

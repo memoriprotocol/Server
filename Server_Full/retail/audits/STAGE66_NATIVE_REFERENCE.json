@@ -1,0 +1,36 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage66/BuffCfg.ts",
+      "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage66/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage66/CCSkillCDComp.ts",
+      "sha256": "bed804be8f05eccf664fd9946b1639b29264b03e3492df9c891b303907edb436",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage66/CCSkillComp.ts",
+      "sha256": "49f6b4973a00a7f91d9f702b65e8edc40b208581b80076259353a89c2c2917a9",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage66/SkillCDData.ts",
+      "sha256": "66c94b81da1d83238dbbe72b0365511df6edd702b07af243679d64d8717ee5e5",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage66/SkillCfg.ts",
+      "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "skillDescriptionExcerpts": 15,
+  "originalEnglishFactorySHA256": "614aeacd2a35a243aa15c3be4632ab032631ab85c365e88620ad2536c1949ceb"
+}

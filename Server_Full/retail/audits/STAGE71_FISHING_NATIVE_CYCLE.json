@@ -1,0 +1,470 @@
+{
+  "stage": 71,
+  "version": "0.49.0-stage71-fishing-native-cycle",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage71/AnimManager.ts",
+      "sha256": "c8a69f5bd3f22287c25f279bae99fca5366e98aef4964aca69132f8434ff1398",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/BuffCfg.ts",
+      "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCBodyAnimComp.ts",
+      "sha256": "a8ef2249b64ed4a516ce6fbb13393d310d98548aed9b234100506c7abe0a8824",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCBodyAnimComp2.ts",
+      "sha256": "86d6623d82353942229fd9b4f05d1bdcc93ac1c95c77cbffa80c363e1ba500ec",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCPetComp.ts",
+      "sha256": "3eb6c3a060974464f8800cfac620e099d81ca870999974ea4ae512c963e65353",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/WeaponManager.ts",
+      "sha256": "f63a77a43e420423633676a5fd2b9faca5c480f7bca919b0c7cf3a678da1d589",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "rodAssets": [
+    {
+      "rodModel": 619200,
+      "index": 45574,
+      "path": "arena/player/weapons/619200/left/619200",
+      "pack": "493d60c2-0e3f-4623-946f-9ecc1eeccdfe",
+      "importSHA256": "27e8aadf8e64c3a7cefd10cf97a9233488c12f4dbb67fd6c7fa9773df3fb56cd",
+      "nativeBytesDeclared": 54539,
+      "nativeCRC32Declared": 234800490,
+      "nativeZipVolume": 4,
+      "nativeBytesRead": false,
+      "nativeSHA256": null,
+      "animationTimelinesDecoded": false
+    },
+    {
+      "rodModel": 619201,
+      "index": 45751,
+      "path": "arena/player/weapons/619201/left/619201",
+      "pack": "4c49c75f-eb82-4080-b1b3-aade836f4418",
+      "importSHA256": "3db1af503294d969b064a90cfe54fd8048f5d0c455fbac91274f70e977ada2c4",
+      "nativeBytesDeclared": 56864,
+      "nativeCRC32Declared": 2341090391,
+      "nativeZipVolume": 4,
+      "nativeBytesRead": false,
+      "nativeSHA256": null,
+      "animationTimelinesDecoded": false
+    },
+    {
+      "rodModel": 619202,
+      "index": 49813,
+      "path": "arena/player/weapons/619202/left/619202",
+      "pack": "97abe663-2b03-4055-895c-f763e62b8345",
+      "importSHA256": "aaf5956ebcaed9a79f0cfef9bb9ec9b8a622716a5e230a0cd037eb0fb0e683c4",
+      "nativeBytesDeclared": 69108,
+      "nativeCRC32Declared": 3130881579,
+      "nativeZipVolume": 7,
+      "nativeBytesRead": false,
+      "nativeSHA256": null,
+      "animationTimelinesDecoded": false
+    }
+  ],
+  "descriptions": {
+    "sources": [
+      {
+        "language": "en",
+        "sha256": "614aeacd2a35a243aa15c3be4632ab032631ab85c365e88620ad2536c1949ceb"
+      },
+      {
+        "language": "zh",
+        "sha256": "583812f0968b98e41e26e377c27427a7076b939847d120bd87b67171ba845b1e"
+      }
+    ],
+    "fragments": [
+      {
+        "language": "en",
+        "key": "shop/shopItem/name/500001/desc",
+        "verbatimFragment": "shop/shopItem/name/500001/desc\",\"Winter Fishing Rod: Fishing Efficiency +20%\""
+      },
+      {
+        "language": "en",
+        "key": "shop/shopItem/name/500002/desc",
+        "verbatimFragment": "shop/shopItem/name/500002/desc\",\"Bamboo Fishing Rod: Fishing Efficiency +20%\""
+      },
+      {
+        "language": "en",
+        "key": "fishing/rod/fishingRod_0",
+        "verbatimFragment": "fishing/rod/fishingRod_0\",\"Common Fishing Rod\""
+      },
+      {
+        "language": "zh",
+        "key": "shop/shopItem/name/500001/desc",
+        "verbatimFragment": "shop/shopItem/name/500001/desc\",\"冰雪渔歌: 钓鱼效率+20%\""
+      },
+      {
+        "language": "zh",
+        "key": "shop/shopItem/name/500002/desc",
+        "verbatimFragment": "shop/shopItem/name/500002/desc\",'清风竹影:\\x20钓鱼效率+20%'"
+      },
+      {
+        "language": "zh",
+        "key": "fishing/rod/fishingRod_0",
+        "verbatimFragment": "fishing/rod/fishingRod_0\",'普通钓鱼竿'"
+      }
+    ]
+  },
+  "nativeBuffs": [
+    {
+      "type": 66,
+      "name": "钓鱼中",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [],
+      "duration": -1,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": ""
+    },
+    {
+      "type": 84,
+      "name": "钓鱼小",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [],
+      "duration": 3000,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": ""
+    },
+    {
+      "type": 85,
+      "name": "钓鱼大",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [],
+      "duration": 3000,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": ""
+    },
+    {
+      "type": 86,
+      "name": "钓鱼空",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [],
+      "duration": 3000,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": ""
+    },
+    {
+      "type": 713,
+      "name": "冬季鱼竿",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [
+        5,
+        619201
+      ],
+      "duration": -1,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "arena/buffIcons/rod_winterRod/spriteFrame",
+      "buffDesc": "效率+20%"
+    },
+    {
+      "type": 714,
+      "name": "踏青鱼竿",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [
+        5,
+        619202
+      ],
+      "duration": -1,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "arena/buffIcons/rod_winterRod/spriteFrame",
+      "buffDesc": "效率+20%"
+    }
+  ],
+  "ingredients": [
+    {
+      "ID": 1,
+      "type": 1,
+      "ItemID": 101100,
+      "Name": "瓶子",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 350,
+      "Quantity": 0,
+      "Exp": 80,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_1/spriteFrame"
+    },
+    {
+      "ID": 2,
+      "type": 1,
+      "ItemID": 101200,
+      "Name": "海螺",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 300,
+      "Quantity": 0,
+      "Exp": 160,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_2/spriteFrame"
+    },
+    {
+      "ID": 3,
+      "type": 1,
+      "ItemID": 102100,
+      "Name": "龙虾",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 300,
+      "Quantity": 0,
+      "Exp": 240,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_11/spriteFrame"
+    },
+    {
+      "ID": 4,
+      "type": 1,
+      "ItemID": 102300,
+      "Name": "金枪鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 200,
+      "Quantity": 0,
+      "Exp": 400,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_13/spriteFrame"
+    },
+    {
+      "ID": 5,
+      "type": 1,
+      "ItemID": 102500,
+      "Name": "竹荚鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 100,
+      "Quantity": 0,
+      "Exp": 1600,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_15/spriteFrame"
+    },
+    {
+      "ID": 6,
+      "type": 1,
+      "ItemID": 102700,
+      "Name": "鳐鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 50,
+      "Quantity": 0,
+      "Exp": 4000,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_17/spriteFrame"
+    },
+    {
+      "ID": 7,
+      "type": 1,
+      "ItemID": 102800,
+      "Name": "鳟鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 10,
+      "Quantity": 0,
+      "Exp": 8000,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_18/spriteFrame"
+    },
+    {
+      "ID": 8,
+      "type": 2,
+      "ItemID": 101300,
+      "Name": "沙丁鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 350,
+      "Quantity": 0,
+      "Exp": 200,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_3/spriteFrame"
+    },
+    {
+      "ID": 9,
+      "type": 2,
+      "ItemID": 101400,
+      "Name": "秋刀鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 300,
+      "Quantity": 0,
+      "Exp": 400,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_4/spriteFrame"
+    },
+    {
+      "ID": 10,
+      "type": 2,
+      "ItemID": 102200,
+      "Name": "石斑鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 300,
+      "Quantity": 0,
+      "Exp": 600,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_12/spriteFrame"
+    },
+    {
+      "ID": 11,
+      "type": 2,
+      "ItemID": 102400,
+      "Name": "鲷鱼",
+      "UnlockLv": 1,
+      "Star": 1,
+      "ObtainProb": 200,
+      "Quantity": 0,
+      "Exp": 1000,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_14/spriteFrame"
+    },
+    {
+      "ID": 12,
+      "type": 2,
+      "ItemID": 102600,
+      "Name": "三文鱼",
+      "UnlockLv": 1,
+      "Star": 2,
+      "ObtainProb": 100,
+      "Quantity": 0,
+      "Exp": 4000,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_16/spriteFrame"
+    },
+    {
+      "ID": 13,
+      "type": 2,
+      "ItemID": 102900,
+      "Name": "银飞鱼",
+      "UnlockLv": 1,
+      "Star": 2,
+      "ObtainProb": 50,
+      "Quantity": 0,
+      "Exp": 10000,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_19/spriteFrame"
+    },
+    {
+      "ID": 14,
+      "type": 2,
+      "ItemID": 103000,
+      "Name": "天使鱼",
+      "UnlockLv": 1,
+      "Star": 2,
+      "ObtainProb": 10,
+      "Quantity": 0,
+      "Exp": 20000,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/fishers/fisher_20/spriteFrame"
+    }
+  ],
+  "nativeMechanics": {
+    "group170": "BuffCfg.BuffGroup.fishingRod and CCBuffComp.getBuffsByGroup use the wire group; default group0 could not select a special rod",
+    "models": {
+      "default": 619200,
+      "500001": 619201,
+      "500002": 619202
+    },
+    "fourAnimations": {
+      "66": "diaoyu",
+      "84": "diaoyu2",
+      "85": "diaoyu3",
+      "86": "diaoyu4"
+    },
+    "resultCompletion": "both original CCBodyAnimComp and CCBodyAnimComp2 setCompleteListener return diaoyu2/3/4 to diaoyu; preserve66 and rod until actual stop",
+    "stop": "original removal66 restores combat weapon and stand",
+    "ownedRodInput": "native CCPetComp sends the itemID in fishingRodIdx, not the picker slot",
+    "ownership": "purchased/mail/granted/legacy item50 native rods unlock fishRod and leave Item; live native updateUserdata refreshes picker"
+  },
+  "localPolicies": {
+    "scope": "Map2 dry shoreline heuristic retained; native full fishing-area geometry not recovered",
+    "baseWait": 12000,
+    "baseWaitRetailVerified": false,
+    "rodWait": "round(base*(1-min90,talent21/100)/1.2), min1000ms; +20% from bilingual client shop descriptions interpreted as wait-rate efficiency",
+    "rodArg0": "Buff713/714 args[0]=5 retained but its exact retail-server meaning is unresolved; not relabelled as20",
+    "resultWait": 3000,
+    "cycle": "native result buff expires; existing66 and rod retained; next wait starts at observed resume time; no catch-up",
+    "selection": "existing eligible Ingredients weighted pool preserved; one item and native Exp per catch; Star>=2 selects big result; empty only when no eligible result; exact retail pool/type mapping and failure probability unproven",
+    "session": "world/actor/room/map/hero/skin bound; movement, water/shore exit, mount, death, owned-rod revocation and supported control cancel; lifetime clear stops before hero/skin changes",
+    "ownership": "two defined native rods are permanent unique entries; duplicate cards consumed without inventing an exchange rate",
+    "transaction": "fish/XP/quests/pass progress and in-memory committed marker saved together; failed save retains roll for retry or cancels without reward on movement",
+    "recovery": "failed game.push in native replicate captures fishing actor; per-recipient current snapshots retry <=250ms; own bag/currencies/currentXP only to owner; XP delta0; no reward command replay; obsolete room/actor jobs discarded",
+    "deadRecovery": "rod cleanup precedes current death event to avoid stand overriding a dead avatar",
+    "limits": "128 pending actors per observed recipient tick; queue keyed by actor; no infinite duplicated entries"
+  },
+  "validation": {
+    "nativeVM": [
+      "BuffCfg exports",
+      "CCBuffComp.getBuffsByGroup",
+      "CCBodyAnimComp.onChangeFishingRod",
+      "CCBodyAnimComp/2 native animation completion callbacks for each result",
+      "CCBuffComp native66 removal and84/85/86 dispatch",
+      "CCPetComp native CommandStartFishing input"
+    ],
+    "websocket": "native shop purchases, live rod list, actual10-second catch, forced send failure, current-state retry, result expiry without66 reset and both rod selections"
+  },
+  "oldTestCorrection": {
+    "file": "stage47-skills-fishing.test.js",
+    "originalExpectation": "66 removal at each result",
+    "replacement": "66 never removed on normal result, exactly one66 installation across the cycle",
+    "reason": "source-native animation callbacks and inactive66 consumer prove original expectation reset the weapon/stand instead of continuing fishing",
+    "otherOldTestsChanged": 0
+  },
+  "remaining": [
+    "exact retail base interval, rod args[0], success probability, Ingredients.type pool semantics and area geometry",
+    "Fishman NPC is still not placed; no later-version fishing merchant invented for the3.12.7 catalog",
+    "native .bin animation timelines were not decoded; import metadata verified, raw bytes in unavailable split volumes were not read",
+    "Windows/Cocos live render and actual client asset loading remain unverified",
+    "full game restoration and previous remaining issues continue"
+  ],
+  "restorationComplete": false,
+  "fullFishingRetailParity": false,
+  "windowsClientRendered": false
+}

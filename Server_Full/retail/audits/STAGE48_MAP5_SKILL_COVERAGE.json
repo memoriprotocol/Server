@@ -1,0 +1,197 @@
+[
+  {
+    "cid": 1309,
+    "skills": [
+      {
+        "id": 2097,
+        "type": 131,
+        "animationIndex": 0,
+        "cd": 6000,
+        "castPointTime": 2600,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2098,
+        "type": 132,
+        "animationIndex": 1,
+        "cd": 6800,
+        "castPointTime": 1500,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2099,
+        "type": 133,
+        "animationIndex": 2,
+        "cd": 2000,
+        "castPointTime": 2000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2100,
+        "type": 134,
+        "animationIndex": 3,
+        "cd": 2600,
+        "castPointTime": 1600,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      }
+    ]
+  },
+  {
+    "cid": 1316,
+    "skills": [
+      {
+        "id": 2277,
+        "type": 439,
+        "animationIndex": 0,
+        "cd": 5000,
+        "castPointTime": 2000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2278,
+        "type": 438,
+        "animationIndex": 1,
+        "cd": 3000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2279,
+        "type": 440,
+        "animationIndex": 2,
+        "cd": 35000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      }
+    ]
+  },
+  {
+    "cid": 1317,
+    "skills": [
+      {
+        "id": 2280,
+        "type": 444,
+        "animationIndex": 0,
+        "cd": 4000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2281,
+        "type": 445,
+        "animationIndex": 1,
+        "cd": 5000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2282,
+        "type": 446,
+        "animationIndex": 2,
+        "cd": 35000,
+        "castPointTime": 700,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      }
+    ]
+  },
+  {
+    "cid": 1318,
+    "skills": [
+      {
+        "id": 2286,
+        "type": 456,
+        "animationIndex": 0,
+        "cd": 5000,
+        "castPointTime": 1500,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2287,
+        "type": 457,
+        "animationIndex": 1,
+        "cd": 10000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2288,
+        "type": 458,
+        "animationIndex": 2,
+        "cd": 45000,
+        "castPointTime": 2500,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      }
+    ]
+  },
+  {
+    "cid": 1319,
+    "skills": [
+      {
+        "id": 2293,
+        "type": 468,
+        "animationIndex": 0,
+        "cd": 15000,
+        "castPointTime": 500,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2294,
+        "type": 469,
+        "animationIndex": 1,
+        "cd": 5000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2295,
+        "type": 470,
+        "animationIndex": 2,
+        "cd": 25000,
+        "castPointTime": 1000,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      },
+      {
+        "id": 2296,
+        "type": 471,
+        "animationIndex": 3,
+        "cd": 52000,
+        "castPointTime": 1500,
+        "casting": "native-events",
+        "effects": "NOT_IMPLEMENTED",
+        "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+      }
+    ]
+  }
+]

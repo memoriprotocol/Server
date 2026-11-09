@@ -1,0 +1,147 @@
+[
+  {
+    "path": "ISSUES_STAGE75_RU.txt",
+    "change": "added",
+    "sha256": "c8eca76eb59498732b6323c23447940040d547a8cd07b2412c0a049b70b4d21b"
+  },
+  {
+    "path": "README_STAGE75_RU.txt",
+    "change": "added",
+    "sha256": "363d47fdc119a5ebbabd171b9bb7f3c1732fae663c7c68bde3c67332f4d53b2c"
+  },
+  {
+    "path": "Server_Full/README_STAGE75_RU.txt",
+    "change": "added",
+    "sha256": "363d47fdc119a5ebbabd171b9bb7f3c1732fae663c7c68bde3c67332f4d53b2c"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "60c9eee66428fc1dd7e3b7825e91bbeb6ca739c230f306ff0156a199234fb836"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "change": "modified",
+    "sha256": "02b9f09a330737fb348d5f7edc167045074577034e57c8e3b6f0afa293be9540"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "19f27e8e3d5a25e3b9506ea32f5cbbbdd3701b0f6ac16ebe730ed661462dadab"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "change": "modified",
+    "sha256": "33ea1c66773fb268f6b2d045ebbaaf8c33da78774b14486dad96d00d9945ef35"
+  },
+  {
+    "path": "Server_Full/Server/lib/mummy-3127.js",
+    "change": "added",
+    "sha256": "662d714a31b7423de2e8034bf5e4892fcbd40fc9d203950a3cb2a5331286e6c4"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "e9f53c33fb6740f69a52c2b47688eb17a6fd50a3e47082cf2f5f63269d832d67"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "modified",
+    "sha256": "29119df4897fc4105422b70e59a946cdf5b4bc58226ad08daf0da67c6463b73f"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage75-native.js",
+    "change": "added",
+    "sha256": "e2102304d0c2316875aae46c13d7fe7a974ea94e91bf9c7616d15c8b6579b5de"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage75-mummy.test.js",
+    "change": "added",
+    "sha256": "2aaad9bdf97f85b3a7f172233ceb3ba8a2585a5a6e3d415e9ee86c67d66a21bf"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage75-native-mummy.test.js",
+    "change": "added",
+    "sha256": "9a94db1b60afdc37202e521627f3d52ed104d3faffed94ebaf2d9e5547b6ea47"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "a8be96f95d0f8bddc134b2edd31d4de35c3fb2bf3c832336e0bd1a14d79c887e"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_MUMMY.json",
+    "change": "added",
+    "sha256": "13b5db584d7471df590c87fe24a5ac1eafde73c227a74b02dc485f5b9ff38818"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "1fd9ecadd0afec05c8abf83b1ebca7fba63bb50fa75d1f4e5127c83470514ab5"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "60a11ec75f8b59478bba7eaa4497ad67b586c5b61f73ac6df0dba80dd8288edd"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_SMOKE.log",
+    "change": "added",
+    "sha256": "f8fe45df23e2c79e96c327f9ad1eabbcdff690a7d2f77cbc1d1ea0a315a716fe"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_TESTS.log",
+    "change": "added",
+    "sha256": "d8760481ec00388bfba681ca093833a05afd50a2bc5580bb28e83108f58b8fe6"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_VALIDATION.json",
+    "change": "added",
+    "sha256": "1e89dce2e9d3a7c9af1ec221311c9f91d364f46c4079153f81da48fabf2c5d50"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE75_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/CCScarabBomb.ts",
+    "change": "added",
+    "sha256": "d85c141286e2e024e7d6c0df38858f0da29e186199660d3119b85a1931fd390b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/CCScarabBombPoisonFog.ts",
+    "change": "added",
+    "sha256": "65ab2bf58c01ed3ec4c4f3d85df2d82f5ee123b0484bdde18f5af707a7c3c014"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/CCStaticPhysicsComp.ts",
+    "change": "added",
+    "sha256": "41573b933c7a5a2674882fe5bc8ef5f5a59b9c5eba80f9c75b8520ca55665214"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/HeroSkill.ts",
+    "change": "added",
+    "sha256": "d19beaeb50b7eb5fae8aca6d2731df4e37675eea4b0ec556007e13822faa95cb"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/SkillCfg.ts",
+    "change": "added",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/mummy-assets.json",
+    "change": "added",
+    "sha256": "e6b3e6c699ccdbcffbb3cd52645d867dde6159412b6211170b781e028cc0c065"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage75/native-descriptions.json",
+    "change": "added",
+    "sha256": "cf52930a76c9f14ddf63edf9a522edc44c8fb0e6d4174936070a22208c4fe122"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "461cda027e29ac557d02c2a5a22949605d799b17ce3f677beeeb8f052fbd2035"
+  }
+]

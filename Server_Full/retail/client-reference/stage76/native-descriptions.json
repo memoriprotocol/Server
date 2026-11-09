@@ -1,0 +1,62 @@
+[
+  {
+    "language": "en",
+    "key": "hero/skill/6007/1",
+    "verbatimFragment": "'hero/skill/6007/1',\"Necromancer summons an Imp to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6007/2",
+    "verbatimFragment": "\"hero/skill/6007/2\",\"Necromancer summons a Felfiend with [Lifesteal] to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6007/3",
+    "verbatimFragment": "'hero/skill/6007/3','Necromancer\\x20summons\\x20an\\x20Overfiend\\x20with\\x20[Lifesteal]\\x20and\\x20[Immune\\x20to\\x20Control]\\x20to\\x20fight\\x20for\\x20him\\x20until\\x20being\\x20slayed.\\x20It\\x20takes\\x20${cfg.args.shareDMG}%\\x20of\\x20DMG\\x20Taken\\x20for\\x20its\\x20master.\\x20Its\\x20stats\\x20grow\\x20as\\x20Necromancer\\x20levels\\x20up'"
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6011/1",
+    "verbatimFragment": "'hero/skill/6011/1',\"King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds. Royal legion's stats grow as King levels up.\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6011/2",
+    "verbatimFragment": "\"hero/skill/6011/2\",\"King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. Royal legion's stats grow as King levels up.\""
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6011/3",
+    "verbatimFragment": "\"hero/skill/6011/3\",\"King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. King gains ${cfg.args.defence}% DMG Reduction for each soldier on the field. Royal legion's stats grow as King levels up.\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6007/1",
+    "verbatimFragment": "\"hero/skill/6007/1\",\"亡灵术士从地狱召唤一只小型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6007/2",
+    "verbatimFragment": "'hero/skill/6007/2',\"亡灵术士从地狱召唤一只中型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔获得攻击吸血，持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6007/3",
+    "verbatimFragment": "\"hero/skill/6007/3\",\"亡灵术士从地狱召唤一只大型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔获得控制免疫及攻击吸血，持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6011/1",
+    "verbatimFragment": "\"hero/skill/6011/1\",'国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒（皇家军团的等级与国王的等级相关）'"
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6011/2",
+    "verbatimFragment": "\"hero/skill/6011/2\",\"国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒。脱战时皇家军团每秒恢复${cfg.args.healRate}%血量。（皇家军团的等级与国王的等级相关）\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6011/3",
+    "verbatimFragment": "\"hero/skill/6011/3\",\"国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒。脱战时皇家军团每秒恢复${cfg.args.healRate}%血量。每有一名士兵在场上时，国王获得${cfg.args.defence}%减伤。（皇家军团的等级与国王的等级相关）\""
+  }
+]

@@ -1,0 +1,585 @@
+{
+  "stage": 74,
+  "version": "0.52.0-stage74-witch-cauldron-poison",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCWitchStove.ts",
+      "sha256": "d0df452154f1232585e6d9b28f63486a41153779eb464c093753466c388d6923",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCWitchStoveFire.ts",
+      "sha256": "f7eef8da15b1e6a574487503839c06de34cf748504fdd29acc1d3235a702e5a7",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCWitchStoveTraceFire.ts",
+      "sha256": "7bec0ca802e4bae06dc0886f7228c9da099556028f433d72e334f31121a532fe",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/SkillCfg.ts",
+      "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "nativeSkills": [
+    {
+      "ID": 6012,
+      "level": 1,
+      "skillType": 346,
+      "name": "女巫1星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": false,
+      "isSpecialBeHurtEffect": false,
+      "cd": 30000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 1000,
+      "skillSpeed": 1000,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        600
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        400
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6012/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 15000,
+      "atkargs": 80,
+      "args": [
+        "damage:15000",
+        "num:3",
+        "numTime:1500",
+        "size:1800",
+        "atkArgs:80",
+        "duration:15000"
+      ]
+    },
+    {
+      "ID": 6012,
+      "level": 2,
+      "skillType": 347,
+      "name": "女巫2星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": false,
+      "isSpecialBeHurtEffect": false,
+      "cd": 30000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 1000,
+      "skillSpeed": 1000,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        700
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        400
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [
+        "100,poison_3",
+        "100,subStamina"
+      ],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [
+        "duration:4000,args:60",
+        "duration:4000,propValue:10"
+      ],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6012/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 15000,
+      "atkargs": 90,
+      "args": [
+        "damage:15000",
+        "num:4",
+        "numTime:1500",
+        "size:2000",
+        "atkArgs:90",
+        "duration:20000"
+      ]
+    },
+    {
+      "ID": 6012,
+      "level": 3,
+      "skillType": 348,
+      "name": "女巫3星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": false,
+      "isSpecialBeHurtEffect": false,
+      "cd": 30000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 1000,
+      "skillSpeed": 1000,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        850
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        400
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237,
+        401
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0",
+        "duration:-1,attribute:4,atkAgrs:10"
+      ],
+      "onHitEnemyBuff": [
+        "100,poison_3",
+        "100,subStamina"
+      ],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [
+        "duration:4000,args:60",
+        "duration:4000,propValue:15"
+      ],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6012/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 15000,
+      "atkargs": 100,
+      "args": [
+        "damage:15000",
+        "num:5",
+        "numTime:1500",
+        "size:2200",
+        "atkArgs:100",
+        "duration:25000"
+      ]
+    }
+  ],
+  "nativeBuffs": [
+    {
+      "type": 210,
+      "name": "木乃伊圣甲虫炸弹中毒",
+      "stackBehaviors": [
+        1
+      ],
+      "maxStackNum": 0,
+      "args": [
+        35
+      ],
+      "duration": 4000,
+      "isCtrl": false,
+      "isDebuff": true,
+      "canBePurify": true,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "arena/buffIcons/持续掉血毒/spriteFrame",
+      "buffDesc": "持续掉血"
+    },
+    {
+      "type": 305,
+      "name": "扣体力buff",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [],
+      "duration": -1,
+      "isCtrl": false,
+      "isDebuff": true,
+      "canBePurify": true,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": ""
+    },
+    {
+      "type": 401,
+      "name": "攻击加成",
+      "stackBehaviors": [
+        1
+      ],
+      "maxStackNum": 0,
+      "args": [],
+      "duration": -1,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": "攻击提升"
+    }
+  ],
+  "nativeAssets": [
+    {
+      "path": "arena/heroskill/witch/prefab/stove1_1_1101",
+      "index": 2166,
+      "pack": "0542b24c-4009-48a5-9517-9a95d0708c9e",
+      "importSHA256": "e2fab43a66ac7c2e705d4a66bf8bba1fd05c3ef70e7be7d4a098f1a816ebeb9f",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove1_1_1102",
+      "index": 52496,
+      "pack": "c7d845d7-de1f-4648-89e1-a01fdbe3e5b9",
+      "importSHA256": "a79e92f70152c0b6e5af74f214a454c09259d61e16ff2e44a5f2494f969de31a",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove1_1_1103",
+      "index": 18577,
+      "pack": "03f3fca91",
+      "importSHA256": "f22a5dae4b2a04cd5b9d5f07b450b8842324ef1824c6a957ac5fab55bdda99c0",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove3_1_1101",
+      "index": 48003,
+      "pack": "7622d28f-c35b-4766-99d8-e0154cc19353",
+      "importSHA256": "2d4c43b1ba77ed042ca327fea9807734b4e392fe302cc9371b20bb0d6868b520",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove3_1_1102",
+      "index": 54202,
+      "pack": "e7460d4f-3284-4bf0-80bb-da5bbaa2b1d0",
+      "importSHA256": "4ac7b7030b764edb98002ab63be36322aaa3c2ac1f08db6f7a35739a505e175b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove3_1_1103",
+      "index": 9088,
+      "pack": "0fc420df1",
+      "importSHA256": "79e4056402323e339f697b925f7c0f77a8dc4ef3c10be107d56e8d752dee5a3a",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/traceFire_1101",
+      "index": 43234,
+      "pack": "1fe962e1-f57a-42e5-a6c0-29f110122eb8",
+      "importSHA256": "6c4c6ffd2a0e85ca63e0e44b9dbd3749c436619d268496707b68c364c1d83fd8",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/traceFire_1102",
+      "index": 43513,
+      "pack": "245c18f1-5f99-489c-afea-2baabad6b5e6",
+      "importSHA256": "62ef8a70bcb0d485265baa53c935c54a38b1198ef1512bf8c7f41a3ec7f8e5cb",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/traceFire_1103",
+      "index": 39417,
+      "pack": "0a279ea6c",
+      "importSHA256": "2d28fec179569bc49eeefc000acee93df0b2a1b4b40af59f6372f446b89059a0",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    }
+  ],
+  "nativeDescriptions": [
+    {
+      "language": "en",
+      "key": "hero/skill/6012/1",
+      "verbatimFragment": "\"hero/skill/6012/1\",\"Witch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG.\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6012/2",
+      "verbatimFragment": "\"hero/skill/6012/2\",\"Witch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG and applying [Poisoning]. [Poisoning: Deals ${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}% ATK) Poison DMG and loses STA every sec]\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6012/3",
+      "verbatimFragment": "'hero/skill/6012/3',\"Passive: For each Poison weapon equipped, ATK increases by +10%\\nWitch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG and applying [Poisoning]. [Poisoning: Deals ${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}% ATK) Poison DMG and loses STA every sec]\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6012/1",
+      "verbatimFragment": "\"hero/skill/6012/1\",'女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害。'"
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6012/2",
+      "verbatimFragment": "\"hero/skill/6012/2\",\"女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害，并施加【中毒】效果。【中毒：每秒造成${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}%攻击力）点毒属性伤害并扣除${cfg.onHitEnemyBuffArgs.propValue}点体力】\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6012/3",
+      "verbatimFragment": "\"hero/skill/6012/3\",\"被动：武器栏每装备一把毒属性武器，攻击力增加10%\\n女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害，并施加【中毒】效果。【中毒：每秒造成${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}%攻击力）点毒属性伤害并扣除${cfg.onHitEnemyBuffArgs.propValue}点体力】\""
+    }
+  ],
+  "nativeContract": {
+    "hero": 11,
+    "activeSkill": 6012,
+    "unlockLevel": 10,
+    "CD": 30000,
+    "castPointTime": 200,
+    "stoveDurationFromArgs": [
+      15000,
+      20000,
+      25000
+    ],
+    "numTime": 1500,
+    "num": [
+      3,
+      4,
+      5
+    ],
+    "size": [
+      1800,
+      2000,
+      2200
+    ],
+    "effectSize": [
+      600,
+      700,
+      850
+    ],
+    "stove": {
+      "type": 1027,
+      "wireFields": [
+        "skinID",
+        "skillLevel"
+      ],
+      "nativeModels": "stove1_1_skinID for stars1/2; stove3_1_skinID for star3",
+      "nativeFireEvent": "EntityEvent.witchStoveCastFire125 plays skill, emits inject sound/bomb after200ms, native completion returns stand"
+    },
+    "traceFire": {
+      "type": 1059,
+      "wireFields": [
+        "skinID",
+        "skillLevel",
+        "stovePos",
+        "stoveDamageInterval"
+      ],
+      "nativeModels": "traceFire_skinID",
+      "nativeTimeline": "0.3s ascent +1.0s descent, special ground animation scheduled at1.3s",
+      "nativeCampColor": "native compares campID to local avatar; team-specific camp visual parity is unverified"
+    },
+    "poison": {
+      "type": 210,
+      "duration": 4000,
+      "rateKey": "onHitEnemyBuffArgs.args=60",
+      "cadenceFromDescription": "every second",
+      "nativeDefaultBuffArgs35": "overridden by explicit6012 onHit60; no claim to recover all users of210"
+    },
+    "stamina": {
+      "type": 305,
+      "durationOverride": 4000,
+      "perSecond": [
+        0,
+        10,
+        15
+      ]
+    },
+    "star3Passive": {
+      "type": 401,
+      "attribute": 4,
+      "atkAgrs": 10,
+      "description": "10% attack per equipped poison weapon"
+    }
+  },
+  "localPolicies": {
+    "scope": "Map2 Witch PvE; other maps and PvP not restored by this stage",
+    "targeting": "nearest live authoritative mob/boss positions within native args.size, up to native num distinct targets; no fake firing when no candidate; exact retail target ranking/num/size semantics unproven",
+    "placement": "latest cursor at200ms release, native1000-unit clamp, valid map point outside safe polygons; illegal placement cancels without refunding accepted cooldown",
+    "firstFire": "first burst1500ms after stove birth, then native numTime spacing; first retail-server shot timing not proved",
+    "flight": "server impact1300ms after warning creation, aligned to source-native visual0.3+1; not claimed to be recovered retail impact logic",
+    "homing": "select new targets each burst; committed warning point is fixed. Existing native1059 renders the captured target position. Continuous in-flight retail homing is not claimed restored",
+    "contact": "native effectSize used as circle radius plus native target body radius; PvE mobs/bosses only; other enemies entering warning area can be hit; multiple warning areas can overlap; exact retail collision geometry unproven",
+    "stoveExpiry": "15/20/25seconds from args.duration instead of generic Skill.duration5000; expiry/safe-source/invalid actor removes stove; already emitted warnings follow their own lifetime unless source identity/death/hero/skin changes",
+    "damageSnapshot": "current attack stats captured separately for each burst warning, retained for its direct hit and resulting poison; native existing damage/resistance/crit/relic pipeline with unrecovered mitigation policy",
+    "poisonTicks": "four normal1000ms pulses, <=250ms execution grace; no lag catch-up barrage; source/target life identity; existing generic210 users not given Witch-specific damage",
+    "dotMath": "fixed native element4 damage calculated from shot attack with explicit native60 argument, target poison resistance and existing engine; fixed dmgType3, relic modifier once, no reapplication of onHit buffs",
+    "dotTransaction": "HP kill reward follows existing atomic progression; successful direct contacts marked, remaining ones retry250ms within1300ms-flight+1000ms deadline; poison kill failure retries a pulse without double stamina burn, bounded by expiry",
+    "poisonOwnership": "latest Witch token replaces previous local token for native210/305; independently purified/replaced statuses stop their own portion; old token cannot remove another source status",
+    "stamina": "native strength resource clamped at0; this does not restore every monster-skill stamina cost or PvP consumption rule",
+    "passive": "unique owned quick-slot/current weapon UUIDs, native Weapon.attribute4, max3; only star3 and combat level>=10; multiply derived gear/talent attack by1+0.1*count, before other current support composition; retail stacking order unproven",
+    "inventory": "proposed inventory/current selection supplied to derived stat calculation before atomic commit; failure keeps loadout/attack unchanged; NPC Witch switch applies bonus in same property response",
+    "lifetime": "world reference, actor reference, room/map, source skin, source battle life, target actor/spawn token; no old-life damage; cleanup routed to captured old room/map instead of a new same-ID monster",
+    "delivery": "failed pushes retry current HP/properties/210/305/401 only, not damage/stamina/kill rewards; <=250ms read-only retry,128 actor corrections per recipient; old room/world/actor/life discarded; native entity creations use normal visibility queue",
+    "limits": "4 pending casts+stoves,64 outstanding warnings, bounded correction actors; source passive signature avoids repeated compounding"
+  },
+  "validation": {
+    "tests": {
+      "tests": 1853,
+      "pass": 1853,
+      "fail": 0,
+      "skipped": 0,
+      "cancelled": 0
+    },
+    "newTests": 91,
+    "oldTestsModified": 0,
+    "nativeVM": [
+      "CCWitchStove.create/registerEvent/setAnimation all9skin-star combinations",
+      "CCWitchStoveTraceFire.create all9skin-star combinations",
+      "SkillCfg three native types",
+      "native en/zh descriptions"
+    ],
+    "imports": {
+      "hashedAndCRCVerified": 9,
+      "rawNativeTimelinesDecoded": false
+    },
+    "websocket": {
+      "nativeWitchF": true,
+      "nativeQuickSlotAttackBonus10Percent": true,
+      "nativeBuff401": true,
+      "nativeStove1027AndSkin1101": true,
+      "nativeWitchStoveCastFire": true,
+      "nativeTraceFire1059": true,
+      "noImmediateImpact": true,
+      "nativePoison210": true,
+      "nativeStamina305": true,
+      "liveDelayedPoisonTick": true,
+      "nativePoisonDmgType3": true,
+      "nativeStar3Stamina15": true,
+      "heroMasterSwitchClearsOwnedEffects": true
+    },
+    "testIsolation": "only the added65074001 test monster has an isolated future skill cooldown, preventing native self-heal from masking poison deltas; production monsters/configs unchanged"
+  },
+  "preservation": {
+    "wallsStage44": true,
+    "PVPBoard": true,
+    "allConfigsSchemesPlacementsUnchanged": true,
+    "websiteAddon": true,
+    "originalIndex": true,
+    "Stage72AIAndStage73TreantUnchanged": true,
+    "previous1762TestsUnchanged": true
+  },
+  "remaining": [
+    "retail first-shot cadence, num/size interpretation, continuous homing, collision/AoE geometry and ordering need further evidence",
+    "native team camp coloring and Windows/Cocos render remain unverified",
+    "full monster stamina economy and Witch PvP not implemented in this stage",
+    "damage/resistance and passive stacking remain reconstructed where retail server formulas are absent",
+    "all other hero/weapon mechanics, Mummy and other remaining skills, Map2 Fishman/decor, all locations and user backlog remain"
+  ],
+  "fullWitchRetailParity": false,
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

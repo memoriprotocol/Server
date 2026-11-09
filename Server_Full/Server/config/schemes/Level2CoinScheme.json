@@ -1,0 +1,2580 @@
+{
+  "Level2Coin": [
+    {
+      "id": 1,
+      "calcType": 0,
+      "level": 40,
+      "coinBasics": 1,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 2,
+      "calcType": 0,
+      "level": 41,
+      "coinBasics": 1,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 3,
+      "calcType": 0,
+      "level": 42,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 4,
+      "calcType": 0,
+      "level": 43,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 5,
+      "calcType": 0,
+      "level": 44,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 6,
+      "calcType": 0,
+      "level": 45,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 7,
+      "calcType": 0,
+      "level": 46,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 8,
+      "calcType": 0,
+      "level": 47,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 9,
+      "calcType": 0,
+      "level": 48,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 10,
+      "calcType": 0,
+      "level": 49,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 11,
+      "calcType": 0,
+      "level": 50,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 12,
+      "calcType": 0,
+      "level": 51,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 13,
+      "calcType": 0,
+      "level": 52,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 14,
+      "calcType": 0,
+      "level": 53,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 15,
+      "calcType": 0,
+      "level": 54,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 16,
+      "calcType": 0,
+      "level": 55,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 17,
+      "calcType": 0,
+      "level": 56,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 18,
+      "calcType": 0,
+      "level": 57,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 19,
+      "calcType": 0,
+      "level": 58,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 20,
+      "calcType": 0,
+      "level": 59,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 21,
+      "calcType": 0,
+      "level": 60,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 22,
+      "calcType": 0,
+      "level": 61,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 23,
+      "calcType": 0,
+      "level": 62,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 24,
+      "calcType": 0,
+      "level": 63,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 25,
+      "calcType": 0,
+      "level": 64,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 26,
+      "calcType": 0,
+      "level": 65,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 27,
+      "calcType": 0,
+      "level": 66,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 28,
+      "calcType": 0,
+      "level": 67,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 29,
+      "calcType": 0,
+      "level": 68,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 30,
+      "calcType": 0,
+      "level": 69,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 31,
+      "calcType": 0,
+      "level": 70,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 32,
+      "calcType": 0,
+      "level": 71,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 33,
+      "calcType": 0,
+      "level": 72,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 34,
+      "calcType": 0,
+      "level": 73,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 35,
+      "calcType": 0,
+      "level": 74,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 36,
+      "calcType": 0,
+      "level": 75,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 37,
+      "calcType": 0,
+      "level": 76,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 38,
+      "calcType": 0,
+      "level": 77,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 39,
+      "calcType": 0,
+      "level": 78,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 40,
+      "calcType": 0,
+      "level": 79,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 41,
+      "calcType": 0,
+      "level": 80,
+      "coinBasics": 11,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 42,
+      "calcType": 0,
+      "level": 81,
+      "coinBasics": 17,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 43,
+      "calcType": 0,
+      "level": 82,
+      "coinBasics": 17,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 44,
+      "calcType": 0,
+      "level": 83,
+      "coinBasics": 18,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 45,
+      "calcType": 0,
+      "level": 84,
+      "coinBasics": 18,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 46,
+      "calcType": 0,
+      "level": 85,
+      "coinBasics": 19,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 47,
+      "calcType": 0,
+      "level": 86,
+      "coinBasics": 19,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 48,
+      "calcType": 0,
+      "level": 87,
+      "coinBasics": 19,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 49,
+      "calcType": 0,
+      "level": 88,
+      "coinBasics": 20,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 50,
+      "calcType": 0,
+      "level": 89,
+      "coinBasics": 20,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 51,
+      "calcType": 0,
+      "level": 90,
+      "coinBasics": 21,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 52,
+      "calcType": 0,
+      "level": 91,
+      "coinBasics": 33,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 53,
+      "calcType": 0,
+      "level": 92,
+      "coinBasics": 34,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 54,
+      "calcType": 0,
+      "level": 93,
+      "coinBasics": 34,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 55,
+      "calcType": 0,
+      "level": 94,
+      "coinBasics": 35,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 56,
+      "calcType": 0,
+      "level": 95,
+      "coinBasics": 36,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 57,
+      "calcType": 0,
+      "level": 96,
+      "coinBasics": 37,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 58,
+      "calcType": 0,
+      "level": 97,
+      "coinBasics": 37,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 59,
+      "calcType": 0,
+      "level": 98,
+      "coinBasics": 38,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 60,
+      "calcType": 0,
+      "level": 99,
+      "coinBasics": 39,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 61,
+      "calcType": 0,
+      "level": 100,
+      "coinBasics": 39,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 62,
+      "calcType": 0,
+      "level": 101,
+      "coinBasics": 62,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 63,
+      "calcType": 0,
+      "level": 102,
+      "coinBasics": 63,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 64,
+      "calcType": 0,
+      "level": 103,
+      "coinBasics": 64,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 65,
+      "calcType": 0,
+      "level": 104,
+      "coinBasics": 65,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 66,
+      "calcType": 0,
+      "level": 105,
+      "coinBasics": 66,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 67,
+      "calcType": 0,
+      "level": 106,
+      "coinBasics": 92,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 68,
+      "calcType": 0,
+      "level": 107,
+      "coinBasics": 93,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 69,
+      "calcType": 0,
+      "level": 108,
+      "coinBasics": 94,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 70,
+      "calcType": 0,
+      "level": 109,
+      "coinBasics": 95,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 71,
+      "calcType": 0,
+      "level": 110,
+      "coinBasics": 96,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 72,
+      "calcType": 0,
+      "level": 111,
+      "coinBasics": 134,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 73,
+      "calcType": 0,
+      "level": 112,
+      "coinBasics": 135,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 74,
+      "calcType": 0,
+      "level": 113,
+      "coinBasics": 136,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 75,
+      "calcType": 0,
+      "level": 114,
+      "coinBasics": 137,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 76,
+      "calcType": 0,
+      "level": 115,
+      "coinBasics": 138,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 77,
+      "calcType": 0,
+      "level": 116,
+      "coinBasics": 201,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 78,
+      "calcType": 0,
+      "level": 117,
+      "coinBasics": 202,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 79,
+      "calcType": 0,
+      "level": 118,
+      "coinBasics": 203,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 80,
+      "calcType": 0,
+      "level": 119,
+      "coinBasics": 204,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 81,
+      "calcType": 0,
+      "level": 120,
+      "coinBasics": 205,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 82,
+      "calcType": 0,
+      "level": 121,
+      "coinBasics": 308,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 83,
+      "calcType": 0,
+      "level": 122,
+      "coinBasics": 314,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 84,
+      "calcType": 0,
+      "level": 123,
+      "coinBasics": 320,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 85,
+      "calcType": 0,
+      "level": 124,
+      "coinBasics": 326,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 86,
+      "calcType": 0,
+      "level": 125,
+      "coinBasics": 332,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 87,
+      "calcType": 0,
+      "level": 126,
+      "coinBasics": 549,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 88,
+      "calcType": 0,
+      "level": 127,
+      "coinBasics": 559,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 89,
+      "calcType": 0,
+      "level": 128,
+      "coinBasics": 570,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 90,
+      "calcType": 0,
+      "level": 129,
+      "coinBasics": 581,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 91,
+      "calcType": 0,
+      "level": 130,
+      "coinBasics": 592,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 92,
+      "calcType": 0,
+      "level": 131,
+      "coinBasics": 982,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 93,
+      "calcType": 0,
+      "level": 132,
+      "coinBasics": 1000,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 94,
+      "calcType": 0,
+      "level": 133,
+      "coinBasics": 1020,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 95,
+      "calcType": 0,
+      "level": 134,
+      "coinBasics": 1039,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 96,
+      "calcType": 0,
+      "level": 135,
+      "coinBasics": 1058,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 97,
+      "calcType": 0,
+      "level": 136,
+      "coinBasics": 1762,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 98,
+      "calcType": 0,
+      "level": 137,
+      "coinBasics": 1796,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 99,
+      "calcType": 0,
+      "level": 138,
+      "coinBasics": 1830,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 100,
+      "calcType": 0,
+      "level": 139,
+      "coinBasics": 1865,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 101,
+      "calcType": 0,
+      "level": 140,
+      "coinBasics": 1900,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 102,
+      "calcType": 0,
+      "level": 141,
+      "coinBasics": 3175,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 103,
+      "calcType": 0,
+      "level": 142,
+      "coinBasics": 3237,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 104,
+      "calcType": 0,
+      "level": 143,
+      "coinBasics": 3298,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 105,
+      "calcType": 0,
+      "level": 144,
+      "coinBasics": 3361,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 106,
+      "calcType": 0,
+      "level": 145,
+      "coinBasics": 3425,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 107,
+      "calcType": 0,
+      "level": 146,
+      "coinBasics": 5743,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 108,
+      "calcType": 0,
+      "level": 147,
+      "coinBasics": 5854,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 109,
+      "calcType": 0,
+      "level": 148,
+      "coinBasics": 5966,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 110,
+      "calcType": 0,
+      "level": 149,
+      "coinBasics": 6079,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 111,
+      "calcType": 0,
+      "level": 150,
+      "coinBasics": 6194,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 112,
+      "calcType": 0,
+      "level": 151,
+      "coinBasics": 17214,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 113,
+      "calcType": 0,
+      "level": 152,
+      "coinBasics": 17559,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 114,
+      "calcType": 0,
+      "level": 153,
+      "coinBasics": 17907,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 115,
+      "calcType": 0,
+      "level": 154,
+      "coinBasics": 18261,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 116,
+      "calcType": 0,
+      "level": 155,
+      "coinBasics": 18619,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 117,
+      "calcType": 0,
+      "level": 156,
+      "coinBasics": 18982,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 118,
+      "calcType": 0,
+      "level": 157,
+      "coinBasics": 19349,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 119,
+      "calcType": 0,
+      "level": 158,
+      "coinBasics": 19721,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 120,
+      "calcType": 0,
+      "level": 159,
+      "coinBasics": 20098,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 121,
+      "calcType": 0,
+      "level": 160,
+      "coinBasics": 20480,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 122,
+      "calcType": 0,
+      "level": 161,
+      "coinBasics": 20866,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 123,
+      "calcType": 0,
+      "level": 162,
+      "coinBasics": 21257,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 124,
+      "calcType": 0,
+      "level": 163,
+      "coinBasics": 21653,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 125,
+      "calcType": 0,
+      "level": 164,
+      "coinBasics": 22054,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 126,
+      "calcType": 0,
+      "level": 165,
+      "coinBasics": 22460,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 127,
+      "calcType": 0,
+      "level": 166,
+      "coinBasics": 22871,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 128,
+      "calcType": 0,
+      "level": 167,
+      "coinBasics": 23287,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 129,
+      "calcType": 0,
+      "level": 168,
+      "coinBasics": 23708,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 130,
+      "calcType": 0,
+      "level": 169,
+      "coinBasics": 24134,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 131,
+      "calcType": 0,
+      "level": 170,
+      "coinBasics": 24565,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 132,
+      "calcType": 0,
+      "level": 171,
+      "coinBasics": 25001,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 133,
+      "calcType": 0,
+      "level": 172,
+      "coinBasics": 25442,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 134,
+      "calcType": 0,
+      "level": 173,
+      "coinBasics": 25888,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 135,
+      "calcType": 0,
+      "level": 174,
+      "coinBasics": 26340,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 136,
+      "calcType": 0,
+      "level": 175,
+      "coinBasics": 26796,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 137,
+      "calcType": 0,
+      "level": 176,
+      "coinBasics": 27258,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 138,
+      "calcType": 0,
+      "level": 177,
+      "coinBasics": 27726,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 139,
+      "calcType": 0,
+      "level": 178,
+      "coinBasics": 28198,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 140,
+      "calcType": 0,
+      "level": 179,
+      "coinBasics": 28676,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 141,
+      "calcType": 0,
+      "level": 180,
+      "coinBasics": 29160,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 142,
+      "calcType": 0,
+      "level": 181,
+      "coinBasics": 29648,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 143,
+      "calcType": 0,
+      "level": 182,
+      "coinBasics": 30142,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 144,
+      "calcType": 0,
+      "level": 183,
+      "coinBasics": 30642,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 145,
+      "calcType": 0,
+      "level": 184,
+      "coinBasics": 31147,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 146,
+      "calcType": 0,
+      "level": 185,
+      "coinBasics": 31658,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 147,
+      "calcType": 0,
+      "level": 186,
+      "coinBasics": 32174,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 148,
+      "calcType": 0,
+      "level": 187,
+      "coinBasics": 32696,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 149,
+      "calcType": 0,
+      "level": 188,
+      "coinBasics": 33223,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 150,
+      "calcType": 0,
+      "level": 189,
+      "coinBasics": 33756,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 151,
+      "calcType": 0,
+      "level": 190,
+      "coinBasics": 34295,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 152,
+      "calcType": 0,
+      "level": 191,
+      "coinBasics": 34839,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 153,
+      "calcType": 0,
+      "level": 192,
+      "coinBasics": 35389,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 154,
+      "calcType": 0,
+      "level": 193,
+      "coinBasics": 35945,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 155,
+      "calcType": 0,
+      "level": 194,
+      "coinBasics": 36506,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 156,
+      "calcType": 0,
+      "level": 195,
+      "coinBasics": 37074,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 157,
+      "calcType": 0,
+      "level": 196,
+      "coinBasics": 37647,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 158,
+      "calcType": 0,
+      "level": 197,
+      "coinBasics": 38226,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 159,
+      "calcType": 0,
+      "level": 198,
+      "coinBasics": 38811,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 160,
+      "calcType": 0,
+      "level": 199,
+      "coinBasics": 39403,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 161,
+      "calcType": 0,
+      "level": 200,
+      "coinBasics": 40000,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 162,
+      "calcType": 1,
+      "level": 40,
+      "coinBasics": 1,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 163,
+      "calcType": 1,
+      "level": 41,
+      "coinBasics": 1,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 164,
+      "calcType": 1,
+      "level": 42,
+      "coinBasics": 1,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 165,
+      "calcType": 1,
+      "level": 43,
+      "coinBasics": 1,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 166,
+      "calcType": 1,
+      "level": 44,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 167,
+      "calcType": 1,
+      "level": 45,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 168,
+      "calcType": 1,
+      "level": 46,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 169,
+      "calcType": 1,
+      "level": 47,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 170,
+      "calcType": 1,
+      "level": 48,
+      "coinBasics": 2,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 171,
+      "calcType": 1,
+      "level": 49,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 172,
+      "calcType": 1,
+      "level": 50,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 173,
+      "calcType": 1,
+      "level": 51,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 174,
+      "calcType": 1,
+      "level": 52,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 175,
+      "calcType": 1,
+      "level": 53,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 176,
+      "calcType": 1,
+      "level": 54,
+      "coinBasics": 3,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 177,
+      "calcType": 1,
+      "level": 55,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 178,
+      "calcType": 1,
+      "level": 56,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 179,
+      "calcType": 1,
+      "level": 57,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 180,
+      "calcType": 1,
+      "level": 58,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 181,
+      "calcType": 1,
+      "level": 59,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 182,
+      "calcType": 1,
+      "level": 60,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 183,
+      "calcType": 1,
+      "level": 61,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 184,
+      "calcType": 1,
+      "level": 62,
+      "coinBasics": 4,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 185,
+      "calcType": 1,
+      "level": 63,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 186,
+      "calcType": 1,
+      "level": 64,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 187,
+      "calcType": 1,
+      "level": 65,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 188,
+      "calcType": 1,
+      "level": 66,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 189,
+      "calcType": 1,
+      "level": 67,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 190,
+      "calcType": 1,
+      "level": 68,
+      "coinBasics": 5,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 191,
+      "calcType": 1,
+      "level": 69,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 192,
+      "calcType": 1,
+      "level": 70,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 193,
+      "calcType": 1,
+      "level": 71,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 194,
+      "calcType": 1,
+      "level": 72,
+      "coinBasics": 6,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 195,
+      "calcType": 1,
+      "level": 73,
+      "coinBasics": 7,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 196,
+      "calcType": 1,
+      "level": 74,
+      "coinBasics": 7,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 197,
+      "calcType": 1,
+      "level": 75,
+      "coinBasics": 7,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 198,
+      "calcType": 1,
+      "level": 76,
+      "coinBasics": 7,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 199,
+      "calcType": 1,
+      "level": 77,
+      "coinBasics": 8,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 200,
+      "calcType": 1,
+      "level": 78,
+      "coinBasics": 8,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 201,
+      "calcType": 1,
+      "level": 79,
+      "coinBasics": 8,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 202,
+      "calcType": 1,
+      "level": 80,
+      "coinBasics": 8,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 203,
+      "calcType": 1,
+      "level": 81,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 204,
+      "calcType": 1,
+      "level": 82,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 205,
+      "calcType": 1,
+      "level": 83,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 206,
+      "calcType": 1,
+      "level": 84,
+      "coinBasics": 9,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 207,
+      "calcType": 1,
+      "level": 85,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 208,
+      "calcType": 1,
+      "level": 86,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 209,
+      "calcType": 1,
+      "level": 87,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 210,
+      "calcType": 1,
+      "level": 88,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 211,
+      "calcType": 1,
+      "level": 89,
+      "coinBasics": 10,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 212,
+      "calcType": 1,
+      "level": 90,
+      "coinBasics": 11,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 213,
+      "calcType": 1,
+      "level": 91,
+      "coinBasics": 17,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 214,
+      "calcType": 1,
+      "level": 92,
+      "coinBasics": 17,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 215,
+      "calcType": 1,
+      "level": 93,
+      "coinBasics": 17,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 216,
+      "calcType": 1,
+      "level": 94,
+      "coinBasics": 18,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 217,
+      "calcType": 1,
+      "level": 95,
+      "coinBasics": 18,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 218,
+      "calcType": 1,
+      "level": 96,
+      "coinBasics": 19,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 219,
+      "calcType": 1,
+      "level": 97,
+      "coinBasics": 19,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 220,
+      "calcType": 1,
+      "level": 98,
+      "coinBasics": 19,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 221,
+      "calcType": 1,
+      "level": 99,
+      "coinBasics": 20,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 222,
+      "calcType": 1,
+      "level": 100,
+      "coinBasics": 20,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 223,
+      "calcType": 1,
+      "level": 101,
+      "coinBasics": 31,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 224,
+      "calcType": 1,
+      "level": 102,
+      "coinBasics": 32,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 225,
+      "calcType": 1,
+      "level": 103,
+      "coinBasics": 32,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 226,
+      "calcType": 1,
+      "level": 104,
+      "coinBasics": 33,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 227,
+      "calcType": 1,
+      "level": 105,
+      "coinBasics": 33,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 228,
+      "calcType": 1,
+      "level": 106,
+      "coinBasics": 46,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 229,
+      "calcType": 1,
+      "level": 107,
+      "coinBasics": 47,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 230,
+      "calcType": 1,
+      "level": 108,
+      "coinBasics": 47,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 231,
+      "calcType": 1,
+      "level": 109,
+      "coinBasics": 48,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 232,
+      "calcType": 1,
+      "level": 110,
+      "coinBasics": 48,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 233,
+      "calcType": 1,
+      "level": 111,
+      "coinBasics": 67,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 234,
+      "calcType": 1,
+      "level": 112,
+      "coinBasics": 68,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 235,
+      "calcType": 1,
+      "level": 113,
+      "coinBasics": 68,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 236,
+      "calcType": 1,
+      "level": 114,
+      "coinBasics": 69,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 237,
+      "calcType": 1,
+      "level": 115,
+      "coinBasics": 69,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 238,
+      "calcType": 1,
+      "level": 116,
+      "coinBasics": 101,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 239,
+      "calcType": 1,
+      "level": 117,
+      "coinBasics": 101,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 240,
+      "calcType": 1,
+      "level": 118,
+      "coinBasics": 102,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 241,
+      "calcType": 1,
+      "level": 119,
+      "coinBasics": 102,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 242,
+      "calcType": 1,
+      "level": 120,
+      "coinBasics": 103,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 243,
+      "calcType": 1,
+      "level": 121,
+      "coinBasics": 154,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 244,
+      "calcType": 1,
+      "level": 122,
+      "coinBasics": 157,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 245,
+      "calcType": 1,
+      "level": 123,
+      "coinBasics": 160,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 246,
+      "calcType": 1,
+      "level": 124,
+      "coinBasics": 163,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 247,
+      "calcType": 1,
+      "level": 125,
+      "coinBasics": 166,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 248,
+      "calcType": 1,
+      "level": 126,
+      "coinBasics": 275,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 249,
+      "calcType": 1,
+      "level": 127,
+      "coinBasics": 280,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 250,
+      "calcType": 1,
+      "level": 128,
+      "coinBasics": 285,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 251,
+      "calcType": 1,
+      "level": 129,
+      "coinBasics": 291,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 252,
+      "calcType": 1,
+      "level": 130,
+      "coinBasics": 296,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 253,
+      "calcType": 1,
+      "level": 131,
+      "coinBasics": 491,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 254,
+      "calcType": 1,
+      "level": 132,
+      "coinBasics": 500,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 255,
+      "calcType": 1,
+      "level": 133,
+      "coinBasics": 510,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 256,
+      "calcType": 1,
+      "level": 134,
+      "coinBasics": 520,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 257,
+      "calcType": 1,
+      "level": 135,
+      "coinBasics": 529,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 258,
+      "calcType": 1,
+      "level": 136,
+      "coinBasics": 881,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 259,
+      "calcType": 1,
+      "level": 137,
+      "coinBasics": 898,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 260,
+      "calcType": 1,
+      "level": 138,
+      "coinBasics": 915,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 261,
+      "calcType": 1,
+      "level": 139,
+      "coinBasics": 933,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 262,
+      "calcType": 1,
+      "level": 140,
+      "coinBasics": 950,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 263,
+      "calcType": 1,
+      "level": 141,
+      "coinBasics": 1588,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 264,
+      "calcType": 1,
+      "level": 142,
+      "coinBasics": 1619,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 265,
+      "calcType": 1,
+      "level": 143,
+      "coinBasics": 1649,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 266,
+      "calcType": 1,
+      "level": 144,
+      "coinBasics": 1681,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 267,
+      "calcType": 1,
+      "level": 145,
+      "coinBasics": 1713,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 268,
+      "calcType": 1,
+      "level": 146,
+      "coinBasics": 2872,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 269,
+      "calcType": 1,
+      "level": 147,
+      "coinBasics": 2927,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 270,
+      "calcType": 1,
+      "level": 148,
+      "coinBasics": 2983,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 271,
+      "calcType": 1,
+      "level": 149,
+      "coinBasics": 3040,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 272,
+      "calcType": 1,
+      "level": 150,
+      "coinBasics": 3097,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 273,
+      "calcType": 1,
+      "level": 151,
+      "coinBasics": 8607,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 274,
+      "calcType": 1,
+      "level": 152,
+      "coinBasics": 8780,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 275,
+      "calcType": 1,
+      "level": 153,
+      "coinBasics": 8954,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 276,
+      "calcType": 1,
+      "level": 154,
+      "coinBasics": 9131,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 277,
+      "calcType": 1,
+      "level": 155,
+      "coinBasics": 9310,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 278,
+      "calcType": 1,
+      "level": 156,
+      "coinBasics": 9491,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 279,
+      "calcType": 1,
+      "level": 157,
+      "coinBasics": 9675,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 280,
+      "calcType": 1,
+      "level": 158,
+      "coinBasics": 9861,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 281,
+      "calcType": 1,
+      "level": 159,
+      "coinBasics": 10049,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 282,
+      "calcType": 1,
+      "level": 160,
+      "coinBasics": 10240,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 283,
+      "calcType": 1,
+      "level": 161,
+      "coinBasics": 10433,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 284,
+      "calcType": 1,
+      "level": 162,
+      "coinBasics": 10629,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 285,
+      "calcType": 1,
+      "level": 163,
+      "coinBasics": 10827,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 286,
+      "calcType": 1,
+      "level": 164,
+      "coinBasics": 11027,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 287,
+      "calcType": 1,
+      "level": 165,
+      "coinBasics": 11230,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 288,
+      "calcType": 1,
+      "level": 166,
+      "coinBasics": 11436,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 289,
+      "calcType": 1,
+      "level": 167,
+      "coinBasics": 11644,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 290,
+      "calcType": 1,
+      "level": 168,
+      "coinBasics": 11854,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 291,
+      "calcType": 1,
+      "level": 169,
+      "coinBasics": 12067,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 292,
+      "calcType": 1,
+      "level": 170,
+      "coinBasics": 12283,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 293,
+      "calcType": 1,
+      "level": 171,
+      "coinBasics": 12501,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 294,
+      "calcType": 1,
+      "level": 172,
+      "coinBasics": 12721,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 295,
+      "calcType": 1,
+      "level": 173,
+      "coinBasics": 12944,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 296,
+      "calcType": 1,
+      "level": 174,
+      "coinBasics": 13170,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 297,
+      "calcType": 1,
+      "level": 175,
+      "coinBasics": 13398,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 298,
+      "calcType": 1,
+      "level": 176,
+      "coinBasics": 13629,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 299,
+      "calcType": 1,
+      "level": 177,
+      "coinBasics": 13863,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 300,
+      "calcType": 1,
+      "level": 178,
+      "coinBasics": 14099,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 301,
+      "calcType": 1,
+      "level": 179,
+      "coinBasics": 14338,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 302,
+      "calcType": 1,
+      "level": 180,
+      "coinBasics": 14580,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 303,
+      "calcType": 1,
+      "level": 181,
+      "coinBasics": 14824,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 304,
+      "calcType": 1,
+      "level": 182,
+      "coinBasics": 15071,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 305,
+      "calcType": 1,
+      "level": 183,
+      "coinBasics": 15321,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 306,
+      "calcType": 1,
+      "level": 184,
+      "coinBasics": 15574,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 307,
+      "calcType": 1,
+      "level": 185,
+      "coinBasics": 15829,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 308,
+      "calcType": 1,
+      "level": 186,
+      "coinBasics": 16087,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 309,
+      "calcType": 1,
+      "level": 187,
+      "coinBasics": 16348,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 310,
+      "calcType": 1,
+      "level": 188,
+      "coinBasics": 16612,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 311,
+      "calcType": 1,
+      "level": 189,
+      "coinBasics": 16878,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 312,
+      "calcType": 1,
+      "level": 190,
+      "coinBasics": 17148,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 313,
+      "calcType": 1,
+      "level": 191,
+      "coinBasics": 17420,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 314,
+      "calcType": 1,
+      "level": 192,
+      "coinBasics": 17695,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 315,
+      "calcType": 1,
+      "level": 193,
+      "coinBasics": 17973,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 316,
+      "calcType": 1,
+      "level": 194,
+      "coinBasics": 18253,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 317,
+      "calcType": 1,
+      "level": 195,
+      "coinBasics": 18537,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 318,
+      "calcType": 1,
+      "level": 196,
+      "coinBasics": 18824,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 319,
+      "calcType": 1,
+      "level": 197,
+      "coinBasics": 19113,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 320,
+      "calcType": 1,
+      "level": 198,
+      "coinBasics": 19406,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 321,
+      "calcType": 1,
+      "level": 199,
+      "coinBasics": 19702,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    },
+    {
+      "id": 322,
+      "calcType": 1,
+      "level": 200,
+      "coinBasics": 20000,
+      "offsetLeft": 0,
+      "offsetRight": 0
+    }
+  ]
+}

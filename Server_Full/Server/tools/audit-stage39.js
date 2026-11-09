@@ -1,0 +1,12 @@
+'use strict';
+const env=require('../lib/environment-3127'),placement=require('../lib/placement-3127'),skills=require('../lib/monster-skills-3127'),city=require('../lib/city-3127');
+const crypto=require('node:crypto'),{proto}=require('../lib/proto');
+const baseline=require('../tests/fixtures/stage30-boss-baseline.json');
+const rows=env.templates,wells=rows.filter(r=>r.kind==='well');
+const invalid=rows.filter(r=>['tree','well'].includes(r.kind)&&!placement.valid(r.kind,r.x,r.y,rows.filter(x=>x.id!==r.id))).map(r=>r.id);
+let minWellDistance=Infinity;for(let i=0;i<wells.length;i++)for(let j=0;j<i;j++)minWellDistance=Math.min(minWellDistance,Math.hypot(wells[i].x-wells[j].x,wells[i].y-wells[j].y));
+const bossChecks=rows.filter(r=>r.kind==='boss').map(r=>({cid:r.cid,id:r.id,wireMatchesOriginal:crypto.createHash('sha256').update(Buffer.from(proto.EntityInfo.encode(env.entity({...r})).finish())).digest('hex')===baseline.bosses.find(b=>b.data.id===r.id)?.entityWireSha256}));
+const actorSkills=skills.audit(rows);
+const report={stage:39,fullRestoration1to1:false,clientRenderVerified:false,placement:{policy:placement.policy,invalidIDs:invalid,minWellDistance,counts:rows.reduce((out,r)=>(out[r.kind]=(out[r.kind]||0)+1,out),{}),note:'Local corrective placement and conservative boss-area buffer, not recovered retail positions'},bossChecks,actorSkills,city:{changed:false,eligibleEntities:city.entitiesFor('main',2).length,layoutStatus:'UNRESOLVED_RETAIL_PLACEMENT',manualLayout:true},routeCoverage:require('../lib/coverage-3127').audit().counters};
+console.log(JSON.stringify(report,null,2));
+if(invalid.length||!bossChecks.every(r=>r.wireMatchesOriginal))process.exitCode=1;

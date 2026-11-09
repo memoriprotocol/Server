@@ -1,0 +1,3272 @@
+{
+  "PassAward": [
+    {
+      "ID": 1,
+      "seasonID": 1,
+      "limitLevel": 1,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001,
+        500001
+      ],
+      "advancedItemNum": [
+        10,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 2,
+      "seasonID": 1,
+      "limitLevel": 2,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 3,
+      "seasonID": 1,
+      "limitLevel": 3,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 4,
+      "seasonID": 1,
+      "limitLevel": 4,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 5,
+      "seasonID": 1,
+      "limitLevel": 5,
+      "baseItemID": 80034001,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 6,
+      "seasonID": 1,
+      "limitLevel": 6,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 7,
+      "seasonID": 1,
+      "limitLevel": 7,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 8,
+      "seasonID": 1,
+      "limitLevel": 8,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 9,
+      "seasonID": 1,
+      "limitLevel": 9,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 10,
+      "seasonID": 1,
+      "limitLevel": 10,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        109,
+        43000001
+      ],
+      "advancedItemNum": [
+        5000,
+        2
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 11,
+      "seasonID": 1,
+      "limitLevel": 11,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 12,
+      "seasonID": 1,
+      "limitLevel": 12,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 13,
+      "seasonID": 1,
+      "limitLevel": 13,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 14,
+      "seasonID": 1,
+      "limitLevel": 14,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 15,
+      "seasonID": 1,
+      "limitLevel": 15,
+      "baseItemID": 80034001,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 16,
+      "seasonID": 1,
+      "limitLevel": 16,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 17,
+      "seasonID": 1,
+      "limitLevel": 17,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 18,
+      "seasonID": 1,
+      "limitLevel": 18,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 19,
+      "seasonID": 1,
+      "limitLevel": 19,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 20,
+      "seasonID": 1,
+      "limitLevel": 20,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        109,
+        43000001
+      ],
+      "advancedItemNum": [
+        5000,
+        2
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 21,
+      "seasonID": 1,
+      "limitLevel": 21,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 22,
+      "seasonID": 1,
+      "limitLevel": 22,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 23,
+      "seasonID": 1,
+      "limitLevel": 23,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 24,
+      "seasonID": 1,
+      "limitLevel": 24,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 25,
+      "seasonID": 1,
+      "limitLevel": 25,
+      "baseItemID": 80034001,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 26,
+      "seasonID": 1,
+      "limitLevel": 26,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 27,
+      "seasonID": 1,
+      "limitLevel": 27,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 28,
+      "seasonID": 1,
+      "limitLevel": 28,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 29,
+      "seasonID": 1,
+      "limitLevel": 29,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 30,
+      "seasonID": 1,
+      "limitLevel": 30,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        80032001,
+        27403
+      ],
+      "advancedItemNum": [
+        10,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 31,
+      "seasonID": 1,
+      "limitLevel": 31,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 32,
+      "seasonID": 1,
+      "limitLevel": 32,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 33,
+      "seasonID": 1,
+      "limitLevel": 33,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 34,
+      "seasonID": 1,
+      "limitLevel": 34,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 35,
+      "seasonID": 1,
+      "limitLevel": 35,
+      "baseItemID": 80034001,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 36,
+      "seasonID": 1,
+      "limitLevel": 36,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 37,
+      "seasonID": 1,
+      "limitLevel": 37,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 38,
+      "seasonID": 1,
+      "limitLevel": 38,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 39,
+      "seasonID": 1,
+      "limitLevel": 39,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 40,
+      "seasonID": 1,
+      "limitLevel": 40,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        109,
+        43000001
+      ],
+      "advancedItemNum": [
+        5000,
+        2
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 41,
+      "seasonID": 1,
+      "limitLevel": 41,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 42,
+      "seasonID": 1,
+      "limitLevel": 42,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 43,
+      "seasonID": 1,
+      "limitLevel": 43,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 44,
+      "seasonID": 1,
+      "limitLevel": 44,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 45,
+      "seasonID": 1,
+      "limitLevel": 45,
+      "baseItemID": 80034001,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 46,
+      "seasonID": 1,
+      "limitLevel": 46,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 47,
+      "seasonID": 1,
+      "limitLevel": 47,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 48,
+      "seasonID": 1,
+      "limitLevel": 48,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 49,
+      "seasonID": 1,
+      "limitLevel": 49,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 50,
+      "seasonID": 1,
+      "limitLevel": 50,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        109,
+        43000001
+      ],
+      "advancedItemNum": [
+        5000,
+        2
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 51,
+      "seasonID": 1,
+      "limitLevel": 51,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 52,
+      "seasonID": 1,
+      "limitLevel": 52,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 53,
+      "seasonID": 1,
+      "limitLevel": 53,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 54,
+      "seasonID": 1,
+      "limitLevel": 54,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 55,
+      "seasonID": 1,
+      "limitLevel": 55,
+      "baseItemID": 80034001,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 56,
+      "seasonID": 1,
+      "limitLevel": 56,
+      "baseItemID": 80032001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 57,
+      "seasonID": 1,
+      "limitLevel": 57,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 58,
+      "seasonID": 1,
+      "limitLevel": 58,
+      "baseItemID": 80033001,
+      "baseItemNum": 4,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 59,
+      "seasonID": 1,
+      "limitLevel": 59,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 60,
+      "seasonID": 1,
+      "limitLevel": 60,
+      "baseItemID": 272105,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        80032001,
+        281006
+      ],
+      "advancedItemNum": [
+        10,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 61,
+      "seasonID": 1,
+      "limitLevel": 61,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 62,
+      "seasonID": 1,
+      "limitLevel": 62,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 63,
+      "seasonID": 1,
+      "limitLevel": 63,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 64,
+      "seasonID": 1,
+      "limitLevel": 64,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 65,
+      "seasonID": 1,
+      "limitLevel": 65,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 66,
+      "seasonID": 1,
+      "limitLevel": 66,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 67,
+      "seasonID": 1,
+      "limitLevel": 67,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 68,
+      "seasonID": 1,
+      "limitLevel": 68,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 69,
+      "seasonID": 1,
+      "limitLevel": 69,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 70,
+      "seasonID": 1,
+      "limitLevel": 70,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        109,
+        43000001
+      ],
+      "advancedItemNum": [
+        5000,
+        2
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 71,
+      "seasonID": 1,
+      "limitLevel": 71,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 72,
+      "seasonID": 1,
+      "limitLevel": 72,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 73,
+      "seasonID": 1,
+      "limitLevel": 73,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 74,
+      "seasonID": 1,
+      "limitLevel": 74,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 75,
+      "seasonID": 1,
+      "limitLevel": 75,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        80034001
+      ],
+      "advancedItemNum": [
+        2
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 76,
+      "seasonID": 1,
+      "limitLevel": 76,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 77,
+      "seasonID": 1,
+      "limitLevel": 77,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 78,
+      "seasonID": 1,
+      "limitLevel": 78,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 79,
+      "seasonID": 1,
+      "limitLevel": 79,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 80,
+      "seasonID": 1,
+      "limitLevel": 80,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        80032001,
+        271304
+      ],
+      "advancedItemNum": [
+        10,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 81,
+      "seasonID": 1,
+      "limitLevel": 81,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 82,
+      "seasonID": 1,
+      "limitLevel": 82,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 83,
+      "seasonID": 1,
+      "limitLevel": 83,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 84,
+      "seasonID": 1,
+      "limitLevel": 84,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 85,
+      "seasonID": 1,
+      "limitLevel": 85,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 86,
+      "seasonID": 1,
+      "limitLevel": 86,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 87,
+      "seasonID": 1,
+      "limitLevel": 87,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 88,
+      "seasonID": 1,
+      "limitLevel": 88,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 89,
+      "seasonID": 1,
+      "limitLevel": 89,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 90,
+      "seasonID": 1,
+      "limitLevel": 90,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 91,
+      "seasonID": 1,
+      "limitLevel": 91,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 92,
+      "seasonID": 1,
+      "limitLevel": 92,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 93,
+      "seasonID": 1,
+      "limitLevel": 93,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 94,
+      "seasonID": 1,
+      "limitLevel": 94,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 95,
+      "seasonID": 1,
+      "limitLevel": 95,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 96,
+      "seasonID": 1,
+      "limitLevel": 96,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 97,
+      "seasonID": 1,
+      "limitLevel": 97,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 98,
+      "seasonID": 1,
+      "limitLevel": 98,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 99,
+      "seasonID": 1,
+      "limitLevel": 99,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 100,
+      "seasonID": 1,
+      "limitLevel": 100,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 101,
+      "seasonID": 1,
+      "limitLevel": 101,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 102,
+      "seasonID": 1,
+      "limitLevel": 102,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 103,
+      "seasonID": 1,
+      "limitLevel": 103,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 104,
+      "seasonID": 1,
+      "limitLevel": 104,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 105,
+      "seasonID": 1,
+      "limitLevel": 105,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 106,
+      "seasonID": 1,
+      "limitLevel": 106,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 107,
+      "seasonID": 1,
+      "limitLevel": 107,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 108,
+      "seasonID": 1,
+      "limitLevel": 108,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 109,
+      "seasonID": 1,
+      "limitLevel": 109,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 110,
+      "seasonID": 1,
+      "limitLevel": 110,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 111,
+      "seasonID": 1,
+      "limitLevel": 111,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 112,
+      "seasonID": 1,
+      "limitLevel": 112,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 113,
+      "seasonID": 1,
+      "limitLevel": 113,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 114,
+      "seasonID": 1,
+      "limitLevel": 114,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 115,
+      "seasonID": 1,
+      "limitLevel": 115,
+      "baseItemID": 109,
+      "baseItemNum": 2500,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 116,
+      "seasonID": 1,
+      "limitLevel": 116,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 117,
+      "seasonID": 1,
+      "limitLevel": 117,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 118,
+      "seasonID": 1,
+      "limitLevel": 118,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 119,
+      "seasonID": 1,
+      "limitLevel": 119,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [],
+      "advancedItemNum": [],
+      "awardType": 1
+    },
+    {
+      "ID": 120,
+      "seasonID": 1,
+      "limitLevel": 120,
+      "baseItemID": 109,
+      "baseItemNum": 5000,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 121,
+      "seasonID": 2,
+      "limitLevel": 1,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        15,
+        500002
+      ],
+      "advancedItemNum": [
+        50,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 122,
+      "seasonID": 2,
+      "limitLevel": 2,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 123,
+      "seasonID": 2,
+      "limitLevel": 3,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 124,
+      "seasonID": 2,
+      "limitLevel": 4,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 125,
+      "seasonID": 2,
+      "limitLevel": 5,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 126,
+      "seasonID": 2,
+      "limitLevel": 6,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 127,
+      "seasonID": 2,
+      "limitLevel": 7,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 128,
+      "seasonID": 2,
+      "limitLevel": 8,
+      "baseItemID": 80038001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 129,
+      "seasonID": 2,
+      "limitLevel": 9,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 130,
+      "seasonID": 2,
+      "limitLevel": 10,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        15,
+        80035001
+      ],
+      "advancedItemNum": [
+        50,
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 131,
+      "seasonID": 2,
+      "limitLevel": 11,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 132,
+      "seasonID": 2,
+      "limitLevel": 12,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 133,
+      "seasonID": 2,
+      "limitLevel": 13,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 134,
+      "seasonID": 2,
+      "limitLevel": 14,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 135,
+      "seasonID": 2,
+      "limitLevel": 15,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 136,
+      "seasonID": 2,
+      "limitLevel": 16,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 137,
+      "seasonID": 2,
+      "limitLevel": 17,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 138,
+      "seasonID": 2,
+      "limitLevel": 18,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 139,
+      "seasonID": 2,
+      "limitLevel": 19,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 140,
+      "seasonID": 2,
+      "limitLevel": 20,
+      "baseItemID": 80038001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        15,
+        80036001
+      ],
+      "advancedItemNum": [
+        50,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 141,
+      "seasonID": 2,
+      "limitLevel": 21,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 142,
+      "seasonID": 2,
+      "limitLevel": 22,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 143,
+      "seasonID": 2,
+      "limitLevel": 23,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 144,
+      "seasonID": 2,
+      "limitLevel": 24,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 145,
+      "seasonID": 2,
+      "limitLevel": 25,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 146,
+      "seasonID": 2,
+      "limitLevel": 26,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 147,
+      "seasonID": 2,
+      "limitLevel": 27,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 148,
+      "seasonID": 2,
+      "limitLevel": 28,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 149,
+      "seasonID": 2,
+      "limitLevel": 29,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 150,
+      "seasonID": 2,
+      "limitLevel": 30,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        15,
+        27904
+      ],
+      "advancedItemNum": [
+        50,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 151,
+      "seasonID": 2,
+      "limitLevel": 31,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 152,
+      "seasonID": 2,
+      "limitLevel": 32,
+      "baseItemID": 80038001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 153,
+      "seasonID": 2,
+      "limitLevel": 33,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 154,
+      "seasonID": 2,
+      "limitLevel": 34,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 155,
+      "seasonID": 2,
+      "limitLevel": 35,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 156,
+      "seasonID": 2,
+      "limitLevel": 36,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 157,
+      "seasonID": 2,
+      "limitLevel": 37,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 158,
+      "seasonID": 2,
+      "limitLevel": 38,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 159,
+      "seasonID": 2,
+      "limitLevel": 39,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 160,
+      "seasonID": 2,
+      "limitLevel": 40,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        15,
+        80035001
+      ],
+      "advancedItemNum": [
+        50,
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 161,
+      "seasonID": 2,
+      "limitLevel": 41,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 162,
+      "seasonID": 2,
+      "limitLevel": 42,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 163,
+      "seasonID": 2,
+      "limitLevel": 43,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 164,
+      "seasonID": 2,
+      "limitLevel": 44,
+      "baseItemID": 80038001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 165,
+      "seasonID": 2,
+      "limitLevel": 45,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 166,
+      "seasonID": 2,
+      "limitLevel": 46,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 167,
+      "seasonID": 2,
+      "limitLevel": 47,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 168,
+      "seasonID": 2,
+      "limitLevel": 48,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 169,
+      "seasonID": 2,
+      "limitLevel": 49,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 170,
+      "seasonID": 2,
+      "limitLevel": 50,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15,
+        80035001
+      ],
+      "advancedItemNum": [
+        50,
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 171,
+      "seasonID": 2,
+      "limitLevel": 51,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 172,
+      "seasonID": 2,
+      "limitLevel": 52,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 173,
+      "seasonID": 2,
+      "limitLevel": 53,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 174,
+      "seasonID": 2,
+      "limitLevel": 54,
+      "baseItemID": 80035001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 175,
+      "seasonID": 2,
+      "limitLevel": 55,
+      "baseItemID": 109,
+      "baseItemNum": 1000,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 176,
+      "seasonID": 2,
+      "limitLevel": 56,
+      "baseItemID": 80038001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 177,
+      "seasonID": 2,
+      "limitLevel": 57,
+      "baseItemID": 80032001,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 178,
+      "seasonID": 2,
+      "limitLevel": 58,
+      "baseItemID": 80033001,
+      "baseItemNum": 2,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 179,
+      "seasonID": 2,
+      "limitLevel": 59,
+      "baseItemID": 80037001,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 180,
+      "seasonID": 2,
+      "limitLevel": 60,
+      "baseItemID": 27204,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        15,
+        281015
+      ],
+      "advancedItemNum": [
+        50,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 181,
+      "seasonID": 2,
+      "limitLevel": 61,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 182,
+      "seasonID": 2,
+      "limitLevel": 62,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 183,
+      "seasonID": 2,
+      "limitLevel": 63,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 184,
+      "seasonID": 2,
+      "limitLevel": 64,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 185,
+      "seasonID": 2,
+      "limitLevel": 65,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 186,
+      "seasonID": 2,
+      "limitLevel": 66,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 187,
+      "seasonID": 2,
+      "limitLevel": 67,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 188,
+      "seasonID": 2,
+      "limitLevel": 68,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 189,
+      "seasonID": 2,
+      "limitLevel": 69,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 190,
+      "seasonID": 2,
+      "limitLevel": 70,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15,
+        80035001
+      ],
+      "advancedItemNum": [
+        50,
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 191,
+      "seasonID": 2,
+      "limitLevel": 71,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 192,
+      "seasonID": 2,
+      "limitLevel": 72,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 193,
+      "seasonID": 2,
+      "limitLevel": 73,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 194,
+      "seasonID": 2,
+      "limitLevel": 74,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80038001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 195,
+      "seasonID": 2,
+      "limitLevel": 75,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        50
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 196,
+      "seasonID": 2,
+      "limitLevel": 76,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80037001
+      ],
+      "advancedItemNum": [
+        20
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 197,
+      "seasonID": 2,
+      "limitLevel": 77,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        5000
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 198,
+      "seasonID": 2,
+      "limitLevel": 78,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80033001
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 199,
+      "seasonID": 2,
+      "limitLevel": 79,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        80032001
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 200,
+      "seasonID": 2,
+      "limitLevel": 80,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15,
+        272307
+      ],
+      "advancedItemNum": [
+        50,
+        1
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 201,
+      "seasonID": 2,
+      "limitLevel": 81,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 202,
+      "seasonID": 2,
+      "limitLevel": 82,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 203,
+      "seasonID": 2,
+      "limitLevel": 83,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 204,
+      "seasonID": 2,
+      "limitLevel": 84,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 205,
+      "seasonID": 2,
+      "limitLevel": 85,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80035001
+      ],
+      "advancedItemNum": [
+        1
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 206,
+      "seasonID": 2,
+      "limitLevel": 86,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 207,
+      "seasonID": 2,
+      "limitLevel": 87,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 208,
+      "seasonID": 2,
+      "limitLevel": 88,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 209,
+      "seasonID": 2,
+      "limitLevel": 89,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 210,
+      "seasonID": 2,
+      "limitLevel": 90,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 211,
+      "seasonID": 2,
+      "limitLevel": 91,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 212,
+      "seasonID": 2,
+      "limitLevel": 92,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 213,
+      "seasonID": 2,
+      "limitLevel": 93,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 214,
+      "seasonID": 2,
+      "limitLevel": 94,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 215,
+      "seasonID": 2,
+      "limitLevel": 95,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80035001
+      ],
+      "advancedItemNum": [
+        1
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 216,
+      "seasonID": 2,
+      "limitLevel": 96,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 217,
+      "seasonID": 2,
+      "limitLevel": 97,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 218,
+      "seasonID": 2,
+      "limitLevel": 98,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 219,
+      "seasonID": 2,
+      "limitLevel": 99,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 220,
+      "seasonID": 2,
+      "limitLevel": 100,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 221,
+      "seasonID": 2,
+      "limitLevel": 101,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 222,
+      "seasonID": 2,
+      "limitLevel": 102,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 223,
+      "seasonID": 2,
+      "limitLevel": 103,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 224,
+      "seasonID": 2,
+      "limitLevel": 104,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 225,
+      "seasonID": 2,
+      "limitLevel": 105,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80035001
+      ],
+      "advancedItemNum": [
+        1
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 226,
+      "seasonID": 2,
+      "limitLevel": 106,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 227,
+      "seasonID": 2,
+      "limitLevel": 107,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 228,
+      "seasonID": 2,
+      "limitLevel": 108,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 229,
+      "seasonID": 2,
+      "limitLevel": 109,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 230,
+      "seasonID": 2,
+      "limitLevel": 110,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 2
+    },
+    {
+      "ID": 231,
+      "seasonID": 2,
+      "limitLevel": 111,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 232,
+      "seasonID": 2,
+      "limitLevel": 112,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 233,
+      "seasonID": 2,
+      "limitLevel": 113,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 234,
+      "seasonID": 2,
+      "limitLevel": 114,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 235,
+      "seasonID": 2,
+      "limitLevel": 115,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        80035001
+      ],
+      "advancedItemNum": [
+        1
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 236,
+      "seasonID": 2,
+      "limitLevel": 116,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 237,
+      "seasonID": 2,
+      "limitLevel": 117,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 238,
+      "seasonID": 2,
+      "limitLevel": 118,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 239,
+      "seasonID": 2,
+      "limitLevel": 119,
+      "baseItemID": 0,
+      "baseItemNum": 0,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        5
+      ],
+      "awardType": 1
+    },
+    {
+      "ID": 240,
+      "seasonID": 2,
+      "limitLevel": 120,
+      "baseItemID": 15,
+      "baseItemNum": 10,
+      "advancedItemID": [
+        15
+      ],
+      "advancedItemNum": [
+        10
+      ],
+      "awardType": 2
+    }
+  ]
+}

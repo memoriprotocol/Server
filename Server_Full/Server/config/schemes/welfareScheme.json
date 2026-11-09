@@ -1,0 +1,18 @@
+{
+  "Welfare": [
+    {
+      "ID": 1,
+      "startTime": 1706198400,
+      "endTime": 2021817600,
+      "Price": 888,
+      "duration": 2592000
+    },
+    {
+      "ID": 2,
+      "startTime": 2021817601,
+      "endTime": 2337350400,
+      "Price": 888,
+      "duration": 2592000
+    }
+  ]
+}

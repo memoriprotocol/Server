@@ -1,0 +1,2299 @@
+{
+  "EntityCategory": [
+    {
+      "EntityType": 1,
+      "BlockTypes": [
+        1,
+        20
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1110,
+      "BlockTypes": [
+        19
+      ],
+      "CollideType": 9
+    },
+    {
+      "EntityType": 3,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 4,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 5,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 6,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 7,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 8,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 9,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 11,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 14,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 17,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 20,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 21,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 28,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 30,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 31,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 56,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 58,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 60,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 61,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 67,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 68,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 69,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 70,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 71,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 72,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 76,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 77,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 78,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 79,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 80,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 81,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 82,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 83,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 84,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 85,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 86,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 88,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 90,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 91,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 92,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 93,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 94,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 95,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 96,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 97,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 99,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 100,
+      "BlockTypes": [
+        12
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 101,
+      "BlockTypes": [
+        1,
+        9
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 102,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 103,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 104,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 105,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 106,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 107,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 108,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 109,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 110,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 111,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 112,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 113,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 114,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 115,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 116,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 117,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 118,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 312,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 320,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 325,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 326,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 327,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 328,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 329,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 330,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 331,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 332,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 333,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 334,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 335,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 336,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 337,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 338,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 339,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 340,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 341,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 342,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 343,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 345,
+      "BlockTypes": [
+        13
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 346,
+      "BlockTypes": [
+        13
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 347,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 413,
+      "BlockTypes": [
+        1,
+        9
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 416,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 417,
+      "BlockTypes": [
+        1,
+        9
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 418,
+      "BlockTypes": [
+        1,
+        9
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1000,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1001,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1002,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1003,
+      "BlockTypes": [
+        5
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1004,
+      "BlockTypes": [
+        7,
+        11,
+        15
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1005,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1006,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1007,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1008,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1009,
+      "BlockTypes": [
+        5,
+        8
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1010,
+      "BlockTypes": [
+        5
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1011,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1012,
+      "BlockTypes": [
+        5
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1013,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1014,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1015,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1016,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1017,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1018,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1019,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1020,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1021,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1022,
+      "BlockTypes": [
+        5
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1023,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1024,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1025,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1026,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1027,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1028,
+      "BlockTypes": [
+        5
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1029,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1030,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1031,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1032,
+      "BlockTypes": [
+        7,
+        5
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1033,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1034,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1037,
+      "BlockTypes": [
+        14
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1038,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1039,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1040,
+      "BlockTypes": [
+        7,
+        15
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1041,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1042,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1043,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1044,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1046,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1048,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1049,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1050,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1052,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1053,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1054,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1056,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1057,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1058,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1059,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1061,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1062,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1066,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1067,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1071,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1068,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1072,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1080,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1076,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1081,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1084,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1089,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1090,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1091,
+      "BlockTypes": [
+        17
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1097,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1098,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1099,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1101,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1102,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1100,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1104,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1106,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1107,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1108,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1109,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1111,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1112,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1114,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1120,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1121,
+      "BlockTypes": [
+        0,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1122,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1123,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1124,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1125,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1133,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1140,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1136,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1137,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1138,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1145,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1139,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1149,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1158,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1159,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1160,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1161,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1148,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1167,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1164,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1168,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1171,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1172,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1175,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1170,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1177,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1180,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1181,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1146,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1182,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1183,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1184,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1185,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1179,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1190,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1169,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1193,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1194,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1195,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1196,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1199,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1201,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1202,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1191,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1203,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1204,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1205,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1207,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1208,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1214,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1215,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1216,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1219,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1220,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1223,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1224,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1225,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1226,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1227,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1228,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1229,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1230,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1231,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1233,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1234,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1235,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1237,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1238,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1239,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1243,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1247,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1246,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1249,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1250,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1253,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1254,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 3
+    },
+    {
+      "EntityType": 1255,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1256,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1257,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1263,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1264,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1265,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1268,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1266,
+      "BlockTypes": [
+        1,
+        9
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1269,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1270,
+      "BlockTypes": [
+        4
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1271,
+      "BlockTypes": [
+        1,
+        6
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1272,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1273,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1274,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1275,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1276,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1277,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1278,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1279,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1280,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1282,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1283,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1284,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1285,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1288,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1295,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1297,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1298,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1299,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1300,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1287,
+      "BlockTypes": [
+        1
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1301,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1304,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1305,
+      "BlockTypes": [
+        21,
+        9
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1306,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1307,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1308,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1309,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1310,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1311,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1312,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1313,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1314,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 0
+    },
+    {
+      "EntityType": 1281,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1317,
+      "BlockTypes": [
+        13
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1318,
+      "BlockTypes": [
+        13
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1319,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1320,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 7
+    },
+    {
+      "EntityType": 1321,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1322,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1324,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1325,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1326,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1329,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1331,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1336,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 6
+    },
+    {
+      "EntityType": 1337,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1338,
+      "BlockTypes": [
+        2
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1339,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1340,
+      "BlockTypes": [
+        13
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1341,
+      "BlockTypes": [
+        3
+      ],
+      "CollideType": 2
+    },
+    {
+      "EntityType": 1335,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1342,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 8
+    },
+    {
+      "EntityType": 1343,
+      "BlockTypes": [
+        10
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1409,
+      "BlockTypes": [
+        18
+      ],
+      "CollideType": 1
+    },
+    {
+      "EntityType": 1413,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1415,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1416,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    },
+    {
+      "EntityType": 1417,
+      "BlockTypes": [
+        0
+      ],
+      "CollideType": 5
+    }
+  ]
+}

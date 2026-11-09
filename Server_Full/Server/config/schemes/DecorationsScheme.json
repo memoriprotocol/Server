@@ -1,0 +1,557 @@
+{
+  "Decorations": [
+    {
+      "Id": 1,
+      "Type": 1007,
+      "Level": 1,
+      "Name": "仙人掌",
+      "Prob": 100,
+      "args": [
+        "damage:5000",
+        "maxDistance:2000",
+        "num:10"
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 1014,
+      "Level": 1,
+      "Name": "石像",
+      "Prob": 100,
+      "args": [
+        "weight: 50|30|20",
+        "buffTypes: weaponSpeedUp|addHp|incrGather",
+        "buffArgs: duration:20000,propValue:200|duration:8000,buffCureKey:200|duration:30000,propValue:9000",
+        "CD:60000"
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 1014,
+      "Level": 2,
+      "Name": "石像",
+      "Prob": 100,
+      "args": [
+        "weight: 50|50",
+        "buffTypes: weaponSpeedUp|addHp",
+        "buffArgs: duration:20000,propValue:200|duration:8000,buffCureKey:200|duration:30000,propValue:9000",
+        "CD:60000"
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 1013,
+      "Level": 1,
+      "Name": "水井",
+      "Prob": 100,
+      "args": [
+        "hpargs: 0.5",
+        "CD: 30000"
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 72,
+      "Level": 1,
+      "Name": "树木蜜蜂",
+      "Prob": 0,
+      "args": [
+        "creaturesid: 1220",
+        "damage:1000",
+        "num: 4",
+        "time:10000"
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 1015,
+      "Level": 1,
+      "Name": "路灯",
+      "Prob": 100,
+      "args": [
+        "CD: 30000",
+        "hp:100",
+        "fireAreaNum:8",
+        "fireDamage:200",
+        "fireExistTime:8000"
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 1020,
+      "Level": 1,
+      "Name": "弹弹蘑菇",
+      "Prob": 100,
+      "args": [
+        "speed:2000",
+        "hp:5",
+        "controlRate:0.25"
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 1019,
+      "Level": 1,
+      "Name": "藤蔓",
+      "Prob": 100,
+      "args": [
+        "stuckTime:2000",
+        "hp:5",
+        "minControlRate:1",
+        "maxControlRate:1",
+        "speed:1500"
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 1022,
+      "Level": 1,
+      "Name": "流沙",
+      "Prob": 100,
+      "args": [
+        "minControlRate:200",
+        "maxControlRate:750"
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 1018,
+      "Level": 1,
+      "Name": "指示牌",
+      "Prob": 100,
+      "args": [
+        "message:屠龙少年终成恶龙|你问我洞穴里有什么？只有勇者才知道|最安全的地方我想是安全区里|如果你偶遇了落难的人，相信我！协助他们| 水是宝贵的资源，它能让你瞬间回复生命值|大胆敲一下石像，这没什么（笑）|最好别破坏建筑，别问我怎么知道的"
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 1122,
+      "Level": 1,
+      "Name": "魔剑女神领地神龛",
+      "Prob": 100,
+      "args": [
+        "CD: 2500"
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 1138,
+      "Level": 1,
+      "Name": "诅咒神龛",
+      "Prob": 100,
+      "args": [
+        "weight: 1|1|1",
+        "buffTypes: weaponSpeedUp|addHp|critUp_3",
+        "buffArgs: duration:10000,propValue:500|duration:5000,buffCureKey:500|duration:30000,propValue:30",
+        "CD:20000"
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 1136,
+      "Level": 1,
+      "Name": "巨大蘑菇",
+      "Prob": 100,
+      "args": [
+        "speed:4000",
+        "hp:5",
+        "controlRate:0.25",
+        "CD:3000"
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 1137,
+      "Level": 1,
+      "Name": "诅咒泉水",
+      "Prob": 100,
+      "args": [
+        "hpargs: 1",
+        "CD: 30000",
+        "buffTypes:cheer",
+        "buffArgs: duration:3000",
+        "controlRate:1"
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 1159,
+      "Level": 1,
+      "Name": "沙漠神龛",
+      "Prob": 100,
+      "args": [
+        "weight: 1|1|1",
+        "buffTypes: weaponSpeedUp|addHp|attackSpeed",
+        "buffArgs: duration:10000,propValue:500|duration:5000,buffCureKey:500|duration:30000,propValue:50",
+        "CD:20000"
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 1158,
+      "Level": 1,
+      "Name": "沙漠泉水",
+      "Prob": 100,
+      "args": [
+        "hpargs: 0.6",
+        "CD: 30000"
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 1164,
+      "Level": 1,
+      "Name": "仙人掌藤蔓",
+      "Prob": 100,
+      "args": [
+        "stuckTime:2000",
+        "hp:6",
+        "minControlRate:0.5",
+        "maxControlRate:0.5",
+        "speed:1500"
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 1168,
+      "Level": 1,
+      "Name": "沙漠藤蔓",
+      "Prob": 100,
+      "args": [
+        "stuckTime:2000",
+        "hp:5",
+        "minControlRate:0.5",
+        "maxControlRate:0.5",
+        "speed:1500"
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 1166,
+      "Level": 1,
+      "Name": "花苞",
+      "Prob": 100,
+      "args": [
+        "duration: 2000",
+        "hp:22500",
+        "CD: 30000"
+      ]
+    },
+    {
+      "Id": 19,
+      "Type": 1172,
+      "Level": 1,
+      "Name": "炸刺仙人掌",
+      "Prob": 100,
+      "args": [
+        "CD:45000",
+        "damage:700",
+        "maxDistance:700"
+      ]
+    },
+    {
+      "Id": 20,
+      "Type": 1171,
+      "Level": 1,
+      "Name": "治疗仙人掌",
+      "Prob": 100,
+      "args": [
+        "CD:60000",
+        "heal:3000",
+        "maxDistance:500"
+      ]
+    },
+    {
+      "Id": 21,
+      "Type": 1176,
+      "Level": 1,
+      "Name": "流沙陷阱",
+      "Prob": 100,
+      "args": [
+        "damage:1",
+        "CD:500",
+        "maxDistance:1000",
+        "minDistance:500"
+      ]
+    },
+    {
+      "Id": 22,
+      "Type": 1195,
+      "Level": 1,
+      "Name": "神殿灯座（可互动）",
+      "Prob": 100,
+      "args": [
+        "maxDistance:1000",
+        "time: 15000",
+        "CD:60000",
+        "duration: 2000"
+      ]
+    },
+    {
+      "Id": 23,
+      "Type": 1196,
+      "Level": 1,
+      "Name": "神殿灯座（长明）",
+      "Prob": 100,
+      "args": [
+        "maxDistance:1000"
+      ]
+    },
+    {
+      "Id": 24,
+      "Type": 1202,
+      "Level": 1,
+      "Name": "大逃杀神龛",
+      "Prob": 100,
+      "args": [
+        "weight: 1|1|1|1",
+        "buffTypes: weaponSpeedUp|addHp|attackSpeed|critUp_3",
+        "buffArgs: duration:10000,propValue:800|duration:5000,buffCureKey:1000|duration:30000,propValue:75|duration:30000,propValue:100",
+        "CD:30000"
+      ]
+    },
+    {
+      "Id": 25,
+      "Type": 1211,
+      "Level": 1,
+      "Name": "尖刺海螺",
+      "Prob": 100,
+      "args": [
+        "speed:4000",
+        "hp:5",
+        "controlRate:0.25",
+        "damage:700"
+      ]
+    },
+    {
+      "Id": 26,
+      "Type": 1210,
+      "Level": 1,
+      "Name": "珊瑚",
+      "Prob": 100,
+      "args": [
+        "strengthargs: 1",
+        "CD: 30000"
+      ]
+    },
+    {
+      "Id": 27,
+      "Type": 1220,
+      "Level": 1,
+      "Name": "失速地表",
+      "Prob": 100,
+      "args": [
+        "time: 60000",
+        "speed: 300",
+        "CD: 15000"
+      ]
+    },
+    {
+      "Id": 28,
+      "Type": 1222,
+      "Level": 1,
+      "Name": "海草",
+      "Prob": 100,
+      "args": [
+        "stuckTime:2000",
+        "hp:5",
+        "minControlRate:0.5",
+        "maxControlRate:0.5",
+        "speed:1500"
+      ]
+    },
+    {
+      "Id": 29,
+      "Type": 1224,
+      "Level": 1,
+      "Name": "沉默陷阱",
+      "Prob": 100,
+      "args": [
+        "CD:7000"
+      ]
+    },
+    {
+      "Id": 30,
+      "Type": 1225,
+      "Level": 1,
+      "Name": "防御箭塔",
+      "Prob": 100,
+      "args": [
+        "CD:1000",
+        "damage:750"
+      ]
+    },
+    {
+      "Id": 31,
+      "Type": 1226,
+      "Level": 1,
+      "Name": "奥术塔",
+      "Prob": 100,
+      "args": [
+        "CD:5000",
+        "maxDistance:1200"
+      ]
+    },
+    {
+      "Id": 32,
+      "Type": 1228,
+      "Level": 1,
+      "Name": "武器架",
+      "Prob": 100,
+      "args": [
+        "CD:60000",
+        "boxID:10095"
+      ]
+    },
+    {
+      "Id": 33,
+      "Type": 1234,
+      "Level": 1,
+      "Name": "城堡内泉水",
+      "Prob": 100,
+      "args": [
+        "hpargs: 0.6",
+        "CD: 30000"
+      ]
+    },
+    {
+      "Id": 34,
+      "Type": 1233,
+      "Level": 1,
+      "Name": "超级宝箱",
+      "Prob": 100,
+      "args": [
+        "duration: 5000"
+      ]
+    },
+    {
+      "Id": 35,
+      "Type": 1242,
+      "Level": 0,
+      "Name": "城堡外泉水",
+      "Prob": 100,
+      "args": [
+        "hpargs: 0.6",
+        "CD: 30000"
+      ]
+    },
+    {
+      "Id": 36,
+      "Type": 1270,
+      "Level": 1,
+      "Name": "娜迦领地能量塔",
+      "Prob": 100,
+      "args": [
+        "num: 1000",
+        "energyPer:20",
+        "strengthargs:20",
+        "radius:3500",
+        "energyNum:200",
+        "duration: 5000"
+      ]
+    },
+    {
+      "Id": 37,
+      "Type": 1279,
+      "Level": 1,
+      "Name": "海底空投",
+      "Prob": 100,
+      "args": [
+        "duration: 7000",
+        "maxDistance:700",
+        "frozenTime:600000",
+        "minPlayerNum:20"
+      ]
+    },
+    {
+      "Id": 38,
+      "Type": 1326,
+      "Level": 1,
+      "Name": "会移动的蘑菇",
+      "Prob": 100,
+      "args": [
+        "loopTime: 5000",
+        "repelDistance:1500",
+        "moveSpeed:2000",
+        "maxDistance:1000"
+      ]
+    },
+    {
+      "Id": 39,
+      "Type": 1329,
+      "Level": 1,
+      "Name": "派对失速地表",
+      "Prob": 100,
+      "args": [
+        "time: 6000",
+        "speed: 300",
+        "CD: 1500"
+      ]
+    },
+    {
+      "Id": 40,
+      "Type": 1330,
+      "Level": 1,
+      "Name": "派对火焰发射器",
+      "Prob": 100,
+      "args": [
+        "cd: 6000",
+        "duration: 3000",
+        "interval: 500",
+        "dist: 2000",
+        "childDuration: 3000",
+        "childDmg: 100"
+      ]
+    },
+    {
+      "Id": 41,
+      "Type": 1343,
+      "Level": 1,
+      "Name": "雪地空投",
+      "Prob": 100,
+      "args": [
+        "duration: 7000",
+        "maxDistance:700",
+        "frozenTime:600000",
+        "minPlayerNum:25",
+        "carrotCountdown:60000"
+      ]
+    },
+    {
+      "Id": 42,
+      "Type": 1340,
+      "Level": 1,
+      "Name": "带CD弹板",
+      "Prob": 100,
+      "args": [
+        "CD: 10000",
+        "controlRate:0.6",
+        "speed:5000"
+      ]
+    },
+    {
+      "Id": 43,
+      "Type": 1410,
+      "Level": 1,
+      "Name": "雪地萝卜复活预警",
+      "Prob": 100,
+      "args": [
+        "duration: 600000",
+        "minPlayerNum:25",
+        "durationCountdown:900000"
+      ]
+    },
+    {
+      "Id": 44,
+      "Type": 1412,
+      "Level": 1,
+      "Name": "元宵宴会",
+      "Prob": 100,
+      "args": [
+        "useCount:5",
+        "totalCount:5",
+        "duration: 60000"
+      ]
+    }
+  ]
+}

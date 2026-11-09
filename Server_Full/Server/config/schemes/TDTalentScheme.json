@@ -1,0 +1,1326 @@
+{
+  "TDTalent": [
+    {
+      "ID": 1,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 0,
+      "Name": "攻击力加5",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10001
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 2,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "攻击力加20",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10002
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 3,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "攻击力加40",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10003
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 4,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "加30%攻击力",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10004
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 5,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "攻速+5%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10005
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 6,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "攻速+10%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10006
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 7,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "攻速+30%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10007
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 11,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 0,
+      "Name": "击杀怪物额外+1银币（暂时弃用）",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10011
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 12,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "击杀怪物额外+1银币",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10012
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 13,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "击杀怪物额外+2银币",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10013
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 14,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "击杀怪物额外+5银币",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10014
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 15,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "技能伤害加10%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10015
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 16,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "技能伤害加20%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10016
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 17,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "技能伤害加50%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10017
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 18,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 0,
+      "Name": "生命上限+400",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10018
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 19,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "生命上限+800",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10019
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 20,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "生命上限+2000",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10020
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 21,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "生命上限+60%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10021
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 22,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "暴击+5",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10022
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 23,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "暴击+10",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10023
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 24,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "暴击+20",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10024
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 25,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "暴伤+10",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10025
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 26,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "暴伤+20",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10026
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 27,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "暴伤+50",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10027
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 28,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "莉亚恢复2点生命",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10028
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 29,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "莉亚恢复4点生命",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10029
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 30,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "莉亚恢复10点生命",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10030
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 31,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 0,
+      "Name": "体力上限+5",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10031
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 32,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "体力上限+10",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10032
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 33,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "体力上限+20",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10033
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 34,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "体力上限+60",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10034
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 35,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 0,
+      "Name": "体力恢复速度+2",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10035
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 36,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "体力恢复速度+5",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10036
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 37,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "体力恢复速度+10",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10037
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 38,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "体力恢复速度+30",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10038
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 39,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "吸血+2%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10039
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 40,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "吸血+5%",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10040
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 41,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 0,
+      "Name": "移动速度+10",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10041
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 42,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "移动速度+20",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10042
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 43,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "移动速度+40",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10043
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 44,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "移动速度+200",
+      "Desc": "",
+      "skills": [],
+      "Buffs": [
+        10044
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 45,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 1,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【魔龙之怒】陨石数+40",
+      "skills": [],
+      "Buffs": [
+        10045
+      ],
+      "TDSkillID": 3187,
+      "args": [
+        "num:40"
+      ]
+    },
+    {
+      "ID": 46,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 2,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【魔龙之怒】陨石命中时技能冷却-2秒",
+      "skills": [],
+      "Buffs": [
+        10046
+      ],
+      "TDSkillID": 3187,
+      "args": [
+        "reduceCD:2000",
+        "reduceSkillID:3187"
+      ]
+    },
+    {
+      "ID": 47,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 3,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【风神之弓】每间隔1箭就射出强力箭",
+      "skills": [],
+      "Buffs": [
+        10047
+      ],
+      "TDSkillID": 3203,
+      "args": [
+        "maxCount:2",
+        "sourceSkillID:3203"
+      ]
+    },
+    {
+      "ID": 48,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 4,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【凛冬守望】普通攻击范围*2，伤害+120%",
+      "skills": [],
+      "Buffs": [
+        10048
+      ],
+      "TDSkillID": 3209,
+      "args": [
+        "effectSize:2",
+        "damage:120"
+      ]
+    },
+    {
+      "ID": 49,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 5,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【凛冬守望】技能爆炸范围*3，冻结时长+15秒",
+      "skills": [],
+      "Buffs": [
+        10049
+      ],
+      "TDSkillID": 3210,
+      "args": [
+        "effectSize:5",
+        "duration:12000"
+      ]
+    },
+    {
+      "ID": 50,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 6,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【风暴叹息】普通攻击吸力*3，吸力范围*3",
+      "skills": [],
+      "Buffs": [
+        10050
+      ],
+      "TDSkillID": 3214,
+      "args": [
+        "suction:3",
+        "suctionSize:3"
+      ]
+    },
+    {
+      "ID": 51,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 7,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【蜉蝣魔岩】石头大小*2，有概率暴击",
+      "skills": [],
+      "Buffs": [
+        10051
+      ],
+      "TDSkillID": 3223,
+      "args": [
+        "skillSize:2",
+        "critRate:1"
+      ]
+    },
+    {
+      "ID": 52,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 8,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【冥炎斩魂 · 刃】刀光冷却降低为1秒",
+      "skills": [],
+      "Buffs": [
+        10052
+      ],
+      "TDSkillID": 3232,
+      "args": [
+        "maxCount:1",
+        "sourceSkillID:3232"
+      ]
+    },
+    {
+      "ID": 53,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 9,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【编织者】中毒伤害*80",
+      "skills": [],
+      "Buffs": [
+        10053
+      ],
+      "TDSkillID": 3235,
+      "args": [
+        "damage:80"
+      ]
+    },
+    {
+      "ID": 54,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 10,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【编织者】蛛网冷却-30秒",
+      "skills": [],
+      "Buffs": [
+        10054
+      ],
+      "TDSkillID": 3236,
+      "args": [
+        "reduceCD:30000"
+      ]
+    },
+    {
+      "ID": 55,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 11,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【雷鸣之握】技能伤害*6，范围*3",
+      "skills": [],
+      "Buffs": [
+        10055
+      ],
+      "TDSkillID": 3240,
+      "args": [
+        "damage:500",
+        "effectSize:3"
+      ]
+    },
+    {
+      "ID": 56,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 12,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【凯布利斯的头颅】虫卵伤害*40，存在时间*6",
+      "skills": [],
+      "Buffs": [
+        10056
+      ],
+      "TDSkillID": 3260,
+      "args": [
+        "damage:40",
+        "duration:6"
+      ]
+    },
+    {
+      "ID": 57,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 13,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【凯布利斯的头颅】火焰伤害+40%，有概率暴击",
+      "skills": [],
+      "Buffs": [
+        10057
+      ],
+      "TDSkillID": 3259,
+      "args": [
+        "damage:40",
+        "critRate:1"
+      ]
+    },
+    {
+      "ID": 58,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 14,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【流光惊雷】技能冷却-10秒，强化箭数量+20",
+      "skills": [],
+      "Buffs": [
+        10058
+      ],
+      "TDSkillID": 3246,
+      "args": [
+        "reduceCD:10000",
+        "num:20"
+      ]
+    },
+    {
+      "ID": 59,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 15,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【异度旋刃】技能持续时间+4秒",
+      "skills": [],
+      "Buffs": [
+        10059
+      ],
+      "TDSkillID": 3251,
+      "args": [
+        "duration:4000"
+      ]
+    },
+    {
+      "ID": 60,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 16,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【夜幕锋刃】翻滚后下一刀造成15倍伤害",
+      "skills": [],
+      "Buffs": [
+        10060
+      ],
+      "TDSkillID": 3271,
+      "args": [
+        "damage:15"
+      ]
+    },
+    {
+      "ID": 61,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 17,
+      "Quality": 4,
+      "Name": "",
+      "Desc": "【星焱战斧】暴击时-1秒技能冷却",
+      "skills": [
+        13000
+      ],
+      "Buffs": [
+        10061
+      ],
+      "TDSkillID": 3279,
+      "args": []
+    },
+    {
+      "ID": 62,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "迷你兔子",
+      "Desc": "移速+100%，攻速+50%",
+      "skills": [],
+      "Buffs": [
+        10062,
+        10063
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 63,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "超级电池",
+      "Desc": "武器技能冷却-40%，体力上限+100",
+      "skills": [],
+      "Buffs": [
+        10064,
+        10065
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 64,
+      "Type": 2,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "骑士王的剑鞘",
+      "Desc": "每击杀一个怪物，有30%概率攻击力+1",
+      "skills": [
+        13003
+      ],
+      "Buffs": [],
+      "TDSkillID": 0,
+      "args": [
+        "prob:30",
+        "attack:100"
+      ]
+    },
+    {
+      "ID": 65,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "商店打折卡",
+      "Desc": "商人宝箱售价-50%",
+      "skills": [],
+      "Buffs": [
+        10067
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 66,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "酒蒙子",
+      "Desc": "体力消耗翻倍，近战武器造成伤害+80%",
+      "skills": [],
+      "Buffs": [
+        10084,
+        10085
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 67,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "宁静",
+      "Desc": "体力上限+200，体力恢复+200",
+      "skills": [],
+      "Buffs": [
+        10068,
+        10069
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 68,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "女神祝福",
+      "Desc": "释放技能有30%概率恢复15%体力",
+      "skills": [],
+      "Buffs": [
+        10083
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 69,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "冰戒指",
+      "Desc": "冰属性伤害+100%，暴击-30",
+      "skills": [],
+      "Buffs": [
+        10081,
+        10082
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 70,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "熔岩之心",
+      "Desc": "每次火属性伤害降低目标50点火抗，上限300",
+      "skills": [
+        13009
+      ],
+      "Buffs": [
+        10089
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 71,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "箭塔伤害提升1",
+      "Desc": "箭塔伤害提升20%",
+      "skills": [],
+      "Buffs": [
+        10070
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 72,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "箭塔伤害提升2",
+      "Desc": "箭塔伤害提升50%",
+      "skills": [],
+      "Buffs": [
+        10071
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 73,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "箭塔伤害提升3",
+      "Desc": "箭塔伤害提升100%",
+      "skills": [],
+      "Buffs": [
+        10072
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 74,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "建筑血量提升1",
+      "Desc": "建筑血量提升15%",
+      "skills": [],
+      "Buffs": [
+        10073
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 75,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "建筑血量提升2",
+      "Desc": "建筑血量提升30%",
+      "skills": [],
+      "Buffs": [
+        10074
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 76,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "建筑血量提升3",
+      "Desc": "建筑血量提升60%",
+      "skills": [],
+      "Buffs": [
+        10075
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 77,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "箭塔改良",
+      "Desc": "箭塔攻速提升150%",
+      "skills": [],
+      "Buffs": [
+        10076
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 78,
+      "Type": 0,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "多孔射击",
+      "Desc": "箭塔散射+2箭",
+      "skills": [],
+      "Buffs": [
+        10077
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 79,
+      "Type": 3,
+      "TotalNum": 1,
+      "TDSkillType": 0,
+      "Quality": 4,
+      "Name": "征地",
+      "Desc": "箭塔建造上限+5",
+      "skills": [],
+      "Buffs": [
+        10078
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 80,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 1,
+      "Name": "普攻伤害增加1",
+      "Desc": "普攻伤害+7%",
+      "skills": [],
+      "Buffs": [
+        10090
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 81,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "普攻伤害增加2",
+      "Desc": "普攻伤害+15%",
+      "skills": [],
+      "Buffs": [
+        10091
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 82,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "普攻伤害增加3",
+      "Desc": "普攻伤害+35%",
+      "skills": [],
+      "Buffs": [
+        10092
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 83,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 18,
+      "Quality": 4,
+      "Name": "仙人球弹跳次数增加",
+      "Desc": "【仙人球】弹跳次数+2",
+      "skills": [],
+      "Buffs": [
+        10093
+      ],
+      "TDSkillID": 3262,
+      "args": [
+        "num:2"
+      ]
+    },
+    {
+      "ID": 84,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 2,
+      "Name": "武器主动技能CD减免",
+      "Desc": "武器主动技能CD减少2%",
+      "skills": [],
+      "Buffs": [
+        10094
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 85,
+      "Type": 0,
+      "TotalNum": 99999,
+      "TDSkillType": 0,
+      "Quality": 3,
+      "Name": "武器主动技能CD减免",
+      "Desc": "武器主动技能CD减少5%",
+      "skills": [],
+      "Buffs": [
+        10095
+      ],
+      "TDSkillID": 0,
+      "args": []
+    },
+    {
+      "ID": 86,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 19,
+      "Quality": 4,
+      "Name": "骑士王被动上限增加",
+      "Desc": "被动额外+200",
+      "skills": [],
+      "Buffs": [
+        10096
+      ],
+      "TDSkillID": 0,
+      "args": [
+        "num:200"
+      ]
+    },
+    {
+      "ID": 87,
+      "Type": 1,
+      "TotalNum": 1,
+      "TDSkillType": 20,
+      "Quality": 4,
+      "Name": "章鱼书技能加强",
+      "Desc": "伤害+50%，减速+30%",
+      "skills": [],
+      "Buffs": [
+        10097
+      ],
+      "TDSkillID": 0,
+      "args": [
+        "damage:50",
+        "slowDownPer:30"
+      ]
+    }
+  ]
+}

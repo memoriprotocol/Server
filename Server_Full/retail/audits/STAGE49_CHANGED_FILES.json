@@ -1,0 +1,137 @@
+[
+  {
+    "path": "ISSUES_STAGE49_RU.txt",
+    "sha256": "443fce8147495ea81d33c6f229d75280e335f2d4d6c819ae14ee3e657b057979",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE49_RU.txt",
+    "sha256": "751d5abc90c9283ac5500840c06dc342c55f5ae19f4b1c63ecf133c672043585",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE49_RU.txt",
+    "sha256": "751d5abc90c9283ac5500840c06dc342c55f5ae19f4b1c63ecf133c672043585",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "sha256": "37005e60154e368f9fb846f3d6b933d74624fb7137796949eea6756de13ade42",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "sha256": "c74b5c4e75c9e5e222a72d73f4de32d406e747a580326a316876828b7abb93f5",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "sha256": "cd775a1f2baed1ca26479dd65469c52bf76ec30ef94c385d187f007892d89805",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-summons-3127.js",
+    "sha256": "f4bc8ef9d921f1fc91846db4b8192cf3b5c332f7ec3be0fbdb49f6b8a10ffff8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "sha256": "52a1288f20f82233a65aaab12e7e5839f6c904415e2934e3f9fa7e601a70b748",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "sha256": "e9c193620697556936d0f1637172a30565ac66ab7945fb1690e186c0a5baec03",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "sha256": "4852e26c28b7175e43129aed2e0854300cc0a0f23b6f6b7e3b62401a9752a8ad",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "c623912a61352b47f7682c44ac34fb06c829cf8f57bf71f85522b8336a441612",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "5abda00168edd5acc781c4a9331c918e5281c3ecda4d1942e0116d6686e38b1d",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage49-map2-delivery-native.test.js",
+    "sha256": "d4942d30dfadf9f4dbb6aee376920060936de08a6a5210846d5296b0f5c2c8fd",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage49-map2-summons.test.js",
+    "sha256": "13cc75b97b8e91d041d526f16b401bf8c7ad9b1e1005bd6225bb3acca1e02d64",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "65c9d391220884a7d97fe3a1fb90bf81e5fa7115a409fd25d807c06d9c5b8179",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE49_NATIVE_ASSETS.json",
+    "sha256": "3a86b77091ae1887b206ff7aa5bfe61a50cc9acf86b3d3c77c05ff166407fc7c",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE49_PRIMARY_MISSILES.json",
+    "sha256": "6a78dd28f39b41fe6e3f56c28446b0f89a1b38765e4a6aef16c3e838a3f9f213",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE49_TESTS.log",
+    "sha256": "4f2d5a3c84ca7374cf159a3732f6e7ec4708ddd1e2bb2e979bb474555a8d96c9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE49_VALIDATION.json",
+    "sha256": "bf402874f438ad3880ebe27dbc7111e75d836e2548f164f61c33d651657541d7",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE49_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage49/CCAsyncBulletEntity.ts",
+    "sha256": "6cb08bb1d333166dae1a44d91741c75746d55e14ab96b5c5d6255f1c6def319b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage49/CCBodySummonsAnimComp.ts",
+    "sha256": "d6bb36fe6d53901614abc4df449fb703ffa2fbc3a12eae708a36ab592e9403c3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage49/CCKingSummons.ts",
+    "sha256": "e2775c4312adfd57762141746455680c2f9acb899f1e68283f02f5f4935f6020",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage49/CCSummons.ts",
+    "sha256": "7df557cfc5dcdd3b853047174bc17c53ccaf2f88c765ace18bd970bb5a17c944",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage49/SkillResUtil.ts",
+    "sha256": "cff319dbf840e6cd30a5b3c1ca1efa9b4b81cb6ee1fe7b5c883dd8b16c9c5987",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage49/hero-summon-texts.json",
+    "sha256": "b4cb5d68dd15b8c68db428717ff9c1c3c089b072690e68675f96d7f8f119439d",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "ed95f272551a9eac2b9989cd5c07edce7f477bed671cf1e03d8b611bdae25e11",
+    "change": "modified"
+  }
+]

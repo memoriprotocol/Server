@@ -1,0 +1,706 @@
+{
+  "WeaponEnhance": [
+    {
+      "ID": 1,
+      "WeaponID": 617400,
+      "name": "魔龙之怒",
+      "EnhanceIDs": [
+        617401,
+        617402,
+        617403,
+        617404
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 2,
+      "WeaponID": 617800,
+      "name": "冥王之镰",
+      "EnhanceIDs": [
+        617801,
+        617802,
+        617803,
+        617804
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 3,
+      "WeaponID": 618100,
+      "name": "风神之弓",
+      "EnhanceIDs": [
+        618101,
+        618102,
+        618103,
+        618104
+      ],
+      "WeightValues": [
+        50,
+        150,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 4,
+      "WeaponID": 618200,
+      "name": "森林之心法杖",
+      "EnhanceIDs": [
+        618201,
+        618202,
+        618203,
+        618204
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 5,
+      "WeaponID": 618300,
+      "name": "凛冬守望",
+      "EnhanceIDs": [
+        618301,
+        618302,
+        618303,
+        618304
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 6,
+      "WeaponID": 618400,
+      "name": "风暴叹息",
+      "EnhanceIDs": [
+        618401,
+        618402,
+        618403,
+        618404
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 7,
+      "WeaponID": 618500,
+      "name": "死亡之吻",
+      "EnhanceIDs": [
+        618501,
+        618502,
+        618503,
+        618504
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 8,
+      "WeaponID": 618600,
+      "name": "骑士王之誓",
+      "EnhanceIDs": [
+        618601,
+        618602,
+        618603,
+        618604
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 9,
+      "WeaponID": 618700,
+      "name": "蜉蝣魔岩",
+      "EnhanceIDs": [
+        618701,
+        618702,
+        618703,
+        618704
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 10,
+      "WeaponID": 618800,
+      "name": "逐神冰槌",
+      "EnhanceIDs": [
+        618801,
+        618802,
+        618803,
+        618804
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 11,
+      "WeaponID": 618900,
+      "name": "矮人王的黄金镐",
+      "EnhanceIDs": [
+        618901,
+        618902,
+        618903,
+        618904
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 12,
+      "WeaponID": 619100,
+      "name": "冥炎斩魂  · 刃",
+      "EnhanceIDs": [
+        619101,
+        619102,
+        619103,
+        619104
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 13,
+      "WeaponID": 619000,
+      "name": "编织者",
+      "EnhanceIDs": [
+        619001,
+        619002,
+        619003,
+        619004
+      ],
+      "WeightValues": [
+        150,
+        50,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 14,
+      "WeaponID": 619300,
+      "name": "雷鸣之握",
+      "EnhanceIDs": [
+        619301,
+        619302,
+        619303,
+        619304
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 15,
+      "WeaponID": 619400,
+      "name": "噬魂蛇杖",
+      "EnhanceIDs": [
+        619401,
+        619402,
+        619403,
+        619404
+      ],
+      "WeightValues": [
+        50,
+        150,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 16,
+      "WeaponID": 619500,
+      "name": "流光惊雷",
+      "EnhanceIDs": [
+        619501,
+        619502,
+        619503,
+        619504
+      ],
+      "WeightValues": [
+        50,
+        100,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 17,
+      "WeaponID": 619700,
+      "name": "异度旋刃",
+      "EnhanceIDs": [
+        619701,
+        619702,
+        619703,
+        619704
+      ],
+      "WeightValues": [
+        150,
+        50,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 18,
+      "WeaponID": 619800,
+      "name": "月梦之触",
+      "EnhanceIDs": [
+        619801,
+        619802,
+        619803,
+        619804
+      ],
+      "WeightValues": [
+        150,
+        100,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 19,
+      "WeaponID": 619900,
+      "name": "荒漠瞭望者",
+      "EnhanceIDs": [
+        619901,
+        619902,
+        619903,
+        619904
+      ],
+      "WeightValues": [
+        50,
+        100,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 20,
+      "WeaponID": 620000,
+      "name": "凯布利斯的头颅",
+      "EnhanceIDs": [
+        620001,
+        620002,
+        620003,
+        620004
+      ],
+      "WeightValues": [
+        50,
+        150,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 21,
+      "WeaponID": 620200,
+      "name": "塔穆兹之种",
+      "EnhanceIDs": [
+        620201,
+        620202,
+        620203,
+        620204
+      ],
+      "WeightValues": [
+        50,
+        150,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 22,
+      "WeaponID": 620300,
+      "name": "时光沙漏",
+      "EnhanceIDs": [
+        620301,
+        620302,
+        620303,
+        620304
+      ],
+      "WeightValues": [
+        100,
+        150,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 23,
+      "WeaponID": 620100,
+      "name": "巨螯之力",
+      "EnhanceIDs": [
+        620101,
+        620102,
+        620103,
+        620104
+      ],
+      "WeightValues": [
+        150,
+        100,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 24,
+      "WeaponID": 620500,
+      "name": "先知的牧羊手杖",
+      "EnhanceIDs": [
+        620501,
+        620502,
+        620503,
+        620504
+      ],
+      "WeightValues": [
+        100,
+        50,
+        150,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 25,
+      "WeaponID": 620900,
+      "name": "夜幕锋刃",
+      "EnhanceIDs": [
+        620901,
+        620902,
+        620903,
+        620904
+      ],
+      "WeightValues": [
+        150,
+        100,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 26,
+      "WeaponID": 620400,
+      "name": "旧日秘典",
+      "EnhanceIDs": [
+        620401,
+        620402,
+        620403,
+        620404
+      ],
+      "WeightValues": [
+        150,
+        100,
+        50,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 27,
+      "WeaponID": 620800,
+      "name": "神佑巨剑",
+      "EnhanceIDs": [
+        620801,
+        620802,
+        620803,
+        620804
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 28,
+      "WeaponID": 621100,
+      "name": "星焱战斧",
+      "EnhanceIDs": [
+        621101,
+        621102,
+        621103,
+        621104
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 29,
+      "WeaponID": 620600,
+      "name": "先祖之令",
+      "EnhanceIDs": [
+        620601,
+        620602,
+        620603,
+        620604
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 30,
+      "WeaponID": 621900,
+      "name": "哨兵神矢",
+      "EnhanceIDs": [
+        621901,
+        621902,
+        621903,
+        621904
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 31,
+      "WeaponID": 622000,
+      "name": "圣诞树",
+      "EnhanceIDs": [
+        622001,
+        622002,
+        622003,
+        622004
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 32,
+      "WeaponID": 621700,
+      "name": "唤潮者魔杖",
+      "EnhanceIDs": [
+        621701,
+        621702,
+        621703,
+        621704
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 33,
+      "WeaponID": 620700,
+      "name": "国王的黄金圣杯",
+      "EnhanceIDs": [
+        620701,
+        620702,
+        620703,
+        620704
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 34,
+      "WeaponID": 622300,
+      "name": "幽冥旋月",
+      "EnhanceIDs": [
+        622301,
+        622302,
+        622303,
+        622304
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 35,
+      "WeaponID": 622400,
+      "name": "灾雷咏者",
+      "EnhanceIDs": [
+        622401,
+        622402,
+        622403,
+        622404
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 36,
+      "WeaponID": 622500,
+      "name": "冰糖葫芦",
+      "EnhanceIDs": [
+        622501,
+        622502,
+        622503,
+        622504
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 37,
+      "WeaponID": 622100,
+      "name": "冰魄圣盾",
+      "EnhanceIDs": [
+        622101,
+        622102,
+        622103,
+        622104
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 38,
+      "WeaponID": 622200,
+      "name": "凛冬启示录",
+      "EnhanceIDs": [
+        622201,
+        622202,
+        622203,
+        622204
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    },
+    {
+      "ID": 39,
+      "WeaponID": 622600,
+      "name": "幻境花灯",
+      "EnhanceIDs": [
+        622601,
+        622602,
+        622603,
+        622604
+      ],
+      "WeightValues": [
+        100,
+        100,
+        100,
+        50
+      ],
+      "isValid": true
+    }
+  ]
+}

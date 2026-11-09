@@ -1,0 +1,97 @@
+[
+  {
+    "path": "ISSUES_STAGE54_RU.txt",
+    "sha256": "8969f222106237250aa99bce82ca2b7b11aa85a3684fdd9294c9df088bde3cdf",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE54_RU.txt",
+    "sha256": "4cc8a93e1ad469bc3b4c043d04a38d0e100ad734e81fd0f178e592446273c9cd",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE54_RU.txt",
+    "sha256": "4cc8a93e1ad469bc3b4c043d04a38d0e100ad734e81fd0f178e592446273c9cd",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "sha256": "309f24a3eb49009878a57e205d75bb79f5abb1fd63a264d4f6cad9fe92b57121",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "sha256": "a6ab9fd9a1df3e20a759e977764c0c5c444810dbb1c3544285f47d5f351d1baf",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/life-3127.js",
+    "sha256": "51c46ac692ba901cac989b2401ae733002e49958e90cd5b7898c98400379884b",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "sha256": "945c1589f34ab02c8cc438af4731f7eeac3308af5bb97f2885e6847c71ad43f6",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "7f3379cab77d5a066a522772430409c5548ce93b551ae41d08dc296dd91e23e4",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/talents-3127.js",
+    "sha256": "480aa3e3b31f50a23e34815ee50098ed6bcf8223779eb7de1281c1e98254d45c",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-primary-3127.js",
+    "sha256": "b75e3d8ef50fe9aaa47e2d34dea2de33bc52a09450ce74a009dafc550a61bea9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage54-native-contract.test.js",
+    "sha256": "efa5293d86580155b6887fbad1d934d28f97323b9eadea37c65b81eb3d6e7eaf",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage54-windforce.test.js",
+    "sha256": "6709dd26d9abffe626b45d0618b29f649b08f7c142cca6c6bedcae0c9d6a6200",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "382e754f0a78168a935d71257c76ddca318fa49eb1a213eb1c90f86850f31905",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE54_NATIVE_ASSETS.json",
+    "sha256": "e68742db0e40e2c7fee6987de461ca776f6f053179dd8671cc2a7c53d3c6ca63",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE54_TESTS.log",
+    "sha256": "0b021fe931af835f03215a31c7c3c900474ea38bf8ff6db800b716aceacecebc",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE54_VALIDATION.json",
+    "sha256": "2ebd782c04e10e587942c66d27c73eb26028dc407d22240200b5be535bc40459",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE54_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE54_WINDFORCE.json",
+    "sha256": "627d3a9a8c5e3669c119dac59f3ec79065c022bab34d17ec4b82e9dbcd63b171",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "8a2cef3a2723adfc0262b4238355ef9c85942157b1a1009ae67f626077692426",
+    "change": "modified"
+  }
+]

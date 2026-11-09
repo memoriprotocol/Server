@@ -1,0 +1,87 @@
+[
+  {
+    "path": "ISSUES_STAGE53_RU.txt",
+    "sha256": "4a63902381a1aee509e9dd32b98f3cf0dce18146656b99129e699d82f3fcdf85",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE53_RU.txt",
+    "sha256": "3b71d6251361e1aac6629c897b118b8b1a238a25326283f9af1702b279fd56e2",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE53_RU.txt",
+    "sha256": "3b71d6251361e1aac6629c897b118b8b1a238a25326283f9af1702b279fd56e2",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "sha256": "02f9e92dd97d5eb1d49f6df59bf6343b7aae056f685891e0db3b33df91b76dff",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/displacement-3127.js",
+    "sha256": "e94806cb8e3c3c3897f35cdc7236fd3a27c2dbeaa3e9f2e682ffdf475268f126",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "sha256": "a79e4a3c2502b312c1bb4e530486952f64243cebcf999f5a0179005802966421",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "sha256": "1ab2a4003f588ecad313fa5e12cd1139e067341cea66324b2dbbae4317059522",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "1b1bc9944b3f492737c184f52ef2b7b8be424b767e530169663f02d382c20c2d",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage53-displacement.test.js",
+    "sha256": "8b4d5f6388915c40862fb07c3f938634f88b52bc85cdb6795252488237c03250",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage53-native-contract.test.js",
+    "sha256": "07b3a042314d6ff1e6efbcfda7f4a54548437acff1c00ffa4115a40dd49641f7",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "34ea2a5d0f3a99d0abbc299fffec542457952392e9ed566a9343f001f7dd83b1",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE53_DISPLACEMENT.json",
+    "sha256": "743d168f3cce07f7301f33e99b896cba9fe525febbd4e7e40b37452f0198e450",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE53_TESTS.log",
+    "sha256": "5443a7835742967f45456d5c9acc583ec16ba55347d91c0f23b733a9e467a421",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE53_VALIDATION.json",
+    "sha256": "12614a84fa9e53155a950de426aa4d669b21f2f8d767f779a076f6893c49a24a",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE53_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage53/BuffCfg.ts",
+    "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "938144c82794926a732f00f8119f943e8f5509e844473bc25614ca77d06f9319",
+    "change": "modified"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "sourceArchive": "Server_Full(1).zip",
+  "release": "Stage28-map2-exits-npcs-water-mobs",
+  "changes": {
+    "fencesRemoved": [26005, 26006, 26015, 26016, 26025, 26026, 26035, 26036],
+    "fencesRemaining": 32,
+    "southBridge": {"id": 26042, "previousY": -3365.064, "newY": -3235.064},
+    "preexistingNPCs": 6,
+    "newCentralNPCs": 4,
+    "gateGuards": 8,
+    "remoteSafeZoneGuards": 4,
+    "totalNPCInstances": 22,
+    "clientMetadataNpcIDs": 27,
+    "clientMetadataNpcAppearanceAssets": 92,
+    "mobStateActive": true,
+    "nearestFirstAOI": true,
+    "waterSyncAfterLoading": true,
+    "submergedSyncIntervalMs": 5000
+  },
+  "validation": {"tests": 29,"passed": 29,"failed": 0,"clientRenderingVerified": false},
+  "caveats": [
+    "Provisional role-to-prefab mapping for four new NPCs and guards; source game mapping not fully verified",
+    "Water swimming animation and mob actual visual rendering require original client integration tests",
+    "Original retail NPC interactions for newly added characters are not implemented by this placement-only patch"
+  ]
+}

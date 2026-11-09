@@ -1,0 +1,102 @@
+{
+  "Sandbox": [
+    {
+      "mapId": 2,
+      "star": 1,
+      "limitLv": 100,
+      "dropList": [
+        618900,
+        807806,
+        807906,
+        808006,
+        808106
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 4,
+      "star": 1,
+      "limitLv": 100,
+      "dropList": [
+        619700,
+        620600,
+        620100,
+        809706,
+        810506
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 5,
+      "star": 2,
+      "limitLv": 100,
+      "dropList": [
+        617400,
+        618500,
+        618600,
+        618700,
+        618800
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 7,
+      "star": 3,
+      "limitLv": 100,
+      "dropList": [
+        619900,
+        620000,
+        620200,
+        620900,
+        809906
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 8,
+      "star": 1,
+      "limitLv": 100,
+      "dropList": [
+        621900,
+        620500,
+        620400,
+        811006,
+        811106
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 18,
+      "star": 1,
+      "limitLv": 100,
+      "dropList": [
+        619500,
+        618200,
+        618100,
+        620800,
+        621100
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 3,
+      "star": 1,
+      "limitLv": 100,
+      "dropList": [
+        18,
+        622100,
+        620500,
+        620800,
+        811206
+      ],
+      "resetTime": 1800,
+      "resetPrice": 100
+    }
+  ]
+}

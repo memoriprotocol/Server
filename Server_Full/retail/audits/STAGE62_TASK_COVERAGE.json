@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "clientVersion": "3.12.7",
+  "seasons": 2,
+  "rewardRows": 240,
+  "shopRows": 15,
+  "taskRows": 36,
+  "weeklyXP": "AUTOMATIC_RECONSTRUCTION_FROM_NATIVE_NONINTERACTIVE_WEEKLY_UI",
+  "period": {
+    "day": "UTC midnight",
+    "week": "UTC Monday",
+    "nativeClientTimezoneParity": "Only UTC client calendar checked; retail server timezone not recovered"
+  },
+  "taskTypes": [
+    {
+      "id": 0,
+      "name": "CheckIn",
+      "configuredRows": 6,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "native pass query and online UTC-day rollover"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "KillBoss",
+      "configuredRows": 4,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "existing committed boss kill"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "CostGold",
+      "configuredRows": 4,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "gacha",
+        "ordinary shop and trader",
+        "mount purchase and gift",
+        "weapon lottery",
+        "hero master",
+        "talent reset",
+        "pet level"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "JionEvent",
+      "configuredRows": 2,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    },
+    {
+      "id": 4,
+      "name": "JionTrial",
+      "configuredRows": 4,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    },
+    {
+      "id": 5,
+      "name": "CrossLobbyMap",
+      "configuredRows": 2,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    },
+    {
+      "id": 6,
+      "name": "OnlineTime",
+      "configuredRows": 0,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    },
+    {
+      "id": 7,
+      "name": "Fish",
+      "configuredRows": 2,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "existing committed fishing catch"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "SellWeapon",
+      "configuredRows": 2,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "committed native NPC415 weapon-to-XP exchange"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "SellEquipment",
+      "configuredRows": 2,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "committed native NPC415 equipment-to-XP exchange"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "DrawHeroShard",
+      "configuredRows": 2,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "existing hero gacha"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DrawPetShard",
+      "configuredRows": 2,
+      "status": "PARTIAL_CONNECTED",
+      "sources": [
+        "existing pet gacha"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "BattleRoyaleLevel",
+      "configuredRows": 0,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    },
+    {
+      "id": 13,
+      "name": "HuntingPoint",
+      "configuredRows": 2,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    },
+    {
+      "id": 14,
+      "name": "UnlockMystery",
+      "configuredRows": 2,
+      "status": "NOT_CONNECTED",
+      "sources": []
+    }
+  ],
+  "otherActivityTypes": "2..9 not restored; server parameters and behavior still required",
+  "allLocations": "All19 tracked in /diagnostics/locations; no new map restored in Stage61",
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

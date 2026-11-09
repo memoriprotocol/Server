@@ -1,0 +1,32 @@
+[
+  {
+    "language": "en",
+    "key": "hero/skill/6009/1",
+    "verbatimFragment": "\"hero/skill/6009/1\",'Release\\x20${cfg.args.num}\\x20explosive\\x20scarabs.\\x20Each\\x20scarab\\x20deals\\x20${cfg.args.damage/100}\\x20DMG.\\x20Release\\x20an\\x20extra\\x20scarab\\x20for\\x20every\\x201000\\x20Max\\x20HP\\x20Mummy\\x20has.'"
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6009/2",
+    "verbatimFragment": "\"hero/skill/6009/2\",'Release\\x20${cfg.args.num}\\x20explosive\\x20scarabs.\\x20Each\\x20scarab\\x20deals\\x20${cfg.args.damage/100}\\x20DMG,\\x20restoring\\x20${cfg.DamageHealth}\\x20HP\\x20for\\x20Mummy.\\x20Release\\x20an\\x20extra\\x20scarab\\x20for\\x20every\\x201000\\x20Max\\x20HP\\x20Mummy\\x20has.'"
+  },
+  {
+    "language": "en",
+    "key": "hero/skill/6009/3",
+    "verbatimFragment": "\"hero/skill/6009/3\",\"Release ${cfg.args.num} explosive scarabs. Each scarab deals ${cfg.args.damage/100} DMG, restoring ${cfg.DamageHealth} HP for Mummy. Release an extra scarab for every 1000 Max HP Mummy has. Passive: Automatically release a scarab when taking damage; Cooldown ${cfg.args.passiveCD/1000} seconds.\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6009/1",
+    "verbatimFragment": "\"hero/skill/6009/1\",'向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害。每有1000最大生命值，可额外释放1只圣甲虫。'"
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6009/2",
+    "verbatimFragment": "'hero/skill/6009/2',\"向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害，并为木乃伊提供${cfg.DamageHealth}点生命回复。每有1000最大生命值，可额外释放1只圣甲虫。\""
+  },
+  {
+    "language": "zh",
+    "key": "hero/skill/6009/3",
+    "verbatimFragment": "\"hero/skill/6009/3\",\"向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害，并为木乃伊提供${cfg.DamageHealth}点生命回复。每有1000最大生命值，可额外释放1只圣甲虫。被动：被攻击时自动释放一只圣甲虫，冷却${cfg.args.passiveCD/1000}秒。\""
+  }
+]

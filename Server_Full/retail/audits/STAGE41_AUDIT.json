@@ -1,0 +1,744 @@
+{
+  "stage": 41,
+  "fullRestoration1to1": false,
+  "clientRenderVerified": false,
+  "placement": {
+    "policy": {
+      "treeRadius": 180,
+      "wellRadius": 220,
+      "wellMinDistance": 2400,
+      "arenaMargin": 4500
+    },
+    "invalidIDs": [],
+    "minWellDistance": 2736.8345492762214,
+    "counts": {
+      "mob": 289,
+      "boss": 4,
+      "tree": 160,
+      "stone": 100,
+      "ore": 80,
+      "well": 24,
+      "statue": 24
+    },
+    "note": "Stage39 correction retained; local positions, not a retail scene export"
+  },
+  "bossChecks": [
+    {
+      "cid": 1305,
+      "id": 60000290,
+      "wireMatchesOriginal": true
+    },
+    {
+      "cid": 1302,
+      "id": 60000291,
+      "wireMatchesOriginal": true
+    },
+    {
+      "cid": 1306,
+      "id": 60000292,
+      "wireMatchesOriginal": true
+    },
+    {
+      "cid": 1307,
+      "id": 60000293,
+      "wireMatchesOriginal": true
+    }
+  ],
+  "actorSkills": [
+    {
+      "cid": 1210,
+      "skills": [
+        {
+          "id": 2047,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1300,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2236,
+          "type": 331,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "support-state",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1235,
+      "skills": [
+        {
+          "id": 2079,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1000,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2235,
+          "type": 330,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "support-state",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1211,
+      "skills": [
+        {
+          "id": 2048,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1300,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "projectile-collision-visual-unverified",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2238,
+          "type": 333,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "support-state",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1227,
+      "skills": [
+        {
+          "id": 2068,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 800,
+          "castPointTime": 400,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2228,
+          "type": 318,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1230,
+      "skills": [
+        {
+          "id": 2071,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 900,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2249,
+          "type": 370,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1238,
+      "skills": [
+        {
+          "id": 2085,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1150,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "projectile-collision-visual-unverified",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2248,
+          "type": 70,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "projectile-collision-visual-unverified",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1228,
+      "skills": [
+        {
+          "id": 2069,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1650,
+          "castPointTime": 650,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1213,
+      "skills": [
+        {
+          "id": 2051,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1150,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2232,
+          "type": 327,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 350,
+          "casting": "native-events",
+          "effects": "support-state",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1264,
+      "skills": [
+        {
+          "id": 2267,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 900,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2268,
+          "type": 406,
+          "animationIndex": 1,
+          "cd": 20000,
+          "castPointTime": 400,
+          "casting": "native-events",
+          "effects": "native-hurricane",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1226,
+      "skills": [
+        {
+          "id": 2067,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 1300,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1232,
+      "skills": [
+        {
+          "id": 2073,
+          "type": 70,
+          "animationIndex": 0,
+          "cd": 2400,
+          "castPointTime": 700,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2074,
+          "type": 108,
+          "animationIndex": 1,
+          "cd": 4200,
+          "castPointTime": 300,
+          "casting": "native-events",
+          "effects": "swept-dash",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1258,
+      "skills": [
+        {
+          "id": 2297,
+          "type": 388,
+          "animationIndex": 0,
+          "cd": 15000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "PARTIAL_NATIVE_FLOWER_LIFETIME",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2298,
+          "type": 69,
+          "animationIndex": 1,
+          "cd": 2500,
+          "castPointTime": 800,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2299,
+          "type": 125,
+          "animationIndex": 2,
+          "cd": 2500,
+          "castPointTime": 800,
+          "casting": "native-events",
+          "effects": "native-energy-projectiles",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1260,
+      "skills": [
+        {
+          "id": 2255,
+          "type": 394,
+          "animationIndex": 0,
+          "cd": 10000,
+          "castPointTime": 1200,
+          "casting": "native-events",
+          "effects": "native-gas-local-tick-cadence",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2256,
+          "type": 69,
+          "animationIndex": 1,
+          "cd": 2500,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2257,
+          "type": 395,
+          "animationIndex": 2,
+          "cd": 5000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "PARTIAL_NATIVE_ILLUSION_CLONES",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1305,
+      "skills": [
+        {
+          "id": 2086,
+          "type": 119,
+          "animationIndex": 0,
+          "cd": 4000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2087,
+          "type": 120,
+          "animationIndex": 1,
+          "cd": 5000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "swept-dash",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2247,
+          "type": 221,
+          "animationIndex": 2,
+          "cd": 25000,
+          "castPointTime": 700,
+          "casting": "native-events",
+          "effects": "temporary-native-summons",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1302,
+      "skills": [
+        {
+          "id": 2049,
+          "type": 89,
+          "animationIndex": 0,
+          "cd": 5000,
+          "castPointTime": 2000,
+          "casting": "native-events",
+          "effects": "native-acid-projectiles-and-pools",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2050,
+          "type": 90,
+          "animationIndex": 1,
+          "cd": 3000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "burrow-emergence",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1306,
+      "skills": [
+        {
+          "id": 2088,
+          "type": 121,
+          "animationIndex": 0,
+          "cd": 5000,
+          "castPointTime": 1500,
+          "casting": "native-events",
+          "effects": "native-energy-projectiles",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2089,
+          "type": 122,
+          "animationIndex": 1,
+          "cd": 7000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "swept-dash",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2105,
+          "type": 601,
+          "animationIndex": 2,
+          "cd": 4000,
+          "castPointTime": 1300,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    },
+    {
+      "cid": 1307,
+      "skills": [
+        {
+          "id": 2090,
+          "type": 123,
+          "animationIndex": 0,
+          "cd": 6000,
+          "castPointTime": 500,
+          "casting": "native-events",
+          "effects": "swept-dash",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2091,
+          "type": 124,
+          "animationIndex": 1,
+          "cd": 4000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "periodic-spin",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2092,
+          "type": 125,
+          "animationIndex": 2,
+          "cd": 5000,
+          "castPointTime": 1000,
+          "casting": "native-events",
+          "effects": "native-energy-projectiles",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        },
+        {
+          "id": 2106,
+          "type": 70,
+          "animationIndex": 3,
+          "cd": 3000,
+          "castPointTime": 650,
+          "casting": "native-events",
+          "effects": "area-damage",
+          "damageFormula": "CLIENT_TOOLTIP_BASE_FORMULA_MITIGATION_UNRESOLVED"
+        }
+      ]
+    }
+  ],
+  "effectStatuses": {
+    "area-damage": 16,
+    "support-state": 4,
+    "projectile-collision-visual-unverified": 3,
+    "native-hurricane": 1,
+    "swept-dash": 4,
+    "PARTIAL_NATIVE_FLOWER_LIFETIME": 1,
+    "native-energy-projectiles": 3,
+    "native-gas-local-tick-cadence": 1,
+    "PARTIAL_NATIVE_ILLUSION_CLONES": 1,
+    "temporary-native-summons": 1,
+    "native-acid-projectiles-and-pools": 1,
+    "burrow-emergence": 1,
+    "periodic-spin": 1
+  },
+  "drops": {
+    "actors": 293,
+    "reachableGroups": 76,
+    "errors": [],
+    "fallbacks": [
+      {
+        "id": 60000025,
+        "cid": 1210,
+        "level": 75,
+        "sourceLevel": 60
+      },
+      {
+        "id": 60000026,
+        "cid": 1210,
+        "level": 75,
+        "sourceLevel": 60
+      },
+      {
+        "id": 60000027,
+        "cid": 1210,
+        "level": 75,
+        "sourceLevel": 60
+      }
+    ],
+    "categorySelection": "Native Weight, positive-weight eligible item configs; level-1 weapon rows",
+    "teamPolicy": "Personal XP to killer; team XP split among loaded living teammates within 4800 of corpse; other loot reserved for killer before public pickup",
+    "teamPolicyRetailVerified": false,
+    "atomicPersistence": true,
+    "summonRewards": false
+  },
+  "progression": {
+    "tables": [
+      "LevelExpScheme",
+      "PropLevelsScheme"
+    ],
+    "levelCap": 200,
+    "totalToLevel200": 2812167660,
+    "unsignedXPEventRoundTrip": true,
+    "propertyCompCumulativeXP": "Omitted because signed int32; restored privately with updateTotalExp at loading completion",
+    "hero1Level1": {
+      "HP": 1000,
+      "maxHP": 1000,
+      "level": 1,
+      "strength": 200,
+      "maxStrength": 200,
+      "currEnergy": 100,
+      "maxEnergy": 100,
+      "property": {
+        "attack": 9000,
+        "speed": 700,
+        "resAbility": 4000,
+        "defence": 0,
+        "stamina": 200,
+        "staminaRecover": 11,
+        "physicalResistance": 0,
+        "fireResistance": 0,
+        "poisonResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "divineResistance": 0,
+        "physicalMiss": 15,
+        "fireMiss": 15,
+        "poisonMiss": 15,
+        "thunderMiss": 15,
+        "iceMiss": 15,
+        "divineMiss": 15,
+        "miss": 0,
+        "crit": 5,
+        "critHarm": 150,
+        "attackSpeed": 0,
+        "speedRate": 0,
+        "beCtrlTime": 0,
+        "beCtrlTimeRate": 0
+      }
+    }
+  },
+  "announcements": {
+    "systemType": 22,
+    "systemEvent": 20,
+    "foreign715SystemType": 25,
+    "systemMessageSchema": "e",
+    "types": [
+      "kill_boss",
+      "boss_alert",
+      "get_valuable"
+    ],
+    "respawn": {
+      "systemType": 9,
+      "eventType": 5,
+      "asNew": true
+    },
+    "pickupTrigger": "Only committed pickup of boss-origin weapon grade>=6 or equipment Star>=6; no notice on roll, failed pickup, ordinary items or manual drops",
+    "scope": "Same room, sceneReady"
+  },
+  "city": {
+    "changed": false,
+    "eligibleEntities": 58,
+    "layoutStatus": "UNRESOLVED_RETAIL_PLACEMENT",
+    "manualLayout": true
+  },
+  "unresolved": [
+    "Exact retail mitigation, resistance, critical-damage rules and AI skill ordering",
+    "Ordinary fox/hamster projectile visual contract",
+    "Mushroom real/fake damage-transfer and flower combat modifiers",
+    "Retail acid spread, poison/gas damage cadence and hurricane lifetime",
+    "Exact retail town placement and remaining unsupported routes",
+    "Rendering and full sessions in Windows client",
+    "Original continuation-price call convention, VIP/free continues, death inventory punishment and retail settlement policies",
+    "Full hero career and active weapon skill effects remain unimplemented beyond their existing animation/input contracts",
+    "Native PvP rules and PvP death remain incomplete; existing experimental opt-in retained"
+  ],
+  "routeCoverage": {
+    "verified": 32,
+    "provisional": 75,
+    "unsupported": 95,
+    "unmapped": 24
+  },
+  "critical": {
+    "nativeDamageType": 2,
+    "normalDamageType": 1,
+    "typesMatchDecodedClient": true,
+    "hero1BaseRatePercent": 5,
+    "hero1BaseMultiplierPercent": 150,
+    "rollAuthority": "Server crypto RNG; clients cannot supply crit chance, multiplier, result or RNG",
+    "appliesTo": [
+      "Implemented hero ordinary/held/auto attacks",
+      "Implemented mob/boss hits and projectile impacts"
+    ],
+    "display": "beHurt.damageType=2 and subHP.dmgType=2; shield absorption=7, poison=3, resource collection=6; no critical zero when fully absorbed",
+    "mitigationStatus": "RETAIL_RESISTANCE_AND_FINAL_CRIT_RULES_UNRESOLVED"
+  },
+  "mobForms": {
+    "counts": {
+      "1": 90,
+      "2": 72,
+      "3": 127
+    },
+    "changedFromStage40": 193,
+    "mismatches": [],
+    "source": "MonsterContent.Form + original cc.Prefab catalogue",
+    "assetPathsCertified": true
+  },
+  "life": {
+    "flow": [
+      "Persistent death transaction",
+      "Public native death; private settleInfo",
+      "battle.iob.reEnter enterType1 continue / enterType3 restart",
+      "Full HP at MapScheme.Born; native relive",
+      "Persistent protection deadline, native buff28"
+    ],
+    "continueLevelRule": "ceil(deadLevel/2), confirmed by DeadPanel",
+    "replayCount": 3,
+    "replayCoinSchedule": [
+      20,
+      40,
+      80
+    ],
+    "priceCallerConvention": "INFERRED: use client ConstantsManager.getReliveCost after consuming continuation; 20/40/80. Original server call arguments are not available.",
+    "rebornProtectSeconds": 10,
+    "settlementRatios": {
+      "main": {
+        "coin": 200,
+        "title": 500,
+        "reputation": 1000
+      },
+      "rookie": {
+        "coin": 100,
+        "title": 250,
+        "reputation": 500
+      }
+    },
+    "settlementPolicy": "Conversion ratios native; floor rounding and once-per-earned-XP segment accounting are server implementation decisions, not captured retail transactions.",
+    "accountTitleXP": "Separate persisted titleExp, no longer mirrors battle hero XP",
+    "inventoryDeathLoss": "NOT_RESTORED: owned items retained; exact bag/equipment loss, warehouse and protection interactions unresolved",
+    "vipAndAds": "NOT_RESTORED",
+    "reconnect": "Pending death restored; reEnter0 is read-only; replay/spend cannot repeat; protection is not extended by reconnect"
+  },
+  "destruction": {
+    "leave": 1,
+    "dead": 0,
+    "source": "CCEntitySystem.onEntityDestroyed releases typ1 as leave, others as dead"
+  },
+  "schemas": {
+    "death": {
+      "posX": 0,
+      "posY": 0,
+      "killPosX": 0,
+      "killPosY": 0,
+      "isSettle": false
+    },
+    "settleInfo": {
+      "name": "",
+      "killerName": "",
+      "killCount": 0,
+      "survivalTime": 0,
+      "coin": 0,
+      "expCoin": 0,
+      "canRespawn": false,
+      "reliveCount": 0,
+      "reputationExp": 0,
+      "totalReputationExp": 0,
+      "titleExp": 0,
+      "totalTitleExp": 0,
+      "totalExp": "0",
+      "life": 0,
+      "vipType": 0,
+      "killBossCount": 0,
+      "oldScore": 0,
+      "newScore": 0,
+      "killerCID": 0,
+      "replayCoin": 0,
+      "settleSelf": false
+    },
+    "relive": {}
+  }
+}

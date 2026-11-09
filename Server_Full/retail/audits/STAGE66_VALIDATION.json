@@ -1,0 +1,124 @@
+{
+  "stage": 66,
+  "version": "0.44.0-stage66-hero-support-stance-cooldowns",
+  "tests": {
+    "tests": 1294,
+    "pass": 1294,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage66": 68,
+    "updatedPriorScenarios": 5,
+    "command": "node --test --test-concurrency=4 stage66/Server_Full/Server/tests/*.test.js"
+  },
+  "syntax": {
+    "status": "PASS",
+    "checkedJavaScriptFiles": 16,
+    "files": [
+      "Server_Full/server.js",
+      "Server_Full/Server/lib/hero-passives-3127.js",
+      "Server_Full/Server/lib/monster-effects-3127.js",
+      "Server_Full/Server/lib/hero-vfx-3127.js",
+      "Server_Full/Server/lib/spartan-stance-3127.js",
+      "Server_Full/Server/lib/skill-cooldowns-3127.js",
+      "Server_Full/Server/lib/support-casts-3127.js",
+      "Server_Full/Server/lib/combat-input-3127.js",
+      "Server_Full/Server/lib/player-skills-3127.js",
+      "Server_Full/Server/lib/hero-support-3127.js",
+      "Server_Full/Server/tests/stage43-hero-vfx.test.js",
+      "Server_Full/Server/tests/stage44-collection-mounts.test.js",
+      "Server_Full/Server/tests/stage66-cooldown-contract.test.js",
+      "Server_Full/Server/tests/stage43-ai-skills.test.js",
+      "Server_Full/Server/tests/stage66-hero-mechanics.test.js",
+      "Server_Full/Server/tests/helpers/stage66-native.js"
+    ]
+  },
+  "smoke": {
+    "stage66Heroes": {
+      "nativeFrames": true,
+      "spartanTickAndToggle": true,
+      "mageStaffCDPacket": true,
+      "paladinCleanseAndInvulnerability": true,
+      "nunDelayedHealAndDefence": true,
+      "weaponDoubleCharge": true,
+      "thirdChargeRejected": true
+    },
+    "stage65Regression": {
+      "nativeHeroF": true,
+      "nativeWeaponRMB": true,
+      "delayedFieldCreation": true,
+      "wizardPulseDamage": true,
+      "vortex500DamageCap": true,
+      "nativeEffect107And1065": true,
+      "variantScale12": true
+    },
+    "stage64Regression": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.44.0-stage66-hero-support-stance-cooldowns",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "PVPBoardNotRemovedOrReplaced": true,
+    "allConfigSchemesByteIdenticalToStage65": true,
+    "clientAddonWebsiteByteIdenticalToStage65": true,
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

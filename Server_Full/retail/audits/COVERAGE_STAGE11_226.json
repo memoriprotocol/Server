@@ -1,0 +1,2274 @@
+{
+  "clientVersion": "3.12.7",
+  "catalogTotal": 226,
+  "contractRequestTypes": 205,
+  "contractResponseAndPushTypes": 308,
+  "counters": {
+    "verified": 31,
+    "provisional": 74,
+    "unsupported": 97,
+    "unmapped": 24
+  },
+  "routes": [
+    {
+      "route": "battle.b.battleReady",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.b.f",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.b.gameOver",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.b.getFrames",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.b.loadProgress",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.b.login",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.b.restartBattle",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.iob.brRelive",
+      "requestType": "BrReliveReq",
+      "responseType": "BrReliveRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.brWatch",
+      "requestType": "BrWatchReq",
+      "responseType": "BrWatchRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.enter",
+      "requestType": "IOGameEnterReq",
+      "responseType": "IOGameEnterRsq",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.frame",
+      "requestType": "FrameStepReq",
+      "responseType": "FrameStepResp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.getCurrentFubenInfo",
+      "requestType": "CurrentFubenInfoReq",
+      "responseType": "CurrentFubenInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.getDoubleDropActivity",
+      "requestType": "GetDoubleDropReq",
+      "responseType": "GetDoubleDropRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.getEquipments",
+      "requestType": "GetEquipmentsReq",
+      "responseType": "GetEquipmentsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.getEquipmentsByUID",
+      "requestType": "GetEquipmentsReqByUID",
+      "responseType": "GetEquipmentsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.getFubenInfo",
+      "requestType": "FubenInfoReq",
+      "responseType": "FubenInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.getNextSwitchSeasonTime",
+      "requestType": "NextSwitchSeasonTimeReq",
+      "responseType": "NextSwitchSeasonTimeRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.heartbeat",
+      "requestType": "FrameStepReq",
+      "responseType": "FrameStepResp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.killLogs",
+      "requestType": "KillLogReq",
+      "responseType": "KillLogRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.login",
+      "requestType": "BattleLoginReq",
+      "responseType": "BattleLoginRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.nearbyPlayerChat",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "battle.iob.queryNearbyPlayers",
+      "requestType": "QueryNearbyPlayersReq",
+      "responseType": "QueryNearbyPlayersRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.reEnter",
+      "requestType": "IOGameEnterReq",
+      "responseType": "IOGameEnterRsq",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.iob.report",
+      "requestType": "ReportReq",
+      "responseType": "ReportRsq",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.sendMsg",
+      "requestType": "SendMsgReq",
+      "responseType": "SendMsgRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.sendPortal2sInfo",
+      "requestType": "requestPortal2Info",
+      "responseType": "SendPortal2sInfo",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.switchTrackMode",
+      "requestType": "SwitchTrackModeReq",
+      "responseType": "SwitchTrackModeRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.switchTracker",
+      "requestType": "SwitchTrackerReq",
+      "responseType": "SwitchTrackerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.iob.teammatesLocReq",
+      "requestType": "TeammatesLocReq",
+      "responseType": "TeammatesLocRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "world",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.teamHandler.acceptInviteTeam",
+      "requestType": "AcceptInviteTeamReq",
+      "responseType": "AcceptInviteTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.acceptJoinTeam",
+      "requestType": "AcceptJoinTeamReq",
+      "responseType": "AcceptJoinTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.applyTeam",
+      "requestType": "ApplyTeamReq",
+      "responseType": "JoinTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.blockInviteTeam",
+      "requestType": "BlockInviteTeamReq",
+      "responseType": "BlockInviteTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.changeTeamLeader",
+      "requestType": "ChangeTeamLeaderReq",
+      "responseType": "ChangeTeamLeaderRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.changeTeamName",
+      "requestType": "changeTeamNameReq",
+      "responseType": "changeTeamNameRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.createFuben",
+      "requestType": "CreateTeamFubenReq",
+      "responseType": "CreateTeamFubenRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.teamHandler.createTeam",
+      "requestType": "CreateTeamReq",
+      "responseType": "CreateTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.dismissFuben",
+      "requestType": "DismissTeamFubenReq",
+      "responseType": "DismissTeamFubenRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.teamHandler.exitTeam",
+      "requestType": "ExitTeamReq",
+      "responseType": "ExitTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.getAllTeams",
+      "requestType": "AllTeamsReq",
+      "responseType": "AllTeamsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.getAudioChannel",
+      "requestType": "GetAudioChannelReq",
+      "responseType": "GetAudioChannelRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "battle.teamHandler.getFubenInfo",
+      "requestType": "GetTeamFubenInfoReq",
+      "responseType": "GetTeamFubenInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "battle.teamHandler.getMyTeam",
+      "requestType": "MyTeamReq",
+      "responseType": "MyTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.getTeamMembers",
+      "requestType": "TeamMembersReq",
+      "responseType": null,
+      "requestCodec": true,
+      "responseCodec": false,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.inviteJoinTeam",
+      "requestType": "InviteJoinTeamReq",
+      "responseType": "InviteJoinTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.isInvite",
+      "requestType": "IsInviteReq",
+      "responseType": "IsInviteRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.joinTeam",
+      "requestType": "JoinTeamReq",
+      "responseType": "JoinTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.kickOutTeamMember",
+      "requestType": "KickOuTeamMemberReq",
+      "responseType": "KickOuTeamMemberRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.refuseInviteTeam",
+      "requestType": "RefuseInviteTeamReq",
+      "responseType": "RefuseInviteTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "battle.teamHandler.refuseJoinTeam",
+      "requestType": "RefuseJoinTeamReq",
+      "responseType": "RefuseJoinTeamRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "teams",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "connector.entryHandler.heartbeat",
+      "requestType": "HeartbeatReq",
+      "responseType": "HeartbeatRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "connector.entryHandler.login",
+      "requestType": "LoginReq",
+      "responseType": "LoginResp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.achievementHandler.receive",
+      "requestType": "AchievementReq",
+      "responseType": "AchievementRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.achievementHandler.storeSteam",
+      "requestType": "AchievementReq",
+      "responseType": "AchievementRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.buyFeast",
+      "requestType": "BuyFeastReq",
+      "responseType": "BuyFeastRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.activityHandler.getActivityAwards",
+      "requestType": "GetActivityAwardsReq",
+      "responseType": "GetActivityAwardsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.activityHandler.getActivityInfo",
+      "requestType": "GetActivityInfoReq",
+      "responseType": "GetActivityInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.getActivityLastInfo",
+      "requestType": "GetActivityLastInfoReq",
+      "responseType": "GetActivityLastInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.getActivityPreview",
+      "requestType": "GetActivityPreviewReq",
+      "responseType": "GetActivityPreviewRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.getActivityRank",
+      "requestType": "GetActivityRankReq",
+      "responseType": "GetActivityRankRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.getActivityReward",
+      "requestType": "GetActivityRewardReq",
+      "responseType": "GetActivityRewardRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.activityHandler.getActivitys",
+      "requestType": "GetActivitysReq",
+      "responseType": "GetActivitysRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.getActivitysRedDot",
+      "requestType": "GetActivitysRedDotReq",
+      "responseType": "GetActivitysRedDotRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.activityHandler.loadActivity",
+      "requestType": "LoadActivityReq",
+      "responseType": "LoadActivityRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.announcementHandler.loadAnnouncements",
+      "requestType": "AnnouncementReq",
+      "responseType": "AnnouncementRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.bagHandler.bagItems",
+      "requestType": "BagItemsReq",
+      "responseType": "BagItemsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.bagHandler.dropItem",
+      "requestType": "BagItemDropReq",
+      "responseType": "BagItemDropRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "inventory",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.bagHandler.moveItem",
+      "requestType": "BagItemMoveReq",
+      "responseType": "BagItemMoveRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "inventory",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.bagHandler.openGiftItem",
+      "requestType": "BagItemOpenReq",
+      "responseType": "BagItemOpenRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.bagHandler.openRandomStone",
+      "requestType": "BagRandomStoneOpenReq",
+      "responseType": "BagRandomStoneOpenRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.bagHandler.openSomeItem",
+      "requestType": "OpenSomeItemReq",
+      "responseType": "OpenSomeItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.bagHandler.orderItems",
+      "requestType": "BagItemReorderReq",
+      "responseType": "BagItemReorderRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "inventory",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.brHandler.chat",
+      "requestType": "BrChatReq",
+      "responseType": "BrChatRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.createRoom",
+      "requestType": "BrCreateRoomReq",
+      "responseType": "BrCreateRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.enterPartyScene",
+      "requestType": "PartyEnterSceneReq",
+      "responseType": "PartyEnterSceneRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.enterScene",
+      "requestType": "BrEnterSceneReq",
+      "responseType": "BrEnterSceneRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.inviteReq",
+      "requestType": "BrInviteReq",
+      "responseType": "BrInviteRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.joinRoom",
+      "requestType": "BrJoinRoomReq",
+      "responseType": "BrJoinRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.leaveRoom",
+      "requestType": "BrLeaveRoomReq",
+      "responseType": "BrLeaveRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.roomEnterScene",
+      "requestType": "BrRoomEnterSceneReq",
+      "responseType": "BrRoomEnterSceneRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.brHandler.setAutoMatch",
+      "requestType": "BrSetAutoMatchReq",
+      "responseType": "BrSetAutoMatchRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.challengeHandler.challengeConfig",
+      "requestType": "ChallengeConfigReq",
+      "responseType": "ChallengeConfigRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.challengeHandler.getGlobalConfig",
+      "requestType": "GlobalConfigReq",
+      "responseType": "GlobalConfigRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.collectionHandler.collectionGetReward",
+      "requestType": "CollectionGetRewardReq",
+      "responseType": "CollectionGetRewardRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.collectionHandler.loadCollection",
+      "requestType": "LoadCollectionReq",
+      "responseType": "LoadCollectionRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.collectionHandler.upLevelCollection",
+      "requestType": "UpLevelCollectionReq",
+      "responseType": "UpLevelCollectionRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.drawHandler.draw",
+      "requestType": "DrawReq",
+      "responseType": "DrawRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.drawHandler.drawWeapon",
+      "requestType": "DrawWeaponReq",
+      "responseType": "DrawWeaponRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.drawHandler.getWeapons",
+      "requestType": "GetWeaponsReq",
+      "responseType": "GetWeaponsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.drawHandler.setWeaponStatus",
+      "requestType": "SetWeaponStatusReq",
+      "responseType": "SetWeaponStatusRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.friendHandler.addFriend",
+      "requestType": "AddFriendReq",
+      "responseType": "AddFriendRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.authFriend",
+      "requestType": "AuthFriendReq",
+      "responseType": "AuthFriendRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.chatFriend",
+      "requestType": "ChatFriendReq",
+      "responseType": "ChatFriendRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.delFriend",
+      "requestType": "DelFriendReq",
+      "responseType": "DelFriendRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.friendStatusSwitching",
+      "requestType": "FriendStatusSwitchingReq",
+      "responseType": "FriendStatusSwitchingRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.loadFriends",
+      "requestType": "LoadFriendsReq",
+      "responseType": "LoadFriendsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.loadFriendsChat",
+      "requestType": "LoadFriendsChatReq",
+      "responseType": "LoadFriendsChatRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.loadPlayerBlocking",
+      "requestType": "LoadPlayerBlockingReq",
+      "responseType": "LoadPlayerBlockingRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.memberInfo",
+      "requestType": "MemberInfoReq",
+      "responseType": "MemberInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.playerBlock",
+      "requestType": "PlayerBlockReq",
+      "responseType": "PlayerBlockRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.friendHandler.playerBlockInfo",
+      "requestType": null,
+      "responseType": "MemberInfoRsp",
+      "requestCodec": false,
+      "responseCodec": true,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.friendHandler.readFriendChat",
+      "requestType": "ReadFriendChatReq",
+      "responseType": "ReadFriendChatRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "verified",
+      "service": "friends",
+      "note": "Использует реальные protobuf-схемы, проверку авторизации и серверное состояние. Полная идентичность игровому серверу не заявляется."
+    },
+    {
+      "route": "game.fubenHandler.changeLeader",
+      "requestType": "FubenChangeLeaderReq",
+      "responseType": "FubenChangeLeaderRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.changeMap",
+      "requestType": "FubenChangeMapReq",
+      "responseType": "FubenChangeMapRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.createRoom",
+      "requestType": "FubenCreateRoomReq",
+      "responseType": "FubenCreateRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.getMatchInfoAgain",
+      "requestType": "GetMatchInfoAgainReq",
+      "responseType": "GetMatchInfoAgainRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.inviteReq",
+      "requestType": "FubenInviteReq",
+      "responseType": "FubenInviteRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.joinRoom",
+      "requestType": "FubenJoinRoomReq",
+      "responseType": "FubenJoinRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.kickPlayer",
+      "requestType": "FubenKickPlayerReq",
+      "responseType": "FubenKickPlayerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.leaveRoom",
+      "requestType": "FubenLeaveRoomReq",
+      "responseType": "FubenLeaveRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.resetFubenCd",
+      "requestType": "ResetFubenCdReq",
+      "responseType": "ResetFubenCdRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.roomEnterScene",
+      "requestType": "FubenRoomEnterSceneReq",
+      "responseType": "FubenRoomEnterSceneRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.fubenHandler.setAutoMatch",
+      "requestType": "FubenSetAutoMatchReq",
+      "responseType": "FubenSetAutoMatchRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.addCoin",
+      "requestType": "AddCoinReq",
+      "responseType": "AddCoinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.changeServer",
+      "requestType": "ChangeServerReq",
+      "responseType": "ChangeServerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.checkGameInviteCode",
+      "requestType": "GameInviteCodeCheckReq",
+      "responseType": "GameInviteCodeCheckRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.chooseIsBeginner",
+      "requestType": "ChooseIsBeginnerReq",
+      "responseType": "ChooseIsBeginnerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.createRoom",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.enterBattle",
+      "requestType": "IOGameLoginReq",
+      "responseType": "IOGameLoginRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.enterGuide",
+      "requestType": "IOGameLoginReq",
+      "responseType": "IOGameLoginRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.enterRoom",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.exitBattle",
+      "requestType": "IOGameLogoutReq",
+      "responseType": "IOGameLogoutRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.exitGuide",
+      "requestType": "IOGameLogoutReq",
+      "responseType": "IOGameLogoutRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getBatchServers",
+      "requestType": "ServersReq",
+      "responseType": "ServersRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getCoin",
+      "requestType": "CoinReq",
+      "responseType": "CoinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getCommunitiesUrl",
+      "requestType": "CommunitiesUrlReq",
+      "responseType": "CommunitiesUrlRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getDanDaily",
+      "requestType": "getDanDailyReq",
+      "responseType": "getDanDailyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getDiamond",
+      "requestType": "DiamondReq",
+      "responseType": "DiamondRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getGuideServers",
+      "requestType": "ServersReq",
+      "responseType": "ServersRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getNominateServer",
+      "requestType": "NominateReq",
+      "responseType": "NominateRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getPets",
+      "requestType": "PetsReq",
+      "responseType": "PetsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.getServers",
+      "requestType": "ServersReq",
+      "responseType": "ServersRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.giveUpBeginner",
+      "requestType": "GiveUpBeginnerReq",
+      "responseType": "GiveUpBeginnerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.gmMsg",
+      "requestType": "GmNotify",
+      "responseType": null,
+      "requestCodec": true,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.onPlayerRestartGame",
+      "requestType": "IOGameRestartNty",
+      "responseType": "IOGameRestartNty",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.playerInfo",
+      "requestType": "PlayerInfo",
+      "responseType": "PlayerDetail",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.queryTracker",
+      "requestType": "QueryTrackerReq",
+      "responseType": "QueryTrackerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.report",
+      "requestType": "ReportReq",
+      "responseType": "ReportRsq",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.reqBuySkin",
+      "requestType": "BuySkinReq",
+      "responseType": "BuySkinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.reqCheckDanDaily",
+      "requestType": "CheckDanDailyReq",
+      "responseType": "CheckDanDailyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.reqCurSkin",
+      "requestType": "CurSkinReq",
+      "responseType": "CurSkinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.reqEquipSkin",
+      "requestType": "EquipSkinReq",
+      "responseType": "EquipSkinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.reqFightInfo",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.reqMineRecords",
+      "requestType": "MineRecordsReq",
+      "responseType": "MineRecordsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.reqRank",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.reqRanking",
+      "requestType": "RankingReq",
+      "responseType": "RankingRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.reqRedeem",
+      "requestType": "RedeemAwardReq",
+      "responseType": "RedeemAwardRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.reqSkins",
+      "requestType": "SkinsReq",
+      "responseType": "SkinsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.requestRoom",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.setName",
+      "requestType": "NameReq",
+      "responseType": "NameResp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "lobby",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.gameHandler.startMatch",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "game.gameHandler.startTrack",
+      "requestType": "StartTrackReq",
+      "responseType": "StartTrackRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.gameHandler.subCoin",
+      "requestType": "SubCoinReq",
+      "responseType": "SubCoinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.guildHandler.getAllGuilds",
+      "requestType": "GuildReq",
+      "responseType": "GuildRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.getGuildInfo",
+      "requestType": "GuildInfo",
+      "responseType": "GuildRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.getGuildRank",
+      "requestType": "GuildReq",
+      "responseType": "GuildRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.getGuildRankDetail",
+      "requestType": "GuildReq",
+      "responseType": "GuildRankDetailRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.getItemList",
+      "requestType": "ItemListReq",
+      "responseType": "ItemListRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.guildInfo",
+      "requestType": "GuildInfo",
+      "responseType": "GuildRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.guildMemberInfo",
+      "requestType": "GuildMemberReq",
+      "responseType": "GuildMemberRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.guildHandler.guildOp",
+      "requestType": "GuildOpReq",
+      "responseType": "GuildOpRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.guildHandler.guildReqChat",
+      "requestType": "ChatReq",
+      "responseType": "ChatResp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.heroHandler.addHero",
+      "requestType": "CreateHeroReq",
+      "responseType": "CreateHeroRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.heroHandler.switchHero",
+      "requestType": "SwitchHeroReq",
+      "responseType": "SwitchHeroRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.heroHandler.upPetLv",
+      "requestType": "UpPetLvReq",
+      "responseType": "UpPetLvRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.heroHandler.useSkin",
+      "requestType": "UseSkinReq",
+      "responseType": "UseSkinRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.inviteHandler.getInviteRewards",
+      "requestType": "GetInviteRewardsReq",
+      "responseType": "GetInviteRewardsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.inviteHandler.inviteOp",
+      "requestType": "InviteReq",
+      "responseType": "InviteRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.inviteHandler.loadInviteRewards",
+      "requestType": "LoadInviteRewardsReq",
+      "responseType": "LoadInviteRewardsRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.mailHandler.mailOp",
+      "requestType": "MailReq",
+      "responseType": "MailRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.mailHandler.mailQuery",
+      "requestType": "MailReq",
+      "responseType": "MailRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.marketHandler.authorizationMall",
+      "requestType": "AuthorizationMallReq",
+      "responseType": "AuthorizationMallRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.marketHandler.buyItem",
+      "requestType": "BuyItemReq",
+      "responseType": "BuyItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.marketHandler.buyMall",
+      "requestType": "BuyMallReq",
+      "responseType": "BuyMallRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.passHandler.buyAdvancedPass",
+      "requestType": "BuyAdvancedPassReq",
+      "responseType": "BuyAdvancedPassRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.passHandler.buyPassExp",
+      "requestType": "BuyPassExpReq",
+      "responseType": "BuyPassExpRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.passHandler.buyPassShopItem",
+      "requestType": "BuyPassShopItemReq",
+      "responseType": "BuyPassShopItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.passHandler.getPassAward",
+      "requestType": "GetPassAwardReq",
+      "responseType": "GetPassAwardRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.passHandler.getPassTaskReward",
+      "requestType": "GetPassTaskRewardReq",
+      "responseType": "GetPassTaskRewardRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.passHandler.passInfo",
+      "requestType": "PassInfoReq",
+      "responseType": "PassInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.playerHandler.checkPersonalItem",
+      "requestType": "CheckPersonalItemReq",
+      "responseType": "CheckPersonalItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.playerHandler.equipPersonalItem",
+      "requestType": "EquipPersonalItemReq",
+      "responseType": "EquipPersonalItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.playerHandler.getPlayerHeadInfo",
+      "requestType": "PlayerHeadInfoReq",
+      "responseType": "PlayerHeadInfoRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.playerHandler.personalItemInfo",
+      "requestType": "PersonalItemReq",
+      "responseType": "PersonalItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.playerHandler.playerHeadOp",
+      "requestType": "PlayerHeadOpReq",
+      "responseType": "PlayerHeadOpRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.pvpTeamHandler.createRoom",
+      "requestType": "PvpCreateRoomReq",
+      "responseType": "PvpCreateRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.pvpTeamHandler.inviteReq",
+      "requestType": "PvpInviteReq",
+      "responseType": "PvpInviteRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.pvpTeamHandler.joinRoom",
+      "requestType": "PvpJoinRoomReq",
+      "responseType": "PvpJoinRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.pvpTeamHandler.leaveRoom",
+      "requestType": "PvpLeaveRoomReq",
+      "responseType": "PvpLeaveRoomRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.pvpTeamHandler.roomEnterScene",
+      "requestType": "PvpRoomEnterSceneReq",
+      "responseType": "PvpRoomEnterSceneRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.pvpTeamHandler.setAutoMatch",
+      "requestType": "PvpSetAutoMatchReq",
+      "responseType": "PvpSetAutoMatchRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.secondVerifyHandler.delForceSecondVerify",
+      "requestType": "delForceSecondVerifyReq",
+      "responseType": "delForceSecondVerifyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.secondVerifyHandler.delSecondVerify",
+      "requestType": "delSecondVerifyReq",
+      "responseType": "delSecondVerifyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.secondVerifyHandler.modifySecondVerify",
+      "requestType": "modifySecondVerifyReq",
+      "responseType": "modifySecondVerifyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.secondVerifyHandler.setSecondVerify",
+      "requestType": "setSecondVerifyReq",
+      "responseType": "setSecondVerifyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.secondVerifyHandler.verifySecondVerify",
+      "requestType": "verifySecondVerifyReq",
+      "responseType": "verifySecondVerifyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.buyShopItem",
+      "requestType": "BuyShopItemReq",
+      "responseType": "BuyShopItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.buySuperWelfare",
+      "requestType": "WelfareBuySuperReq",
+      "responseType": "WelfareBuySuperRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.getGiftNames",
+      "requestType": "GetGiftNamesReq",
+      "responseType": "GetGiftNamesRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.shopHandler.giveActivityPresent",
+      "requestType": "GiveActivityPresentReq",
+      "responseType": "GiveActivityPresentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.givePresent",
+      "requestType": "GivePresentReq",
+      "responseType": "GivePresentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.previewGift",
+      "requestType": "PreviewGiftReq",
+      "responseType": "PreviewGiftRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.shopHandler.queryPresent",
+      "requestType": "QueryPresentReq",
+      "responseType": "QueryPresentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.shopHandler.queryShopItem",
+      "requestType": "QueryShopItemReq",
+      "responseType": "QueryShopItemRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.shopHandler.receivePresent",
+      "requestType": "ReceivePresentReq",
+      "responseType": "ReceivePresentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.recvWelfareAward",
+      "requestType": "WelfareAwardRecvReq",
+      "responseType": "WelfareAwardRecvRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.rejectPresent",
+      "requestType": "RejectPresentReq",
+      "responseType": "RejectPresentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.shopHandler.searchPlayer",
+      "requestType": "SearchPlayerReq",
+      "responseType": "SearchPlayerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.surveyHandler.loadSurvey",
+      "requestType": "LoadSurveyReq",
+      "responseType": "LoadSurveyRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.surveyHandler.surveyAnswer",
+      "requestType": "SurveyAnswerReq",
+      "responseType": "SurveyAnswerRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.surveyHandler.surveyCommit",
+      "requestType": "SurveyCommitReq",
+      "responseType": "SurveyCommitRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.talentHandler.brScoreGetRank",
+      "requestType": "BrScoreGetRankReq",
+      "responseType": "BrScoreGetRankRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.talentHandler.cancel",
+      "requestType": "TalentReq",
+      "responseType": "TalentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.talentHandler.reputationGetRank",
+      "requestType": "ReputationGetRankReq",
+      "responseType": "ReputationGetRankRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "boot",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.talentHandler.reputationGetReward",
+      "requestType": "ReputationGetRewardReq",
+      "responseType": "ReputationGetRewardRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.talentHandler.resetAll",
+      "requestType": "TalentReq",
+      "responseType": "TalentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "game.talentHandler.tdGetRank",
+      "requestType": "TdGetRankReq",
+      "responseType": "TdGetRankRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "provisional",
+      "service": "read",
+      "note": "Начальные данные или ограниченный ответ, не полная игровая механика."
+    },
+    {
+      "route": "game.talentHandler.unlock",
+      "requestType": "TalentReq",
+      "responseType": "TalentRsp",
+      "requestCodec": true,
+      "responseCodec": true,
+      "category": "unsupported",
+      "service": null,
+      "note": "Маршрут известен, но операция не реализована; при наличии поля ошибки возвращается отказ, иначе сервер не подтверждает её успех."
+    },
+    {
+      "route": "gate.gateHandler.getConnector",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.addGuard",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.addRobot",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.exitRoom",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.readyRoom",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.roomList",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.startRoom",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    },
+    {
+      "route": "match.matchHandler.updateMap",
+      "requestType": null,
+      "responseType": null,
+      "requestCodec": false,
+      "responseCodec": false,
+      "category": "unmapped",
+      "service": null,
+      "note": "У клиента нет подтверждённой пары protobuf/ответа в текущем контракте. Требуется проверка сетевого вызова в игровом Index."
+    }
+  ]
+}

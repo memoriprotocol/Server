@@ -1,0 +1,112 @@
+[
+  {
+    "path": "ISSUES_STAGE51_RU.txt",
+    "sha256": "f2c14ca3e0e46a8034929280eac9e1a2899fe48f038225361253182a18af20f0",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE51_RU.txt",
+    "sha256": "13f3245cd50849ba85fef56e14a2002d3e030917d001c73eba5b89da0d7155ff",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE51_RU.txt",
+    "sha256": "13f3245cd50849ba85fef56e14a2002d3e030917d001c73eba5b89da0d7155ff",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "sha256": "848e1c7d41dee98cf9b3ea4976b620c9976c4d1b8facab515793711bffa7d763",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/pet-actions-3127.js",
+    "sha256": "871c78d0186353e056a9c03d32ccacb6a65250d1681bfb656adafe5663c02a97",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/pets-3127.js",
+    "sha256": "9544a25df3863b3522580cbcedab38399065d247483feb9c64d7f8abdab4b1a8",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "218aa31c10fa89f045673e56f7c767e7676ed73e18d50ac6818fc276932a990e",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage51-native-contracts.test.js",
+    "sha256": "78d0f40e0e9e5bc6c379eea996fc79f9c69d0bc7d7ae4a75564d38e66543fff6",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage51-pet-actions.test.js",
+    "sha256": "5466fbd622eff38ba77bfdb9d893db26b039b467e0cfd999d72b521964f581ea",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "a1821bbb431d9bdea5da7ec4334ed56dfd80133108fedc5ae0fcd16c0a3b98e9",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE51_NATIVE_ASSETS.json",
+    "sha256": "f3b3dff5c5c6d5f82823b1f15d574070133bfe6e458c0b7c18687a5e9628a37d",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE51_PETS.json",
+    "sha256": "0f934232792873e3d082bd6bf527f26bc0a7634ab2726b97cc2773b1ac35c204",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE51_TESTS.log",
+    "sha256": "e2a8007c1bc0a8b88829fdd205d82f45494eb2528a9ffff9a18180988c790ed3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE51_VALIDATION.json",
+    "sha256": "1d7a493317111781bb859898ab63c0247fa72489abb61fb2b3cf47713fb75758",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE51_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage51/CCBodyMonsterAnimComp.ts",
+    "sha256": "185ffb9dc3638d25f7a55ecb93c70f3b61afa041afa7706967ebce6a03a1a4bd",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage51/CCMonsterSkillEffectComp.ts",
+    "sha256": "b6e9671359e79226c34dc9362d4c780675b4194d3aab14d2ef24be43647313a1",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage51/CCStaticPhysicsComp.ts",
+    "sha256": "41573b933c7a5a2674882fe5bc8ef5f5a59b9c5eba80f9c75b8520ca55665214",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage51/CCVultureHurriance.ts",
+    "sha256": "a9dd06444c7c58c6b28ed91ec405bfa38077fca3d899fb8956defd51c5956f10",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage51/MonsterAnim.ts",
+    "sha256": "ac3a884c6f3a0cdf8ac86ff569f2ce36d098dfb3e86974459288d4afa4e426ed",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage51/SkillCfg.ts",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "da836a94b166399e1df093699f3f4e34126560866753ffecf2cd5d5fa4023d07",
+    "change": "modified"
+  }
+]

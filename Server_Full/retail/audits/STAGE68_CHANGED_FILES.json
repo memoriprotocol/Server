@@ -1,0 +1,177 @@
+[
+  {
+    "path": "ISSUES_STAGE68_RU.txt",
+    "change": "added",
+    "sha256": "62506473221a0a6efc3cfe7afc3823196d92fa69dfe2638412ea74016e097b68"
+  },
+  {
+    "path": "README_STAGE68_RU.txt",
+    "change": "added",
+    "sha256": "6aa29403addb181024f33098e3358ab23936455612ef9efaf1622ba1bd7627a6"
+  },
+  {
+    "path": "SKILL_COVERAGE_STAGE68_RU.txt",
+    "change": "added",
+    "sha256": "8b53dc55bf5bccab213b09f74b8742a353d4c6ca82cbe0dcfd1af56a4b003af9"
+  },
+  {
+    "path": "Server_Full/README_STAGE68_RU.txt",
+    "change": "added",
+    "sha256": "6aa29403addb181024f33098e3358ab23936455612ef9efaf1622ba1bd7627a6"
+  },
+  {
+    "path": "Server_Full/Server/lib/chef-pots-3127.js",
+    "change": "added",
+    "sha256": "91b61f5498e7ac5d7e9f2003f7594fd13f0e7319c1104806fa231ceb7722099b"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "854f45d7b5288f6a61c4027a0e00db66baeb53d64dc3f2fa398a39e73284df07"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "change": "modified",
+    "sha256": "606d17ff9f1d5404193bbbc77095180158b4d50158ab38085f1d459400db875f"
+  },
+  {
+    "path": "Server_Full/Server/lib/food-effects-3127.js",
+    "change": "added",
+    "sha256": "75ec7d9d654e096a723d4453bdf9dc1851ff905197ab1ec92aae0155f37f248f"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "5802a00afa4ae70cf7053eaa181bd4e965dd49026a9bfd7083fdfa95a6eed621"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "change": "modified",
+    "sha256": "dc127375f4f64a3206007abef6a2a685fb4a79b4409b700c9e3f69dc5de4bf46"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "0498c00d182cba59367f81ce2df8bca5aa6b8de099a4dadbb07da1c82bab0d90"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "6ea8c5cb03db7c37e010fda636201042a1ef0ffc4aebea10759ed04ccd422be2"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage68-native.js",
+    "change": "added",
+    "sha256": "a9800ec0d56c37d4d7414dc41a3472fd3797d3b344f84ef20f472cfa6b90006c"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage68-food-chef.test.js",
+    "change": "added",
+    "sha256": "c62b6627f7cb5dadfdd52e1b94ec3f44320c33b91c2c4745c64961c14014b88c"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage68-native-food.test.js",
+    "change": "added",
+    "sha256": "56239d882a5d6d0c75bb38836ec5b6e2dc698c601b8fe01e2efdd86317dd4229"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "b26f543078c6c11b53af8d00a4744212476ac3f2848f94fcde5ca1cd8db60cf5"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_FOOD_CHEF.json",
+    "change": "added",
+    "sha256": "c4cc38dec23b2684eba942956f5c5b8914f9015966a329b9ce335946ac4e6a28"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "bee24f456988ea30053896416f832a187781aa77a0d5817505e90313da6ad7c1"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "d3402d923f3b0e515bfde394a7b917d24c28a06e631240061ef856aa09ad4e0f"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_SMOKE.log",
+    "change": "added",
+    "sha256": "026d048e83b1b8d09481afe07d22256ae9e995166e920da028538352856f8718"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_TESTS.log",
+    "change": "added",
+    "sha256": "0d43203a8fa27a3565100e621ba74bfa5109fa19ef6dc47a70b42e8eeedead11"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_VALIDATION.json",
+    "change": "added",
+    "sha256": "614a7b361114383d7ed2584ed8cb37e28427198470a1af7af5d9c00ccc743dab"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE68_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/BuffCfg.ts",
+    "change": "added",
+    "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/CCCookPot.ts",
+    "change": "added",
+    "sha256": "8ffce71c2a7bd135a6418dbf1d990c1b658caf0b88a191bf1b40b6674c6c3ac2"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/CCCookPotFood.ts",
+    "change": "added",
+    "sha256": "294728d5747cfa0bfbb6106bc45657cfd1fb06ed2e1ba7faa7b9f4159e4797e2"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/CookBook.ts",
+    "change": "added",
+    "sha256": "cf8e1aba779fa18115bbcc7d80d694a68b1d52ca6c39ffe1ca8aaebd39ccfcbc"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/CookBookManager.ts",
+    "change": "added",
+    "sha256": "be18e78f51e47a757ceb1ec502f7b35e1206882201a7b0e05f668ee883974589"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/Creatures.ts",
+    "change": "added",
+    "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/ItemPanelController.ts",
+    "change": "added",
+    "sha256": "90d9433882a8509ddee97672af00b0b68c80e7fb909fcca04d3b50092a69de7a"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/ItemTypManager.ts",
+    "change": "added",
+    "sha256": "b71be7d1f9488f74f196929f4703b47f3b33a453519b40f980b30a2e44427cf6"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/chef-assets.json",
+    "change": "added",
+    "sha256": "ffde91d412b0fa51765dd1263286dd7c3416e13b7f62f7d3d3fd96d5c892f6ef"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage68/native-descriptions.json",
+    "change": "added",
+    "sha256": "cac767471888d99590390010dd51cde69e16fe840f096ee25a176986914b4a38"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "6dbfc0ca6cb8e32238adbf859ab3aafe3d202f9a9bfe3a08107be2312ecaeef1"
+  }
+]

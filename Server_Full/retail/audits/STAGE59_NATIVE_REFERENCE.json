@@ -1,0 +1,14 @@
+[
+  {
+    "path": "Server_Full/retail/client-reference/stage59/CCIceStaffAttack.ts",
+    "sha256": "d6cbe9094cb248d2ac6ea66f4d657cf78a598c1dae0197ead69bc44fae559787",
+    "bytes": 4908,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage59/Creatures.ts",
+    "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349",
+    "bytes": 32050,
+    "verbatimOriginalFactory": true
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "stage": 42,
+  "fullRestoration1to1": false,
+  "clientRenderVerified": false,
+  "newTests": {
+    "tests": 31,
+    "pass": 31,
+    "fail": 0
+  },
+  "websiteTests": {
+    "tests": 37,
+    "pass": 37,
+    "fail": 0
+  },
+  "allServerTests": {
+    "tests": 292,
+    "pass": 275,
+    "fail": 17
+  },
+  "legacyFailures": [
+    "stage17 exposes manual central-city wall ring and bridges only on main map2",
+    "stage17 keeps original 2024 safe rectangles and adds central gates",
+    "geometry closes wall edges but four cardinal 1600-wide exits stay open for movement",
+    "stage17 no longer quarantines city entirely; old off flag still disables objects",
+    "native map2 still preserves 5 safe rectangles and now adds manual perimeter objects",
+    "catalog documents client assets; Stage17 uses only assets available in this client",
+    "NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs",
+    "NPC are never spawned on guide map; opt-in mode isolates them from city walls",
+    "legacy safe mode can disable all NPCs without disabling five real safe zones",
+    "Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs",
+    "full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds",
+    "city visibility is configured in normal and previous recommended bat launchers",
+    "world protobuf snapshots include city only when requested; movement still unchanged",
+    "actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC",
+    "Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly",
+    "plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates",
+    "stage30: clean outer root and internal runtime/retail"
+  ],
+  "clientMainSha256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "limitations": [
+    "Native event types 2-9 lack original server parameters/reward definitions; switches are catalog entries, not fully working events.",
+    "Forced pass server transactions work, but client PassManager still checks packaged dates. No Index/client file is modified.",
+    "AI transitions remain generic pending restoration; hero/RMB skills still primarily native activation/visuals.",
+    "Resistance values/weak elements are native; numeric resistance curve is local and not a recovered retail formula.",
+    "Fishing shore placement and selection between the two ingredient pools are local policies; weights/XP are from IngredientsScheme.",
+    "Pet mounts, special mount abilities, full talent effects, full hero/weapon special effects and city restoration remain incomplete.",
+    "Windows Cocos rendering, including label cleanup and projectiles, requires game verification."
+  ]
+}

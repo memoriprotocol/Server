@@ -1,0 +1,177 @@
+[
+  {
+    "path": "Client_Payment_Addon/resources/app/cocosExport/web-desktop/local-bootstrap.js",
+    "sha256": "b4543ca1ddcf037b0ac3f22b836f296902080a63b783dd546b2f109f73fc6742",
+    "change": "added"
+  },
+  {
+    "path": "Client_Payment_Addon/resources/app/local-steam-adapter.js",
+    "sha256": "e47aaa20eb9b1df3670c5cce099c87a93ac44ba6d58bc15cd9ec1fd09be73c75",
+    "change": "added"
+  },
+  {
+    "path": "ISSUES_STAGE47_RU.txt",
+    "sha256": "822d6dc87730190ba1613fc8e4532c44ccac6e5c79721911348557312890f93f",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE47_RU.txt",
+    "sha256": "11c2cf4a214f8c7874ae3429c846dcd1a92d753a8e833ea177ba911649ed4a2c",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE47_RU.txt",
+    "sha256": "11c2cf4a214f8c7874ae3429c846dcd1a92d753a8e833ea177ba911649ed4a2c",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/boss-notices-3127.js",
+    "sha256": "06da7c0cd6fef66d44ec024e6cf26d9d8b3f138dc7ee9a5fbe2f1581aec240c5",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "sha256": "23a361c5768e1e3a362e82d27672f765a6a6c664ac38e76310d779d6188d7d88",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/druid-3127.js",
+    "sha256": "c8f82a7d289258c9c74ce0c1c4b51702ad6e8125500a00164f7aa2c088db8452",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/fishing-3127.js",
+    "sha256": "b9e63a3642c543b2eb7a4c839f84e6c8ac850d2fec4dbb5b004bd7d38592c6bf",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "sha256": "79e60bb7714f3bd97f232078c6a8271b2aac1c7b47f8e12607a81b11992a0580",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-switch-3127.js",
+    "sha256": "a28c67c5a59938a88794fa21bbb447688dd2150aa10cd15228d1a4926c3f2691",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "sha256": "0ee8fe1fb243f3abcb9979489233107d9363a14a57359fee2bd8497b0cd84fdd",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/launcher-state-3127.js",
+    "sha256": "351c3567ba7b59226300a3c8af5e09c00cb69381bc520078e4163dcb34cf5360",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "sha256": "825ec31fd610144292480f469fb75efc168389bdaaf6289c2894cb1d82b7234b",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/payment-overlay-3127.js",
+    "sha256": "6c1b037a3e0bbca1967dd7660457ffca789af69eda25defbdc3e550221b3e603",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/payments-3127.js",
+    "sha256": "d7ec593a51c4816000e0f678f827c7e0822f13bf8d04d77a7c39eb9be6ea16f8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "sha256": "a0a7aa12da460f69f6b58bc013310348e6f5b3b2768adffffe73d824ca1a4333",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "d01f40427285b30da0bcdf6bd1bcb03f5c941f8005f30aa9faba8f83a441d3b5",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/website-payment-store.cjs",
+    "sha256": "db92be8d5251827ec1bd0735ecd35e043b9e3193b2559accf9133383c450366b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage40-rewards-notices.test.js",
+    "sha256": "1c378868fd9ef887201c7d0fe02a072d1a0b4c1c7e71d2258d8819b53f3446ee",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage47-master-launcher-queue.test.js",
+    "sha256": "0f951e6d6c54734073832fde03179f10c8e663fe09f27e472a310b6342173ad9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage47-payments.test.js",
+    "sha256": "11ea72361c256744e326881e800252bd5f15cf0a4d357acc20e83942b390e268",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage47-skills-fishing.test.js",
+    "sha256": "c0da2e35e7579187a79b7266335dda3d945f77b72ddf0c116dc456969affff3d",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "0e03d7405c6b2cd0ba4a0ac14ef34821026ea27a8c3fb6c3204a8a2be3f0e7a2",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE47_TESTS.log",
+    "sha256": "28a992ee4c5335c8f69e73308ac7122fd93ce75bc6d39591dba01569dbe296c9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE47_VALIDATION.json",
+    "sha256": "db13c32588d59cbe0c244c216edb646ed6926758f95d91c3dbc97410545482c3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE47_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage47/CCBodyAnimComp.ts",
+    "sha256": "a8ef2249b64ed4a516ce6fbb13393d310d98548aed9b234100506c7abe0a8824",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage47/CCBuffComp.ts",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage47/CCChangeHeroPanel.ts",
+    "sha256": "34b15eddb917363f223ae1c89610616ec028b0d12d0a3963d78106fd80f390e9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage47/CCDruidSkill.ts",
+    "sha256": "400e80344e17963a8f25660255e9aa03e93b78fc081a8ec0c581d8c1a9e686fa",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage47/SkinManager.ts",
+    "sha256": "f0eb5a5bcd3e33a364cae9fa2a9a0f1236e98d0ed90e5def2fee57249376dd13",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "232a620f55b8e48eb523c183657b4c20842a958239ade5cd88fd0a56a6c7044a",
+    "change": "modified"
+  },
+  {
+    "path": "WEBSITE_STAGE47_CHANGED_FILES.json",
+    "sha256": "aa150e0496e6bf8c3aa395162b823b2870f44c8da078fb8c3abc7fd04c5fbd08",
+    "change": "added"
+  },
+  {
+    "path": "Website_Full/server.js",
+    "sha256": "5b586576c7a19857935201d351272225ab42079d5e9342d671b0df56eedcb8a0",
+    "change": "added"
+  }
+]

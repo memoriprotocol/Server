@@ -1,0 +1,45 @@
+{
+  "stage": 52,
+  "version": "0.30.0-stage52-map2-weapon-salvos",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 611,
+    "passed": 611,
+    "failed": 0,
+    "newStage52": 41,
+    "nativeAssetImportsVerified": 4,
+    "nativeVMTests": 5,
+    "nativeVM": "Original SkillCfg, SkillResUtil, PathUtil and CCAsyncBulletEntity missile-path functions; original imports CRC/hash; no Windows renderer"
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.30.0-stage52-map2-weapon-salvos",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "weaponProjectileSkills": [
+      3144,
+      3189,
+      3246,
+      3254,
+      6195012,
+      6195022,
+      6195032,
+      6195042,
+      6195502,
+      6198012,
+      6198022,
+      6198032,
+      6198042
+    ],
+    "windowsClientRendered": false
+  }
+}

@@ -1,0 +1,1777 @@
+{
+  "client": "3.12.7",
+  "sources": {
+    "resourcesConfigSHA256": "3c101918ae592ba59ddd9c6cdf3cbc98ecc1adb756af0c5d3b0a96156a6bf5b7",
+    "method": "Native handler paths and cc.Prefab table; original import bytes CRC-verified. Later definitions are comparison evidence only."
+  },
+  "plans": {
+    "6013:1:101": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 1,
+      "skinID": 101,
+      "skillType": 351,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_101/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_101/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_101/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:1:105": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 1,
+      "skinID": 105,
+      "skillType": 351,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_105/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_105/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_105/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:1:104": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 1,
+      "skinID": 104,
+      "skillType": 351,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_104/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_104/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_104/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:1:102": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 1,
+      "skinID": 102,
+      "skillType": 351,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_102/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_102/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_102/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:1:103": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 1,
+      "skinID": 103,
+      "skillType": 351,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_103/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_103/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_103/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:2:101": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 2,
+      "skinID": 101,
+      "skillType": 352,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_101/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_101/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_101/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:2:105": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 2,
+      "skinID": 105,
+      "skillType": 352,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_105/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_105/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_105/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:2:104": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 2,
+      "skinID": 104,
+      "skillType": 352,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_104/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_104/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_104/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:2:102": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 2,
+      "skinID": 102,
+      "skillType": 352,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_102/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_102/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_102/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:2:103": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 2,
+      "skinID": 103,
+      "skillType": 352,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_103/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_103/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_103/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:3:101": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 3,
+      "skinID": 101,
+      "skillType": 353,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_101/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_101/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_101/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:3:105": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 3,
+      "skinID": 105,
+      "skillType": 353,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_105/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_105/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_105/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:3:104": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 3,
+      "skinID": 104,
+      "skillType": 353,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_104/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_104/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_104/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:3:102": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 3,
+      "skinID": 102,
+      "skillType": 353,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_102/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_102/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_102/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6013:3:103": {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 3,
+      "skinID": 103,
+      "skillType": 353,
+      "entityType": 0,
+      "buffs": [
+        586,
+        705
+      ],
+      "followCaster": true,
+      "handler": "CCBuffComp.spartaEffect/spartaSound",
+      "prefabs": [
+        "arena/heroskill/300100_skill_tx_103/prefab/skill_tx",
+        "arena/heroskill/300100_skill_tx_103/prefab/soundNode",
+        "arena/heroskill/300100_skill_tx_103/prefab/soundRelease"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:1:201": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 1,
+      "skinID": 201,
+      "skillType": 312,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless1.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a01",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a02",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a02_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:1:204": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 1,
+      "skinID": 204,
+      "skillType": 312,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless1.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a01",
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a02",
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a02_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:1:203": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 1,
+      "skinID": 203,
+      "skillType": 312,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless1.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a01",
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a02",
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a02_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:1:202": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 1,
+      "skinID": 202,
+      "skillType": 312,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless1.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a01",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a02",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a02_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:2:201": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 2,
+      "skinID": 201,
+      "skillType": 313,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless2.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a03",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a04",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a04_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:2:204": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 2,
+      "skinID": 204,
+      "skillType": 313,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless2.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a03",
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a04",
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a04_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:2:203": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 2,
+      "skinID": 203,
+      "skillType": 313,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless2.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a03",
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a04",
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a04_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:2:202": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 2,
+      "skinID": 202,
+      "skillType": 313,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless2.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a03",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a04",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a04_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:3:201": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 3,
+      "skinID": 201,
+      "skillType": 314,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless3.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a05",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a06",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a06_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:3:204": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 3,
+      "skinID": 204,
+      "skillType": 314,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless3.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a05",
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a06",
+        "arena/heroskill/300200_skill_tx_204/prefab/300200_skill_tx_a06_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:3:203": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 3,
+      "skinID": 203,
+      "skillType": 314,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless3.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a05",
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a06",
+        "arena/heroskill/300200_skill_tx_203/prefab/300200_skill_tx_a06_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6006:3:202": {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 3,
+      "skinID": 202,
+      "skillType": 314,
+      "entityType": 0,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBless3.doCast",
+      "prefabs": [
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a05",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a06",
+        "arena/heroskill/300200_skill_tx/prefab/300200_skill_tx_a06_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:1:302": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 1,
+      "skinID": 302,
+      "skillType": 300,
+      "entityType": 104,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_302/prefab/300300_skill_tx_a03_1",
+        "arena/heroskill/300300_skill_tx_302/prefab/BloodSucker_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:1:303": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 1,
+      "skinID": 303,
+      "skillType": 300,
+      "entityType": 104,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a03_1",
+        "arena/heroskill/300300_skill_tx_303/prefab/BloodSucker_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:1:301": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 1,
+      "skinID": 301,
+      "skillType": 300,
+      "entityType": 104,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_301/prefab/300300_skill_tx_a03_1",
+        "arena/heroskill/300300_skill_tx_301/prefab/BloodSucker_1"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:2:302": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 2,
+      "skinID": 302,
+      "skillType": 301,
+      "entityType": 105,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange2.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_302/prefab/300300_skill_tx_a03_2",
+        "arena/heroskill/300300_skill_tx_302/prefab/BloodSucker_2",
+        "arena/heroskill/300300_skill_tx_302/prefab/300300_skill_tx_a02_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:2:303": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 2,
+      "skinID": 303,
+      "skillType": 301,
+      "entityType": 105,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange2.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a03_2",
+        "arena/heroskill/300300_skill_tx_303/prefab/BloodSucker_2",
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a02_2"
+      ],
+      "missing": [
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a02_2"
+      ],
+      "verified": false,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:2:301": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 2,
+      "skinID": 301,
+      "skillType": 301,
+      "entityType": 105,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange2.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_301/prefab/300300_skill_tx_a03_2",
+        "arena/heroskill/300300_skill_tx_301/prefab/BloodSucker_2",
+        "arena/heroskill/300300_skill_tx_301/prefab/300300_skill_tx_a02_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:3:302": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 3,
+      "skinID": 302,
+      "skillType": 302,
+      "entityType": 106,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange3.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_302/prefab/300300_skill_tx_a03_3",
+        "arena/heroskill/300300_skill_tx_302/prefab/BloodSucker_3",
+        "arena/heroskill/300300_skill_tx_302/prefab/300300_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:3:303": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 3,
+      "skinID": 303,
+      "skillType": 302,
+      "entityType": 106,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange3.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a03_3",
+        "arena/heroskill/300300_skill_tx_303/prefab/BloodSucker_3",
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a02_3"
+      ],
+      "missing": [
+        "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a02_3"
+      ],
+      "verified": false,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6003:3:301": {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 3,
+      "skinID": 301,
+      "skillType": 302,
+      "entityType": 106,
+      "buffs": [
+        183,
+        184,
+        408
+      ],
+      "followCaster": true,
+      "handler": "CCBloodsuckerRange3.create",
+      "prefabs": [
+        "arena/heroskill/300300_skill_tx_301/prefab/300300_skill_tx_a03_3",
+        "arena/heroskill/300300_skill_tx_301/prefab/BloodSucker_3",
+        "arena/heroskill/300300_skill_tx_301/prefab/300300_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6004:1:401": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 1,
+      "skinID": 401,
+      "skillType": 306,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a01_1",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:1:403": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 1,
+      "skinID": 403,
+      "skillType": 306,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a01_1",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:1:402": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 1,
+      "skinID": 402,
+      "skillType": 306,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a01_1",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:2:401": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 2,
+      "skinID": 401,
+      "skillType": 307,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a01_2",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:2:403": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 2,
+      "skinID": 403,
+      "skillType": 307,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a01_2",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:2:402": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 2,
+      "skinID": 402,
+      "skillType": 307,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a01_2",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:3:401": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 3,
+      "skinID": 401,
+      "skillType": 308,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a01_3",
+        "arena/heroskill/300400_skill_tx/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:3:403": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 3,
+      "skinID": 403,
+      "skillType": 308,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a01_3",
+        "arena/heroskill/300400_skill_tx_403/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6004:3:402": {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 3,
+      "skinID": 402,
+      "skillType": 308,
+      "entityType": 107,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCSnowstorm.create",
+      "prefabs": [
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_1",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_2",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a01_3",
+        "arena/heroskill/300400_skill_tx_402/prefab/300400_skill_tx_a02_3"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ],
+      "missingOptionalAssets": [
+        "arena/heroskill/mofashi/prefab/sound"
+      ]
+    },
+    "6005:1:601": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 1,
+      "skinID": 601,
+      "skillType": 309,
+      "entityType": 108,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword1",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a02",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:1:604": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 1,
+      "skinID": 604,
+      "skillType": 309,
+      "entityType": 108,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx_604/prefab/HolySword1",
+        "arena/heroskill/300600_skill_tx_604/prefab/300600_skill_tx_a02",
+        "arena/heroskill/300600_skill_tx_604/prefab/300600_skill_tx_a08"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:1:602": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 1,
+      "skinID": 602,
+      "skillType": 309,
+      "entityType": 108,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword1",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a02",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:1:603": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 1,
+      "skinID": 603,
+      "skillType": 309,
+      "entityType": 108,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword1",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a02",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:2:601": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 2,
+      "skinID": 601,
+      "skillType": 310,
+      "entityType": 109,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword2.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword2",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a04",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:2:604": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 2,
+      "skinID": 604,
+      "skillType": 310,
+      "entityType": 109,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword2.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx_604/prefab/HolySword2",
+        "arena/heroskill/300600_skill_tx_604/prefab/300600_skill_tx_a04",
+        "arena/heroskill/300600_skill_tx_604/prefab/300600_skill_tx_a08"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:2:602": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 2,
+      "skinID": 602,
+      "skillType": 310,
+      "entityType": 109,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword2.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword2",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a04",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:2:603": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 2,
+      "skinID": 603,
+      "skillType": 310,
+      "entityType": 109,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword2.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword2",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a04",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:3:601": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 3,
+      "skinID": 601,
+      "skillType": 311,
+      "entityType": 110,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword3.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword3",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a06",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:3:604": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 3,
+      "skinID": 604,
+      "skillType": 311,
+      "entityType": 110,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword3.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx_604/prefab/HolySword3",
+        "arena/heroskill/300600_skill_tx_604/prefab/300600_skill_tx_a06",
+        "arena/heroskill/300600_skill_tx_604/prefab/300600_skill_tx_a08"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:3:602": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 3,
+      "skinID": 602,
+      "skillType": 311,
+      "entityType": 110,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword3.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword3",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a06",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6005:3:603": {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 3,
+      "skinID": 603,
+      "skillType": 311,
+      "entityType": 110,
+      "buffs": [
+        271
+      ],
+      "followCaster": false,
+      "handler": "CCHolySword3.create",
+      "prefabs": [
+        "arena/heroskill/300600_skill_tx/prefab/HolySword3",
+        "arena/heroskill/300600_skill_tx/prefab/300600_skill_tx_a06",
+        "arena/heroskill/shengqishi/prefab/massShield_1",
+        "arena/heroskill/shengqishi/prefab/massShield_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:1:1201": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 1,
+      "skinID": 1201,
+      "skillType": 354,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:1:1204": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 1,
+      "skinID": 1204,
+      "skillType": 354,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:1:1203": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 1,
+      "skinID": 1203,
+      "skillType": 354,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:1:1202": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 1,
+      "skinID": 1202,
+      "skillType": 354,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:2:1201": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 2,
+      "skinID": 1201,
+      "skillType": 355,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:2:1204": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 2,
+      "skinID": 1204,
+      "skillType": 355,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:2:1203": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 2,
+      "skinID": 1203,
+      "skillType": 355,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:2:1202": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 2,
+      "skinID": 1202,
+      "skillType": 355,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:3:1201": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 3,
+      "skinID": 1201,
+      "skillType": 356,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:3:1204": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 3,
+      "skinID": 1204,
+      "skillType": 356,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx_1204/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:3:1203": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 3,
+      "skinID": 1203,
+      "skillType": 356,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx_1203/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6014:3:1202": {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 3,
+      "skinID": 1202,
+      "skillType": 356,
+      "entityType": 1051,
+      "buffs": [],
+      "followCaster": false,
+      "handler": "CCNinjaGhost.create + CCNinja.create (1048)",
+      "prefabs": [
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_weapon",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash",
+        "arena/heroskill/301200_skill_tx/prefab/301200_skill_tx_dash_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:1:1301": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 1,
+      "skinID": 1301,
+      "skillType": 364,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a01_2",
+        "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a02_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:1:1304": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 1,
+      "skinID": 1304,
+      "skillType": 364,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a01_2",
+        "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a02_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:1:1303": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 1,
+      "skinID": 1303,
+      "skillType": 364,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a01_2",
+        "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a02_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:1:1302": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 1,
+      "skinID": 1302,
+      "skillType": 364,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a01_2",
+        "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a02_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:2:1301": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 2,
+      "skinID": 1301,
+      "skillType": 365,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a03_2",
+        "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a04_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:2:1304": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 2,
+      "skinID": 1304,
+      "skillType": 365,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a03_2",
+        "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a04_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:2:1303": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 2,
+      "skinID": 1303,
+      "skillType": 365,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a03_2",
+        "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a04_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:2:1302": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 2,
+      "skinID": 1302,
+      "skillType": 365,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a03_2",
+        "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a04_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:3:1301": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 3,
+      "skinID": 1301,
+      "skillType": 366,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a05_2",
+        "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a06_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:3:1304": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 3,
+      "skinID": 1304,
+      "skillType": 366,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a05_2",
+        "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a06_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:3:1303": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 3,
+      "skinID": 1303,
+      "skillType": 366,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a05_2",
+        "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a06_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    },
+    "6015:3:1302": {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 3,
+      "skinID": 1302,
+      "skillType": 366,
+      "entityType": 1035,
+      "buffs": [],
+      "followCaster": true,
+      "handler": "CCBard.create",
+      "prefabs": [
+        "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a05_2",
+        "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a06_2"
+      ],
+      "missing": [],
+      "verified": true,
+      "optionalAssets": [],
+      "missingOptionalAssets": []
+    }
+  }
+}

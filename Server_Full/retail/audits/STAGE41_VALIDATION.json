@@ -1,0 +1,128 @@
+{
+  "stage": 41,
+  "fullRestoration1to1": false,
+  "clientRenderVerified": false,
+  "stage40Baseline": {
+    "counts": {
+      "tests": 232,
+      "pass": 215,
+      "fail": 17
+    },
+    "failures": [
+      "stage17 exposes manual central-city wall ring and bridges only on main map2",
+      "stage17 keeps original 2024 safe rectangles and adds central gates",
+      "geometry closes wall edges but four cardinal 1600-wide exits stay open for movement",
+      "stage17 no longer quarantines city entirely; old off flag still disables objects",
+      "native map2 still preserves 5 safe rectangles and now adds manual perimeter objects",
+      "catalog documents client assets; Stage17 uses only assets available in this client",
+      "NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs",
+      "NPC are never spawned on guide map; opt-in mode isolates them from city walls",
+      "legacy safe mode can disable all NPCs without disabling five real safe zones",
+      "Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs",
+      "full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds",
+      "city visibility is configured in normal and previous recommended bat launchers",
+      "world protobuf snapshots include city only when requested; movement still unchanged",
+      "actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC",
+      "Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly",
+      "plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates",
+      "stage30: clean outer root and internal runtime/retail"
+    ]
+  },
+  "stage41": {
+    "counts": {
+      "tests": 261,
+      "pass": 244,
+      "fail": 17
+    },
+    "failures": [
+      "stage17 exposes manual central-city wall ring and bridges only on main map2",
+      "stage17 keeps original 2024 safe rectangles and adds central gates",
+      "geometry closes wall edges but four cardinal 1600-wide exits stay open for movement",
+      "stage17 no longer quarantines city entirely; old off flag still disables objects",
+      "native map2 still preserves 5 safe rectangles and now adds manual perimeter objects",
+      "catalog documents client assets; Stage17 uses only assets available in this client",
+      "NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs",
+      "NPC are never spawned on guide map; opt-in mode isolates them from city walls",
+      "legacy safe mode can disable all NPCs without disabling five real safe zones",
+      "Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs",
+      "full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds",
+      "city visibility is configured in normal and previous recommended bat launchers",
+      "world protobuf snapshots include city only when requested; movement still unchanged",
+      "actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC",
+      "Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly",
+      "plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates",
+      "stage30: clean outer root and internal runtime/retail"
+    ]
+  },
+  "newFailures": [],
+  "targeted": {
+    "command": "npm run test:stage41",
+    "counts": {
+      "tests": 122,
+      "pass": 122,
+      "fail": 0
+    }
+  },
+  "newTests": 29,
+  "syntaxChecked": [
+    "Server/lib/actions-3127.js",
+    "Server/lib/combat-input-3127.js",
+    "Server/lib/damage-3127.js",
+    "Server/lib/environment-3127.js",
+    "Server/lib/life-3127.js",
+    "Server/lib/monster-effects-3127.js",
+    "Server/lib/profile.js",
+    "Server/lib/progression-3127.js",
+    "Server/lib/world.js",
+    "Server/tests/stage33-map2-mob-visuals-npc420.test.js",
+    "Server/tests/stage41-critical-life.test.js",
+    "Server/tests/stage41-models.test.js",
+    "Server/tests/world-network-stage7.test.js",
+    "Server/tools/audit-stage41.js"
+  ],
+  "changedFiles": [
+    "README_STAGE41_RU.txt",
+    "Server/lib/actions-3127.js",
+    "Server/lib/combat-input-3127.js",
+    "Server/lib/damage-3127.js",
+    "Server/lib/environment-3127.js",
+    "Server/lib/life-3127.js",
+    "Server/lib/monster-effects-3127.js",
+    "Server/lib/profile.js",
+    "Server/lib/progression-3127.js",
+    "Server/lib/world.js",
+    "Server/tests/stage33-map2-mob-visuals-npc420.test.js",
+    "Server/tests/stage41-critical-life.test.js",
+    "Server/tests/stage41-models.test.js",
+    "Server/tests/world-network-stage7.test.js",
+    "Server/tools/audit-stage41.js",
+    "package.json",
+    "retail/README_RU.txt",
+    "retail/audits/STAGE41_AUDIT.json",
+    "retail/client-reference/stage41/Blood.ts",
+    "retail/client-reference/stage41/BuffCfg.ts",
+    "retail/client-reference/stage41/CCBloodBarComp.ts",
+    "retail/client-reference/stage41/CCDigger.ts",
+    "retail/client-reference/stage41/CCEntitySystem.ts",
+    "retail/client-reference/stage41/CCMainBody.ts",
+    "retail/client-reference/stage41/CCMonster.ts",
+    "retail/client-reference/stage41/CLIENT_CONTRACT_EVIDENCE.json",
+    "retail/client-reference/stage41/CommType.ts",
+    "retail/client-reference/stage41/ConstantsManager.ts",
+    "retail/client-reference/stage41/DeadPanel.ts",
+    "retail/client-reference/stage41/EnterType.ts",
+    "retail/client-reference/stage41/LoginController.ts",
+    "retail/client-reference/stage41/MonsterCfg.ts",
+    "retail/release-notes/README_STAGE41_RU.txt"
+  ],
+  "smoke": {
+    "status": 200,
+    "version": "0.19.0-stage41-critical-life-native-forms",
+    "clientVersion": "3.12.7",
+    "gameListener": true,
+    "isolatedSaveDirectory": true
+  },
+  "integration": "Real WebSocket: login, scene loading, critical hero hit with native subHP.dmgType2, private settlement on lethal monster hit, reEnter3 and native relive. Separate reconnect/network, persistence, no-repeat and room-isolation tests included.",
+  "updatedExistingExpectation": "Stage33 mob prefab test now compares each level to exact MonsterContent.Form, rather than forcing the first variant. Original boss byte fixture remains unchanged.",
+  "remaining": "17 baseline failures retained. Exact town layout, retail mitigation/AI, full hero/weapon active effects, death inventory punishment, VIP/ad continuations and original continuation-price caller convention remain unresolved."
+}

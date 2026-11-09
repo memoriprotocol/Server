@@ -1,0 +1,178 @@
+{
+  "stage": 71,
+  "version": "0.49.0-stage71-fishing-native-cycle",
+  "tests": {
+    "tests": 1619,
+    "pass": 1619,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage71": 52,
+    "modifiedOldTests": 1,
+    "modifiedOldTest": {
+      "file": "stage47-skills-fishing.test.js",
+      "originalExpectation": "66 removal at each result",
+      "replacement": "66 never removed on normal result, exactly one66 installation across the cycle",
+      "reason": "source-native animation callbacks and inactive66 consumer prove original expectation reset the weapon/stand instead of continuing fishing",
+      "otherOldTestsChanged": 0
+    }
+  },
+  "syntax": {
+    "status": "PASS",
+    "checked": 12,
+    "paths": [
+      "stage71/Server_Full/server.js",
+      "stage71/Server_Full/Server/tests/stage71-native-fishing.test.js",
+      "stage71/Server_Full/Server/tests/stage47-skills-fishing.test.js",
+      "stage71/Server_Full/Server/tests/stage71-fishing-cycle.test.js",
+      "stage71/Server_Full/Server/lib/fishing-delivery-3127.js",
+      "stage71/Server_Full/Server/lib/runtime-tick-3127.js",
+      "stage71/Server_Full/Server/lib/inventory.js",
+      "stage71/Server_Full/Server/lib/collection-3127.js",
+      "stage71/Server_Full/Server/lib/world.js",
+      "stage71/Server_Full/Server/lib/hero-vfx-3127.js",
+      "stage71/Server_Full/Server/lib/fishing-3127.js",
+      "stage71/Server_Full/Server/tests/helpers/stage71-native.js"
+    ]
+  },
+  "smoke": {
+    "stage71": {
+      "nativeShopRodUnlock": true,
+      "nativeLiveRodUserdata": true,
+      "nativeBuffGroup170": true,
+      "actualTenSecondCatch": true,
+      "fishAndXPPersisted": true,
+      "deliveryRecoveryWithoutDuplicate": true,
+      "resultToWaitingWithout66Reset": true,
+      "bothSpecialRodsSelectable": true,
+      "nativeCancel": true
+    },
+    "stage70Regression": {
+      "nativeBardF": true,
+      "passive6032": true,
+      "attack10Percent": true,
+      "speed300": true,
+      "nativeEntity1035": true,
+      "tenLiveHealPulses": true,
+      "duplicateFRejected": true,
+      "expiryAndHeroSwitchClear": true
+    },
+    "stage69Regression": {
+      "native18EntryLoad": true,
+      "nativePiecesPush": true,
+      "nativeUpgrade": true,
+      "nativeTaskPush": true,
+      "killReceiptOnce": true,
+      "durableArchive": true,
+      "noPhantomItem": true,
+      "unsupportedDailyHonest": true,
+      "nativeStarRewardMailAndClaimOnce": true
+    },
+    "stage68Regression": {
+      "nativeChefF": true,
+      "nativePot1038": true,
+      "nativeCommand94Food": true,
+      "portionsOnce": true,
+      "sharedFoodCooldown": true,
+      "casterHPHealShield": true,
+      "nativeFoodStats": true,
+      "nativeItem32Consumed": true,
+      "periodicFoodRegen": true
+    },
+    "stage67Regression": {
+      "nativeSwordF": true,
+      "backstep": true,
+      "visibleEntity1208": true,
+      "star3WaveDamage": true,
+      "swordWeaponPassive": true,
+      "nativeWizardFrostStacksAndFreeze": true,
+      "nunWeaponHealingBonus": true
+    },
+    "stage66Regression": {
+      "nativeFrames": true,
+      "spartanTickAndToggle": true,
+      "mageStaffCDPacket": true,
+      "paladinCleanseAndInvulnerability": true,
+      "nunDelayedHealAndDefence": true,
+      "weaponDoubleCharge": true,
+      "thirdChargeRejected": true
+    },
+    "stage65Regression": {
+      "nativeHeroF": true,
+      "nativeWeaponRMB": true,
+      "delayedFieldCreation": true,
+      "wizardPulseDamage": true,
+      "vortex500DamageCap": true,
+      "nativeEffect107And1065": true,
+      "variantScale12": true
+    },
+    "stage64Regression": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.49.0-stage71-fishing-native-cycle",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "PVPBoardPreserved": true,
+    "allConfigsSchemesPlacementsUnchanged": true,
+    "websiteAddonUnchanged": true,
+    "originalIndexUntouched": true,
+    "newMapsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "language": "en",
+    "key": "shop/shopItem/name/500001/desc",
+    "verbatimFragment": "shop/shopItem/name/500001/desc\",\"Winter Fishing Rod: Fishing Efficiency +20%\""
+  },
+  {
+    "language": "en",
+    "key": "shop/shopItem/name/500002/desc",
+    "verbatimFragment": "shop/shopItem/name/500002/desc\",\"Bamboo Fishing Rod: Fishing Efficiency +20%\""
+  },
+  {
+    "language": "en",
+    "key": "fishing/rod/fishingRod_0",
+    "verbatimFragment": "fishing/rod/fishingRod_0\",\"Common Fishing Rod\""
+  },
+  {
+    "language": "zh",
+    "key": "shop/shopItem/name/500001/desc",
+    "verbatimFragment": "shop/shopItem/name/500001/desc\",\"冰雪渔歌: 钓鱼效率+20%\""
+  },
+  {
+    "language": "zh",
+    "key": "shop/shopItem/name/500002/desc",
+    "verbatimFragment": "shop/shopItem/name/500002/desc\",'清风竹影:\\x20钓鱼效率+20%'"
+  },
+  {
+    "language": "zh",
+    "key": "fishing/rod/fishingRod_0",
+    "verbatimFragment": "fishing/rod/fishingRod_0\",'普通钓鱼竿'"
+  }
+]

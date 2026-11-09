@@ -1,0 +1,551 @@
+TAP version 13
+# [EXCHANGE DELIVERY] committed: PUBLIC_DOWN
+# Subtest: XP boundary crosses real hero level 1 with matching native upgrade and property
+ok 1 - XP boundary crosses real hero level 1 with matching native upgrade and property
+  ---
+  duration_ms: 25.957871
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 2 with matching native upgrade and property
+ok 2 - XP boundary crosses real hero level 2 with matching native upgrade and property
+  ---
+  duration_ms: 5.149767
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 9 with matching native upgrade and property
+ok 3 - XP boundary crosses real hero level 9 with matching native upgrade and property
+  ---
+  duration_ms: 1.787613
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 10 with matching native upgrade and property
+ok 4 - XP boundary crosses real hero level 10 with matching native upgrade and property
+  ---
+  duration_ms: 1.391226
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 19 with matching native upgrade and property
+ok 5 - XP boundary crosses real hero level 19 with matching native upgrade and property
+  ---
+  duration_ms: 1.434501
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 49 with matching native upgrade and property
+ok 6 - XP boundary crosses real hero level 49 with matching native upgrade and property
+  ---
+  duration_ms: 1.292217
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 99 with matching native upgrade and property
+ok 7 - XP boundary crosses real hero level 99 with matching native upgrade and property
+  ---
+  duration_ms: 1.160187
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 150 with matching native upgrade and property
+ok 8 - XP boundary crosses real hero level 150 with matching native upgrade and property
+  ---
+  duration_ms: 1.280369
+  type: 'test'
+  ...
+# Subtest: XP boundary crosses real hero level 199 with matching native upgrade and property
+ok 9 - XP boundary crosses real hero level 199 with matching native upgrade and property
+  ---
+  duration_ms: 1.764778
+  type: 'test'
+  ...
+# Subtest: selling through native supply-office handler raises visible level and notifies observing peer
+ok 10 - selling through native supply-office handler raises visible level and notifies observing peer
+  ---
+  duration_ms: 5.585563
+  type: 'test'
+  ...
+# Subtest: fishing committed catch raises level and emits upgradeLevel rather than only an XP bar update
+ok 11 - fishing committed catch raises level and emits upgradeLevel rather than only an XP bar update
+  ---
+  duration_ms: 3.222865
+  type: 'test'
+  ...
+# Subtest: multiple-level XP grant emits the full final level instead of a one-level increment
+ok 12 - multiple-level XP grant emits the full final level instead of a one-level increment
+  ---
+  duration_ms: 0.955018
+  type: 'test'
+  ...
+# Subtest: XP below the next boundary updates the bar without inventing a level-up
+ok 13 - XP below the next boundary updates the bar without inventing a level-up
+  ---
+  duration_ms: 1.016782
+  type: 'test'
+  ...
+# Subtest: failed committed reward delivery synchronizes current level and does not grant XP twice
+ok 14 - failed committed reward delivery synchronizes current level and does not grant XP twice
+  ---
+  duration_ms: 1.485758
+  type: 'test'
+  ...
+# Subtest: delivery sends the latest authoritative level after a newer grant
+ok 15 - delivery sends the latest authoritative level after a newer grant
+  ---
+  duration_ms: 1.344595
+  type: 'test'
+  ...
+# Subtest: pending XP delivery is discarded after world
+ok 16 - pending XP delivery is discarded after world
+  ---
+  duration_ms: 0.970352
+  type: 'test'
+  ...
+# Subtest: pending XP delivery is discarded after actor
+ok 17 - pending XP delivery is discarded after actor
+  ---
+  duration_ms: 0.847828
+  type: 'test'
+  ...
+# Subtest: pending XP delivery is discarded after room
+ok 18 - pending XP delivery is discarded after room
+  ---
+  duration_ms: 0.838243
+  type: 'test'
+  ...
+# Subtest: pending XP delivery is discarded after map
+ok 19 - pending XP delivery is discarded after map
+  ---
+  duration_ms: 0.858683
+  type: 'test'
+  ...
+# Subtest: pending XP delivery is discarded after life
+ok 20 - pending XP delivery is discarded after life
+  ---
+  duration_ms: 0.780866
+  type: 'test'
+  ...
+# Subtest: pending XP delivery is discarded after dead
+ok 21 - pending XP delivery is discarded after dead
+  ---
+  duration_ms: 0.813766
+  type: 'test'
+  ...
+# Subtest: failed XP persistence changes neither stored XP, authoritative level nor delivery queue
+ok 22 - failed XP persistence changes neither stored XP, authoritative level nor delivery queue
+  ---
+  duration_ms: 0.695788
+  type: 'test'
+  ...
+# Subtest: a completed kill delivery cannot rewind newer authoritative stats or replay old XP
+ok 23 - a completed kill delivery cannot rewind newer authoritative stats or replay old XP
+  ---
+  duration_ms: 3.337647
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID1
+ok 24 - Dan threshold inclusive for native ID1
+  ---
+  duration_ms: 0.58444
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID2
+ok 25 - Dan threshold inclusive for native ID2
+  ---
+  duration_ms: 0.824692
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID3
+ok 26 - Dan threshold inclusive for native ID3
+  ---
+  duration_ms: 0.558201
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID4
+ok 27 - Dan threshold inclusive for native ID4
+  ---
+  duration_ms: 0.463979
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID5
+ok 28 - Dan threshold inclusive for native ID5
+  ---
+  duration_ms: 0.563298
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID6
+ok 29 - Dan threshold inclusive for native ID6
+  ---
+  duration_ms: 0.516548
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID7
+ok 30 - Dan threshold inclusive for native ID7
+  ---
+  duration_ms: 0.520163
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID8
+ok 31 - Dan threshold inclusive for native ID8
+  ---
+  duration_ms: 0.440864
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID9
+ok 32 - Dan threshold inclusive for native ID9
+  ---
+  duration_ms: 0.445531
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID10
+ok 33 - Dan threshold inclusive for native ID10
+  ---
+  duration_ms: 0.436948
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID11
+ok 34 - Dan threshold inclusive for native ID11
+  ---
+  duration_ms: 0.687145
+  type: 'test'
+  ...
+# Subtest: Dan threshold inclusive for native ID12
+ok 35 - Dan threshold inclusive for native ID12
+  ---
+  duration_ms: 0.412261
+  type: 'test'
+  ...
+# Subtest: Dan totals only best ten valid life results, not all XP ever earned
+ok 36 - Dan totals only best ten valid life results, not all XP ever earned
+  ---
+  duration_ms: 3.344368
+  type: 'test'
+  ...
+# Subtest: native record expiry removes result at exact showTick and backfills next valid result
+ok 37 - native record expiry removes result at exact showTick and backfills next valid result
+  ---
+  duration_ms: 0.129154
+  type: 'test'
+  ...
+# Subtest: settlement receipt is idempotent and repeated finish creates no duplicate Dan record
+ok 38 - settlement receipt is idempotent and repeated finish creates no duplicate Dan record
+  ---
+  duration_ms: 10.91412
+  type: 'test'
+  ...
+# Subtest: legacy cumulative score is archived without fabricated matches; known pending result is retained
+ok 39 - legacy cumulative score is archived without fabricated matches; known pending result is retained
+  ---
+  duration_ms: 0.861207
+  type: 'test'
+  ...
+# Subtest: Dan record migration and settlement are atomic on persistence failure
+ok 40 - Dan record migration and settlement are atomic on persistence failure
+  ---
+  duration_ms: 0.706745
+  type: 'test'
+  ...
+# Subtest: Dan native response contains configured thresholds, expiry times, result heroes and correct total
+ok 41 - Dan native response contains configured thresholds, expiry times, result heroes and correct total
+  ---
+  duration_ms: 1.35451
+  type: 'test'
+  ...
+# Subtest: global leaderboard reads expiring Dan total and not stale persisted score
+ok 42 - global leaderboard reads expiring Dan total and not stale persisted score
+  ---
+  duration_ms: 1.231465
+  type: 'test'
+  ...
+# Subtest: native quest reward crossing the next XP boundary updates level and cannot be claimed twice
+ok 43 - native quest reward crossing the next XP boundary updates level and cannot be claimed twice
+  ---
+  duration_ms: 2.110349
+  type: 'test'
+  ...
+# Subtest: partial sale delivery retries public level without replaying positive private XP
+ok 44 - partial sale delivery retries public level without replaying positive private XP
+  ---
+  duration_ms: 3.641846
+  type: 'test'
+  ...
+# Subtest: a late kill delivery from the previous battle life cannot push its events into a new life
+ok 45 - a late kill delivery from the previous battle life cannot push its events into a new life
+  ---
+  duration_ms: 1.578648
+  type: 'test'
+  ...
+# Subtest: expired Dan results refresh cached total and retry after a failed save
+ok 46 - expired Dan results refresh cached total and retry after a failed save
+  ---
+  duration_ms: 0.977042
+  type: 'test'
+  ...
+# Subtest: level nine XP transition enables native Ninja passives at ten, without reentering the map
+ok 47 - level nine XP transition enables native Ninja passives at ten, without reentering the map
+  ---
+  duration_ms: 3.254682
+  type: 'test'
+  ...
+# Subtest: offline and online Dan expiries persist in one atomic batch and do not require relogging
+ok 48 - offline and online Dan expiries persist in one atomic batch and do not require relogging
+  ---
+  duration_ms: 0.871262
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 1 delta-1
+ok 49 - original DanManager native threshold 1 delta-1
+  ---
+  duration_ms: 1.197644
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 1 delta0
+ok 50 - original DanManager native threshold 1 delta0
+  ---
+  duration_ms: 0.108944
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 1 delta1
+ok 51 - original DanManager native threshold 1 delta1
+  ---
+  duration_ms: 0.076535
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 2 delta-1
+ok 52 - original DanManager native threshold 2 delta-1
+  ---
+  duration_ms: 0.095113
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 2 delta0
+ok 53 - original DanManager native threshold 2 delta0
+  ---
+  duration_ms: 0.094773
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 2 delta1
+ok 54 - original DanManager native threshold 2 delta1
+  ---
+  duration_ms: 0.094252
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 3 delta-1
+ok 55 - original DanManager native threshold 3 delta-1
+  ---
+  duration_ms: 0.080121
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 3 delta0
+ok 56 - original DanManager native threshold 3 delta0
+  ---
+  duration_ms: 0.108423
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 3 delta1
+ok 57 - original DanManager native threshold 3 delta1
+  ---
+  duration_ms: 0.105469
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 4 delta-1
+ok 58 - original DanManager native threshold 4 delta-1
+  ---
+  duration_ms: 0.211388
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 4 delta0
+ok 59 - original DanManager native threshold 4 delta0
+  ---
+  duration_ms: 0.075614
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 4 delta1
+ok 60 - original DanManager native threshold 4 delta1
+  ---
+  duration_ms: 0.070807
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 5 delta-1
+ok 61 - original DanManager native threshold 5 delta-1
+  ---
+  duration_ms: 0.118348
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 5 delta0
+ok 62 - original DanManager native threshold 5 delta0
+  ---
+  duration_ms: 0.056876
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 5 delta1
+ok 63 - original DanManager native threshold 5 delta1
+  ---
+  duration_ms: 0.042444
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 6 delta-1
+ok 64 - original DanManager native threshold 6 delta-1
+  ---
+  duration_ms: 0.034041
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 6 delta0
+ok 65 - original DanManager native threshold 6 delta0
+  ---
+  duration_ms: 0.030646
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 6 delta1
+ok 66 - original DanManager native threshold 6 delta1
+  ---
+  duration_ms: 1.552689
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 7 delta-1
+ok 67 - original DanManager native threshold 7 delta-1
+  ---
+  duration_ms: 0.044597
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 7 delta0
+ok 68 - original DanManager native threshold 7 delta0
+  ---
+  duration_ms: 0.030025
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 7 delta1
+ok 69 - original DanManager native threshold 7 delta1
+  ---
+  duration_ms: 0.070206
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 8 delta-1
+ok 70 - original DanManager native threshold 8 delta-1
+  ---
+  duration_ms: 0.052409
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 8 delta0
+ok 71 - original DanManager native threshold 8 delta0
+  ---
+  duration_ms: 0.050556
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 8 delta1
+ok 72 - original DanManager native threshold 8 delta1
+  ---
+  duration_ms: 0.027982
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 9 delta-1
+ok 73 - original DanManager native threshold 9 delta-1
+  ---
+  duration_ms: 0.025208
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 9 delta0
+ok 74 - original DanManager native threshold 9 delta0
+  ---
+  duration_ms: 0.022825
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 9 delta1
+ok 75 - original DanManager native threshold 9 delta1
+  ---
+  duration_ms: 0.022564
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 10 delta-1
+ok 76 - original DanManager native threshold 10 delta-1
+  ---
+  duration_ms: 0.021833
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 10 delta0
+ok 77 - original DanManager native threshold 10 delta0
+  ---
+  duration_ms: 0.022034
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 10 delta1
+ok 78 - original DanManager native threshold 10 delta1
+  ---
+  duration_ms: 0.021783
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 11 delta-1
+ok 79 - original DanManager native threshold 11 delta-1
+  ---
+  duration_ms: 0.022704
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 11 delta0
+ok 80 - original DanManager native threshold 11 delta0
+  ---
+  duration_ms: 0.023085
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 11 delta1
+ok 81 - original DanManager native threshold 11 delta1
+  ---
+  duration_ms: 0.030556
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 12 delta-1
+ok 82 - original DanManager native threshold 12 delta-1
+  ---
+  duration_ms: 0.043235
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 12 delta0
+ok 83 - original DanManager native threshold 12 delta0
+  ---
+  duration_ms: 0.027151
+  type: 'test'
+  ...
+# Subtest: original DanManager native threshold 12 delta1
+ok 84 - original DanManager native threshold 12 delta1
+  ---
+  duration_ms: 0.041533
+  type: 'test'
+  ...
+# Subtest: original avatar consumer needs upgradeLevel to change level; addExp only updates the XP bar
+ok 85 - original avatar consumer needs upgradeLevel to change level; addExp only updates the XP bar
+  ---
+  duration_ms: 1.598618
+  type: 'test'
+  ...
+# Subtest: original client level calculation agrees at every pre-cap XP boundary for mode0
+ok 86 - original client level calculation agrees at every pre-cap XP boundary for mode0
+  ---
+  duration_ms: 17.216043
+  type: 'test'
+  ...
+# Subtest: original client level calculation agrees at every pre-cap XP boundary for mode1
+ok 87 - original client level calculation agrees at every pre-cap XP boundary for mode1
+  ---
+  duration_ms: 20.801263
+  type: 'test'
+  ...
+# Subtest: original client level calculation agrees at every pre-cap XP boundary for mode2
+ok 88 - original client level calculation agrees at every pre-cap XP boundary for mode2
+  ---
+  duration_ms: 8.73011
+  type: 'test'
+  ...
+# Subtest: native DanController sends reqMineRecords and installs infos, total and danInfos without a custom protocol
+ok 89 - native DanController sends reqMineRecords and installs infos, total and danInfos without a custom protocol
+  ---
+  duration_ms: 1.30131
+  type: 'test'
+  ...
+# Subtest: native ConstantsManager exposes the original recordSaveTime used by expiring records
+ok 90 - native ConstantsManager exposes the original recordSaveTime used by expiring records
+  ---
+  duration_ms: 1.225716
+  type: 'test'
+  ...
+1..90
+# tests 90
+# suites 0
+# pass 90
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 372.164946

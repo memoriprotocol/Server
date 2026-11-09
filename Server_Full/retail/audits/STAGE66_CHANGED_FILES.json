@@ -1,0 +1,177 @@
+[
+  {
+    "path": "ISSUES_STAGE66_RU.txt",
+    "change": "added",
+    "sha256": "fe06f9d48980b8ae423d5d7cf7d46ada38589aa096906e09afd5bfb1c1ce7b10"
+  },
+  {
+    "path": "README_STAGE66_RU.txt",
+    "change": "added",
+    "sha256": "4d8031a7e8e1a51dedb89783f9025f946e3762c6c0b73ffe71789a63979c3085"
+  },
+  {
+    "path": "SKILL_COVERAGE_STAGE66_RU.txt",
+    "change": "added",
+    "sha256": "90e895d6cf18ae9ac393af221756c7c963cf90cba48109e4a9d373daad86dd91"
+  },
+  {
+    "path": "Server_Full/README_STAGE66_RU.txt",
+    "change": "added",
+    "sha256": "4d8031a7e8e1a51dedb89783f9025f946e3762c6c0b73ffe71789a63979c3085"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "70c0a4d7e3641564f4671f9478b84d563755405d885af181759996b524ec2be7"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-passives-3127.js",
+    "change": "added",
+    "sha256": "c12534042f189d1c882b8c4510a3154df271d2b172e5751a1fd148363f131fae"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-support-3127.js",
+    "change": "added",
+    "sha256": "994493f99f9adb97f3a4354cecd2521ff0a291cc38cbda94c3613adb5ca9d647"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "c3eb3d3f8cfc7f9145a97e8ae658bee3876b2c6e5f8885ab738f54de50f904bb"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "change": "modified",
+    "sha256": "c85fc0696b7863198cb9a77c853ce475d9269fa350447bcd1772c5e19a919334"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "ba4ef6fff746acf789642e4fe56412c08b622cef6907f936993189c77e5e8ea3"
+  },
+  {
+    "path": "Server_Full/Server/lib/skill-cooldowns-3127.js",
+    "change": "added",
+    "sha256": "4bd37ce3789e54284b76bd8d0c42fd186b3e619a497cd4b9a73c18d3434180ad"
+  },
+  {
+    "path": "Server_Full/Server/lib/spartan-stance-3127.js",
+    "change": "added",
+    "sha256": "fac05a8f53d7ba68fe57b2a6a8defc922f2b63e17a81c1ca7f6c06a4955a9a11"
+  },
+  {
+    "path": "Server_Full/Server/lib/support-casts-3127.js",
+    "change": "added",
+    "sha256": "f3c47f4e37ecb72b3f8daace05374d62d26ec563775ab80a9c8596383276deb5"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage66-native.js",
+    "change": "added",
+    "sha256": "7df5456d290372a9754c12e2af7f896758283c8b167e8a466562108f03263fdf"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage43-ai-skills.test.js",
+    "change": "modified",
+    "sha256": "514fb0decf6de7c7f9a14812585adfdcc7fd2a82d32c362342b65e902ace9ed5"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage43-hero-vfx.test.js",
+    "change": "modified",
+    "sha256": "b4bb8d52a8e477526b12cc8a4909f8857114a7d1c2f81fdc6f6f3d8350b8cfa1"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage44-collection-mounts.test.js",
+    "change": "modified",
+    "sha256": "9eff4bf10f39afe36f41a1394d4a8c18e9c88a50ec52ef4929752268462aa72e"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage66-cooldown-contract.test.js",
+    "change": "added",
+    "sha256": "34d8fc02a600ea5fcd0a5a43bee26a1b4032f3569d941b316287e4ca71c313fc"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage66-hero-mechanics.test.js",
+    "change": "added",
+    "sha256": "e9646aafa7ae3e18de3acaae942c3844317b1f749d5e36166d9de300483d81dc"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "f169e6f405f977cf681a4ab41d8e3e6fbf76678abf59b0981f9080fa899f7d23"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_HERO_MECHANICS.json",
+    "change": "added",
+    "sha256": "fc02811e33a4a6de09a08fc671d1277cca2a1905a13e92047670a38ce866f4ba"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "746cdcf53910b4a7cacf1acf25eb4fe28ec949ae431a3393c4abaed0b74c3b42"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "13e00c657a7d411b99caeaccc486e6aa146a3200e9027d8512d3ee7c76f6063a"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_SMOKE.log",
+    "change": "added",
+    "sha256": "86eb1dd903961218980052ac930f8b78d4b734b96fc174cd6ded12c2968b0e41"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_TESTS.log",
+    "change": "added",
+    "sha256": "288ac67067842b3d453e6b5b6befb3c32449430e08786b84062ae7e273e1762e"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_VALIDATION.json",
+    "change": "added",
+    "sha256": "1b9af14aab4cc56d360e3d76217c9e1028e11c14ea5986130e93649bc00a6dd2"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE66_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/BuffCfg.ts",
+    "change": "added",
+    "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/CCSkillCDComp.ts",
+    "change": "added",
+    "sha256": "bed804be8f05eccf664fd9946b1639b29264b03e3492df9c891b303907edb436"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/CCSkillComp.ts",
+    "change": "added",
+    "sha256": "49f6b4973a00a7f91d9f702b65e8edc40b208581b80076259353a89c2c2917a9"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/SkillCDData.ts",
+    "change": "added",
+    "sha256": "66c94b81da1d83238dbbe72b0365511df6edd702b07af243679d64d8717ee5e5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/SkillCfg.ts",
+    "change": "added",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage66/native-skill-descriptions.json",
+    "change": "added",
+    "sha256": "535967500c2a8f520a9f3ab317ca1db629b398660917976a6fa61bdfca5d4914"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "54d5b126e682ec3013607292da5af5dae5fcf4d8d579125a3704cd3fdeecf854"
+  }
+]

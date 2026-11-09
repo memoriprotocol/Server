@@ -1,0 +1,42 @@
+{
+  "source": "Native 3.12.7 CCPortal2 protocol/prefab. User-authorized placement: exactly one portal at the center of each Stage44 Map2 safe-zone rectangle.",
+  "mapId": 2,
+  "prefab": "arena/maps/universe-new/objects/common/portal/portal",
+  "portals": [
+    {
+      "index": 1,
+      "id": 68000001,
+      "safeZoneId": "center",
+      "x": 40.83249999999998,
+      "y": -363.6317499999998
+    },
+    {
+      "index": 2,
+      "id": 68000002,
+      "safeZoneId": "center-001",
+      "x": 6.615000000000009,
+      "y": 20212.30655
+    },
+    {
+      "index": 3,
+      "id": 68000003,
+      "safeZoneId": "center-002",
+      "x": 113.63199999999995,
+      "y": -16567.8257
+    },
+    {
+      "index": 4,
+      "id": 68000004,
+      "safeZoneId": "center-003",
+      "x": -15827.161,
+      "y": -125.5344
+    },
+    {
+      "index": 5,
+      "id": 68000005,
+      "safeZoneId": "center-004",
+      "x": 16627.925,
+      "y": -125.5344
+    }
+  ]
+}

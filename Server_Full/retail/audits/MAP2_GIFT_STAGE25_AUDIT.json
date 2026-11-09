@@ -1,0 +1,29 @@
+{
+  "sourceClient": "HeroLand_Full_Client.z01 + .zip central directory; entries extracted with CRC verification",
+  "sourceMainSha256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "giftEvidence": {
+    "module": "ShopModel.ts:getCanGiveShopItems",
+    "filter": "saleType & SaleType.present (64), not hideInShop (512), isCanShow(item)",
+    "loginRequestedShopTypes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "originalError": "All saleType values were 0. All giftable offers were in unrequested shopType 6.",
+    "fixedGiftableOffers": 19
+  },
+  "mapEvidence": {
+    "prefab": "arena/maps/map_2",
+    "pack": "01ba3b118.json",
+    "serverPlacementSourceReference": "${server_path}/submods/ioprotocol/config/map_editor/2/scene_placements.json",
+    "placementSourceAvailable": false,
+    "nativeDecorations": "Client map already references ground, ground-top, wall, things via native asset dependencies. Do not spawn catalog-wide duplicates.",
+    "removedNpcs": [],
+    "removedTownObjects": []
+  }
+}

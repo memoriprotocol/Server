@@ -1,0 +1,58 @@
+{
+  "HeroProp": [
+    {
+      "ID": 1,
+      "HeroID": 1,
+      "HeroName": "骑士",
+      "HeroStar": 1,
+      "HeroLevel": 1,
+      "HP": 800,
+      "Attack": 10000,
+      "Speed": 700,
+      "HPUP": 40,
+      "AttackUP": 400,
+      "SpeedUP": 0,
+      "RapidCoefficient": 1,
+      "RapidCurve": 100,
+      "SlowCoefficient": 0.5,
+      "MaxLevel": 200,
+      "Describe": "荣耀骑士"
+    },
+    {
+      "ID": 2,
+      "HeroID": 1,
+      "HeroName": "修女",
+      "HeroStar": 1,
+      "HeroLevel": 1,
+      "HP": 800,
+      "Attack": 10000,
+      "Speed": 700,
+      "HPUP": 40,
+      "AttackUP": 400,
+      "SpeedUP": 0,
+      "RapidCoefficient": 1,
+      "RapidCurve": 100,
+      "SlowCoefficient": 0.5,
+      "MaxLevel": 200,
+      "Describe": "虔诚修女"
+    },
+    {
+      "ID": 3,
+      "HeroID": 1,
+      "HeroName": "吸血鬼",
+      "HeroStar": 1,
+      "HeroLevel": 1,
+      "HP": 800,
+      "Attack": 10000,
+      "Speed": 700,
+      "HPUP": 40,
+      "AttackUP": 400,
+      "SpeedUP": 0,
+      "RapidCoefficient": 1,
+      "RapidCurve": 100,
+      "SlowCoefficient": 0.5,
+      "MaxLevel": 200,
+      "Describe": "优雅贵族"
+    }
+  ]
+}

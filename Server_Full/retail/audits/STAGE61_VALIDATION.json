@@ -1,0 +1,77 @@
+{
+  "stage": 61,
+  "version": "0.39.0-stage61-pass-reward-cycle",
+  "tests": {
+    "tests": 1064,
+    "pass": 1064,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage61": 41,
+    "updatedPriorExpectations": 2
+  },
+  "syntax": {
+    "status": "PASS",
+    "changedJSFiles": 12,
+    "files": [
+      "stage61/Server_Full/Server/lib/activities-3127.js",
+      "stage61/Server_Full/Server/lib/collection-3127.js",
+      "stage61/Server_Full/Server/lib/commerce-3127.js",
+      "stage61/Server_Full/Server/lib/event-settlement-3127.js",
+      "stage61/Server_Full/Server/lib/game.js",
+      "stage61/Server_Full/Server/lib/hero-switch-3127.js",
+      "stage61/Server_Full/Server/lib/pass-restoration-3127.js",
+      "stage61/Server_Full/Server/lib/passes-3127.js",
+      "stage61/Server_Full/Server/lib/talents-3127.js",
+      "stage61/Server_Full/Server/tests/stage42-restoration.test.js",
+      "stage61/Server_Full/Server/tests/stage61-pass-cycle.test.js",
+      "stage61/Server_Full/server.js"
+    ]
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.39.0-stage61-pass-reward-cycle",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "preservedFiles": [
+      "Server_Full/Server/lib/city-3127.js",
+      "Server_Full/Server/config/portals-3127.json",
+      "Server_Full/Server/lib/dungeons-3127.js",
+      "Server_Full/Server/lib/navigation-3127.js",
+      "Server_Full/Server/lib/monster-ai-3127.js",
+      "Server_Full/Server/lib/monster-recovery-3127.js",
+      "Server_Full/Server/config/map2-monster-recovery-3127.json",
+      "Server_Full/Server/lib/payments-3127.js"
+    ],
+    "websiteClientAddonByteIdenticalToStage60": true,
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

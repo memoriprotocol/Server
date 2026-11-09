@@ -1,0 +1,108 @@
+{
+  "stage": 64,
+  "version": "0.42.0-stage64-map-ranks-quest-recovery",
+  "tests": {
+    "tests": 1189,
+    "pass": 1189,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage64": 44,
+    "priorTestEdits": 0,
+    "command": "node --test --test-concurrency=4 Server/tests/*.test.js",
+    "earlierFailure": "unbounded full run concurrent with smoke: stage26 restart worker timeout5sec; entire bounded rerun passed with unchanged tests"
+  },
+  "syntax": {
+    "status": "PASS",
+    "count": 17,
+    "files": [
+      "Server_Full/server.js",
+      "Server_Full/Server/tests/stage64-boss-reference.test.js",
+      "Server_Full/Server/tests/stage64-map-ranks-native.test.js",
+      "Server_Full/Server/tests/stage64-quest-recovery.test.js",
+      "Server_Full/Server/lib/environment-3127.js",
+      "Server_Full/Server/lib/game.js",
+      "Server_Full/Server/lib/progression-3127.js",
+      "Server_Full/Server/lib/room-rank-3127.js",
+      "Server_Full/Server/lib/quest-restoration-3127.js",
+      "Server_Full/Server/lib/navigation-3127.js",
+      "Server_Full/Server/lib/runtime-tick-3127.js",
+      "Server_Full/Server/lib/quests-3127.js",
+      "Server_Full/Server/lib/hero-switch-3127.js",
+      "Server_Full/Server/lib/rankings-3127.js",
+      "Server_Full/Server/lib/healing-3127.js",
+      "Server_Full/Server/lib/world.js",
+      "Server_Full/Server/tests/helpers/stage64-native.js"
+    ]
+  },
+  "smoke": {
+    "stage64": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.42.0-stage64-map-ranks-quest-recovery",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "allServerConfigByteIdenticalToStage63": true,
+    "clientAddonWebsiteByteIdenticalToStage63": true,
+    "originalIndexUntouched": true,
+    "PVPBoardUnchanged": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

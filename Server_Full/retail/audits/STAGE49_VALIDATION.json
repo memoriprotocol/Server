@@ -1,0 +1,47 @@
+{
+  "stage": 49,
+  "version": "0.27.0-stage49-map2-combat-summons",
+  "scope": "Map2 and general mechanics only; other maps deferred by explicit user instruction",
+  "serverTests": {
+    "tests": 492,
+    "pass": 492,
+    "fail": 0,
+    "newStage49Tests": 37
+  },
+  "primaryProjectileSkillsNewlyEnabled": 42,
+  "nativeSummonCIDs": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "nativeSummonAssetsVerified": 44,
+  "nativeFunctionsExecutedInVM": [
+    "CCSummons.create",
+    "CCBodySummonsAnimComp.initMonsterNode"
+  ],
+  "cityConfigurationByteIdenticalToStage44": true,
+  "cityCodeUnchanged": true,
+  "fivePortalConfigurationUnchanged": true,
+  "map5DedicatedFilesUnchanged": [
+    "Server/lib/dungeons-3127.js",
+    "Server/lib/navigation-3127.js",
+    "Server/config/map5-spawn-regions-3127.json",
+    "Server/config/portals-3127.json"
+  ],
+  "clientOrWebsiteModifiedThisStage": false,
+  "windowsClientRendered": false,
+  "fullRestorationComplete": false,
+  "localPolicies": [
+    "summon spacing/follow/target selection",
+    "out-of-combat definition",
+    "HP adjustment on level change",
+    "incoming damage mitigation order",
+    "pre-existing resistance curve"
+  ],
+  "necromancerLifetimeDecision": "Native en description until being slayed takes priority over unused duration:30000 argument"
+}

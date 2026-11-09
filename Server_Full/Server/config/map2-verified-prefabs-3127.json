@@ -1,0 +1,493 @@
+{
+  "source": "3.12.7 client asset path index + CreatureScheme NPC IDs; stage34 40 unverified decor records removed; stage35 nine curated unique candidate props (asset path only, do not call verified prefab).",
+  "prefabs": [
+    {
+      "entityId": 50026001,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026002,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026003,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026004,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026007,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026008,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026009,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026010,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026011,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026012,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026013,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026014,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026017,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026018,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026019,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026020,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 33576,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026021,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026022,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026023,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026024,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026027,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026028,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026029,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026030,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026031,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026032,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026033,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026034,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026037,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026038,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026039,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026040,
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "type": "cc.Prefab",
+      "kind": "wall",
+      "clientPathIndex": 34530,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026041,
+      "path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001",
+      "type": "cc.Prefab",
+      "kind": "bridge",
+      "clientPathIndex": 30247,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026042,
+      "path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001",
+      "type": "cc.Prefab",
+      "kind": "bridge",
+      "clientPathIndex": 30247,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026043,
+      "path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_002-2",
+      "type": "cc.Prefab",
+      "kind": "bridge",
+      "clientPathIndex": 41029,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026044,
+      "path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_002-2",
+      "type": "cc.Prefab",
+      "kind": "bridge",
+      "clientPathIndex": 41029,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026508,
+      "path": "arena/npc/408/npc",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 25335,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026525,
+      "path": "arena/npc/425/npc",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 11120,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026523,
+      "path": "arena/npc/423/npc-0",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 19056,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026524,
+      "path": "arena/npc/424/npc-0",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 27105,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026514,
+      "path": "arena/npc/414/npc",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 27894,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026515,
+      "path": "arena/npc/415/npc",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 15001,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026505,
+      "path": "arena/npc/402/npc-0",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 23336,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026522,
+      "path": "arena/npc/422/npc-0",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 5353,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026511,
+      "path": "arena/npc/421/npc-0",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 8030,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026526,
+      "path": "arena/npc/420/npc-0",
+      "type": "cc.Prefab",
+      "kind": "npc",
+      "clientPathIndex": 49937,
+      "positionEvidence": "operator-maincity-layout"
+    },
+    {
+      "entityId": 50026601,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026602,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026603,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026604,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026605,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026606,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026607,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026608,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026611,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026612,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026613,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    },
+    {
+      "entityId": 50026614,
+      "path": "",
+      "type": "CreatureScheme",
+      "kind": "native-creature-guard",
+      "clientPathIndex": null,
+      "positionEvidence": "operator-maincity-layout",
+      "nativeCreatureId": 3001,
+      "renderType": 1037
+    }
+  ]
+}

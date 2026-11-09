@@ -1,0 +1,15 @@
+{
+  "status": {
+    "ok": true,
+    "server": "heros-local",
+    "version": "0.24.0-stage46-native-rmb-collections",
+    "clientVersion": "3.12.7",
+    "mode": "independent",
+    "world": {
+      "members": 0,
+      "maxPlayers": 128
+    },
+    "players": []
+  },
+  "freshDataDir": true
+}

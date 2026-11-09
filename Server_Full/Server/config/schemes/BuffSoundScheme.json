@@ -1,0 +1,22 @@
+{
+  "buffSound": [
+    {
+      "BuffType": "stunBananaPeel",
+      "BuffSoundType": 0,
+      "Name": "sound_build_346_hit",
+      "hasCastPoint": false
+    },
+    {
+      "BuffType": "hourglassEffect",
+      "BuffSoundType": 0,
+      "Name": "sound_weapon_620300_skill_release",
+      "hasCastPoint": false
+    },
+    {
+      "BuffType": "crabShoeSkillEffect",
+      "BuffSoundType": 0,
+      "Name": "sound_armor_810606_release",
+      "hasCastPoint": false
+    }
+  ]
+}

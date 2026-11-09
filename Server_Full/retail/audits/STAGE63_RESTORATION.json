@@ -1,0 +1,235 @@
+{
+  "stage": 63,
+  "version": "0.41.0-stage63-shop-reputation-rank",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage63/CCDigger.ts",
+      "sha256": "c6a158e48374ad6ab8a255d894094b23099fcf0b25127b5c844e08f81986b2a3",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/CCRankSystem.ts",
+      "sha256": "c4eaf223cfc2bc4f8362cc286cc299a8d7e851564516bf3141697aae19c365b4",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/CCSettingArena.ts",
+      "sha256": "dee01850593972abc1ae4e4f783570769203e7af6e01e96975de9176c5ca0db2",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/DanManager.ts",
+      "sha256": "deac3f8ff6c3a9979e5ef97852b93248dfd5e1f3ead3fee1b612e6781dbf0cfe",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/PassShop.ts",
+      "sha256": "64fc269792a194e3dca0672123290c6b3f3fc553d443ceaae5634a343121d30c",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/PassShopManager.ts",
+      "sha256": "0299c2b28c245a28c7046376c9445061dc1f9581ed18b5a8ea0b778f799ad145",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/PassTask.ts",
+      "sha256": "1e9b627ac30cc84505dec860f1c675093ab6dbe6fb2800586b41ec6f491d6d7a",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/PassTaskManager.ts",
+      "sha256": "f17cd41f59ad3ff33e114bdc42c942e314ecd4666dc06305b6f4c5d23383fab2",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/RankInfoView.ts",
+      "sha256": "49be4d2f4e1db01526bf4c329f7750fda219eb47cec47ca8b4aeb2bf5f763665",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/ReputationController.ts",
+      "sha256": "5ab5568dec9ef441c701289ad2698f1947d9244825ec9a168ab8b8f7d35e3f08",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/ReputationModel.ts",
+      "sha256": "2e619e534b2f4be8f409ac79f768d1e273da1322caf425f4f8c0c90f8f693079",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/ReputationNetWork.ts",
+      "sha256": "6af9ffc0d3bc4ff0905ed0fe14f539cbb1aa8f0ddbc5805ad4cb5cc180c59175",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage63/StoreView.ts",
+      "sha256": "dbefd1d30c7b160e241419e1ad889cc1bfe97b623655d92a34da106799155ca7",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "goldPacks": [
+    {
+      "ID": 1,
+      "ItemID": 21,
+      "ItemNum": 700000,
+      "Extra": 200000,
+      "SaleItemID": 25,
+      "SaleItemNum": 10000,
+      "IconURL": "ui_shopping_coin_06"
+    },
+    {
+      "ID": 2,
+      "ItemID": 21,
+      "ItemNum": 350000,
+      "Extra": 100000,
+      "SaleItemID": 25,
+      "SaleItemNum": 5000,
+      "IconURL": "ui_shopping_coin_05"
+    },
+    {
+      "ID": 3,
+      "ItemID": 21,
+      "ItemNum": 140000,
+      "Extra": 20000,
+      "SaleItemID": 25,
+      "SaleItemNum": 2000,
+      "IconURL": "ui_shopping_coin_04"
+    },
+    {
+      "ID": 4,
+      "ItemID": 21,
+      "ItemNum": 70000,
+      "Extra": 10000,
+      "SaleItemID": 25,
+      "SaleItemNum": 1000,
+      "IconURL": "ui_shopping_coin_03"
+    },
+    {
+      "ID": 5,
+      "ItemID": 21,
+      "ItemNum": 30000,
+      "Extra": 0,
+      "SaleItemID": 25,
+      "SaleItemNum": 500,
+      "IconURL": "ui_shopping_coin_02"
+    },
+    {
+      "ID": 6,
+      "ItemID": 21,
+      "ItemNum": 6000,
+      "Extra": 0,
+      "SaleItemID": 25,
+      "SaleItemNum": 100,
+      "IconURL": "ui_shopping_coin_01"
+    }
+  ],
+  "prestigeAwards": [
+    {
+      "ID": 1,
+      "Score": 100,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 2,
+      "Score": 500,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 3,
+      "Score": 1000,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 4,
+      "Score": 2000,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 5,
+      "Score": 5000,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        10000
+      ]
+    }
+  ],
+  "rankPolicy": {
+    "mode": "settled-earned-xp",
+    "status": "LOCAL_RECONSTRUCTION_NOT_VERIFIED_RETAIL_FORMULA",
+    "description": "Credit permanent score once from the authoritative life XP ledger at settlement; do not use client submitted score or copy resetting combat level. Historical missing scores are not guessed."
+  },
+  "hall": {
+    "request": "CCSettingArena.returnMain -> CommandDoOffline88 -> native private settleInfo(settleSelf=true) -> original result panel -> exitBattle",
+    "accountXP": "existing ConstantsScheme conversion of authoritative battleStats.xpEarned into titleExp; same one-life settlement guard",
+    "delivery": "pending notification retried each world tick while matching pendingDeath; no additional grants; original next scene restores pendingDeath",
+    "limits": "ordinary main/rookie flow, special BR/TD/party final results and every dungeon exit are not fully restored"
+  },
+  "resources": {
+    "when": "new enterBattle outside guide after detaching previous world",
+    "filter": "native ItemTypScheme.Tab3 through inventory.defaultBag, regardless of current bag",
+    "preserved": "equipment, weapons, permanent currencies, collections; internal navigation/reEnter unchanged",
+    "status": "operator-required zero resources for fresh runs"
+  },
+  "hotEvents": {
+    "controls": 69,
+    "newKeys": "activity-reward:10001:0..6",
+    "cache": "native season windows, task base map plus3 derived indexes, shop static datas plus instance map",
+    "delivery": "catalog before native reset, retry failed updates every1000ms, latest state replaces intermediate toggles",
+    "clientInstallRequired": true,
+    "originalIndexEdited": false,
+    "unimplementedActivityTypes": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "roomRank": {
+    "protocol": "system12/updateRank3",
+    "scope": "same room/map, sceneReady+loadingFinished",
+    "localPolicy": "XP desc, player kills desc, uid asc;50rows; dead retained until leave",
+    "physicalLeaderboardMonumentsRestored": false
+  },
+  "fishman": {
+    "status": "OPEN_UNMAPPED_NATIVE_NPC_PLACEMENT_AND_STOCK",
+    "confirmedRodItems": [
+      500001,
+      500002
+    ],
+    "confirmedBuffs": [
+      713,
+      714
+    ],
+    "decorStatus": "OPEN_UNCHANGED_PLACEMENTS",
+    "claim": "no assertion this merchant is absent from every client version; current examined3.12.7 mapping incomplete"
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

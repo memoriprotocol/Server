@@ -1,0 +1,48 @@
+{
+  "Resource": [
+    {
+      "ItemID": 5,
+      "ItemName": "一组木头",
+      "SaleUnit": 100,
+      "SaleItemID": 102,
+      "SalePrice": 1,
+      "BuyUnit": 100,
+      "BuyItemID": 102,
+      "BuyPrice": 100,
+      "Icon": "arena/ui/layers/skill/ui/mutou/spriteFrame"
+    },
+    {
+      "ItemID": 6,
+      "ItemName": "一组草药",
+      "SaleUnit": 100,
+      "SaleItemID": 102,
+      "SalePrice": 1,
+      "BuyUnit": 100,
+      "BuyItemID": 102,
+      "BuyPrice": 100,
+      "Icon": "arena/ui/layers/skill/ui/caoyaoicon/spriteFrame"
+    },
+    {
+      "ItemID": 7,
+      "ItemName": "一组石头",
+      "SaleUnit": 100,
+      "SaleItemID": 102,
+      "SalePrice": 1,
+      "BuyUnit": 100,
+      "BuyItemID": 102,
+      "BuyPrice": 100,
+      "Icon": "arena/ui/layers/skill/ui/shitou/spriteFrame"
+    },
+    {
+      "ItemID": 8,
+      "ItemName": "一组铁矿",
+      "SaleUnit": 100,
+      "SaleItemID": 102,
+      "SalePrice": 1,
+      "BuyUnit": 100,
+      "BuyItemID": 102,
+      "BuyPrice": 100,
+      "Icon": "arena/ui/layers/skill/ui/tiekuangicon/spriteFrame"
+    }
+  ]
+}

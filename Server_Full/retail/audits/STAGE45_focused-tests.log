@@ -1,0 +1,175 @@
+[GAME ROUTE] game.gameHandler.getCoin uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getDiamond uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getCoin uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getDiamond uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getCoin uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getDiamond uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.reqRanking uid=2 bytes=0
+[GAME ROUTE] game.talentHandler.reputationGetRank uid=2 bytes=0
+[GAME ROUTE] game.talentHandler.tdGetRank uid=2 bytes=0
+[GAME ROUTE] game.activityHandler.getActivityRank uid=2 bytes=2
+[GAME ROUTE] game.guildHandler.getGuildRank uid=2 bytes=0
+[GAME ROUTE] game.guildHandler.getGuildRankDetail uid=2 bytes=0
+[GAME ROUTE] game.passHandler.passInfo uid=2 bytes=0
+[GAME ROUTE] game.passHandler.passInfo uid=2 bytes=0
+[GAME ROUTE] game.passHandler.passInfo uid=2 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=2 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=2 bytes=0
+[PASS] game.passHandler.getPassAward PASS_REWARD_UNAVAILABLE
+[GAME ROUTE] game.passHandler.getPassTaskReward uid=2 bytes=2
+[GAME ROUTE] game.passHandler.getPassTaskReward uid=2 bytes=2
+[PASS] game.passHandler.getPassTaskReward PASS_TASK_REWARD_UNAVAILABLE
+[GAME ROUTE] game.passHandler.getPassTaskReward uid=2 bytes=2
+[PASS] game.passHandler.getPassTaskReward PASS_TASK_DISABLED
+[GAME ROUTE] game.passHandler.buyAdvancedPass uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyAdvancedPass uid=2 bytes=2
+[PASS] game.passHandler.buyAdvancedPass PASS_ALREADY_UPGRADED
+[GAME ROUTE] game.passHandler.buyAdvancedPass uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyPassExp uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyPassExp uid=2 bytes=2
+[PASS] game.passHandler.buyPassExp disk
+[GAME ROUTE] game.activityHandler.loadActivity uid=2 bytes=0
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=2 bytes=5
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=2 bytes=5
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=2 bytes=5
+[ACTIVITY] game.activityHandler.getActivityAwards ACTIVITY_REWARD_UNAVAILABLE
+[ACTIVITY] game.activityHandler.getActivityAwards ACTIVITY_REWARD_UNAVAILABLE
+[GAME ROUTE] game.drawHandler.draw uid=2 bytes=4
+[DRAW 2024] uid=2 typ=1 drawType=1 result=ok shards=123600x4,121700x1,123700x2,121600x1,122200x1,123100x1 free={"petFreeDraw":1}
+[GAME ROUTE] game.drawHandler.draw uid=2 bytes=4
+[DRAW 2024] uid=2 typ=1 drawType=2 result=ok shards=121500x6,122100x4,123600x3,123000x3,123700x2,123500x4,120200x3,121800x3,121700x3,123800x2,120100x1,122900x3,122200x2,121900x3,124200x1,124100x2,121600x1,123900x1,124300x1,124000x2 free={"petFreeDraw":1}
+[GAME ROUTE] game.drawHandler.draw uid=2 bytes=4
+[DRAW 2024] uid=2 typ=1 drawType=1 result=ok shards=123600x1,124100x2,121500x1,120500x1,123100x1,120200x2,123900x1,124300x1 free={"petFreeDraw":1}
+[GAME ROUTE] game.talentHandler.unlock uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.unlock uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.unlock uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.cancel uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.cancel uid=2 bytes=2
+[GAME ROUTE] game.gameHandler.giveUpBeginner uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.chooseIsBeginner uid=2 bytes=2
+✔ CoinRsp and DiamondRsp decode through game wire route at 0 (56.584213ms)
+✔ CoinRsp and DiamondRsp decode through game wire route at 128 (5.720241ms)
+✔ CoinRsp and DiamondRsp decode through game wire route at 1234567890 (8.187497ms)
+✔ leaderboard schemas contain real score, reputation, TD and activity records (26.744411ms)
+✔ guild ranks sort and omit the native broken field zero (10.447865ms)
+✔ 62 native event controls expose dates in Unix seconds and missing parameter status (11.494734ms)
+✔ forced seasons preserve separate progress and correct TaskID identities (82.935198ms)
+✔ pass rewards persist and cannot be duplicated (22.931081ms)
+✔ weekly check-in cannot repeat and task controls gate claims (41.856654ms)
+✔ advanced pass uses native price difference, grants a rod and rejects re-purchase (20.163898ms)
+✔ pass level price and persistence rollback are atomic (18.199101ms)
+✔ seven-day login grants native rewards once and blocks future days (18.565747ms)
+✔ pet gacha uses category 1, native x10/x50 and coupon precedence (45.404244ms)
+✔ mail catalog has exactly 1902 native definitions and real localized searches (27.602629ms)
+✔ player editor modifies real shard inventory and validates level/XP pairing (14.47918ms)
+✔ safe healing is 200 per 1500ms with no catch-up burst or dead healing (6.142941ms)
+✔ campfire heals 150 per tick, caps HP, and does not stack nearby fires (10.439582ms)
+✔ death clears buildings and disconnect resets XP but preserves hero, title and talents (19.54101ms)
+✔ drop includes offset needed before the client subscribes label cleanup (0.714804ms)
+✔ well spacing is 8000+ and two native interactive altars surround every boss (4.661504ms)
+✔ crocodile carries native swimming buff and cannot cross land (0.895685ms)
+✔ spear uses its effect range and overlapping mobs remain hittable (2.166137ms)
+✔ ranged bullet is visible on the wire and damage waits for collision (8.755813ms)
+✔ boss elemental weaknesses follow native resistance rows (0.629137ms)
+✔ talents enforce points, prerequisites and descendants before cancellation (16.95016ms)
+✔ owned mount can be selected, ridden and dismounted without stacking speed (7.821872ms)
+✔ peace guard casts for 3 seconds and consumes three uses per day (6.228628ms)
+✔ beginner opt-out persists independently of guide completion (7.393264ms)
+✔ Map2 has native 104 chest instances with correct water and death-drop definitions (10.904384ms)
+✔ quests filter collection targets and submission grants only once (6.622255ms)
+✔ fishing requires a dry shore and owned rod, then grants native fish and XP (7.058686ms)
+✔ peace AI ignores an unprovoked player, retaliates after a hit, then loses expired hate (80.092864ms)
+✔ boss acquires within SeekRange and returns outside GuardRange (13.569123ms)
+✔ unseen creatures cannot acquire players (4.089082ms)
+✔ returning monster resets only on arrival and clears its target (8.02848ms)
+✔ native sleep state is applied and a hit wakes the creature (6.809394ms)
+✔ wizard F damages cursor ground and repeats at hitCd (24.753075ms)
+✔ Nun heals over time and caps HP (21.735399ms)
+✔ paladin creates and expires a real shield (8.735433ms)
+✔ RMB damage consumes native stamina once and respects cooldown (10.172735ms)
+✔ protobuf-default skill angle preserves the cursor at close overlap (7.797175ms)
+✔ native enemy stun expires cleanly (5.50444ms)
+✔ death stops outgoing skill jobs (3.109743ms)
+✔ verified native VFX imports exclude missing vampire layers and obsolete Sparta entity (15.097461ms)
+✔ wizard creates native snowstorm at cursor then removes it (81.255185ms)
+✔ Sparta uses skin-aware buffs 586/705 and removes them (10.398881ms)
+✔ vampire channel blocks attacks and aim while native VFX and damage ticks run (11.845666ms)
+✔ bard follows caster, heals, and appears in room snapshots (8.633571ms)
+✔ paladin shields allies from caster HP with native caster skin (6.247547ms)
+✔ Nun uses native skillCast without duplicate VFX entity (1.406315ms)
+✔ unknown skins never substitute later-version VFX entities (3.299014ms)
+✔ death clears scene VFX and channel immunity for room peers (24.987494ms)
+✔ leaving destroys VFX and excludes it from future snapshots (14.078643ms)
+✔ Ninja dashes to cursor and creates four native shuriken without instant phantom damage (99.77215ms)
+✔ Ninja shuriken damages by segment and never hits the same target twice (43.691347ms)
+✔ Ninja zero cursor distance does not force a full-range dash (3.876465ms)
+✔ weapon moveDistance parameters cannot teleport the avatar (7.999457ms)
+✔ planning pass progress leaves the live player untouched until its inventory transaction commits (11.122048ms)
+✔ every native hero uses the same unlock and star progression as RiseHeroManager (102.030679ms)
+✔ all pet qualities and maximum-star affection match native PetAffectionManager (25.201392ms)
+✔ all five ride visuals use exactly the native MountManager paths and zero base-skin index (5.52418ms)
+✔ every shard that native gacha can roll maps to a concrete hero or pet (0.904157ms)
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=0 drawType=1 result=ok shards=300200x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=1 drawType=1 result=ok shards=120100x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=0 drawType=1 result=PERSISTENCE_FAILED shards= free={}
+[GAME ROUTE] game.heroHandler.switchHero uid=1 bytes=2
+[GAME ROUTE] game.heroHandler.switchHero uid=1 bytes=2
+[GAME ROUTE] game.heroHandler.switchHero uid=1 bytes=2
+[GAME ROUTE] game.heroHandler.upPetLv uid=1 bytes=3
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW DELIVERY] committed: NETWORK_CLOSED
+[DRAW 2024] uid=1 typ=0 drawType=1 result=ok shards=300200x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+✔ hero shards unlock and upgrade at native 5/10/15 thresholds; excess is preserved as item112 (72.113197ms)
+✔ pet stars use total affection and native 10/25/40 thresholds (10.738717ms)
+✔ gacha atomically updates collection and sends updateDraw before its native response (68.263201ms)
+✔ gacha pet result is a real Pet record, not a loose shard stack (18.684334ms)
+✔ failed persistence rolls back gacha payment, collection, coupons and success pushes (3.010875ms)
+✔ legacy bag shards migrate once and preserve unrelated items (7.266835ms)
+✔ collection survives reload and session-level reset; LoginResp includes all collected heroes (8.325171ms)
+✔ locked hero selection is rejected; selecting a collected hero preserves free Sparta (13.267514ms)
+✔ three-star ownership reaches the avatar, skill level, healing and VFX plan (20.88316ms)
+✔ pet ordinary level uses native coin cost separately from affection stars (80.91563ms)
+✔ all native purchased mounts push ownership and ride with base skin zero (100.803387ms)
+✔ legacy full-ID mount skins normalize to zero and native variant index one stays valid (16.641971ms)
+✔ all mount visual paths match CRC-verified native SkeletonData imports (23.820275ms)
+✔ failed mount purchase cannot grant ownership or send a successful ownership push (1.448507ms)
+✔ native mount music stop index -1 is accepted after dismount (0.958418ms)
+✔ admin catalog exposes native bundled mount variants and revokes the parent entitlement (11.462746ms)
+✔ a failed draw notification cannot roll back an already committed collection or change its successful response (10.145133ms)
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=10 npcSent=10 wallSent=0 bridgeSent=0 remaining=48 clientFrames=5 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=20 npcSent=20 wallSent=0 bridgeSent=0 remaining=38 clientFrames=10 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=30 npcSent=22 wallSent=8 bridgeSent=0 remaining=28 clientFrames=15 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=40 npcSent=22 wallSent=18 bridgeSent=0 remaining=18 clientFrames=20 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=50 npcSent=22 wallSent=28 bridgeSent=0 remaining=8 clientFrames=25 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=58 npcSent=22 wallSent=32 bridgeSent=4 remaining=0 clientFrames=29 render=UNVERIFIED
+[WORLD LOAD] uid=1 city-transmitted count=58; visuals need client verification
+✔ Map2 client scenery recovers five layers, 2827 original positions and 57 verified prefab paths (8.418521ms)
+✔ optional decor never duplicates an exact client-owned placement; NPC actors remain networked (0.612362ms)
+✔ current operator walls, bridges and native NPCs are retained as 58 separate server entities (0.580495ms)
+✔ disabling physical city objects removes ghost-wall build/AI overlaps without removing safe zones (2.328248ms)
+✔ guide map never inherits Map2 static collision or city actors (0.220839ms)
+✔ diagnostic spawn mode agrees with the actual deferred default and validates unknown modes (6.586552ms)
+✔ failed city sends retain objects and counters, then retry the exact batch (11.91485ms)
+✔ successful city batches require a fresh frame and do not repeat an already sent batch (0.77922ms)
+✔ city streaming drains all 58 objects once, preserving input order and native wire records (31.829016ms)
+✔ loading gate and fallback retain their independent one-object pacing (0.87288ms)
+✔ legacy migration planning reads sources without moving data or creating backups (16.200423ms)
+✔ legacy layout migration preserves original folders in backup and leaves current runtime untouched (17.019364ms)
+✔ different destination saves stop migration before any source or target is changed (11.883744ms)
+✔ layout rename failure restores moved sources and removes unchanged newly copied saves (39.351382ms)
+ℹ tests 93
+ℹ suites 0
+ℹ pass 93
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1587.366498

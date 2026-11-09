@@ -1,0 +1,11 @@
+{
+  "Server_Full/Server/lib/chicken-3127.js": "afbdbd5d3350548d0da0c1d88f36edea7270bdd9877381bc0ce1a7737aa9a3f1",
+  "Server_Full/Server/lib/player-skills-3127.js": "239197cc01e0af437972300eb9e75399d860c68b3eee4e0a75c5b8da84483ae2",
+  "Server_Full/Server/lib/combat-input-3127.js": "dd79f06ad334876af837799880585e2ba5462bb677844eff7391557271c74184",
+  "Server_Full/Server/lib/hero-vfx-3127.js": "85f80966181d1baee03d0b9017c9dfaaafe358078004baf833be36b7ed5e9620",
+  "Server_Full/Server/tests/stage79-chicken-native.test.js": "5c466b35741aad416b5e6c90fa4498a8cfb07cb5b4afcad06b9dc162b68370aa",
+  "Server_Full/package.json": "4d544a2c676d23936cfc65716036ecc99bfe8d57a60b4ea0506571eeecadece7",
+  "README_STAGE79_RU.txt": "f10d4599710271ab72c5d91933d01c35c5e6e0eb4a5fd1f68140d87eecd2dd0e",
+  "ISSUES_STAGE79_RU.txt": "7318f66bfd31c2fad733669a5bc10740caad5ba73b459678fe68c7ce9ae9950e",
+  "SKILL_COVERAGE_STAGE79_RU.txt": "fc32304b6da2d0acaa4c28d0f3512515358e52c350f2d0f30e769ec3ff21da8e"
+}

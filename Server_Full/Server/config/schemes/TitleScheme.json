@@ -1,0 +1,304 @@
+{
+  "Title": [
+    {
+      "ID": 1,
+      "name": "村民",
+      "exp": 1650,
+      "talentPoints": 1
+    },
+    {
+      "ID": 2,
+      "name": "学徒",
+      "exp": 3300,
+      "talentPoints": 1
+    },
+    {
+      "ID": 3,
+      "name": "精英",
+      "exp": 4950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 4,
+      "name": "专家",
+      "exp": 6600,
+      "talentPoints": 1
+    },
+    {
+      "ID": 5,
+      "name": "大师",
+      "exp": 8250,
+      "talentPoints": 1
+    },
+    {
+      "ID": 6,
+      "name": "宗师",
+      "exp": 9900,
+      "talentPoints": 1
+    },
+    {
+      "ID": 7,
+      "name": "传奇",
+      "exp": 11550,
+      "talentPoints": 1
+    },
+    {
+      "ID": 8,
+      "name": "半神",
+      "exp": 13200,
+      "talentPoints": 1
+    },
+    {
+      "ID": 9,
+      "name": "神明",
+      "exp": 14850,
+      "talentPoints": 1
+    },
+    {
+      "ID": 10,
+      "name": "神王",
+      "exp": 16500,
+      "talentPoints": 1
+    },
+    {
+      "ID": 11,
+      "name": "",
+      "exp": 18150,
+      "talentPoints": 1
+    },
+    {
+      "ID": 12,
+      "name": "",
+      "exp": 19800,
+      "talentPoints": 1
+    },
+    {
+      "ID": 13,
+      "name": "",
+      "exp": 21450,
+      "talentPoints": 1
+    },
+    {
+      "ID": 14,
+      "name": "",
+      "exp": 23100,
+      "talentPoints": 1
+    },
+    {
+      "ID": 15,
+      "name": "",
+      "exp": 24750,
+      "talentPoints": 1
+    },
+    {
+      "ID": 16,
+      "name": "",
+      "exp": 28050,
+      "talentPoints": 1
+    },
+    {
+      "ID": 17,
+      "name": "",
+      "exp": 31350,
+      "talentPoints": 1
+    },
+    {
+      "ID": 18,
+      "name": "",
+      "exp": 34650,
+      "talentPoints": 1
+    },
+    {
+      "ID": 19,
+      "name": "",
+      "exp": 37950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 20,
+      "name": "",
+      "exp": 41250,
+      "talentPoints": 1
+    },
+    {
+      "ID": 21,
+      "name": "",
+      "exp": 44550,
+      "talentPoints": 1
+    },
+    {
+      "ID": 22,
+      "name": "",
+      "exp": 47850,
+      "talentPoints": 1
+    },
+    {
+      "ID": 23,
+      "name": "",
+      "exp": 51150,
+      "talentPoints": 1
+    },
+    {
+      "ID": 24,
+      "name": "",
+      "exp": 54450,
+      "talentPoints": 1
+    },
+    {
+      "ID": 25,
+      "name": "",
+      "exp": 57750,
+      "talentPoints": 1
+    },
+    {
+      "ID": 26,
+      "name": "",
+      "exp": 61050,
+      "talentPoints": 1
+    },
+    {
+      "ID": 27,
+      "name": "",
+      "exp": 64350,
+      "talentPoints": 1
+    },
+    {
+      "ID": 28,
+      "name": "",
+      "exp": 67650,
+      "talentPoints": 1
+    },
+    {
+      "ID": 29,
+      "name": "",
+      "exp": 70950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 30,
+      "name": "",
+      "exp": 77550,
+      "talentPoints": 1
+    },
+    {
+      "ID": 31,
+      "name": "",
+      "exp": 84150,
+      "talentPoints": 1
+    },
+    {
+      "ID": 32,
+      "name": "",
+      "exp": 90750,
+      "talentPoints": 1
+    },
+    {
+      "ID": 33,
+      "name": "",
+      "exp": 97350,
+      "talentPoints": 1
+    },
+    {
+      "ID": 34,
+      "name": "",
+      "exp": 103950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 35,
+      "name": "",
+      "exp": 110550,
+      "talentPoints": 1
+    },
+    {
+      "ID": 36,
+      "name": "",
+      "exp": 123750,
+      "talentPoints": 1
+    },
+    {
+      "ID": 37,
+      "name": "",
+      "exp": 136950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 38,
+      "name": "",
+      "exp": 150150,
+      "talentPoints": 1
+    },
+    {
+      "ID": 39,
+      "name": "",
+      "exp": 163350,
+      "talentPoints": 1
+    },
+    {
+      "ID": 40,
+      "name": "",
+      "exp": 183150,
+      "talentPoints": 1
+    },
+    {
+      "ID": 41,
+      "name": "",
+      "exp": 202950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 42,
+      "name": "",
+      "exp": 222750,
+      "talentPoints": 1
+    },
+    {
+      "ID": 43,
+      "name": "",
+      "exp": 242550,
+      "talentPoints": 1
+    },
+    {
+      "ID": 44,
+      "name": "",
+      "exp": 262350,
+      "talentPoints": 1
+    },
+    {
+      "ID": 45,
+      "name": "",
+      "exp": 282150,
+      "talentPoints": 1
+    },
+    {
+      "ID": 46,
+      "name": "",
+      "exp": 308550,
+      "talentPoints": 1
+    },
+    {
+      "ID": 47,
+      "name": "",
+      "exp": 334950,
+      "talentPoints": 1
+    },
+    {
+      "ID": 48,
+      "name": "",
+      "exp": 361350,
+      "talentPoints": 1
+    },
+    {
+      "ID": 49,
+      "name": "",
+      "exp": 387750,
+      "talentPoints": 1
+    },
+    {
+      "ID": 50,
+      "name": "",
+      "exp": 0,
+      "talentPoints": 1
+    }
+  ]
+}

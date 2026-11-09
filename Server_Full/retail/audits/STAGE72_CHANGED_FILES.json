@@ -1,0 +1,97 @@
+[
+  {
+    "path": "ISSUES_STAGE72_RU.txt",
+    "change": "added",
+    "sha256": "b48a471dff3f42e00ccc1c33a84df68ae1219afd799805b3c38b1a8b94008468"
+  },
+  {
+    "path": "README_STAGE72_RU.txt",
+    "change": "added",
+    "sha256": "72213b1e55af6978a8f994c5733e60c8928b485faa9fd67966e1099b0b25e8d0"
+  },
+  {
+    "path": "Server_Full/README_STAGE72_RU.txt",
+    "change": "added",
+    "sha256": "72213b1e55af6978a8f994c5733e60c8928b485faa9fd67966e1099b0b25e8d0"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "change": "modified",
+    "sha256": "1197ec564de3059e35647738fd17042c860349d7d34db640647faf66b3fe1ea7"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-ai-3127.js",
+    "change": "modified",
+    "sha256": "156457e0f31fc6cdb3cbafe99a6e40cba5e32a6a017cbda4c3445d202c00ed21"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-skills-3127.js",
+    "change": "modified",
+    "sha256": "80691a46c3483ffaa9fa138f843d6c091ed7f821e8e4d6fb935997369af447ec"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-targets-3127.js",
+    "change": "added",
+    "sha256": "c75785d6d62410d27486f6adfa8d0142bdd2eed123ba64eb0772f3af3ba218aa"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage72-combat-targets.test.js",
+    "change": "added",
+    "sha256": "c7e748e276a4b08d2e6b16930f738ff440abd657cfad6b073e0427acac021fe2"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "ebd79b9199557cc886b4e23ef5429a5db33b561aa6043d9f70902b5d94e766f8"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_COMBAT_TARGET_LIFETIME.json",
+    "change": "added",
+    "sha256": "c0110371880228c276606b705b27a56d2806d97efd5eb4c8391897b9c83c2a33"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "cd3fda573eb55cd5504002b63e1a54171752328961ce14173730c0066f22b6fd"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "d0b6b9107e790bac924bbf9ea9321a229a5c502b1ded9a14342aa300800e0d51"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_SMOKE.log",
+    "change": "added",
+    "sha256": "55a4f259a203ffe28e6c82f552501f2c4e8f75ddd29dd69fa2a319d5009b3d08"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_TESTS.log",
+    "change": "added",
+    "sha256": "7422312b2b90c7331e12640f016394ef2d75f1a8db1992f4a8f97cd26d101197"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_VALIDATION.json",
+    "change": "added",
+    "sha256": "64268103e83014082edb7d07a7360f2c4814d65a560c612a4c4159c666b15a37"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE72_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage72/MonsterCfg.ts",
+    "change": "added",
+    "sha256": "9a27d8ed69fe56ccd82d916cca95833a3098a6193cdfeb7e5e28605593485756"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage72/MonsterStateType.ts",
+    "change": "added",
+    "sha256": "c3ef0b2718cdab7099dba3612daa6aef95f35c9af3de20d9cfa330f198ea68fd"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "20fcf269da53d04f75b0799c2995ba95c7b231f89f645580af662c7319ffc81b"
+  }
+]

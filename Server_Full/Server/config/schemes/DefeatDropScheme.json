@@ -1,0 +1,628 @@
+{
+  "DefeatDropCfg": [
+    {
+      "level": 1,
+      "GrainDrop": 0,
+      "ExpDrop": 50,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 2,
+      "GrainDrop": 0,
+      "ExpDrop": 60,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 3,
+      "GrainDrop": 0,
+      "ExpDrop": 70,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 4,
+      "GrainDrop": 0,
+      "ExpDrop": 80,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 5,
+      "GrainDrop": 0,
+      "ExpDrop": 90,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 6,
+      "GrainDrop": 0,
+      "ExpDrop": 100,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 7,
+      "GrainDrop": 0,
+      "ExpDrop": 110,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 8,
+      "GrainDrop": 0,
+      "ExpDrop": 120,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 9,
+      "GrainDrop": 0,
+      "ExpDrop": 130,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 10,
+      "GrainDrop": 0,
+      "ExpDrop": 140,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 11,
+      "GrainDrop": 0,
+      "ExpDrop": 160,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 12,
+      "GrainDrop": 0,
+      "ExpDrop": 180,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 13,
+      "GrainDrop": 0,
+      "ExpDrop": 200,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 14,
+      "GrainDrop": 0,
+      "ExpDrop": 220,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 15,
+      "GrainDrop": 0,
+      "ExpDrop": 240,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 16,
+      "GrainDrop": 0,
+      "ExpDrop": 260,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 17,
+      "GrainDrop": 0,
+      "ExpDrop": 280,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 18,
+      "GrainDrop": 0,
+      "ExpDrop": 300,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 19,
+      "GrainDrop": 0,
+      "ExpDrop": 320,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 20,
+      "GrainDrop": 0,
+      "ExpDrop": 340,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 21,
+      "GrainDrop": 0,
+      "ExpDrop": 370,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 22,
+      "GrainDrop": 0,
+      "ExpDrop": 400,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 23,
+      "GrainDrop": 0,
+      "ExpDrop": 430,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 24,
+      "GrainDrop": 0,
+      "ExpDrop": 460,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 25,
+      "GrainDrop": 0,
+      "ExpDrop": 490,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 26,
+      "GrainDrop": 0,
+      "ExpDrop": 520,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 27,
+      "GrainDrop": 0,
+      "ExpDrop": 550,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 28,
+      "GrainDrop": 0,
+      "ExpDrop": 580,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 29,
+      "GrainDrop": 0,
+      "ExpDrop": 610,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 30,
+      "GrainDrop": 0,
+      "ExpDrop": 640,
+      "FeatsDrop": 0
+    },
+    {
+      "level": 31,
+      "GrainDrop": 0,
+      "ExpDrop": 700,
+      "FeatsDrop": 5
+    },
+    {
+      "level": 32,
+      "GrainDrop": 0,
+      "ExpDrop": 800,
+      "FeatsDrop": 10
+    },
+    {
+      "level": 33,
+      "GrainDrop": 0,
+      "ExpDrop": 900,
+      "FeatsDrop": 15
+    },
+    {
+      "level": 34,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 20
+    },
+    {
+      "level": 35,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 25
+    },
+    {
+      "level": 36,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 30
+    },
+    {
+      "level": 37,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 35
+    },
+    {
+      "level": 38,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 40
+    },
+    {
+      "level": 39,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 45
+    },
+    {
+      "level": 40,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 50
+    },
+    {
+      "level": 41,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 55
+    },
+    {
+      "level": 42,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 60
+    },
+    {
+      "level": 43,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 65
+    },
+    {
+      "level": 44,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 70
+    },
+    {
+      "level": 45,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 75
+    },
+    {
+      "level": 46,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 80
+    },
+    {
+      "level": 47,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 85
+    },
+    {
+      "level": 48,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 90
+    },
+    {
+      "level": 49,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 95
+    },
+    {
+      "level": 50,
+      "GrainDrop": 0,
+      "ExpDrop": 1000,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 51,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 52,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 53,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 54,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 55,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 56,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 57,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 58,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 59,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 60,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 61,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 62,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 63,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 64,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 65,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 66,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 67,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 68,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 69,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 70,
+      "GrainDrop": 0,
+      "ExpDrop": 1500,
+      "FeatsDrop": 100
+    },
+    {
+      "level": 71,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 72,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 73,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 74,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 75,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 76,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 77,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 78,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 79,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 80,
+      "GrainDrop": 0,
+      "ExpDrop": 2000,
+      "FeatsDrop": 200
+    },
+    {
+      "level": 81,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 82,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 83,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 84,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 85,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 86,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 87,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 88,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 89,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 90,
+      "GrainDrop": 0,
+      "ExpDrop": 3000,
+      "FeatsDrop": 500
+    },
+    {
+      "level": 91,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 800
+    },
+    {
+      "level": 92,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 800
+    },
+    {
+      "level": 93,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 800
+    },
+    {
+      "level": 94,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 800
+    },
+    {
+      "level": 95,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 1000
+    },
+    {
+      "level": 96,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 1000
+    },
+    {
+      "level": 97,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 1000
+    },
+    {
+      "level": 98,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 1000
+    },
+    {
+      "level": 99,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 1000
+    },
+    {
+      "level": 100,
+      "GrainDrop": 0,
+      "ExpDrop": 8000,
+      "FeatsDrop": 1000
+    },
+    {
+      "level": 101,
+      "GrainDrop": 0,
+      "ExpDrop": 10000,
+      "FeatsDrop": 2000
+    },
+    {
+      "level": 102,
+      "GrainDrop": 0,
+      "ExpDrop": 10000,
+      "FeatsDrop": 2000
+    },
+    {
+      "level": 103,
+      "GrainDrop": 0,
+      "ExpDrop": 10000,
+      "FeatsDrop": 2000
+    },
+    {
+      "level": 104,
+      "GrainDrop": 0,
+      "ExpDrop": 10000,
+      "FeatsDrop": 2000
+    }
+  ]
+}

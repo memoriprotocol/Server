@@ -1,0 +1,172 @@
+{
+  "stage": 59,
+  "version": "0.37.0-stage59-map2-wintertide",
+  "profiles": [
+    {
+      "weaponID": 618300,
+      "skillID": 3209,
+      "castPointTime": 200,
+      "delayTime": 500.0,
+      "radius": 300,
+      "scale": 1.0,
+      "maxDistance": 2100,
+      "duration": 1000,
+      "staminaCost": 4.0,
+      "cd": 1200,
+      "onHitEnemyBuff": [
+        "100,slowDownPer_3"
+      ],
+      "onHitEnemyBuffArgs": [
+        "duration:2000,propValue:30"
+      ],
+      "unresolvedSelfBuffArgs": [
+        "20",
+        "3000"
+      ]
+    },
+    {
+      "weaponID": 618301,
+      "skillID": 6183011,
+      "castPointTime": 200,
+      "delayTime": 500.0,
+      "radius": 360,
+      "scale": 1.2,
+      "maxDistance": 2100,
+      "duration": 1000,
+      "staminaCost": 4.0,
+      "cd": 1200,
+      "onHitEnemyBuff": [
+        "100,slowDownPer_3"
+      ],
+      "onHitEnemyBuffArgs": [
+        "duration:2000,propValue:30"
+      ],
+      "unresolvedSelfBuffArgs": [
+        "20",
+        "3000"
+      ]
+    },
+    {
+      "weaponID": 618302,
+      "skillID": 6183021,
+      "castPointTime": 200,
+      "delayTime": 500.0,
+      "radius": 300,
+      "scale": 1.0,
+      "maxDistance": 2100,
+      "duration": 1000,
+      "staminaCost": 4.0,
+      "cd": 1200,
+      "onHitEnemyBuff": [
+        "100,slowDownPer_3"
+      ],
+      "onHitEnemyBuffArgs": [
+        "duration:2000,propValue:30"
+      ],
+      "unresolvedSelfBuffArgs": [
+        "20",
+        "3000"
+      ]
+    },
+    {
+      "weaponID": 618303,
+      "skillID": 6183031,
+      "castPointTime": 200,
+      "delayTime": 500.0,
+      "radius": 300,
+      "scale": 1.0,
+      "maxDistance": 2100,
+      "duration": 1000,
+      "staminaCost": 4.0,
+      "cd": 1200,
+      "onHitEnemyBuff": [
+        "100,slowDownPer_3"
+      ],
+      "onHitEnemyBuffArgs": [
+        "duration:2000,propValue:30"
+      ],
+      "unresolvedSelfBuffArgs": [
+        "20",
+        "3000"
+      ]
+    },
+    {
+      "weaponID": 618304,
+      "skillID": 6183041,
+      "castPointTime": 200,
+      "delayTime": 500.0,
+      "radius": 300,
+      "scale": 1.0,
+      "maxDistance": 2100,
+      "duration": 1000,
+      "staminaCost": 4.0,
+      "cd": 1200,
+      "onHitEnemyBuff": [
+        "100,slowDownPer_3"
+      ],
+      "onHitEnemyBuffArgs": [
+        "duration:2000,propValue:30"
+      ],
+      "unresolvedSelfBuffArgs": [
+        "20",
+        "3000"
+      ]
+    },
+    {
+      "weaponID": 618350,
+      "skillID": 6183501,
+      "castPointTime": 200,
+      "delayTime": 500.0,
+      "radius": 600,
+      "scale": 2.0,
+      "maxDistance": 2100,
+      "duration": 1000,
+      "staminaCost": 4.0,
+      "cd": 1200,
+      "onHitEnemyBuff": [
+        "100,slowDownPer_3"
+      ],
+      "onHitEnemyBuffArgs": [
+        "duration:2000,propValue:30"
+      ],
+      "unresolvedSelfBuffArgs": [
+        "20",
+        "3000"
+      ]
+    }
+  ],
+  "nativeEvidence": {
+    "EntityType": {
+      "iceStaffAttack": 1062
+    },
+    "resource": "arena/skills/bingjinglingfazhang/prefab/attack",
+    "renderer": "original CCIceStaffAttack createIceStaffEntity executed in VM; consumes ud.scale/ud.delayTime, current entity position and camp",
+    "circleIndicator": "original CCSkillComp CIRCLE branch uses diameter2*effectSize[0]",
+    "phases": "native castPoint200ms; entity warning delayTime500ms; native scale1/1.2/2 and radii300/360/600; native OnHit slow30%/2000ms",
+    "assetProof": "original prefab import ZIP CRC/hash, not complete dependencies/Windows rendering"
+  },
+  "localPolicies": {
+    "scope": "Map2 player equipped primary skillType422 only; no new behavior on other maps",
+    "acceptance": "one stamina/CD charge using existing formula;16 pending,32 total pending+fields; no refund after accepted cancellation",
+    "release": "first observed tick at/after native castPoint; latest cursor/actor origin, cursor distance clamped to maxDistance2100; no target lock/auto-aim/chase",
+    "warning": "fixed world point selected at release; native entity1062 registered as weaponGround row; no fake missile; no motion changes",
+    "impact": "first observed tick after native500ms from actual release; sample all eligible targets once in radius+existing target footprint; current hitbox/overlap policy reconstructed",
+    "targets": "mob/boss/tree/stone/ore/chest/statue; protected/hidden/dead/depleted excluded; buildings/PvP not added",
+    "timingLimits": "unreleased deadline native release+1000ms; visible field until actual release+max(delayTime,duration),1000ms for these profiles; no additional periodic damage from duration",
+    "cancellation": "unreleased: weaponID/UUID/hero/world/entity/room/map/scene/life/safe/channel/confusion; released: source world/entity/room/map/scene/life; accepted release survives button-up",
+    "releasedOwnership": "already released field survives weapon change, same-map portal and entering safe zone; ground stays fixed; protected targets still excluded; death/logout/scene transfer clear",
+    "retry": "freeze impact contacts with spawn identity;250ms retry after settlement failure, logs at most5000ms; successful contacts never damaged again; sampled target may move before retry and receives then-current damage properties; all retries bounded by field lifetime",
+    "lateObservers": "remaining delayTime updated in stored userdata, preventing a fresh500ms warning for a newly streamed field; usual world ordering can make snapshot up to one50ms tick old",
+    "cleanup": "native destroy on expiry/invalid source; row removed immediately; failed destroy recovers through existing environmentSeen queue; durable VFX delivery not newly implemented",
+    "terrain": "destination must be valid map point and outside protected zone; no new wall/terrain line-of-sight for the area"
+  },
+  "openMechanics": [
+    "Frozen Armor active423/3210 family shield, absorption-based burst and freeze NOT restored here; native English description identified for future stage",
+    "passive424 and legacy selfBuffArgs20/3000 not inferred from name alone",
+    "other weapon/hero families and special passives remain partial",
+    "full damage/elemental formulas and exact collision/team/terrain semantics not verified retail",
+    "asynchronous real-client asset loading/scene lifecycle and Windows VFX not tested"
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "Server_Full/retail/client-reference/stage58/CCSkillComp.ts",
+    "sha256": "49f6b4973a00a7f91d9f702b65e8edc40b208581b80076259353a89c2c2917a9",
+    "bytes": 26770,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage58/CCBloodBarComp.ts",
+    "sha256": "4854d87a30ed66de20ff9e594b2e399a6c30b08284edabb149796a99b566fbc5",
+    "bytes": 28559,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage58/MonsterStateType.ts",
+    "sha256": "c3ef0b2718cdab7099dba3612daa6aef95f35c9af3de20d9cfa330f198ea68fd",
+    "bytes": 852,
+    "verbatimOriginalFactory": true
+  }
+]

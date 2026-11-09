@@ -1,0 +1,33 @@
+{
+  "stage": 36,
+  "base": "Stage35",
+  "requestedGuard": "one horned helmet / shield / double-headed halberd guard from screenshot",
+  "selectedCreatureId": 3001,
+  "selectionConfidence": "PROVISIONAL: 3001 first guard variant maps plausibly to first playable world (Map2); visual screenshot-to-ID match not confirmed",
+  "guardTotal": 12,
+  "perGate": 2,
+  "perExternalSafeArea": 1,
+  "orientationsDegrees": {
+    "north": 180,
+    "south": 0,
+    "west": 270,
+    "east": 90
+  },
+  "spriteFacingAssumption": "0 degrees faces south/front; verify in-game and adjust angle if necessary",
+  "removedDecorSourceIDs": [
+    27101,
+    27102,
+    27103,
+    27104,
+    27105,
+    27106,
+    27107,
+    27108,
+    27109
+  ],
+  "remainingDecorItems": 0,
+  "cityWalls": 32,
+  "bridges": 4,
+  "bossPolicy": "no edits; baseline hashes tested",
+  "allOtherNpcPolicy": "unchanged"
+}

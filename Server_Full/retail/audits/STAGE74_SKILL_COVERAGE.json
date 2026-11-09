@@ -1,0 +1,1112 @@
+{
+  "restorationComplete": false,
+  "heroes": [
+    {
+      "heroID": 1,
+      "nativeName": "斯巴达",
+      "skills": [
+        6013
+      ],
+      "status": "STAGE66_NATIVE_TOGGLE_STAMINA_STUN_LOCAL_DAMAGE_REDUCTION_PARTIAL"
+    },
+    {
+      "heroID": 2,
+      "nativeName": "修女",
+      "skills": [
+        6006
+      ],
+      "status": "STAGE67_WEAPON_HEAL50_SUPPORT_FROM_STAGE66_EQUIPMENT_TRIGGERS_PARTIAL"
+    },
+    {
+      "heroID": 3,
+      "nativeName": "吸血鬼",
+      "skills": [
+        6003
+      ],
+      "status": "STAGE67_ACTIVE300PERCENT_ORDINARY_MOB_AND_STAGE66_LIFESTEAL_PARTIAL"
+    },
+    {
+      "heroID": 4,
+      "nativeName": "魔法师",
+      "skills": [
+        6004
+      ],
+      "status": "STAGE67_NATIVE_STORM_STAFF_CD_FROST7_WITH_LOCAL_FREEZE_MAPPING_PARTIAL"
+    },
+    {
+      "heroID": 5,
+      "nativeName": "亡灵术士",
+      "skills": [
+        6007
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 6,
+      "nativeName": "圣骑士",
+      "skills": [
+        6005
+      ],
+      "status": "STAGE70_PURIFY_NATIVE_DANCE238_PLUS_STAGE66_SHIELD_INVULNERABILITY_NO_UNPROVEN_FUTURE_IMMUNITY"
+    },
+    {
+      "heroID": 7,
+      "nativeName": "木乃伊",
+      "skills": [
+        6009,
+        6023
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 8,
+      "nativeName": "德鲁伊",
+      "skills": [
+        6008
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 9,
+      "nativeName": "树人",
+      "skills": [
+        6010,
+        6028
+      ],
+      "status": "STAGE73_NATIVE6010_CASTPOINT_1030_ALL_SKINS_STARS_ROOT216_AND6028_HOMING_TEAM_HEAL_LOCAL_CONTACT_SELECTION_AND904_BASE_LEAF_FALLBACK_PARTIAL"
+    },
+    {
+      "heroID": 10,
+      "nativeName": "国王",
+      "skills": [
+        6011
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 11,
+      "nativeName": "女巫",
+      "skills": [
+        6012
+      ],
+      "status": "STAGE74_NATIVE6012_STOVE1027_TRACE1059_ALL_SKINS_STARS_POISON210_STAMINA305_AND_SLOT_PASSIVE401_LOCAL_TARGET_TIMING_CONTACT_POLICY_PARTIAL"
+    },
+    {
+      "heroID": 12,
+      "nativeName": "忍者",
+      "skills": [
+        6014
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 13,
+      "nativeName": "吟游诗人",
+      "skills": [
+        6015,
+        6032
+      ],
+      "status": "STAGE70_NATIVE6032_AURA_6015_PERFORMANCE_HEAL_SPEED_SKINS_DANCE_PVP_GATE_LOCAL_POLICIES_PARTIAL"
+    },
+    {
+      "heroID": 15,
+      "nativeName": "兔耳游侠",
+      "skills": [
+        6017
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 17,
+      "nativeName": "厨娘",
+      "skills": [
+        6019
+      ],
+      "status": "STAGE68_NATIVE_CHEF_POTS_FOOD_HP_SHIELD_STATS_GATHER_LOCAL_LIFETIME_PARTIAL"
+    },
+    {
+      "heroID": 19,
+      "nativeName": "史莱姆",
+      "skills": [
+        6020,
+        6021
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 20,
+      "nativeName": "小恶魔",
+      "skills": [
+        6022
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 21,
+      "nativeName": "炸弹人",
+      "skills": [
+        6024,
+        6025
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 22,
+      "nativeName": "狼人",
+      "skills": [
+        6026
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 23,
+      "nativeName": "咕咕",
+      "skills": [
+        6029
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 24,
+      "nativeName": "仓鼠",
+      "skills": [
+        6030
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 25,
+      "nativeName": "剑客",
+      "skills": [
+        6031
+      ],
+      "status": "STAGE67_NATIVE_SWORD_WAVES_SKINS_CHARGES_PASSIVES_LOCAL_BACKSTEP_GEOMETRY_DAMAGE_PARTIAL"
+    },
+    {
+      "heroID": 26,
+      "nativeName": "工程师",
+      "skills": [
+        6033
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 27,
+      "nativeName": "维京战士",
+      "skills": [
+        6039
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 28,
+      "nativeName": "龙太子",
+      "skills": [
+        6040,
+        6041
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    },
+    {
+      "heroID": 29,
+      "nativeName": "花仙子",
+      "skills": [
+        6042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION"
+    }
+  ],
+  "weaponActiveTypes": [
+    {
+      "skillType": 78,
+      "IDs": [
+        3094
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 79,
+      "IDs": [
+        3008
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 86,
+      "IDs": [
+        3150
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 109,
+      "IDs": [
+        3037
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 110,
+      "IDs": [
+        3088
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 126,
+      "IDs": [
+        3093
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 143,
+      "IDs": [
+        3187,
+        6174012,
+        6174022,
+        6174032,
+        6174042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 145,
+      "IDs": [
+        3104
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 148,
+      "IDs": [
+        3163
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 149,
+      "IDs": [
+        3143
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 154,
+      "IDs": [
+        3146
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 157,
+      "IDs": [
+        3159
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 158,
+      "IDs": [
+        3160
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 160,
+      "IDs": [
+        3162
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 161,
+      "IDs": [
+        3184
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 162,
+      "IDs": [
+        3158
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 163,
+      "IDs": [
+        3185
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 164,
+      "IDs": [
+        3186
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 165,
+      "IDs": [
+        3161
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 166,
+      "IDs": [
+        3044
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 305,
+      "IDs": [
+        3144
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 320,
+      "IDs": [
+        3157
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 379,
+      "IDs": [
+        3189
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 385,
+      "IDs": [
+        3192
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 386,
+      "IDs": [
+        3194
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 390,
+      "IDs": [
+        3198,
+        6178012,
+        6178022,
+        6178032,
+        6178042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 404,
+      "IDs": [
+        3202
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 408,
+      "IDs": [
+        3204,
+        6181012,
+        6181022,
+        6181032,
+        6181042,
+        6181502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 417,
+      "IDs": [
+        3207,
+        6182012,
+        6182022,
+        6182032,
+        6182042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 423,
+      "IDs": [
+        3210,
+        6183012,
+        6183022,
+        6183032,
+        6183042,
+        6183502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 426,
+      "IDs": [
+        3213,
+        6184012,
+        6184022,
+        6184032,
+        6184042
+      ],
+      "status": "STAGE65_VORTEX_PERCENT_DAMAGE_CASTPOINT_VFX_PARTIAL",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 436,
+      "IDs": [
+        3216,
+        6185012,
+        6185022,
+        6185032,
+        6185042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": [
+        3216,
+        6185012,
+        6185022,
+        6185042
+      ],
+      "chargeStatus": "STAGE66_NATIVE2_OR3_CHARGES_WITH_INDEPENDENT_LOCAL_RECHARGE_POLICY_EFFECTS_STILL_PARTIAL"
+    },
+    {
+      "skillType": 442,
+      "IDs": [
+        3219,
+        6186012,
+        6186022,
+        6186032,
+        6186042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 461,
+      "IDs": [
+        3222,
+        6187012,
+        6187022,
+        6187032,
+        6187042,
+        6187502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 466,
+      "IDs": [
+        3226,
+        6188012,
+        6188022,
+        6188032,
+        6188042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 472,
+      "IDs": [
+        3230,
+        6189012,
+        6189022,
+        6189032,
+        6189042,
+        6189502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": [
+        6189032,
+        6189502
+      ],
+      "chargeStatus": "STAGE66_NATIVE2_OR3_CHARGES_WITH_INDEPENDENT_LOCAL_RECHARGE_POLICY_EFFECTS_STILL_PARTIAL"
+    },
+    {
+      "skillType": 474,
+      "IDs": [
+        3233,
+        6191012,
+        6191022,
+        6191032,
+        6191042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 478,
+      "IDs": [
+        3236,
+        6190012,
+        6190022,
+        6190032,
+        6190042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": [
+        3236,
+        6190012,
+        6190022,
+        6190032,
+        6190042
+      ],
+      "chargeStatus": "STAGE66_NATIVE2_OR3_CHARGES_WITH_INDEPENDENT_LOCAL_RECHARGE_POLICY_EFFECTS_STILL_PARTIAL"
+    },
+    {
+      "skillType": 488,
+      "IDs": [
+        3240,
+        6193012,
+        6193022,
+        6193032,
+        6193042,
+        6193502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 526,
+      "IDs": [
+        3244,
+        6194012,
+        6194022,
+        6194032,
+        6194042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 538,
+      "IDs": [
+        3246,
+        6195012,
+        6195022,
+        6195032,
+        6195042,
+        6195502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 541,
+      "IDs": [
+        3249
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 543,
+      "IDs": [
+        3251,
+        6197012,
+        6197022,
+        6197032,
+        6197042,
+        6197502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 548,
+      "IDs": [
+        3254,
+        6198012,
+        6198022,
+        6198032,
+        6198042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": [
+        6198022
+      ],
+      "chargeStatus": "STAGE66_NATIVE2_OR3_CHARGES_WITH_INDEPENDENT_LOCAL_RECHARGE_POLICY_EFFECTS_STILL_PARTIAL"
+    },
+    {
+      "skillType": 552,
+      "IDs": [
+        3257,
+        6199012,
+        6199022,
+        6199032,
+        6199042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 561,
+      "IDs": [
+        3260,
+        6200012,
+        6200022,
+        6200032,
+        6200042,
+        6200502
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 575,
+      "IDs": [
+        3263,
+        6202012,
+        6202022,
+        6202032,
+        6202042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 587,
+      "IDs": [
+        3266,
+        6203012,
+        6203022,
+        6203032,
+        6203042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 590,
+      "IDs": [
+        3268,
+        6201012,
+        6201022,
+        6201032,
+        6201042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 604,
+      "IDs": [
+        3270,
+        6205012,
+        6205022,
+        6205032,
+        6205042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 622,
+      "IDs": [
+        3272,
+        6209012,
+        6209022,
+        6209032,
+        6209042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": [
+        3272,
+        6209012,
+        6209022,
+        6209032,
+        6209042
+      ],
+      "chargeStatus": "STAGE66_NATIVE2_OR3_CHARGES_WITH_INDEPENDENT_LOCAL_RECHARGE_POLICY_EFFECTS_STILL_PARTIAL"
+    },
+    {
+      "skillType": 650,
+      "IDs": [
+        3274
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 654,
+      "IDs": [
+        3276,
+        6204012,
+        6204022,
+        6204032,
+        6204042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 665,
+      "IDs": [
+        3278,
+        6208012,
+        6208022,
+        6208032,
+        6208042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 667,
+      "IDs": [
+        3280,
+        6211012,
+        6211022,
+        6211032,
+        6211042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 674,
+      "IDs": [
+        3282,
+        6206012,
+        6206022,
+        6206032,
+        6206042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 678,
+      "IDs": [
+        3286
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 697,
+      "IDs": [
+        3289,
+        6219012,
+        6219022,
+        6219032,
+        6219042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 701,
+      "IDs": [
+        3293,
+        6220012,
+        6220022,
+        6220032,
+        6220042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 724,
+      "IDs": [
+        3295,
+        6217012,
+        6217022,
+        6217032,
+        6217042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 746,
+      "IDs": [
+        3305,
+        6223012,
+        6223022,
+        6223032,
+        6223042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 761,
+      "IDs": [
+        3308,
+        6224012,
+        6224022,
+        6224032,
+        6224042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 771,
+      "IDs": [
+        3311,
+        6225012,
+        6225022,
+        6225032,
+        6225042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 801,
+      "IDs": [
+        3319,
+        6221012,
+        6221022,
+        6221032,
+        6221042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 805,
+      "IDs": [
+        3323,
+        6222012,
+        6222022,
+        6222032,
+        6222042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    },
+    {
+      "skillType": 814,
+      "IDs": [
+        3326,
+        6226012,
+        6226022,
+        6226032,
+        6226042
+      ],
+      "status": "BASELINE_PARTIAL_REQUIRES_PER_SKILL_VALIDATION",
+      "chargedIDs": []
+    }
+  ],
+  "stage": 74,
+  "foodRecipes": [
+    {
+      "id": 700103,
+      "buffIDs": [
+        78
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700203,
+      "buffIDs": [
+        125
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700303,
+      "buffIDs": [
+        128,
+        405
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700503,
+      "buffIDs": [
+        96
+      ],
+      "status": "PARTIAL_UNIT_COLLISION_NOT_RESTORED",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700603,
+      "buffIDs": [
+        16
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700703,
+      "buffIDs": [
+        176
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700803,
+      "buffIDs": [
+        149
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 700903,
+      "buffIDs": [
+        128,
+        150,
+        47,
+        405
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 701003,
+      "buffIDs": [
+        130
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 701103,
+      "buffIDs": [
+        126
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    },
+    {
+      "id": 701403,
+      "buffIDs": [
+        128,
+        150,
+        405
+      ],
+      "status": "NATIVE_EFFECT_PARAMETERS_LOCAL_APPLY_REPLACEMENT_REGEN_EVASION_REDUCTION_POLICY",
+      "fullCampfireCrafting": false
+    }
+  ],
+  "relicArchive": {
+    "collections": 18,
+    "nativeStarRows": 93,
+    "nativeTaskRows": 93,
+    "activeTaskRows": 88,
+    "wiredEffects": [
+      1,
+      2,
+      5,
+      6,
+      9,
+      15
+    ],
+    "fullParity": false
+  },
+  "bard": {
+    "status": "PARTIAL_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY",
+    "skills": [
+      6015,
+      6032
+    ],
+    "nativePrefabs": 24,
+    "fullPvP": false,
+    "fullRetailParity": false
+  },
+  "fishing": {
+    "status": "PARTIAL_NATIVE_GROUP_MODELS_COMPLETE_CALLBACK_CYCLE_OWNERSHIP_ATOMIC_REWARDS_DELIVERY_RECOVERY_LOCAL_POLICIES",
+    "models": [
+      619200,
+      619201,
+      619202
+    ],
+    "buffGroup": 170,
+    "continuous66": true,
+    "retailBaseIntervalVerified": false,
+    "fishmanPlaced": false,
+    "fullRetailParity": false
+  },
+  "monsterTargets": {
+    "status": "PARTIAL_NATIVE_LIMITS_STICKY_TARGET_BOUNDED_COMBAT_MEMORY_RETARGET_AND_CAST_LIFETIME_LOCAL_POLICIES",
+    "mapID": 2,
+    "CIDs": [
+      1210,
+      1211,
+      1213,
+      1226,
+      1227,
+      1228,
+      1230,
+      1232,
+      1235,
+      1238,
+      1258,
+      1260,
+      1264,
+      1302,
+      1305,
+      1306,
+      1307
+    ],
+    "nativeThreatRankingRecovered": false,
+    "fullRetailParity": false
+  },
+  "treant": {
+    "status": "PARTIAL_NATIVE_SKILLS_ASSETS_ROOT_HOMING_HEAL_RECONSTRUCTED_POLICIES",
+    "active": 6010,
+    "passive": 6028,
+    "nativeEntity1030": true,
+    "missing904Leaf": true,
+    "fullRetailParity": false
+  },
+  "witch": {
+    "status": "PARTIAL_NATIVE_SKILLS_ASSETS_STOVE_FIRE_POISON_STAMINA_PASSIVE_RECONSTRUCTED_POLICIES",
+    "active": 6012,
+    "stove": 1027,
+    "traceFire": 1059,
+    "continuousRetailHomingRecovered": false,
+    "fullRetailParity": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage72/MonsterCfg.ts",
+      "sha256": "9a27d8ed69fe56ccd82d916cca95833a3098a6193cdfeb7e5e28605593485756",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage72/MonsterStateType.ts",
+      "sha256": "c3ef0b2718cdab7099dba3612daa6aef95f35c9af3de20d9cfa330f198ea68fd",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "nativeVMExecuted": true,
+  "serverAIFoundInClient": false,
+  "fullRetailParity": false
+}

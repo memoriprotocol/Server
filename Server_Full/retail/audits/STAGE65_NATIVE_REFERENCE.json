@@ -1,0 +1,32 @@
+[
+  {
+    "path": "Server_Full/retail/client-reference/stage65/BuffCfg.ts",
+    "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage65/CCIcespearWind.ts",
+    "sha256": "eae1c4ebc26db354c2a929d87ea48582aa8812c268b9220f21353e4c25005ce9",
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage65/CCSkillComp.ts",
+    "sha256": "49f6b4973a00a7f91d9f702b65e8edc40b208581b80076259353a89c2c2917a9",
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage65/CCSnowstorm.ts",
+    "sha256": "557e39297516af3ef1b1f864502bb028b765235d258fcb1c42ae39af8d117dd5",
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage65/SkillCfg.ts",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage65/SkillResUtil.ts",
+    "sha256": "cff319dbf840e6cd30a5b3c1ca1efa9b4b81cb6ee1fe7b5c883dd8b16c9c5987",
+    "verbatimOriginalFactory": true
+  }
+]

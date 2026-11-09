@@ -1,0 +1,23 @@
+[
+  {
+    "path": "arena/skills/sleep_dart_attack/prefab/missile",
+    "index": 10022,
+    "pack": "01c5f5727",
+    "sha256": "ffab05e5aa8b398c79e7492ff1a2aeb0e539f8c15bb5659949ba3954b97cac1b",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/buffs/388/388",
+    "index": 40970,
+    "pack": "0f33a94be",
+    "sha256": "f4e0f93ac38972dd780c3b6416263c1e4e8a6f78eb747607201ccac497c0bb47",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/buffs/302/302",
+    "index": 42655,
+    "pack": "19fad33a-0f46-4b23-8298-83743fca7a65",
+    "sha256": "d764c536ec0ccb85c7bde4035d648a93463bb37afefa9c315eb4cf6a2b297427",
+    "crcVerified": true
+  }
+]

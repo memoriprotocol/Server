@@ -1,0 +1,291 @@
+{
+  "Food": [
+    {
+      "ID": 700103,
+      "isValid": true,
+      "Name": "谷物粥",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        78
+      ],
+      "BuffArgs": [
+        "90000|12000"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food1/spriteFrame",
+      "BuffIcon": "arena/buffIcons/采集提升/spriteFrame",
+      "discribe": "90秒内提升120点采集",
+      "BuffDesc": "提升120点采集"
+    },
+    {
+      "ID": 700203,
+      "isValid": true,
+      "Name": "水果沙拉",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        125
+      ],
+      "BuffArgs": [
+        "40000"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food2/spriteFrame",
+      "BuffIcon": "arena/ui/layers/item/icons/buff/buff_01/spriteFrame",
+      "discribe": "40秒内免疫控制",
+      "BuffDesc": "免疫控制"
+    },
+    {
+      "ID": 700303,
+      "isValid": true,
+      "Name": "粗面包",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        128,
+        405
+      ],
+      "BuffArgs": [
+        "1000|20",
+        "80000|20"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food3/spriteFrame",
+      "BuffIcon": "",
+      "discribe": "立即回复60%生命值",
+      "BuffDesc": ""
+    },
+    {
+      "ID": 700503,
+      "isValid": true,
+      "Name": "浆果蛋糕",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        96
+      ],
+      "BuffArgs": [
+        "40000"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food5/spriteFrame",
+      "BuffIcon": "arena/ui/layers/item/icons/buff/buff_02/spriteFrame",
+      "discribe": "40秒内无视碰撞",
+      "BuffDesc": "无视碰撞"
+    },
+    {
+      "ID": 700603,
+      "isValid": true,
+      "Name": "葡萄汁",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        16
+      ],
+      "BuffArgs": [
+        "40000|100"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food6/spriteFrame",
+      "BuffIcon": "arena/buffIcons/持续恢复/spriteFrame",
+      "discribe": "40秒内每秒回复100生命值",
+      "BuffDesc": "持续回血"
+    },
+    {
+      "ID": 700703,
+      "isValid": true,
+      "Name": "朗姆酒",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        176
+      ],
+      "BuffArgs": [
+        "40000|30"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food7/spriteFrame",
+      "BuffIcon": "arena/buffIcons/持续暴击/spriteFrame",
+      "discribe": "40秒内提升30%暴击率",
+      "BuffDesc": "提升暴击率"
+    },
+    {
+      "ID": 700803,
+      "isValid": true,
+      "Name": "熏火腿",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        149
+      ],
+      "BuffArgs": [
+        "30000|20"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food8/spriteFrame",
+      "BuffIcon": "arena/ui/layers/item/icons/buff/buff_09/spriteFrame",
+      "discribe": "30秒内获得20%的伤害吸血",
+      "BuffDesc": "伤害吸血"
+    },
+    {
+      "ID": 700903,
+      "isValid": true,
+      "Name": "烤羊排",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        128,
+        150,
+        47,
+        405
+      ],
+      "BuffArgs": [
+        "1000|30",
+        "80000|8000",
+        "80000|100",
+        "80000|30"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food9/spriteFrame",
+      "BuffIcon": "",
+      "discribe": "60秒内移速提升100点",
+      "BuffDesc": "移速提升"
+    },
+    {
+      "ID": 701003,
+      "isValid": true,
+      "Name": "牛肉香肠",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 0,
+      "BuffIDs": [
+        130
+      ],
+      "BuffArgs": [
+        "60000|30"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food10/spriteFrame",
+      "BuffIcon": "arena/buffIcons/体型增大/spriteFrame",
+      "discribe": "60秒内获得30%的减伤",
+      "BuffDesc": "获得减伤"
+    },
+    {
+      "ID": 701103,
+      "isValid": true,
+      "Name": "草莓泡芙",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        126
+      ],
+      "BuffArgs": [
+        "60000|100"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food11/spriteFrame",
+      "BuffIcon": "arena/buffIcons/体型缩小/spriteFrame",
+      "discribe": "60秒内获得100点闪避",
+      "BuffDesc": "获得闪避"
+    },
+    {
+      "ID": 701403,
+      "isValid": true,
+      "Name": "罗宋汤",
+      "UnlockLv": 1,
+      "Quality": 1,
+      "CookProb": 100,
+      "CookExp": 300,
+      "Exp": 0,
+      "HP": 0,
+      "Strength": 0,
+      "SkillID": 0,
+      "SkillLevel": 0,
+      "CD": 3000,
+      "BuffIDs": [
+        128,
+        150,
+        405
+      ],
+      "BuffArgs": [
+        "1000|25",
+        "80000|8000",
+        "80000|25"
+      ],
+      "Icon": "arena/ui/layers/item/icons/food/food14/spriteFrame",
+      "BuffIcon": "",
+      "discribe": "60秒提升100点攻击力",
+      "BuffDesc": "提升攻击"
+    }
+  ]
+}

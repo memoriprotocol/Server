@@ -1,0 +1,30 @@
+{
+  "source": "Native client en language module",
+  "moduleSHA256": "5ddc357c1a81b34811b508aba4973e56c442be42485d4f09fbc17ba847cf14e6",
+  "rows": [
+    {
+      "key": "hero/skill/6007/1",
+      "text": "Necromancer summons an Imp to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up"
+    },
+    {
+      "key": "hero/skill/6007/2",
+      "text": "Necromancer summons a Felfiend with [Lifesteal] to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up"
+    },
+    {
+      "key": "hero/skill/6007/3",
+      "text": "Necromancer summons an Overfiend with [Lifesteal] and [Immune to Control] to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up"
+    },
+    {
+      "key": "hero/skill/6011/1",
+      "text": "King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds. Royal legion's stats grow as King levels up."
+    },
+    {
+      "key": "hero/skill/6011/2",
+      "text": "King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. Royal legion's stats grow as King levels up."
+    },
+    {
+      "key": "hero/skill/6011/3",
+      "text": "King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. King gains ${cfg.args.defence}% DMG Reduction for each soldier on the field. Royal legion's stats grow as King levels up."
+    }
+  ]
+}

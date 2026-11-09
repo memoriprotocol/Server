@@ -1,0 +1,2203 @@
+TAP version 13
+# Subtest: grants developer to existing account and website permissions become eligible
+ok 1 - grants developer to existing account and website permissions become eligible
+  ---
+  duration_ms: 554.927519
+  type: 'test'
+  ...
+# Subtest: does not allow deleting only developer
+ok 2 - does not allow deleting only developer
+  ---
+  duration_ms: 345.775627
+  type: 'test'
+  ...
+# Subtest: rejects invalid account and leaves file intact
+ok 3 - rejects invalid account and leaves file intact
+  ---
+  duration_ms: 441.191519
+  type: 'test'
+  ...
+# Subtest: stage17 exposes manual central-city wall ring and bridges only on main map2
+not ok 4 - stage17 exposes manual central-city wall ring and bridges only on main map2
+  ---
+  duration_ms: 2.282535
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/city-stage12.test.js:5:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    22 !== 27
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 27
+  actual: 22
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/city-stage12.test.js:6:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: stage17 keeps original 2024 safe rectangles and adds central gates
+not ok 5 - stage17 keeps original 2024 safe rectangles and adds central gates
+  ---
+  duration_ms: 2.239969
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/city-stage12.test.js:16:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    + actual - expected
+    
+    + 'STAGE26_OPERATOR_MAINCITY_LAYOUT'
+    - 'STAGE18_2024_NATIVE_NPC_IDS_MANUAL_COORDINATES'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 'STAGE18_2024_NATIVE_NPC_IDS_MANUAL_COORDINATES'
+  actual: 'STAGE26_OPERATOR_MAINCITY_LAYOUT'
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/city-stage12.test.js:24:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3)
+  ...
+# Subtest: local gateway authenticates launcher token; notices, version and telemetry have bounded local endpoints
+ok 6 - local gateway authenticates launcher token; notices, version and telemetry have bounded local endpoints
+  ---
+  duration_ms: 114.188317
+  type: 'test'
+  ...
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=guest
+# [GAME ROUTE] connector.entryHandler.login uid=guest bytes=69
+# [game] login uid=1 account=tester123 lang=ru
+# Subtest: website login -> one-time launcher ticket -> authenticated game login
+ok 7 - website login -> one-time launcher ticket -> authenticated game login
+  ---
+  duration_ms: 260.920745
+  type: 'test'
+  ...
+# Subtest: invalid token cannot bind a player; registered identity is not controlled by account protobuf field
+ok 8 - invalid token cannot bind a player; registered identity is not controlled by account protobuf field
+  ---
+  duration_ms: 82.320827
+  type: 'test'
+  ...
+# [GAME WS] close uid=1
+# Subtest: all 226 client routes receive an explicit classification, not fake implemented status
+ok 9 - all 226 client routes receive an explicit classification, not fake implemented status
+  ---
+  duration_ms: 16.543118
+  type: 'test'
+  ...
+# Subtest: known team/friend requests have correct bidirectional protobuf schema except notification-only getTeamMembers
+ok 10 - known team/friend requests have correct bidirectional protobuf schema except notification-only getTeamMembers
+  ---
+  duration_ms: 6.449541
+  type: 'test'
+  ...
+# Subtest: heartbeats are only aggregated, tokenless, and RTT requires matching pong
+ok 11 - heartbeats are only aggregated, tokenless, and RTT requires matching pong
+  ---
+  duration_ms: 4.547237
+  type: 'test'
+  ...
+# Subtest: without a WebSocket pong show no RTT, not an invented 0 ms ping
+ok 12 - without a WebSocket pong show no RTT, not an invented 0 ms ping
+  ---
+  duration_ms: 1.083961
+  type: 'test'
+  ...
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=2
+# Subtest: actual WS Pong from 2024-style client measures server RTT and heartbeat route stays quiet
+ok 13 - actual WS Pong from 2024-style client measures server RTT and heartbeat route stays quiet
+  ---
+  duration_ms: 133.764954
+  type: 'test'
+  ...
+# Subtest: frame input is quiet in GAME ROUTE logs but counted alongside 5-minute RTT heartbeat summary
+ok 14 - frame input is quiet in GAME ROUTE logs but counted alongside 5-minute RTT heartbeat summary
+  ---
+  duration_ms: 0.466381
+  type: 'test'
+  ...
+# [GAME WS] close uid=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=38
+# [WORLD LOAD] uid=1 phase=loginLoadingFinish
+# [CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=7
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+# [WORLD LOAD] uid=2 phase=first-client-frame afterMs=3
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=17
+# [WORLD LOAD] uid=2 phase=first-client-frame afterMs=8
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD] assigned uid=2 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=2 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=99 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+# [WORLD LOAD] uid=2 phase=first-client-frame afterMs=4
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# [WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [WORLD] snapshot uid=1 map=2 players=2 entities=2 push=rm
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+# [WORLD] assigned uid=2 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=2 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=2 map=99 players=1 entities=1 push=rm
+# Subtest: loading completion restores native XP privately, including totals above signed int32
+ok 15 - loading completion restores native XP privately, including totals above signed int32
+  ---
+  duration_ms: 309.856842
+  type: 'test'
+  ...
+# Subtest: lobby IDs pass the literal 2024 EnterPanel battle prefix filter
+ok 16 - lobby IDs pass the literal 2024 EnterPanel battle prefix filter
+  ---
+  duration_ms: 299.410967
+  type: 'test'
+  ...
+# Subtest: serialized guide avatar satisfies unconditional pet/draw reads in CCDigger components
+ok 17 - serialized guide avatar satisfies unconditional pet/draw reads in CCDigger components
+  ---
+  duration_ms: 197.634004
+  type: 'test'
+  ...
+# Subtest: ground pickup uses actual item config ID in its client event, survives restart, and cannot repeat
+ok 18 - ground pickup uses actual item config ID in its client event, survives restart, and cannot repeat
+  ---
+  duration_ms: 386.169583
+  type: 'test'
+  ...
+# Subtest: forged sender and UUID cannot spend another account item; invalid quantities do not mutate
+ok 19 - forged sender and UUID cannot spend another account item; invalid quantities do not mutate
+  ---
+  duration_ms: 186.215904
+  type: 'test'
+  ...
+# Subtest: public pickup transfers ownership once, enforces reserve and radius, and keeps private bag events private
+ok 20 - public pickup transfers ownership once, enforces reserve and radius, and keeps private bag events private
+  ---
+  duration_ms: 177.516836
+  type: 'test'
+  ...
+# Subtest: full destination bag rejects entire pickup without losing ground item
+ok 21 - full destination bag rejects entire pickup without losing ground item
+  ---
+  duration_ms: 356.335765
+  type: 'test'
+  ...
+# Subtest: disk failure rolls back both inventory and ground mutation before any successful push
+ok 22 - disk failure rolls back both inventory and ground mutation before any successful push
+  ---
+  duration_ms: 198.043674
+  type: 'test'
+  ...
+# Subtest: tutorial bag is isolated from persistent profile and other tutorial sessions
+ok 23 - tutorial bag is isolated from persistent profile and other tutorial sessions
+  ---
+  duration_ms: 147.736033
+  type: 'test'
+  ...
+# Subtest: quick slots swap without duplication, selection emits wire-compatible weapon and clears after drop
+ok 24 - quick slots swap without duplication, selection emits wire-compatible weapon and clears after drop
+  ---
+  duration_ms: 361.149264
+  type: 'test'
+  ...
+# Subtest: equipment replacement has one item per body slot, changes direct stats and persists through re-entry
+ok 25 - equipment replacement has one item per body slot, changes direct stats and persists through re-entry
+  ---
+  duration_ms: 175.914509
+  type: 'test'
+  ...
+# Subtest: malformed command payload is rejected, unknown use effect does not consume an item
+ok 26 - malformed command payload is rejected, unknown use effect does not consume an item
+  ---
+  duration_ms: 143.350787
+  type: 'test'
+  ...
+# Subtest: room switch sends one destroy/exit; repeated enter does not announce a duplicate player
+ok 27 - room switch sends one destroy/exit; repeated enter does not announce a duplicate player
+  ---
+  duration_ms: 164.334251
+  type: 'test'
+  ...
+# Subtest: re-enter snapshot restores ground entities and excludes peers who have not loaded the scene
+ok 28 - re-enter snapshot restores ground entities and excludes peers who have not loaded the scene
+  ---
+  duration_ms: 155.439369
+  type: 'test'
+  ...
+# Subtest: legacy item shape is mapped without overwriting stored data; ambiguous duplicates fail explicitly
+ok 29 - legacy item shape is mapped without overwriting stored data; ambiguous duplicates fail explicitly
+  ---
+  duration_ms: 0.976707
+  type: 'test'
+  ...
+# Subtest: admin grant is bounded, persists real item cfg and rejects full bags without partial grants
+ok 30 - admin grant is bounded, persists real item cfg and rejects full bags without partial grants
+  ---
+  duration_ms: 143.516958
+  type: 'test'
+  ...
+# Subtest: lobby bag move and reorder persist without requiring a fake world
+ok 31 - lobby bag move and reorder persist without requiring a fake world
+  ---
+  duration_ms: 140.596563
+  type: 'test'
+  ...
+# Subtest: lobby drop has no ground and fails without deleting an owned item
+ok 32 - lobby drop has no ground and fails without deleting an owned item
+  ---
+  duration_ms: 129.375832
+  type: 'test'
+  ...
+# Subtest: equipment query selects same-room entity and refuses unrelated player or unselected world
+ok 33 - equipment query selects same-room entity and refuses unrelated player or unselected world
+  ---
+  duration_ms: 147.962211
+  type: 'test'
+  ...
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=9
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=4
+# Subtest: 2024 E autoUseSkill -1 toggles E mode, cooldown applies and never initiates walking
+ok 34 - 2024 E autoUseSkill -1 toggles E mode, cooldown applies and never initiates walking
+  ---
+  duration_ms: 116.254349
+  type: 'test'
+  ...
+# Subtest: 2024 mouse press invokes attack; mouse-up does not disable auto mode
+ok 35 - 2024 mouse press invokes attack; mouse-up does not disable auto mode
+  ---
+  duration_ms: 114.471974
+  type: 'test'
+  ...
+# Subtest: 2024 held left/right commands are 114-117 not later-client 116-119
+ok 36 - 2024 held left/right commands are 114-117 not later-client 116-119
+  ---
+  duration_ms: 321.314937
+  type: 'test'
+  ...
+# Subtest: auto mode does not chase targets or interrupt WASD movement
+ok 37 - auto mode does not chase targets or interrupt WASD movement
+  ---
+  duration_ms: 111.222779
+  type: 'test'
+  ...
+# Subtest: mouse aim does not rotate movement or authorize unknown skill
+ok 38 - mouse aim does not rotate movement or authorize unknown skill
+  ---
+  duration_ms: 78.365885
+  type: 'test'
+  ...
+# Subtest: 2024 wall rectangular footprint: a walk along the side passes and direct collision blocks
+ok 39 - 2024 wall rectangular footprint: a walk along the side passes and direct collision blocks
+  ---
+  duration_ms: 56.16172
+  type: 'test'
+  ...
+# Subtest: real client dimensions are used in overlap preview, with circle rectangle contact
+ok 40 - real client dimensions are used in overlap preview, with circle rectangle contact
+  ---
+  duration_ms: 0.548122
+  type: 'test'
+  ...
+# Subtest: collision is swept without teleportation and allows escape from an old overlap
+ok 41 - collision is swept without teleportation and allows escape from an old overlap
+  ---
+  duration_ms: 0.793225
+  type: 'test'
+  ...
+# Subtest: 2024 oriWeaponID identifies one family across upgrades, without late-only IDs
+ok 42 - 2024 oriWeaponID identifies one family across upgrades, without late-only IDs
+  ---
+  duration_ms: 4.225933
+  type: 'test'
+  ...
+# Subtest: no client mouse click can start movement after adding geometry adapter
+ok 43 - no client mouse click can start movement after adding geometry adapter
+  ---
+  duration_ms: 3.959145
+  type: 'test'
+  ...
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=5
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=106
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD] assigned uid=undefined level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=undefined phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=undefined map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=undefined map=2 players=2 entities=2 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=101
+# Subtest: mouse click NEVER walks; only keyboard moveStart advances
+ok 44 - mouse click NEVER walks; only keyboard moveStart advances
+  ---
+  duration_ms: 149.397767
+  type: 'test'
+  ...
+# Subtest: keyboard direction, mouse rotation, manual stop, zero-speed input
+ok 45 - keyboard direction, mouse rotation, manual stop, zero-speed input
+  ---
+  duration_ms: 101.161134
+  type: 'test'
+  ...
+# Subtest: 2024 attack event and server cooldown; never invents hit rewards
+ok 46 - 2024 attack event and server cooldown; never invents hit rewards
+  ---
+  duration_ms: 77.415853
+  type: 'test'
+  ...
+# Subtest: building preview requires known native config, level and resource costs
+ok 47 - building preview requires known native config, level and resource costs
+  ---
+  duration_ms: 78.946037
+  type: 'test'
+  ...
+# Subtest: no out-of-range or ghost building mutates inventory
+ok 48 - no out-of-range or ghost building mutates inventory
+  ---
+  duration_ms: 65.219973
+  type: 'test'
+  ...
+# Subtest: collision adapter blocks crossing a placed radius and bounds guide map
+ok 49 - collision adapter blocks crossing a placed radius and bounds guide map
+  ---
+  duration_ms: 0.535901
+  type: 'test'
+  ...
+# Subtest: attack hits a hostile building in the facing arc without issuing moveTo or changing the walking target
+ok 50 - attack hits a hostile building in the facing arc without issuing moveTo or changing the walking target
+  ---
+  duration_ms: 199.057471
+  type: 'test'
+  ...
+# Subtest: default 2024 server does not apply speculative PVP damage or move avatars on attack
+ok 51 - default 2024 server does not apply speculative PVP damage or move avatars on attack
+  ---
+  duration_ms: 332.364718
+  type: 'test'
+  ...
+# Subtest: swept motion prevents crossing thin obstacles within one tick
+ok 52 - swept motion prevents crossing thin obstacles within one tick
+  ---
+  duration_ms: 0.386637
+  type: 'test'
+  ...
+# Subtest: 2024 client request and response route catalog is decodable and all mapped replies are serializable
+ok 53 - 2024 client request and response route catalog is decodable and all mapped replies are serializable
+  ---
+  duration_ms: 93.436344
+  type: 'test'
+  ...
+# Subtest: known mutable routes are not silently declared successful when not implemented
+ok 54 - known mutable routes are not silently declared successful when not implemented
+  ---
+  duration_ms: 7.902608
+  type: 'test'
+  ...
+# Subtest: authenticated local RTC signals only within same active room; not a GME audio server
+ok 55 - authenticated local RTC signals only within same active room; not a GME audio server
+  ---
+  duration_ms: 146.886163
+  type: 'test'
+  ...
+# Subtest: original 5 safe rectangles are active on Map2 and never on guide map
+ok 56 - original 5 safe rectangles are active on Map2 and never on guide map
+  ---
+  duration_ms: 11.743426
+  type: 'test'
+  ...
+# Subtest: a building footprint touching a safe zone boundary is rejected even when its center is outside
+ok 57 - a building footprint touching a safe zone boundary is rejected even when its center is outside
+  ---
+  duration_ms: 0.447968
+  type: 'test'
+  ...
+# Subtest: safe zone prevents attacking protected buildings and attacks fired from city at outsiders
+ok 58 - safe zone prevents attacking protected buildings and attacks fired from city at outsiders
+  ---
+  duration_ms: 49.029715
+  type: 'test'
+  ...
+# Subtest: geometry closes wall edges but four cardinal 1600-wide exits stay open for movement
+not ok 59 - geometry closes wall edges but four cardinal 1600-wide exits stay open for movement
+  ---
+  duration_ms: 3.715064
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/safezones-stage17.test.js:30:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    32 !== 8
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 8
+  actual: 32
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/safezones-stage17.test.js:31:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:974:7)
+  ...
+# Subtest: safezones remain active even when city prefabs are disabled to avoid Cocos crash
+ok 60 - safezones remain active even when city prefabs are disabled to avoid Cocos crash
+  ---
+  duration_ms: 0.911104
+  type: 'test'
+  ...
+# Subtest: actual build validation rejects a native safe zone even with enough materials
+ok 61 - actual build validation rejects a native safe zone even with enough materials
+  ---
+  duration_ms: 4.827424
+  type: 'test'
+  ...
+# Subtest: attack resolution never subtracts HP inside a safe zone, including structures
+ok 62 - attack resolution never subtracts HP inside a safe zone, including structures
+  ---
+  duration_ms: 2.667911
+  type: 'test'
+  ...
+# Subtest: experimental PvP remains forbidden across boundaries of any of the five zones
+ok 63 - experimental PvP remains forbidden across boundaries of any of the five zones
+  ---
+  duration_ms: 29.349789
+  type: 'test'
+  ...
+# Subtest: team: create, list, join, rename, leader change, member list push, leave
+ok 64 - team: create, list, join, rename, leader change, member list push, leave
+  ---
+  duration_ms: 18.880717
+  type: 'test'
+  ...
+# Subtest: team: cross-room membership, unsolicited invite and unauthorized kicks are rejected
+ok 65 - team: cross-room membership, unsolicited invite and unauthorized kicks are rejected
+  ---
+  duration_ms: 3.389267
+  type: 'test'
+  ...
+# Subtest: team: leaving world dissolves membership, no ghost team remains
+ok 66 - team: leaving world dissolves membership, no ghost team remains
+  ---
+  duration_ms: 121.541801
+  type: 'test'
+  ...
+# Subtest: friends: request, accept, list, durable chat/read, remove, block
+ok 67 - friends: request, accept, list, durable chat/read, remove, block
+  ---
+  duration_ms: 12.006337
+  type: 'test'
+  ...
+# Subtest: friends: cannot look up nonexistent people as success; no fake friendship by online presence
+ok 68 - friends: cannot look up nonexistent people as success; no fake friendship by online presence
+  ---
+  duration_ms: 2.122101
+  type: 'test'
+  ...
+# Subtest: 2024 achievement catalog yields one existing first stage per type
+ok 69 - 2024 achievement catalog yields one existing first stage per type
+  ---
+  duration_ms: 26.710261
+  type: 'test'
+  ...
+# Subtest: saved legitimate progress survives, missing values default without completing
+ok 70 - saved legitimate progress survives, missing values default without completing
+  ---
+  duration_ms: 0.649025
+  type: 'test'
+  ...
+# Subtest: LoginResp and AchievementRsp serialize typed achievement data
+ok 71 - LoginResp and AchievementRsp serialize typed achievement data
+  ---
+  duration_ms: 15.688758
+  type: 'test'
+  ...
+# Subtest: player EntityInfo contains valid building and settle components for 2024 client UI
+ok 72 - player EntityInfo contains valid building and settle components for 2024 client UI
+  ---
+  duration_ms: 11.376873
+  type: 'test'
+  ...
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=36
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=36 npc=0 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=36 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=18
+# [WORLD LOAD] uid=1 phase=enter cityMode=off initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# Subtest: main hall login sends player first, then defers Stage17 city objects until frame + loginLoadingFinish
+ok 73 - main hall login sends player first, then defers Stage17 city objects until frame + loginLoadingFinish
+  ---
+  duration_ms: 176.747483
+  type: 'test'
+  ...
+# Subtest: city can be switched off without removing player from room
+ok 74 - city can be switched off without removing player from room
+  ---
+  duration_ms: 198.259762
+  type: 'test'
+  ...
+# Subtest: stage17 no longer quarantines city entirely; old off flag still disables objects
+not ok 75 - stage17 no longer quarantines city entirely; old off flag still disables objects
+  ---
+  duration_ms: 3.189961
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage15-city-quarantine.test.js:5:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    58 !== 39
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 39
+  actual: 58
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage15-city-quarantine.test.js:9:11)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: native map2 still preserves 5 safe rectangles and now adds manual perimeter objects
+not ok 76 - native map2 still preserves 5 safe rectangles and now adds manual perimeter objects
+  ---
+  duration_ms: 3.681215
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage16-native-client.test.js:6:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    36 !== 12
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 12
+  actual: 36
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage16-native-client.test.js:10:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: catalog documents client assets; Stage17 uses only assets available in this client
+not ok 77 - catalog documents client assets; Stage17 uses only assets available in this client
+  ---
+  duration_ms: 0.305283
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage16-native-client.test.js:13:1'
+  failureType: 'testCodeFailure'
+  error: 'arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage16-native-client.test.js:16:43)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3)
+  ...
+# Subtest: NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs
+not ok 78 - NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs
+  ---
+  duration_ms: 5.403568
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:8:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly deep-equal:
+    + actual - expected
+    
+      [
+    -   401,
+        402,
+    -   403,
+    -   404,
+    -   405,
+    -   406,
+    -   407,
+        408,
+    -   409,
+    -   410,
+    -   411,
+    -   412,
+        414,
+        415,
+    -   419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001,
+    +   3001
+    -   426,
+    -   429,
+    -   430,
+    -   431,
+    -   432,
+    -   433
+      ]
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    0: 401
+    1: 402
+    2: 403
+    3: 404
+    4: 405
+    5: 406
+    6: 407
+    7: 408
+    8: 409
+    9: 410
+    10: 411
+    11: 412
+    12: 414
+    13: 415
+    14: 419
+    15: 420
+    16: 421
+    17: 422
+    18: 423
+    19: 424
+    20: 425
+    21: 426
+    22: 429
+    23: 430
+    24: 431
+    25: 432
+    26: 433
+  actual:
+    0: 402
+    1: 408
+    2: 414
+    3: 415
+    4: 420
+    5: 421
+    6: 422
+    7: 423
+    8: 424
+    9: 425
+    10: 3001
+    11: 3001
+    12: 3001
+    13: 3001
+    14: 3001
+    15: 3001
+    16: 3001
+    17: 3001
+    18: 3001
+    19: 3001
+    20: 3001
+    21: 3001
+  operator: 'deepStrictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:11:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: all manually placed NPCs stand within genuine map2 central safe area, away from player spawn and walls
+ok 79 - all manually placed NPCs stand within genuine map2 central safe area, away from player spawn and walls
+  ---
+  duration_ms: 0.511123
+  type: 'test'
+  ...
+# Subtest: NPC are never spawned on guide map; opt-in mode isolates them from city walls
+not ok 80 - NPC are never spawned on guide map; opt-in mode isolates them from city walls
+  ---
+  duration_ms: 20.792688
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:21:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    22 !== 27
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 27
+  actual: 22
+  operator: 'strictEqual'
+  stack: |-
+    /workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:26:9
+    withNpcEnabled (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:7:126)
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:21:90)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:974:7)
+  ...
+# Subtest: all 27 native NPC entity snapshots encode and decode in authentic 2024 ReplicateMsg protobuf
+ok 81 - all 27 native NPC entity snapshots encode and decode in authentic 2024 ReplicateMsg protobuf
+  ---
+  duration_ms: 7.958337
+  type: 'test'
+  ...
+# Subtest: NPC dialog uses authentic NPC talk group and verifies distance
+ok 82 - NPC dialog uses authentic NPC talk group and verifies distance
+  ---
+  duration_ms: 0.616515
+  type: 'test'
+  ...
+# Subtest: legacy safe mode can disable all NPCs without disabling five real safe zones
+not ok 83 - legacy safe mode can disable all NPCs without disabling five real safe zones
+  ---
+  duration_ms: 1.89454
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:51:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    22 !== 27
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 27
+  actual: 22
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage18-native-npcs.test.js:55:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:974:7)
+  ...
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=7
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# [SHOP 2024] uid=1 shopType=0 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=1 shopType=5 offers=4 ids=42000001,42000002,42000003,42000004
+# [SHOP 2024] uid=1 shopType=40 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=9
+# [DRAW 2024] uid=1 typ=777 drawType=1 result=UNSUPPORTED_DRAW_CATEGORY 777 shards= free={}
+# [DRAW 2024] uid=1 typ=1 drawType=1 result=ok shards=300400x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+# Subtest: inside Map2 safe zone LMB,E,F,RMB and holds cannot start skills or attack animations
+ok 84 - inside Map2 safe zone LMB,E,F,RMB and holds cannot start skills or attack animations
+  ---
+  duration_ms: 120.140823
+  type: 'test'
+  ...
+# Subtest: safe-zone combat rejection never prevents WASD movement, head aiming, or mouse button release
+ok 85 - safe-zone combat rejection never prevents WASD movement, head aiming, or mouse button release
+  ---
+  duration_ms: 83.977243
+  type: 'test'
+  ...
+# Subtest: autoattack started outside safe zone is cancelled immediately on entering protected area
+ok 86 - autoattack started outside safe zone is cancelled immediately on entering protected area
+  ---
+  duration_ms: 70.479425
+  type: 'test'
+  ...
+# Subtest: local shop always returns valid ItemScheme IDs and proper QueryShopItemRsp protobuf
+ok 87 - local shop always returns valid ItemScheme IDs and proper QueryShopItemRsp protobuf
+  ---
+  duration_ms: 68.255726
+  type: 'test'
+  ...
+# Subtest: local shop payment, inventory grant and coin update are atomic, no negative-balance exploit
+ok 88 - local shop payment, inventory grant and coin update are atomic, no negative-balance exploit
+  ---
+  duration_ms: 61.333939
+  type: 'test'
+  ...
+# Subtest: authentic TraderDraw 2024 weights and tier prices with local-only reward mapping
+ok 89 - authentic TraderDraw 2024 weights and tier prices with local-only reward mapping
+  ---
+  duration_ms: 81.103415
+  type: 'test'
+  ...
+# Subtest: hall gacha accepts only explicitly configured local draw types and no real-money purchase path
+ok 90 - hall gacha accepts only explicitly configured local draw types and no real-money purchase path
+  ---
+  duration_ms: 72.009803
+  type: 'test'
+  ...
+# Subtest: weapon gacha uses only February 2024 WeaponScheme IDs and persists owned inventory
+ok 91 - weapon gacha uses only February 2024 WeaponScheme IDs and persists owned inventory
+  ---
+  duration_ms: 60.816224
+  type: 'test'
+  ...
+# [SHOP 2024] uid=1 shopType=0 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=1 shopType=3 offers=3 ids=320401,320402,320403
+# [SHOP 2024] uid=1 shopType=4 offers=3 ids=37000002,37000003,37000009
+# [SHOP 2024] uid=1 shopType=5 offers=4 ids=42000001,42000002,42000003,42000004
+# [SHOP 2024] uid=1 shopType=6 offers=19 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=1 shopType=7 offers=52 ids=80032001,80033001,40000001,41000001,300100
+# [SHOP 2024] uid=1 shopType=8 offers=3 ids=37000002,37000003,37000002
+# [SHOP 2024] uid=1 shopType=9 offers=3 ids=12,15,17
+# [SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=1 shopType=8 offers=3 ids=37000002,37000003,37000002
+# Subtest: all 2024 shop tabs encode/decodes and every item/currency icon exists
+ok 92 - all 2024 shop tabs encode/decodes and every item/currency icon exists
+  ---
+  duration_ms: 97.079969
+  type: 'test'
+  ...
+# Subtest: skin tab ShopType 1: item->SkinScheme id, genuine cost and currency, not missing ID
+ok 93 - skin tab ShopType 1: item->SkinScheme id, genuine cost and currency, not missing ID
+  ---
+  duration_ms: 83.761724
+  type: 'test'
+  ...
+# Subtest: skin purchase uses real SkinScheme price, atomically persists ownership, replies with correct proto
+ok 94 - skin purchase uses real SkinScheme price, atomically persists ownership, replies with correct proto
+  ---
+  duration_ms: 65.625189
+  type: 'test'
+  ...
+# Subtest: different shop tab / insufficient funds cannot grant inventory or modify wallet
+ok 95 - different shop tab / insufficient funds cannot grant inventory or modify wallet
+  ---
+  duration_ms: 64.440751
+  type: 'test'
+  ...
+# Subtest: gift shop uses actual GiftScheme contents and opening purchased package applies deterministic rewards
+ok 96 - gift shop uses actual GiftScheme contents and opening purchased package applies deterministic rewards
+  ---
+  duration_ms: 49.610352
+  type: 'test'
+  ...
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# Subtest: Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs
+not ok 97 - Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs
+  ---
+  duration_ms: 2.54183
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:8:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    + actual - expected
+    
+    + undefined
+    - '3.12.7'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: '3.12.7'
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:9:9)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds
+not ok 98 - full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds
+  ---
+  duration_ms: 0.797454
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:15:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    58 !== 39
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 39
+  actual: 58
+  operator: 'strictEqual'
+  stack: |-
+    /workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:16:49
+    flags (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:7:134)
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:15:97)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3)
+  ...
+# Subtest: city visibility is configured in normal and previous recommended bat launchers
+not ok 99 - city visibility is configured in normal and previous recommended bat launchers
+  ---
+  duration_ms: 0.607357
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:23:1'
+  failureType: 'testCodeFailure'
+  error: 'START_SERVER.bat missing HEROS_CITY_OBJECTS_ENABLED=1'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:26:122)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:974:7)
+  ...
+# Subtest: safe-zone protections persist if visual prefabs are disabled
+ok 100 - safe-zone protections persist if visual prefabs are disabled
+  ---
+  duration_ms: 0.352098
+  type: 'test'
+  ...
+# Subtest: world protobuf snapshots include city only when requested; movement still unchanged
+not ok 101 - world protobuf snapshots include city only when requested; movement still unchanged
+  ---
+  duration_ms: 4.544218
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:32:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    58 !== 39
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 39
+  actual: 58
+  operator: 'strictEqual'
+  stack: |-
+    /workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:37:9
+    flags (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:7:134)
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:32:96)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:974:7)
+  ...
+# Subtest: actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC
+not ok 102 - actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC
+  ---
+  duration_ms: 113.448429
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:39:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    58 !== 39
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 39
+  actual: 58
+  operator: 'strictEqual'
+  stack: |-
+    /workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:51:10
+    flags (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:7:134)
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage21-visible-city.test.js:39:116)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:974:7)
+  ...
+# [SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=1 shopType=6 offers=19 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=1 shopType=7 offers=52 ids=80032001,80033001,40000001,41000001,300100
+# [DRAW 2024] uid=1 typ=1 drawType=1 result=ok shards=300500x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+# [DRAW 2024] uid=1 typ=1 drawType=1 result=ok shards=300400x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+# [DRAW 2024] uid=1 typ=2 drawType=0 result=ok shards=121600x1 free={"heroFreeDraw":0,"petFreeDraw":1}
+# [DRAW 2024] uid=1 typ=2 drawType=1 result=NOT_ENOUGH_COIN shards= free={}
+# [SHOP 2024] uid=1 shopType=6 offers=19 ids=27202,27301,27502,27602,27902
+# Subtest: Recruit and Consumable cards use existing February 2024 ItemScheme with icons; Gift contains mounts and skins
+ok 103 - Recruit and Consumable cards use existing February 2024 ItemScheme with icons; Gift contains mounts and skins
+  ---
+  duration_ms: 139.101858
+  type: 'test'
+  ...
+# Subtest: first Hero Free spin returns native hero SHARDS, second paid attempt costs coins
+ok 104 - first Hero Free spin returns native hero SHARDS, second paid attempt costs coins
+  ---
+  duration_ms: 115.210415
+  type: 'test'
+  ...
+# Subtest: Pet Free spin returns native pet SHARDS, no coins, persists into inventory
+ok 105 - Pet Free spin returns native pet SHARDS, no coins, persists into inventory
+  ---
+  duration_ms: 123.896284
+  type: 'test'
+  ...
+# Subtest: giftable native mount sent to another account charges displayed local currency and presentPrice atomically
+ok 106 - giftable native mount sent to another account charges displayed local currency and presentPrice atomically
+  ---
+  duration_ms: 110.638992
+  type: 'test'
+  ...
+# Subtest: unverified river rectangles are disabled along with the removed guessed bridges
+ok 107 - unverified river rectangles are disabled along with the removed guessed bridges
+  ---
+  duration_ms: 3.086159
+  type: 'test'
+  ...
+# Subtest: protobuf bytes decoder accepts empty binary command under --throw-deprecation
+ok 108 - protobuf bytes decoder accepts empty binary command under --throw-deprecation
+  ---
+  duration_ms: 268.249186
+  type: 'test'
+  ...
+# Subtest: Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly
+not ok 109 - Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly
+  ---
+  duration_ms: 9.641404
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage23-city-logs-buffer.test.js:24:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly deep-equal:
+    + actual - expected
+    
+      {
+        bridge: 4,
+    +   npc: 22,
+    -   npc: 27,
+        other: 0,
+    +   total: 58,
+    +   wall: 32
+    -   total: 39,
+    -   wall: 8
+      }
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    npc: 27
+    wall: 8
+    bridge: 4
+    other: 0
+    total: 39
+  actual:
+    npc: 22
+    wall: 32
+    bridge: 4
+    other: 0
+    total: 58
+  operator: 'deepStrictEqual'
+  stack: |-
+    /workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage23-city-logs-buffer.test.js:26:9
+    withFlags (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage23-city-logs-buffer.test.js:9:139)
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage23-city-logs-buffer.test.js:24:78)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+    Test.postRun (node:internal/test_runner/test:1542:19)
+    Test.run (node:internal/test_runner/test:1467:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3)
+  ...
+# Subtest: world counters distinguish catalogued, transmitted and Cocos-rendered (unknown)
+ok 110 - world counters distinguish catalogued, transmitted and Cocos-rendered (unknown)
+  ---
+  duration_ms: 0.511092
+  type: 'test'
+  ...
+# [DRAW 2024] uid=1 typ=1 drawType=0 result=ok shards=300600x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+# [DRAW 2024] uid=1 typ=2 drawType=0 result=ok shards=120200x1 free={"heroFreeDraw":1,"petFreeDraw":1}
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=5
+# [PETS 2024] uid=1 command=getAllPets count=1
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# Subtest: plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates
+not ok 111 - plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates
+  ---
+  duration_ms: 2.543111
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage24-fixes.test.js:15:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    58 !== 39
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 39
+  actual: 58
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage24-fixes.test.js:17:49)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: Recruit Hero/Pet uses native 2024 fragments, mapped to real shard schemes
+ok 112 - Recruit Hero/Pet uses native 2024 fragments, mapped to real shard schemes
+  ---
+  duration_ms: 8.280943
+  type: 'test'
+  ...
+# Subtest: free hero and pet draws issue real fragment Items with saved inventory without coin deduction
+ok 113 - free hero and pet draws issue real fragment Items with saved inventory without coin deduction
+  ---
+  duration_ms: 87.872539
+  type: 'test'
+  ...
+# Subtest: pet bag C command emits 2024 PetInfo, with cid (not proto.Pet.petId)
+ok 114 - pet bag C command emits 2024 PetInfo, with cid (not proto.Pet.petId)
+  ---
+  duration_ms: 95.774861
+  type: 'test'
+  ...
+# Subtest: exitTeam succeeds during room transitions and clears client roster
+ok 115 - exitTeam succeeds during room transitions and clears client roster
+  ---
+  duration_ms: 46.392286
+  type: 'test'
+  ...
+# Subtest: in-world CommandExitTeam (30) leaves native team and emits empty teamChange
+ok 116 - in-world CommandExitTeam (30) leaves native team and emits empty teamChange
+  ---
+  duration_ms: 66.846948
+  type: 'test'
+  ...
+# [SHOP 2024] uid=2 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+# [SHOP 2024] uid=2 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+# [SHOP 2024] uid=2 shopType=3 offers=3 ids=320401,320402,320403
+# [SHOP 2024] uid=2 shopType=4 offers=3 ids=37000002,37000003,37000009
+# [SHOP 2024] uid=2 shopType=5 offers=4 ids=42000001,42000002,42000003,42000004
+# [SHOP 2024] uid=2 shopType=7 offers=52 ids=80032001,80033001,40000001,41000001,300100
+# [SHOP 2024] uid=2 shopType=8 offers=3 ids=37000002,37000003,37000002
+# [SHOP 2024] uid=2 shopType=9 offers=3 ids=12,15,17
+# Subtest: client Gift filter sees actual products from login-requested tabs after protobuf round trip
+ok 117 - client Gift filter sees actual products from login-requested tabs after protobuf round trip
+  ---
+  duration_ms: 12.044481
+  type: 'test'
+  ...
+# Subtest: original zero flags reproduce empty Gift with exact native filtering function
+ok 118 - original zero flags reproduce empty Gift with exact native filtering function
+  ---
+  duration_ms: 1.428015
+  type: 'test'
+  ...
+# Subtest: Gift catalog uses native query handler rather than empty initial route
+ok 119 - Gift catalog uses native query handler rather than empty initial route
+  ---
+  duration_ms: 9.200426
+  type: 'test'
+  ...
+# Subtest: Map2 city has 32 fences, four bridges, and 22 operator NPC placements
+ok 120 - Map2 city has 32 fences, four bridges, and 22 operator NPC placements
+  ---
+  duration_ms: 2.794216
+  type: 'test'
+  ...
+# Subtest: fence collision intervals leave each gate free of the two intruding prefabs
+ok 121 - fence collision intervals leave each gate free of the two intruding prefabs
+  ---
+  duration_ms: 0.929953
+  type: 'test'
+  ...
+# Subtest: all four gate centers are open while adjacent fence sections stop swept player motion
+ok 122 - all four gate centers are open while adjacent fence sections stop swept player motion
+  ---
+  duration_ms: 7.022121
+  type: 'test'
+  ...
+# Subtest: bridges line up with their gate axes and span the native moat bank estimates
+ok 123 - bridges line up with their gate axes and span the native moat bank estimates
+  ---
+  duration_ms: 0.90738
+  type: 'test'
+  ...
+# Subtest: city records survive native entity replication; NPC ring stays on land inside the moat
+ok 124 - city records survive native entity replication; NPC ring stays on land inside the moat
+  ---
+  duration_ms: 156.107194
+  type: 'test'
+  ...
+# Subtest: Ctrl+R shortcut gracefully saves worker and reloads JS/JSON in a fresh process
+ok 125 - Ctrl+R shortcut gracefully saves worker and reloads JS/JSON in a fresh process
+  ---
+  duration_ms: 603.281601
+  type: 'test'
+  ...
+# Subtest: all nine website player editors return native catalogs and real account UID
+ok 126 - all nine website player editors return native catalogs and real account UID
+  ---
+  duration_ms: 12.84129
+  type: 'test'
+  ...
+# Subtest: admin grants persist, deny missing rights and revision updates are idempotent
+ok 127 - admin grants persist, deny missing rights and revision updates are idempotent
+  ---
+  duration_ms: 10.653913
+  type: 'test'
+  ...
+# Subtest: website exact guild edit/activate/equip/deactivate payloads operate on persistent guild
+ok 128 - website exact guild edit/activate/equip/deactivate payloads operate on persistent guild
+  ---
+  duration_ms: 9.123514
+  type: 'test'
+  ...
+# Subtest: shop editor creates product, native buy charges diamonds, respects stock and restarts
+ok 129 - shop editor creates product, native buy charges diamonds, respects stock and restarts
+  ---
+  duration_ms: 21.725458
+  type: 'test'
+  ...
+# Subtest: mail delivery is live, attachments claim once, fixed mail revises and recalls
+ok 130 - mail delivery is live, attachments claim once, fixed mail revises and recalls
+  ---
+  duration_ms: 16.540571
+  type: 'test'
+  ...
+# Subtest: native event controls use native pass reset schema and survive restart
+ok 131 - native event controls use native pass reset schema and survive restart
+  ---
+  duration_ms: 6.663522
+  type: 'test'
+  ...
+# Subtest: map2 production and local static spawns verify against native entity schema
+ok 132 - map2 production and local static spawns verify against native entity schema
+  ---
+  duration_ms: 30.20972
+  type: 'test'
+  ...
+# Subtest: water mask preserves dry lake island, land animals cannot cross water and crocs can
+ok 133 - water mask preserves dry lake island, land animals cannot cross water and crocs can
+  ---
+  duration_ms: 16.654817
+  type: 'test'
+  ...
+# Subtest: player water enter and exit produces real native swimming event
+ok 134 - player water enter and exit produces real native swimming event
+  ---
+  duration_ms: 1.102565
+  type: 'test'
+  ...
+# Subtest: world AOI is gated on loading and mob/resource death rewards only once
+ok 135 - world AOI is gated on loading and mob/resource death rewards only once
+  ---
+  duration_ms: 11.046933
+  type: 'test'
+  ...
+# Subtest: native well restores 50% HP and statue picks native buffs with cooldown
+ok 136 - native well restores 50% HP and statue picks native buffs with cooldown
+  ---
+  duration_ms: 8.289513
+  type: 'test'
+  ...
+# Subtest: AI tick emits valid native movement and delayed attack events
+ok 137 - AI tick emits valid native movement and delayed attack events
+  ---
+  duration_ms: 27.476444
+  type: 'test'
+  ...
+# Subtest: all website catalogs, mail tabs and shop list produce complete data
+ok 138 - all website catalogs, mail tabs and shop list produce complete data
+  ---
+  duration_ms: 19.219918
+  type: 'test'
+  ...
+# Subtest: mob death grants native XP once and failed shop stock commit restores the wallet
+ok 139 - mob death grants native XP once and failed shop stock commit restores the wallet
+  ---
+  duration_ms: 17.266143
+  type: 'test'
+  ...
+# Subtest: native guild creation, list and own membership round-trip without losing member data
+ok 140 - native guild creation, list and own membership round-trip without losing member data
+  ---
+  duration_ms: 7.442586
+  type: 'test'
+  ...
+# Subtest: eight gate-adjacent intruding fence sections are removed, south bridge raised
+ok 141 - eight gate-adjacent intruding fence sections are removed, south bridge raised
+  ---
+  duration_ms: 2.839115
+  type: 'test'
+  ...
+# Subtest: four requested central NPCs, two per exit and one in each external safe zone
+ok 142 - four requested central NPCs, two per exit and one in each external safe zone
+  ---
+  duration_ms: 0.850187
+  type: 'test'
+  ...
+# Subtest: all sent NPCs use valid Cocos proxy serialization, including guards
+ok 143 - all sent NPCs use valid Cocos proxy serialization, including guards
+  ---
+  duration_ms: 9.631963
+  type: 'test'
+  ...
+# Subtest: mobs are active and spawn on nearest-first AOI after loading; boss and statics remain
+ok 144 - mobs are active and spawn on nearest-first AOI after loading; boss and statics remain
+  ---
+  duration_ms: 14.734265
+  type: 'test'
+  ...
+# Subtest: swimming state resynchronizes after loading without false land events
+ok 145 - swimming state resynchronizes after loading without false land events
+  ---
+  duration_ms: 1.131085
+  type: 'test'
+  ...
+# Subtest: retail contains all reference-only files, with no stale root copies
+ok 146 - retail contains all reference-only files, with no stale root copies
+  ---
+  duration_ms: 1.887114
+  type: 'test'
+  ...
+# Subtest: runtime contracts and editable NPC / map configs still live at their original paths
+ok 147 - runtime contracts and editable NPC / map configs still live at their original paths
+  ---
+  duration_ms: 4.909553
+  type: 'test'
+  ...
+# Subtest: stage30: clean outer root and internal runtime/retail
+not ok 148 - stage30: clean outer root and internal runtime/retail
+  ---
+  duration_ms: 1.415041
+  type: 'test'
+  location: '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage30-layout.test.js:7:1'
+  failureType: 'testCodeFailure'
+  error: "ENOENT: no such file or directory, stat '/workspace/scratch/def6d4916312/stage40/Server_Full/Server/data'"
+  code: 'ENOENT'
+  stack: |-
+    Object.statSync (node:fs:1794:25)
+    TestContext.<anonymous> (/workspace/scratch/def6d4916312/stage40/Server_Full/Server/tests/stage30-layout.test.js:8:85)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1402:25)
+    Test.start (node:internal/test_runner/test:1262:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: stage30: core runtime assets and admin tools resolve in their new locations
+ok 149 - stage30: core runtime assets and admin tools resolve in their new locations
+  ---
+  duration_ms: 161.198866
+  type: 'test'
+  ...
+# Subtest: stage30: worker can load full auth, admin and game backend from root entrypoint
+ok 150 - stage30: worker can load full auth, admin and game backend from root entrypoint
+  ---
+  duration_ms: 603.577563
+  type: 'test'
+  ...
+# Subtest: 3.12 water transitions drive native BuffScheme inWater=181 and exit removes it
+ok 151 - 3.12 water transitions drive native BuffScheme inWater=181 and exit removes it
+  ---
+  duration_ms: 6.03666
+  type: 'test'
+  ...
+# Subtest: each guard uses real 3.12 creature group4 id and monster component; mail remains 422
+ok 152 - each guard uses real 3.12 creature group4 id and monster component; mail remains 422
+  ---
+  duration_ms: 5.551057
+  type: 'test'
+  ...
+# Subtest: all ordinary mobs load at entry while existing boss spawn protocol stays unchanged
+ok 153 - all ordinary mobs load at entry while existing boss spawn protocol stays unchanged
+  ---
+  duration_ms: 65.398414
+  type: 'test'
+  ...
+# Subtest: bosses stay identical to verified Stage30 baseline
+ok 154 - bosses stay identical to verified Stage30 baseline
+  ---
+  duration_ms: 52.237813
+  type: 'test'
+  ...
+# Subtest: God of War replaces only Officer 412 with native Map6 entrance NPC420; remains at operator position
+ok 155 - God of War replaces only Officer 412 with native Map6 entrance NPC420; remains at operator position
+  ---
+  duration_ms: 1.906235
+  type: 'test'
+  ...
+# Subtest: each ordinary Map2 creature has prefab_path in first wire snapshot; no other creature changed
+ok 156 - each ordinary Map2 creature has prefab_path in first wire snapshot; no other creature changed
+  ---
+  duration_ms: 28.046589
+  type: 'test'
+  ...
+# Subtest: boss templates and complete wire serialization IDENTICAL to Stage30/Stage32
+ok 157 - boss templates and complete wire serialization IDENTICAL to Stage30/Stage32
+  ---
+  duration_ms: 5.041564
+  type: 'test'
+  ...
+# Subtest: Stage36 removes all Stage34/35 temporary props while preserving original city structures
+ok 158 - Stage36 removes all Stage34/35 temporary props while preserving original city structures
+  ---
+  duration_ms: 4.283315
+  type: 'test'
+  ...
+# Subtest: initial mob-only entry packet is near bounded; has 3.12 creature metadata
+ok 159 - initial mob-only entry packet is near bounded; has 3.12 creature metadata
+  ---
+  duration_ms: 10.845168
+  type: 'test'
+  ...
+# Subtest: boss prefab bytes remain identical to Stage30 baseline
+ok 160 - boss prefab bytes remain identical to Stage30 baseline
+  ---
+  duration_ms: 3.916993
+  type: 'test'
+  ...
+# Subtest: guard CID 3001..3005 remains unchanged and loaded into eligible city list
+ok 161 - guard CID 3001..3005 remains unchanged and loaded into eligible city list
+  ---
+  duration_ms: 1.137634
+  type: 'test'
+  ...
+# Subtest: all twelve guards have identical creature appearance and outward gate/safe-area direction
+ok 162 - all twelve guards have identical creature appearance and outward gate/safe-area direction
+  ---
+  duration_ms: 3.910983
+  type: 'test'
+  ...
+# Subtest: old decor is completely absent but city geometry and all normal NPCs remain
+ok 163 - old decor is completely absent but city geometry and all normal NPCs remain
+  ---
+  duration_ms: 0.352075
+  type: 'test'
+  ...
+# Subtest: four boss wire records remain identical to Stage30 baseline
+ok 164 - four boss wire records remain identical to Stage30 baseline
+  ---
+  duration_ms: 4.950711
+  type: 'test'
+  ...
+# Subtest: Stage38: 3 west guards face opposite previous direction with 3001, all other guard angles unchanged
+ok 165 - Stage38: 3 west guards face opposite previous direction with 3001, all other guard angles unchanged
+  ---
+  duration_ms: 3.730177
+  type: 'test'
+  ...
+# Subtest: every map2 mob/boss activates only its own skill IDs with exact independent cooldowns
+ok 166 - every map2 mob/boss activates only its own skill IDs with exact independent cooldowns
+  ---
+  duration_ms: 25.546908
+  type: 'test'
+  ...
+# Subtest: windup delays release, cast happens once, and backswing prevents movement/new cast
+ok 167 - windup delays release, cast happens once, and backswing prevents movement/new cast
+  ---
+  duration_ms: 1.057481
+  type: 'test'
+  ...
+# Subtest: safe zone entry, scene replacement, disconnect and actor death cancel the pending cast
+ok 168 - safe zone entry, scene replacement, disconnect and actor death cancel the pending cast
+  ---
+  duration_ms: 1.650213
+  type: 'test'
+  ...
+# Subtest: respawn does not retain cast state or cooldowns from the previous life
+ok 169 - respawn does not retain cast state or cooldowns from the previous life
+  ---
+  duration_ms: 0.604266
+  type: 'test'
+  ...
+# Subtest: special skills are not silently converted to a damaging melee attack
+ok 170 - special skills are not silently converted to a damaging melee attack
+  ---
+  duration_ms: 1.495991
+  type: 'test'
+  ...
+# Subtest: environment tick sends native skill packets only after spawn and delays contact damage
+ok 171 - environment tick sends native skill packets only after spawn and delays contact damage
+  ---
+  duration_ms: 16.188559
+  type: 'test'
+  ...
+# Subtest: all trees and wells have dry footprints outside boss arenas and protected city
+ok 172 - all trees and wells have dry footprints outside boss arenas and protected city
+  ---
+  duration_ms: 34.304194
+  type: 'test'
+  ...
+# Subtest: well spacing is enforced for every pair; room creation and respawn homes use corrected positions
+ok 173 - well spacing is enforced for every pair; room creation and respawn homes use corrected positions
+  ---
+  duration_ms: 25.684175
+  type: 'test'
+  ...
+# Subtest: full water footprint is checked even when center is dry
+ok 174 - full water footprint is checked even when center is dry
+  ---
+  duration_ms: 0.422472
+  type: 'test'
+  ...
+# Subtest: boss spawn polygons and their edges exclude trees and wells
+ok 175 - boss spawn polygons and their edges exclude trees and wells
+  ---
+  duration_ms: 0.974491
+  type: 'test'
+  ...
+# Subtest: entire client-exported mine arena bounds are clear including corners far from the spawn
+ok 176 - entire client-exported mine arena bounds are clear including corners far from the spawn
+  ---
+  duration_ms: 0.616757
+  type: 'test'
+  ...
+# Subtest: base damage uses the client tooltip formula and support HP percentages
+ok 177 - base damage uses the client tooltip formula and support HP percentages
+  ---
+  duration_ms: 6.685545
+  type: 'test'
+  ...
+# Subtest: boss sector hits outside legacy 220 radius, misses behind, and respects city protection
+ok 178 - boss sector hits outside legacy 220 radius, misses behind, and respects city protection
+  ---
+  duration_ms: 5.803175
+  type: 'test'
+  ...
+# Subtest: healing and shield are distinct ally effects; shield absorbs and expires without healing
+ok 179 - healing and shield are distinct ally effects; shield absorbs and expires without healing
+  ---
+  duration_ms: 4.391799
+  type: 'test'
+  ...
+# Subtest: attack and critical buffs change server properties, refresh without stacking, and revert
+ok 180 - attack and critical buffs change server properties, refresh without stacking, and revert
+  ---
+  duration_ms: 3.836365
+  type: 'test'
+  ...
+# Subtest: tauren summons four real level40 mobs with their own skills, lifetime, and no reward farming
+ok 181 - tauren summons four real level40 mobs with their own skills, lifetime, and no reward farming
+  ---
+  duration_ms: 6.968588
+  type: 'test'
+  ...
+# Subtest: golem fan uses twelve native energy entities, advances them, and destroys expired missiles
+ok 182 - golem fan uses twelve native energy entities, advances them, and destroys expired missiles
+  ---
+  duration_ms: 5.430124
+  type: 'test'
+  ...
+# Subtest: projectile return is two swept legs, each target hit once per leg even across a delayed tick
+ok 183 - projectile return is two swept legs, each target hit once per leg even across a delayed tick
+  ---
+  duration_ms: 6.406424
+  type: 'test'
+  ...
+# Subtest: acid volley supplies the exact client user-data contract, lands before damage, and expires pools
+ok 184 - acid volley supplies the exact client user-data contract, lands before damage, and expires pools
+  ---
+  duration_ms: 6.609222
+  type: 'test'
+  ...
+# Subtest: dash and burrow end events clean effects; an old life cannot damage after respawn
+ok 185 - dash and burrow end events clean effects; an old life cannot damage after respawn
+  ---
+  duration_ms: 2.266952
+  type: 'test'
+  ...
+# Subtest: poison and confusion use native IDs and timed server state, not only client icons
+ok 186 - poison and confusion use native IDs and timed server state, not only client icons
+  ---
+  duration_ms: 1.818713
+  type: 'test'
+  ...
+# Subtest: every emitted effect event and entity passes the 3.12 protobuf codec
+ok 187 - every emitted effect event and entity passes the 3.12 protobuf codec
+  ---
+  duration_ms: 18.746895
+  type: 'test'
+  ...
+# Subtest: native mushroom illusion hides its owner, creates three native clones and reveals on real-clone death
+ok 188 - native mushroom illusion hides its owner, creates three native clones and reveals on real-clone death
+  ---
+  duration_ms: 1.620641
+  type: 'test'
+  ...
+# Subtest: illusion duration and a late observer restore native hide/reveal state
+ok 189 - illusion duration and a late observer restore native hide/reveal state
+  ---
+  duration_ms: 5.826387
+  type: 'test'
+  ...
+# Subtest: gas has native radius, deals area damage for eight seconds and is removed at expiry
+ok 190 - gas has native radius, deals area damage for eight seconds and is removed at expiry
+  ---
+  duration_ms: 1.282454
+  type: 'test'
+  ...
+# Subtest: hurricane uses the verified native prefab and swept projectile collision
+ok 191 - hurricane uses the verified native prefab and swept projectile collision
+  ---
+  duration_ms: 1.839743
+  type: 'test'
+  ...
+# Subtest: native flower keeps client level, HP and lifetime without fabricated skills or rewards
+ok 192 - native flower keeps client level, HP and lifetime without fabricated skills or rewards
+  ---
+  duration_ms: 1.793465
+  type: 'test'
+  ...
+# Subtest: environment sends transient spawns before their movement and removes effects after source death
+ok 193 - environment sends transient spawns before their movement and removes effects after source death
+  ---
+  duration_ms: 6.847816
+  type: 'test'
+  ...
+# [REWARD PUSH] committed; delivery failed: SOCKET_CLOSED
+# [REWARD PUSH] committed; delivery failed: SOCKET_CLOSED
+# [NOTICE DELIVERY] uid=2 SOCKET_CLOSED
+# Subtest: all Map2 actors have resolvable client drop graphs; missing exact rows are explicitly marked
+ok 194 - all Map2 actors have resolvable client drop graphs; missing exact rows are explicitly marked
+  ---
+  duration_ms: 34.334962
+  type: 'test'
+  ...
+# Subtest: independent nested draws preserve repeated groups and use exact client quantities
+ok 195 - independent nested draws preserve repeated groups and use exact client quantities
+  ---
+  duration_ms: 1.412687
+  type: 'test'
+  ...
+# Subtest: monster kill grants XP, crosses several levels, updates real stats and persists once
+ok 196 - monster kill grants XP, crosses several levels, updates real stats and persists once
+  ---
+  duration_ms: 26.514695
+  type: 'test'
+  ...
+# Subtest: death save failure rolls back XP, drops, kill and HP; retry keeps the same loot roll
+ok 197 - death save failure rolls back XP, drops, kill and HP; retry keeps the same loot roll
+  ---
+  duration_ms: 3.825115
+  type: 'test'
+  ...
+# Subtest: team XP is conserved, personal XP stays with killer, distant and other-room peers are excluded
+ok 198 - team XP is conserved, personal XP stays with killer, distant and other-room peers are excluded
+  ---
+  duration_ms: 12.266861
+  type: 'test'
+  ...
+# Subtest: boss death and respawn use the 3.12 envelopes, are sent once per life, and stay in their room
+ok 199 - boss death and respawn use the 3.12 envelopes, are sent once per life, and stay in their room
+  ---
+  duration_ms: 7.71756
+  type: 'test'
+  ...
+# Subtest: rainbow/mythic boss-loot notice fires only after a committed pickup, not on drop or failure
+ok 200 - rainbow/mythic boss-loot notice fires only after a committed pickup, not on drop or failure
+  ---
+  duration_ms: 9.494652
+  type: 'test'
+  ...
+# Subtest: actual environment respawn timer warns once, restores the boss and emits native createBoss once
+ok 201 - actual environment respawn timer warns once, restores the boss and emits native createBoss once
+  ---
+  duration_ms: 11.039912
+  type: 'test'
+  ...
+# Subtest: XP is conserved at every level boundary and totals above int32 use the unsigned native event
+ok 202 - XP is conserved at every level boundary and totals above int32 use the unsigned native event
+  ---
+  duration_ms: 31.349188
+  type: 'test'
+  ...
+# Subtest: category drops respect client Weight and exclude zero-weight universal jewels
+ok 203 - category drops respect client Weight and exclude zero-weight universal jewels
+  ---
+  duration_ms: 2.058903
+  type: 'test'
+  ...
+# Subtest: a socket delivery failure after saving never grants the same kill twice
+ok 204 - a socket delivery failure after saving never grants the same kill twice
+  ---
+  duration_ms: 3.9662
+  type: 'test'
+  ...
+# Subtest: rare manual drops and ordinary boss items do not trigger valuable-loot announcements
+ok 205 - rare manual drops and ordinary boss items do not trigger valuable-loot announcements
+  ---
+  duration_ms: 1.345881
+  type: 'test'
+  ...
+# Subtest: one disconnected player cannot suppress boss announcements to other room members
+ok 206 - one disconnected player cannot suppress boss announcements to other room members
+  ---
+  duration_ms: 3.017073
+  type: 'test'
+  ...
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# Subtest: all mapped request and response types exist in the actual 2024 decoder
+ok 207 - all mapped request and response types exist in the actual 2024 decoder
+  ---
+  duration_ms: 4.490163
+  type: 'test'
+  ...
+# Subtest: all startup reads decode, mail has data.mails and balances stay unchanged
+ok 208 - all startup reads decode, mail has data.mails and balances stay unchanged
+  ---
+  duration_ms: 73.662404
+  type: 'test'
+  ...
+# Subtest: rank error fallback cannot place UTF-8 text into an integer field
+ok 209 - rank error fallback cannot place UTF-8 text into an integer field
+  ---
+  duration_ms: 0.241773
+  type: 'test'
+  ...
+# Subtest: main and rookie lists match account mode and nomination is separate
+ok 210 - main and rookie lists match account mode and nomination is separate
+  ---
+  duration_ms: 1.40707
+  type: 'test'
+  ...
+# Subtest: guide uses map99, identity-bound player and rm entityCreated, re-enter does not reset
+ok 211 - guide uses map99, identity-bound player and rm entityCreated, re-enter does not reset
+  ---
+  duration_ms: 63.851824
+  type: 'test'
+  ...
+# Subtest: battle heartbeat is a real reply and aggregates into the same five minute window
+ok 212 - battle heartbeat is a real reply and aggregates into the same five minute window
+  ---
+  duration_ms: 49.821838
+  type: 'test'
+  ...
+# Subtest: skip tutorial persists and sends toMain; a fresh main session uses map2 and formal mode
+ok 213 - skip tutorial persists and sends toMain; a fresh main session uses map2 and formal mode
+  ---
+  duration_ms: 73.529821
+  type: 'test'
+  ...
+# Subtest: lobby profile region matches filterLang and saved player inventory round trips
+ok 214 - lobby profile region matches filterLang and saved player inventory round trips
+  ---
+  duration_ms: 61.709573
+  type: 'test'
+  ...
+# Subtest: movement emits decoded entity positions; forged far move cannot teleport avatar
+ok 215 - movement emits decoded entity positions; forged far move cannot teleport avatar
+  ---
+  duration_ms: 64.192417
+  type: 'test'
+  ...
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=13
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=4
+# Subtest: s3.2 cursor rotation mapped to 2024 cannonRotateTo 23 -> event 58, signed angles
+ok 216 - s3.2 cursor rotation mapped to 2024 cannonRotateTo 23 -> event 58, signed angles
+  ---
+  duration_ms: 113.23053
+  type: 'test'
+  ...
+# Subtest: s3.2 manual weapon use produces 2024 EntityEvent.useSkill(34), not empty startAttack(6)
+ok 217 - s3.2 manual weapon use produces 2024 EntityEvent.useSkill(34), not empty startAttack(6)
+  ---
+  duration_ms: 72.965137
+  type: 'test'
+  ...
+# Subtest: E attack creates native buff 246 and repeats native skill animation following latest cursor
+ok 218 - E attack creates native buff 246 and repeats native skill animation following latest cursor
+  ---
+  duration_ms: 70.674343
+  type: 'test'
+  ...
+# Subtest: only WASD changes position; mouse press and pointer never trigger click-to-move
+ok 219 - only WASD changes position; mouse press and pointer never trigger click-to-move
+  ---
+  duration_ms: 75.329296
+  type: 'test'
+  ...
+# Subtest: 2024 explicit weapon active attack 13 is separate from normal LMB
+ok 220 - 2024 explicit weapon active attack 13 is separate from normal LMB
+  ---
+  duration_ms: 81.141975
+  type: 'test'
+  ...
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=9
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=4
+# Subtest: LMB is basic skill 7; E toggles ONLY basic auto attack 9; mouse never walks
+ok 221 - LMB is basic skill 7; E toggles ONLY basic auto attack 9; mouse never walks
+  ---
+  duration_ms: 135.006016
+  type: 'test'
+  ...
+# Subtest: F 10 casts ONLY owned hero ability, 138+21 and does not fire weapon skill
+ok 222 - F 10 casts ONLY owned hero ability, 138+21 and does not fire weapon skill
+  ---
+  duration_ms: 94.855567
+  type: 'test'
+  ...
+# Subtest: RMB 11 triggers ONLY equipped active weapon skill; no active skill -> refused
+ok 223 - RMB 11 triggers ONLY equipped active weapon skill; no active skill -> refused
+  ---
+  duration_ms: 83.729524
+  type: 'test'
+  ...
+# Subtest: left/right holds remain distinct: 114 normal, 116 active, E survives release
+ok 224 - left/right holds remain distinct: 114 normal, 116 active, E survives release
+  ---
+  duration_ms: 70.577333
+  type: 'test'
+  ...
+# Subtest: large world snapshot can use WebSocket 64-bit length header
+ok 225 - large world snapshot can use WebSocket 64-bit length header
+  ---
+  duration_ms: 66.73014
+  type: 'test'
+  ...
+# Subtest: truncated protobuf fixed-size fields are rejected
+ok 226 - truncated protobuf fixed-size fields are rejected
+  ---
+  duration_ms: 2.130916
+  type: 'test'
+  ...
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=guest
+# [GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+# [game] login uid=1 account=networker lang=
+# [GAME ROUTE] game.gameHandler.getServers uid=1 bytes=0
+# [GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=40
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [GAME ROUTE] battle.iob.enter uid=1 bytes=19
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=13
+# [GAME ROUTE] battle.iob.reEnter uid=1 bytes=16
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=guest
+# [GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+# [game] login uid=1 account=networker lang=
+# [GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=35
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [GAME WS] close uid=guest
+# [GAME ROUTE] battle.iob.enter uid=1 bytes=16
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+# Subtest: real WebSocket login -> client-filtered lobby -> scene -> item frame -> reconnect snapshot
+ok 227 - real WebSocket login -> client-filtered lobby -> scene -> item frame -> reconnect snapshot
+  ---
+  duration_ms: 329.407603
+  type: 'test'
+  ...
+# [GAME WS] close uid=1
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+# [CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+# [WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial\#1\#1
+# Subtest: 2024 contract identifies IOGameLoginRsp for enterGuide
+ok 228 - 2024 contract identifies IOGameLoginRsp for enterGuide
+  ---
+  duration_ms: 1.670616
+  type: 'test'
+  ...
+# Subtest: guide handshake gives a room, accepts scene entry, persists last room and exits
+ok 229 - guide handshake gives a room, accepts scene entry, persists last room and exits
+  ---
+  duration_ms: 74.346437
+  type: 'test'
+  ...
+# Subtest: reject unknown world and prevent unauthorized scene entry
+ok 230 - reject unknown world and prevent unauthorized scene entry
+  ---
+  duration_ms: 47.981196
+  type: 'test'
+  ...
+# Subtest: read-only boot requests yield new-account empty state without changing balance or owned items
+ok 231 - read-only boot requests yield new-account empty state without changing balance or owned items
+  ---
+  duration_ms: 40.242795
+  type: 'test'
+  ...
+# Subtest: enterGuide tolerates older 2024 client without an explicit room string
+ok 232 - enterGuide tolerates older 2024 client without an explicit room string
+  ---
+  duration_ms: 54.030793
+  type: 'test'
+  ...
+1..232
+# tests 232
+# suites 0
+# pass 215
+# fail 17
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 6338.249005

@@ -1,0 +1,38 @@
+[
+  {
+    "path": "Server_Full/retail/client-reference/stage62/CCExchangePanel.ts",
+    "sha256": "2edb9b80feff456545e30a68e9c2e2099e6d74cc77b5eed1c8085a3085427d95",
+    "bytes": 11236,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/CCItemView.ts",
+    "sha256": "403056a1a3d0e1da0893448c5c62f3514223f1bae36d10a6e81c94e982d48ee7",
+    "bytes": 36177,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/CCSupplyOffice.ts",
+    "sha256": "ae43847a0ca0c38cf81c51cb7e48c75ac771eaf8cd8292ec1264da2ee5c324ee",
+    "bytes": 4245,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/Creatures.ts",
+    "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349",
+    "bytes": 32050,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/ItemManager.ts",
+    "sha256": "de9ba1e6c181667039905020eed2981a0f1091239c33181f15de3b42f7309076",
+    "bytes": 32145,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/WeaponManager.ts",
+    "sha256": "f63a77a43e420423633676a5fd2b9faca5c480f7bca919b0c7cf3a678da1d589",
+    "bytes": 11572,
+    "verbatimOriginalFactory": true
+  }
+]

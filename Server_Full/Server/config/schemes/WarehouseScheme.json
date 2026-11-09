@@ -1,0 +1,184 @@
+{
+  "Warehouse": [
+    {
+      "bagType": 101,
+      "WarehouseType": 1,
+      "index": 1,
+      "RentPrice": 10000,
+      "RenewPrice": 10000,
+      "RentDuration": 10000,
+      "keyNum": 1
+    },
+    {
+      "bagType": 102,
+      "WarehouseType": 1,
+      "index": 2,
+      "RentPrice": 50000,
+      "RenewPrice": 50000,
+      "RentDuration": 10000,
+      "keyNum": 5
+    },
+    {
+      "bagType": 103,
+      "WarehouseType": 1,
+      "index": 3,
+      "RentPrice": 100000,
+      "RenewPrice": 100000,
+      "RentDuration": 10000,
+      "keyNum": 10
+    },
+    {
+      "bagType": 104,
+      "WarehouseType": 1,
+      "index": 4,
+      "RentPrice": 200000,
+      "RenewPrice": 200000,
+      "RentDuration": 10000,
+      "keyNum": 20
+    },
+    {
+      "bagType": 105,
+      "WarehouseType": 1,
+      "index": 5,
+      "RentPrice": 300000,
+      "RenewPrice": 300000,
+      "RentDuration": 10000,
+      "keyNum": 30
+    },
+    {
+      "bagType": 106,
+      "WarehouseType": 1,
+      "index": 6,
+      "RentPrice": 400000,
+      "RenewPrice": 400000,
+      "RentDuration": 10000,
+      "keyNum": 40
+    },
+    {
+      "bagType": 107,
+      "WarehouseType": 1,
+      "index": 7,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 108,
+      "WarehouseType": 1,
+      "index": 8,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 109,
+      "WarehouseType": 1,
+      "index": 9,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 110,
+      "WarehouseType": 1,
+      "index": 10,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 201,
+      "WarehouseType": 2,
+      "index": 1,
+      "RentPrice": 10000,
+      "RenewPrice": 10000,
+      "RentDuration": 10000,
+      "keyNum": 1
+    },
+    {
+      "bagType": 202,
+      "WarehouseType": 2,
+      "index": 2,
+      "RentPrice": 50000,
+      "RenewPrice": 50000,
+      "RentDuration": 10000,
+      "keyNum": 5
+    },
+    {
+      "bagType": 203,
+      "WarehouseType": 2,
+      "index": 3,
+      "RentPrice": 100000,
+      "RenewPrice": 100000,
+      "RentDuration": 10000,
+      "keyNum": 10
+    },
+    {
+      "bagType": 204,
+      "WarehouseType": 2,
+      "index": 4,
+      "RentPrice": 200000,
+      "RenewPrice": 200000,
+      "RentDuration": 10000,
+      "keyNum": 20
+    },
+    {
+      "bagType": 205,
+      "WarehouseType": 2,
+      "index": 5,
+      "RentPrice": 300000,
+      "RenewPrice": 300000,
+      "RentDuration": 10000,
+      "keyNum": 30
+    },
+    {
+      "bagType": 206,
+      "WarehouseType": 2,
+      "index": 6,
+      "RentPrice": 400000,
+      "RenewPrice": 400000,
+      "RentDuration": 10000,
+      "keyNum": 40
+    },
+    {
+      "bagType": 207,
+      "WarehouseType": 2,
+      "index": 7,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 208,
+      "WarehouseType": 2,
+      "index": 8,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 209,
+      "WarehouseType": 2,
+      "index": 9,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    },
+    {
+      "bagType": 210,
+      "WarehouseType": 2,
+      "index": 10,
+      "RentPrice": 500000,
+      "RenewPrice": 500000,
+      "RentDuration": 10000,
+      "keyNum": 50
+    }
+  ]
+}

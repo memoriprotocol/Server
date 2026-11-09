@@ -1,0 +1,143 @@
+{
+  "stage": 60,
+  "version": "0.38.0-stage60-world-events-payments",
+  "profiles": [
+    {
+      "weaponID": 618300,
+      "skillID": 3210,
+      "castPointTime": 200,
+      "maxDistance": 2000,
+      "cd": 20000,
+      "args": [
+        "damage:0",
+        "num:1",
+        "staminaCost:20",
+        "atkArgs:50",
+        "size:800",
+        "remainTime:3000",
+        "freezeTime:1500",
+        "hpArgs:25"
+      ],
+      "canCrit": true
+    },
+    {
+      "weaponID": 618301,
+      "skillID": 6183012,
+      "castPointTime": 200,
+      "maxDistance": 2000,
+      "cd": 20000,
+      "args": [
+        "damage:0",
+        "num:1",
+        "staminaCost:20",
+        "atkArgs:50",
+        "size:800",
+        "remainTime:3000",
+        "freezeTime:1500",
+        "hpArgs:25"
+      ],
+      "canCrit": true
+    },
+    {
+      "weaponID": 618302,
+      "skillID": 6183022,
+      "castPointTime": 200,
+      "maxDistance": 2000,
+      "cd": 20000,
+      "args": [
+        "damage:0",
+        "num:1",
+        "staminaCost:20",
+        "atkArgs:50",
+        "size:800",
+        "remainTime:3000",
+        "freezeTime:1500",
+        "hpArgs:40"
+      ],
+      "canCrit": true
+    },
+    {
+      "weaponID": 618303,
+      "skillID": 6183032,
+      "castPointTime": 200,
+      "maxDistance": 2000,
+      "cd": 20000,
+      "args": [
+        "damage:0",
+        "num:1",
+        "staminaCost:20",
+        "atkArgs:50",
+        "size:800",
+        "remainTime:3000",
+        "freezeTime:2000",
+        "hpArgs:25"
+      ],
+      "canCrit": true
+    },
+    {
+      "weaponID": 618304,
+      "skillID": 6183042,
+      "castPointTime": 200,
+      "maxDistance": 2000,
+      "cd": 20000,
+      "args": [
+        "damage:0",
+        "num:1",
+        "staminaCost:20",
+        "atkArgs:50",
+        "size:900",
+        "remainTime:3000",
+        "freezeTime:1500",
+        "hpArgs:25",
+        "scale:1.12"
+      ],
+      "canCrit": true
+    },
+    {
+      "weaponID": 618350,
+      "skillID": 6183502,
+      "castPointTime": 200,
+      "maxDistance": 2000,
+      "cd": 20000,
+      "args": [
+        "damage:0",
+        "num:1",
+        "staminaCost:20",
+        "atkArgs:50",
+        "size:800",
+        "remainTime:3000",
+        "freezeTime:1500",
+        "hpArgs:25"
+      ],
+      "canCrit": true
+    }
+  ],
+  "nativeEvidence": {
+    "timing": "castPoint200ms, remainTime3000ms, cooldown20000ms, stamina20",
+    "shield": "hpArgs25% caster maxHP; enhanced6183022 hpArgs40%",
+    "burst": "atkArgs50% absorbed damage; freeze1500ms or enhanced6183032 2000ms; args.size800 or enhanced6183042 900; scale1 or1.12",
+    "visual": "original BuffCfg323 damageShield,324 damageShieldFlicker,334 stun_12. CCBuffComp parses buffExJson.scale, plays native shield01/flicker03 and shield-removal burst02 at recipient position. No unsupported1063 entity invented. Three prefab imports CRC/hash checked against original client; all dependencies and Windows rendering NOT tested."
+  },
+  "localPolicies": {
+    "scope": "Map2 caster and party heroes only, no PvP/pet/building shielding",
+    "allyRange": "skill.maxDistance2000 interpreted as ally radius; not proven retail targeting semantics",
+    "burstRange": "args.size interpreted as radius + existing target footprint; interpretation not verified retail",
+    "replacement": "single shared shield slot; equal/stronger replaces, weaker does not reduce existing; generic/pet replacement detaches armor callback, no gameplay burst",
+    "flicker": "last1000ms is local threshold, not native-proven timing",
+    "release": "one pending cast; latest identity checked before release; stale pending weapon/UUID/hero/world/actor does not block a new cast; accepted cast charged once, no refund",
+    "cancellation": "unreleased cancel on weaponID/UUID/hero/world/entity/room/map/life/safe/channel/confusion/timeout native release+1000ms; released survives weapon change and same-map portal",
+    "ownership": "armor and burst source/recipient bound to original world/entity/room/map/life; death/logout/scene transfer discards including party grants; no posthumous burst",
+    "absorption": "successful committed nonlethal PvE shield absorption tracked; lethal death clears armor before callback; pre-hit expiry processed before damage absorption",
+    "zeroDamage": "zero absorbed expiry freezes but does not invent1HP damage; damage floor override0 only on this path",
+    "damageFormula": "absorbed reflection base uses existing reconstructed ice boosts/resistance/crit where native canCrit; ignores ordinary flat damage modifier; full retail formula remains unverified",
+    "retries": "freeze contact set with spawn identity; settled contacts never repeated; retry250ms bounded1000ms from finish, at most32 pending bursts per recipient; current target defenses on retry; damage/XP credited original caster",
+    "vfxDelivery": "uses existing native replication. No new durable buff delivery or full client asset lifecycle guarantee"
+  },
+  "openMechanics": [
+    "passive424 remains unresolved",
+    "exact allied targeting, AoE geometry, elemental scaling and PvP not verified against retail",
+    "other hero/weapon mechanics remain partial"
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

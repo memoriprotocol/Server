@@ -1,0 +1,6840 @@
+{
+  "Equipment": [
+    {
+      "ID": 800200,
+      "ItemID": 800201,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星猛犸长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        400,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800201,
+      "Describe": "物抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_01/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 800200,
+      "ItemID": 800202,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星猛犸长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        500,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800202,
+      "Describe": "物抗+30,攻击力+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_01/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 800200,
+      "ItemID": 800203,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星猛犸长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        600,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800203,
+      "Describe": "物抗+50,攻击力+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_01/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 800200,
+      "ItemID": 800204,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星猛犸长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        800,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800204,
+      "Describe": "物抗+70,攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_01/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 800200,
+      "ItemID": 800205,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星猛犸长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800205,
+      "Describe": "物抗+100,攻击力+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_01/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 800400,
+      "ItemID": 800401,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星猛犸布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        32
+      ],
+      "PropertyValues": [
+        40,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800401,
+      "Describe": "速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_01/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 800400,
+      "ItemID": 800402,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星猛犸布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        32
+      ],
+      "PropertyValues": [
+        50,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800402,
+      "Describe": "速度+60，速度+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_01/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 800400,
+      "ItemID": 800403,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星猛犸布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        32
+      ],
+      "PropertyValues": [
+        60,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800403,
+      "Describe": "速度+75，速度+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_01/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 800400,
+      "ItemID": 800404,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星猛犸布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        32
+      ],
+      "PropertyValues": [
+        70,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800404,
+      "Describe": "速度+95，速度+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_01/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 800400,
+      "ItemID": 800405,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星猛犸布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        32
+      ],
+      "PropertyValues": [
+        80,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800405,
+      "Describe": "速度+150，速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_01/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 802500,
+      "ItemID": 802501,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星力量项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802501,
+      "Describe": "力气恢复+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_01/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 802500,
+      "ItemID": 802502,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星力量项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        35
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802502,
+      "Describe": "力气恢复+7，攻击力+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_01/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 802500,
+      "ItemID": 802503,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星力量项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        45
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802503,
+      "Describe": "力气恢复+10，攻击力+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_01/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 802500,
+      "ItemID": 802504,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星力量项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802504,
+      "Describe": "力气恢复+14，攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_01/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 802500,
+      "ItemID": 802505,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星力量项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802505,
+      "Describe": "力气恢复+20，攻击力+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_01/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 802800,
+      "ItemID": 802801,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星力量戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802801,
+      "Describe": "攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_01/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 802800,
+      "ItemID": 802802,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星力量戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        2000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802802,
+      "Describe": "攻击力+20，速度+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_01/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 802800,
+      "ItemID": 802803,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星力量戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802803,
+      "Describe": "攻击力+30，速度+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_01/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 802800,
+      "ItemID": 802804,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星力量戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802804,
+      "Describe": "攻击力+40，速度+14",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_01/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 802800,
+      "ItemID": 802805,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星力量戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802805,
+      "Describe": "攻击力+50，速度+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_01/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 800600,
+      "ItemID": 800601,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星毒蛇长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        34
+      ],
+      "PropertyValues": [
+        400,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800601,
+      "Describe": "力气+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_02/spriteFrame",
+      "Exp": 600
+    },
+    {
+      "ID": 800600,
+      "ItemID": 800602,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星毒蛇长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        34
+      ],
+      "PropertyValues": [
+        500,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800602,
+      "Describe": "力气+15，速度+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_02/spriteFrame",
+      "Exp": 2400
+    },
+    {
+      "ID": 800600,
+      "ItemID": 800603,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星毒蛇长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        34
+      ],
+      "PropertyValues": [
+        600,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800603,
+      "Describe": "力气+25，速度+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_02/spriteFrame",
+      "Exp": 12000
+    },
+    {
+      "ID": 800600,
+      "ItemID": 800604,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星毒蛇长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        34
+      ],
+      "PropertyValues": [
+        800,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800604,
+      "Describe": "力气+35，速度+14",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_02/spriteFrame",
+      "Exp": 42000
+    },
+    {
+      "ID": 800600,
+      "ItemID": 800605,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星毒蛇长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        34
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800605,
+      "Describe": "力气+50，速度+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_02/spriteFrame",
+      "Exp": 96000
+    },
+    {
+      "ID": 800800,
+      "ItemID": 800801,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星毒蛇长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        34
+      ],
+      "PropertyValues": [
+        40,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800801,
+      "Describe": "速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_02/spriteFrame",
+      "Exp": 600
+    },
+    {
+      "ID": 800800,
+      "ItemID": 800802,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星毒蛇长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        34
+      ],
+      "PropertyValues": [
+        50,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800802,
+      "Describe": "速度+60，冰抗+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_02/spriteFrame",
+      "Exp": 2400
+    },
+    {
+      "ID": 800800,
+      "ItemID": 800803,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星毒蛇长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        34
+      ],
+      "PropertyValues": [
+        60,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800803,
+      "Describe": "速度+75，冰抗+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_02/spriteFrame",
+      "Exp": 12000
+    },
+    {
+      "ID": 800800,
+      "ItemID": 800804,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星毒蛇长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        34
+      ],
+      "PropertyValues": [
+        70,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800804,
+      "Describe": "速度+95，冰抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_02/spriteFrame",
+      "Exp": 42000
+    },
+    {
+      "ID": 800800,
+      "ItemID": 800805,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星毒蛇长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        34
+      ],
+      "PropertyValues": [
+        80,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 800805,
+      "Describe": "速度+150，冰抗+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_02/spriteFrame",
+      "Exp": 96000
+    },
+    {
+      "ID": 802900,
+      "ItemID": 802901,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星不屈项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802901,
+      "Describe": "毒抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_02/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 802900,
+      "ItemID": 802902,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星不屈项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        35
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802902,
+      "Describe": "毒抗+30，力气恢复+3",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_02/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 802900,
+      "ItemID": 802903,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星不屈项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        45
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802903,
+      "Describe": "毒抗+50，力气恢复+4",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_02/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 802900,
+      "ItemID": 802904,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星不屈项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802904,
+      "Describe": "毒抗+70，力气恢复+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_02/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 802900,
+      "ItemID": 802905,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星不屈项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4
+      ],
+      "PropertyValues": [
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 802905,
+      "Describe": "毒抗+100，力气恢复+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_02/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 803200,
+      "ItemID": 803201,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星不屈戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        50
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803201,
+      "Describe": "攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_02/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 803200,
+      "ItemID": 803202,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星不屈戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803202,
+      "Describe": "攻击力+20，生命+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_02/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 803200,
+      "ItemID": 803203,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星不屈戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        70
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803203,
+      "Describe": "攻击力+30，生命+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_02/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 803200,
+      "ItemID": 803204,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星不屈戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        90
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803204,
+      "Describe": "攻击力+40，生命+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_02/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 803200,
+      "ItemID": 803205,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星不屈戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        120
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803205,
+      "Describe": "攻击力+50，生命+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_02/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 801000,
+      "ItemID": 801001,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星凤凰铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        400,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801001,
+      "Describe": "火抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_03/spriteFrame",
+      "Exp": 600
+    },
+    {
+      "ID": 801000,
+      "ItemID": 801002,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星凤凰铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        500,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801002,
+      "Describe": "火抗+30，闪避+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_03/spriteFrame",
+      "Exp": 2400
+    },
+    {
+      "ID": 801000,
+      "ItemID": 801003,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星凤凰铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        600,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801003,
+      "Describe": "火抗+50，闪避+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_03/spriteFrame",
+      "Exp": 12000
+    },
+    {
+      "ID": 801000,
+      "ItemID": 801004,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星凤凰铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        800,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801004,
+      "Describe": "火抗+70，闪避+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_03/spriteFrame",
+      "Exp": 42000
+    },
+    {
+      "ID": 801000,
+      "ItemID": 801005,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星凤凰铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801005,
+      "Describe": "火抗+100，闪避+30",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_03/spriteFrame",
+      "Exp": 96000
+    },
+    {
+      "ID": 801200,
+      "ItemID": 801201,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星凤凰长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        33
+      ],
+      "PropertyValues": [
+        40,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801201,
+      "Describe": "速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_03/spriteFrame",
+      "Exp": 600
+    },
+    {
+      "ID": 801200,
+      "ItemID": 801202,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星凤凰长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        33
+      ],
+      "PropertyValues": [
+        50,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801202,
+      "Describe": "速度+60，生命+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_03/spriteFrame",
+      "Exp": 2400
+    },
+    {
+      "ID": 801200,
+      "ItemID": 801203,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星凤凰长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        33
+      ],
+      "PropertyValues": [
+        60,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801203,
+      "Describe": "速度+75，生命+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_03/spriteFrame",
+      "Exp": 12000
+    },
+    {
+      "ID": 801200,
+      "ItemID": 801204,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星凤凰长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        33
+      ],
+      "PropertyValues": [
+        70,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801204,
+      "Describe": "速度+95，生命+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_03/spriteFrame",
+      "Exp": 42000
+    },
+    {
+      "ID": 801200,
+      "ItemID": 801205,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星凤凰长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        33
+      ],
+      "PropertyValues": [
+        80,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801205,
+      "Describe": "速度+150，生命+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_03/spriteFrame",
+      "Exp": 96000
+    },
+    {
+      "ID": 803300,
+      "ItemID": 803301,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星丰饶项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        31
+      ],
+      "PropertyValues": [
+        100,
+        1000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803301,
+      "Describe": "力气恢复+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_03/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 803300,
+      "ItemID": 803302,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星丰饶项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        31
+      ],
+      "PropertyValues": [
+        200,
+        1500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803302,
+      "Describe": "力气恢复+7，火抗+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_03/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 803300,
+      "ItemID": 803303,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星丰饶项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        31
+      ],
+      "PropertyValues": [
+        300,
+        2500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803303,
+      "Describe": "力气恢复+10，火抗+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_03/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 803300,
+      "ItemID": 803304,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星丰饶项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        31
+      ],
+      "PropertyValues": [
+        400,
+        3500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803304,
+      "Describe": "力气恢复+14，火抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_03/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 803300,
+      "ItemID": 803305,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星丰饶项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        31
+      ],
+      "PropertyValues": [
+        600,
+        5000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803305,
+      "Describe": "力气恢复+20，火抗+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_03/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 803600,
+      "ItemID": 803601,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星丰饶戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        31
+      ],
+      "PropertyValues": [
+        3000,
+        1000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803601,
+      "Describe": "火抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_03/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 803600,
+      "ItemID": 803602,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星丰饶戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        31
+      ],
+      "PropertyValues": [
+        4000,
+        1500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803602,
+      "Describe": "火抗+30，攻击力+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_03/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 803600,
+      "ItemID": 803603,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星丰饶戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        31
+      ],
+      "PropertyValues": [
+        5000,
+        2500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803603,
+      "Describe": "火抗+50，攻击力+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_03/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 803600,
+      "ItemID": 803604,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星丰饶戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        31
+      ],
+      "PropertyValues": [
+        6000,
+        3500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803604,
+      "Describe": "火抗+70，攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_03/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 803600,
+      "ItemID": 803605,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星丰饶戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        31
+      ],
+      "PropertyValues": [
+        7000,
+        5000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 803605,
+      "Describe": "火抗+100，攻击力+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_03/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 801400,
+      "ItemID": 801401,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星冰熊铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        36
+      ],
+      "PropertyValues": [
+        400,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801401,
+      "Describe": "生命+25",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_04/spriteFrame",
+      "Exp": 600
+    },
+    {
+      "ID": 801400,
+      "ItemID": 801402,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星冰熊铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        36
+      ],
+      "PropertyValues": [
+        500,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801402,
+      "Describe": "生命+35，速度+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_04/spriteFrame",
+      "Exp": 2400
+    },
+    {
+      "ID": 801400,
+      "ItemID": 801403,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星冰熊铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        36
+      ],
+      "PropertyValues": [
+        600,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801403,
+      "Describe": "生命+50，速度+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_04/spriteFrame",
+      "Exp": 12000
+    },
+    {
+      "ID": 801400,
+      "ItemID": 801404,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星冰熊铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        36
+      ],
+      "PropertyValues": [
+        800,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801404,
+      "Describe": "生命+70，速度+14",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_04/spriteFrame",
+      "Exp": 42000
+    },
+    {
+      "ID": 801400,
+      "ItemID": 801405,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星冰熊铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        36
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801405,
+      "Describe": "生命+100，速度+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_04/spriteFrame",
+      "Exp": 96000
+    },
+    {
+      "ID": 801600,
+      "ItemID": 801601,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星冰熊长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        40,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801601,
+      "Describe": "速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_04/spriteFrame",
+      "Exp": 600
+    },
+    {
+      "ID": 801600,
+      "ItemID": 801602,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星冰熊长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        50,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801602,
+      "Describe": "速度+60，攻击力+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_04/spriteFrame",
+      "Exp": 2400
+    },
+    {
+      "ID": 801600,
+      "ItemID": 801603,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星冰熊长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        60,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801603,
+      "Describe": "速度+75，攻击力+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_04/spriteFrame",
+      "Exp": 12000
+    },
+    {
+      "ID": 801600,
+      "ItemID": 801604,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星冰熊长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        70,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801604,
+      "Describe": "速度+95，攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_04/spriteFrame",
+      "Exp": 42000
+    },
+    {
+      "ID": 801600,
+      "ItemID": 801605,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星冰熊长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        80,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801605,
+      "Describe": "速度+150，攻击力+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_04/spriteFrame",
+      "Exp": 96000
+    },
+    {
+      "ID": 803700,
+      "ItemID": 803701,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星生命项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803701,
+      "Describe": "攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_04/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 803700,
+      "ItemID": 803702,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星生命项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        150
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803702,
+      "Describe": "攻击力+20，火抗+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_04/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 803700,
+      "ItemID": 803703,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星生命项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        250
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803703,
+      "Describe": "攻击力+30，火抗+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_04/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 803700,
+      "ItemID": 803704,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星生命项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        350
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803704,
+      "Describe": "攻击力+40，火抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_04/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 803700,
+      "ItemID": 803705,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星生命项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 803705,
+      "Describe": "攻击力+50，火抗+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_04/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 804000,
+      "ItemID": 804001,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星生命戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804001,
+      "Describe": "力气恢复+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_04/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 804000,
+      "ItemID": 804002,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星生命戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        2000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804002,
+      "Describe": "力气恢复+7，生命+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_04/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 804000,
+      "ItemID": 804003,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星生命戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804003,
+      "Describe": "力气恢复+10，生命+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_04/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 804000,
+      "ItemID": 804004,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星生命戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804004,
+      "Describe": "力气恢复+14，生命+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_04/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 804000,
+      "ItemID": 804005,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星生命戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804005,
+      "Describe": "力气恢复+20，生命+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_04/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 801800,
+      "ItemID": 801801,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星雷龙长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        35
+      ],
+      "PropertyValues": [
+        400,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801801,
+      "Describe": "力气+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_05/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 801800,
+      "ItemID": 801802,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星雷龙长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        35
+      ],
+      "PropertyValues": [
+        500,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801802,
+      "Describe": "力气+15，力气恢复+3",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_05/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 801800,
+      "ItemID": 801803,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星雷龙长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        35
+      ],
+      "PropertyValues": [
+        600,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801803,
+      "Describe": "力气+25，力气恢复+4",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_05/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 801800,
+      "ItemID": 801804,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星雷龙长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        35
+      ],
+      "PropertyValues": [
+        800,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801804,
+      "Describe": "力气+35，力气恢复+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_05/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 801800,
+      "ItemID": 801805,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星雷龙长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        35
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 801805,
+      "Describe": "力气+50，力气恢复+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_05/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 802000,
+      "ItemID": 802001,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星雷龙布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        35
+      ],
+      "PropertyValues": [
+        40,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802001,
+      "Describe": "速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_05/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 802000,
+      "ItemID": 802002,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星雷龙布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        35
+      ],
+      "PropertyValues": [
+        50,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802002,
+      "Describe": "速度+60，闪避+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_05/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 802000,
+      "ItemID": 802003,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星雷龙布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        35
+      ],
+      "PropertyValues": [
+        60,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802003,
+      "Describe": "速度+75，闪避+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_05/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 802000,
+      "ItemID": 802004,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星雷龙布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        35
+      ],
+      "PropertyValues": [
+        70,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802004,
+      "Describe": "速度+95，闪避+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_05/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 802000,
+      "ItemID": 802005,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星雷龙布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        35
+      ],
+      "PropertyValues": [
+        80,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802005,
+      "Describe": "速度+150，闪避+30",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_05/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 804100,
+      "ItemID": 804101,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星迅捷项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804101,
+      "Describe": "攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_05/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 804100,
+      "ItemID": 804102,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星迅捷项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        150
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804102,
+      "Describe": "攻击力+20，力气+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_05/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 804100,
+      "ItemID": 804103,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星迅捷项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        250
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804103,
+      "Describe": "攻击力+30，力气+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_05/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 804100,
+      "ItemID": 804104,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星迅捷项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        350
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804104,
+      "Describe": "攻击力+40，力气+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_05/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 804100,
+      "ItemID": 804105,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星迅捷项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804105,
+      "Describe": "攻击力+50，力气+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_05/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 804400,
+      "ItemID": 804401,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星迅捷戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        50
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804401,
+      "Describe": "雷抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_05/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 804400,
+      "ItemID": 804402,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星迅捷戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804402,
+      "Describe": "雷抗+30，攻击力+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_05/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 804400,
+      "ItemID": 804403,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星迅捷戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        70
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804403,
+      "Describe": "雷抗+50，攻击力+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_05/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 804400,
+      "ItemID": 804404,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星迅捷戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        90
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804404,
+      "Describe": "雷抗+70，攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_05/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 804400,
+      "ItemID": 804405,
+      "isValid": false,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星迅捷戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        38
+      ],
+      "PropertyValues": [
+        120
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 804405,
+      "Describe": "雷抗+100，攻击力+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_05/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 802200,
+      "ItemID": 802201,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星龟甲铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        400,
+        8
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802201,
+      "Describe": "物抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_06/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 802200,
+      "ItemID": 802202,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星龟甲铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        500,
+        11
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802202,
+      "Describe": "物抗+30，速度+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_06/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 802200,
+      "ItemID": 802203,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星龟甲铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        600,
+        14
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802203,
+      "Describe": "物抗+50，速度+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_06/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 802200,
+      "ItemID": 802204,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星龟甲铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        800,
+        17
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802204,
+      "Describe": "物抗+70，速度+14",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_06/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 802200,
+      "ItemID": 802205,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星龟甲铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        1000,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802205,
+      "Describe": "物抗+100，速度+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_06/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 802400,
+      "ItemID": 802401,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星龟甲长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        40,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802401,
+      "Describe": "速度+50",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_06/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 802400,
+      "ItemID": 802402,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星龟甲长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        50,
+        200
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802402,
+      "Describe": "速度+60，攻击力+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_06/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 802400,
+      "ItemID": 802403,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星龟甲长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        60,
+        300
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802403,
+      "Describe": "速度+75，攻击力+7",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_06/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 802400,
+      "ItemID": 802404,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星龟甲长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        70,
+        400
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802404,
+      "Describe": "速度+95，攻击力+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_06/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 802400,
+      "ItemID": 802405,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星龟甲长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        80,
+        600
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 802405,
+      "Describe": "速度+150，攻击力+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_06/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 804500,
+      "ItemID": 804501,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星胜利项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804501,
+      "Describe": "物抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_06/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 804500,
+      "ItemID": 804502,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星胜利项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804502,
+      "Describe": "物抗+30，力气+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_06/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 804500,
+      "ItemID": 804503,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星胜利项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804503,
+      "Describe": "物抗+50，力气+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_06/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 804500,
+      "ItemID": 804504,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星胜利项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804504,
+      "Describe": "物抗+70，力气+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_06/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 804500,
+      "ItemID": 804505,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星胜利项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804505,
+      "Describe": "物抗+100，力气+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_06/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 804800,
+      "ItemID": 804801,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星胜利戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        5,
+        5
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804801,
+      "Describe": "力气恢复+5",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_06/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 804800,
+      "ItemID": 804802,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星胜利戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        10,
+        10
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804802,
+      "Describe": "力气恢复+7，雷抗+10",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_06/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 804800,
+      "ItemID": 804803,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星胜利戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        15,
+        15
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804803,
+      "Describe": "力气恢复+10，雷抗+15",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_06/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 804800,
+      "ItemID": 804804,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星胜利戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        20,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804804,
+      "Describe": "力气恢复+14，雷抗+20",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_06/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 804800,
+      "ItemID": 804805,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星胜利戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        25,
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 804805,
+      "Describe": "力气恢复+20，雷抗+35",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_06/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 805000,
+      "ItemID": 805006,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "六星圣光使者铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        1400,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 805006,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_07/spriteFrame",
+      "Exp": 120000
+    },
+    {
+      "ID": 805200,
+      "ItemID": 805206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "六星圣光使者长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        35
+      ],
+      "PropertyValues": [
+        100,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 805206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_07/spriteFrame",
+      "Exp": 120000
+    },
+    {
+      "ID": 805300,
+      "ItemID": 805306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "六星圣光使者项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        1
+      ],
+      "PropertyValues": [
+        7000,
+        500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 805306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_07/spriteFrame",
+      "Exp": 120000
+    },
+    {
+      "ID": 805600,
+      "ItemID": 805606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "六星圣光使者戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        30,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 805606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_07/spriteFrame",
+      "Exp": 120000
+    },
+    {
+      "ID": 805700,
+      "ItemID": 805701,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星蛮牛布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        40,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805701,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_08/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 805700,
+      "ItemID": 805702,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星蛮牛布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        50,
+        200
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805702,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_08/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 805700,
+      "ItemID": 805703,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星蛮牛布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        60,
+        300
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805703,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_08/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 805700,
+      "ItemID": 805704,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星蛮牛布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        70,
+        400
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805704,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_08/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 805700,
+      "ItemID": 805705,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星蛮牛布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        1
+      ],
+      "PropertyValues": [
+        80,
+        600
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805705,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_08/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 805800,
+      "ItemID": 805801,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星蛮牛铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        500
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805801,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_08/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 805800,
+      "ItemID": 805802,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星蛮牛铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        650
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805802,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_08/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 805800,
+      "ItemID": 805803,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星蛮牛铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        800
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805803,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_08/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 805800,
+      "ItemID": 805804,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星蛮牛铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805804,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_08/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 805800,
+      "ItemID": 805805,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星蛮牛铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1300
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805805,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_08/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 805900,
+      "ItemID": 805901,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星猎豹布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        38
+      ],
+      "PropertyValues": [
+        50,
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805901,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_09/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 805900,
+      "ItemID": 805902,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星猎豹布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        38
+      ],
+      "PropertyValues": [
+        60,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805902,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_09/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 805900,
+      "ItemID": 805903,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星猎豹布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        38
+      ],
+      "PropertyValues": [
+        70,
+        50
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805903,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_09/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 805900,
+      "ItemID": 805904,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星猎豹布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        38
+      ],
+      "PropertyValues": [
+        80,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805904,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_09/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 805900,
+      "ItemID": 805905,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星猎豹布靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        38
+      ],
+      "PropertyValues": [
+        100,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 805905,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_09/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806000,
+      "ItemID": 806001,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星猎豹铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        38
+      ],
+      "PropertyValues": [
+        300,
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806001,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_09/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806000,
+      "ItemID": 806002,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星猎豹铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        38
+      ],
+      "PropertyValues": [
+        400,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806002,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_09/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806000,
+      "ItemID": 806003,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星猎豹铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        38
+      ],
+      "PropertyValues": [
+        500,
+        50
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806003,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_09/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806000,
+      "ItemID": 806004,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星猎豹铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        38
+      ],
+      "PropertyValues": [
+        650,
+        60
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806004,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_09/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806000,
+      "ItemID": 806005,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星猎豹铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        38
+      ],
+      "PropertyValues": [
+        800,
+        80
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806005,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_09/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806100,
+      "ItemID": 806101,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星野兽项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806101,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_08/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806100,
+      "ItemID": 806102,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星野兽项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806102,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_08/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806100,
+      "ItemID": 806103,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星野兽项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806103,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_08/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806100,
+      "ItemID": 806104,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星野兽项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806104,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_08/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806100,
+      "ItemID": 806105,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星野兽项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806105,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_08/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806200,
+      "ItemID": 806201,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星野兽戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        5,
+        5
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806201,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_08/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806200,
+      "ItemID": 806202,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星野兽戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        10,
+        10
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806202,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_08/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806200,
+      "ItemID": 806203,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星野兽戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        15,
+        15
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806203,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_08/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806200,
+      "ItemID": 806204,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星野兽戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        20,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806204,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_08/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806200,
+      "ItemID": 806205,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星野兽戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        25,
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806205,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_08/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806300,
+      "ItemID": 806301,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星体力项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        100,
+        8
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806301,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_09/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806300,
+      "ItemID": 806302,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星体力项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        200,
+        11
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806302,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_09/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806300,
+      "ItemID": 806303,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星体力项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        300,
+        14
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806303,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_09/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806300,
+      "ItemID": 806304,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星体力项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        400,
+        17
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806304,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_09/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806300,
+      "ItemID": 806305,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星体力项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        600,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806305,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_09/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806400,
+      "ItemID": 806401,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星体力戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        4
+      ],
+      "PropertyValues": [
+        5,
+        10
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806401,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_09/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806400,
+      "ItemID": 806402,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星体力戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        4
+      ],
+      "PropertyValues": [
+        10,
+        20
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806402,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_09/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806400,
+      "ItemID": 806403,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星体力戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        4
+      ],
+      "PropertyValues": [
+        15,
+        30
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806403,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_09/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806400,
+      "ItemID": 806404,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星体力戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        4
+      ],
+      "PropertyValues": [
+        20,
+        40
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806404,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_09/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806400,
+      "ItemID": 806405,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星体力戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        4
+      ],
+      "PropertyValues": [
+        25,
+        50
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806405,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_09/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806500,
+      "ItemID": 806501,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星钥匙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        100
+      ],
+      "Buffs": [
+        225
+      ],
+      "BuffArgs": [
+        "1"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806501,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_10/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806500,
+      "ItemID": 806502,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星钥匙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        200
+      ],
+      "Buffs": [
+        225
+      ],
+      "BuffArgs": [
+        "1"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806502,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_10/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806500,
+      "ItemID": 806503,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星钥匙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        300
+      ],
+      "Buffs": [
+        225
+      ],
+      "BuffArgs": [
+        "1"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806503,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_10/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806500,
+      "ItemID": 806504,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星钥匙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        400
+      ],
+      "Buffs": [
+        225
+      ],
+      "BuffArgs": [
+        "1"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806504,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_10/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806500,
+      "ItemID": 806505,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星钥匙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        600
+      ],
+      "Buffs": [
+        225
+      ],
+      "BuffArgs": [
+        "2"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806505,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_10/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806600,
+      "ItemID": 806601,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星幸运戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [
+        224
+      ],
+      "BuffArgs": [
+        "20"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806601,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_10/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806600,
+      "ItemID": 806602,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星幸运戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [
+        224
+      ],
+      "BuffArgs": [
+        "30"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806602,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_10/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806600,
+      "ItemID": 806603,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星幸运戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [
+        224
+      ],
+      "BuffArgs": [
+        "50"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806603,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_10/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806600,
+      "ItemID": 806604,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星幸运戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [
+        224
+      ],
+      "BuffArgs": [
+        "70"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806604,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_10/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806600,
+      "ItemID": 806605,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星幸运戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [
+        224
+      ],
+      "BuffArgs": [
+        "100"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806605,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_10/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806700,
+      "ItemID": 806701,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星渔夫戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [
+        221
+      ],
+      "BuffArgs": [
+        "20"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806701,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_11/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806700,
+      "ItemID": 806702,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星渔夫戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [
+        221
+      ],
+      "BuffArgs": [
+        "30"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806702,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_11/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806700,
+      "ItemID": 806703,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星渔夫戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [
+        221
+      ],
+      "BuffArgs": [
+        "50"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806703,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_11/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806700,
+      "ItemID": 806704,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星渔夫戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [
+        221
+      ],
+      "BuffArgs": [
+        "70"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806704,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_11/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806700,
+      "ItemID": 806705,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星渔夫戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [
+        221
+      ],
+      "BuffArgs": [
+        "100"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806705,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_11/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806800,
+      "ItemID": 806801,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星木材戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [
+        222
+      ],
+      "BuffArgs": [
+        "5"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806801,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_12/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806800,
+      "ItemID": 806802,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星木材戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [
+        222
+      ],
+      "BuffArgs": [
+        "8"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806802,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_12/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806800,
+      "ItemID": 806803,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星木材戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [
+        222
+      ],
+      "BuffArgs": [
+        "10"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806803,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_12/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806800,
+      "ItemID": 806804,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星木材戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [
+        222
+      ],
+      "BuffArgs": [
+        "12"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806804,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_12/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806800,
+      "ItemID": 806805,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星木材戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [
+        222
+      ],
+      "BuffArgs": [
+        "15"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806805,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_12/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 806900,
+      "ItemID": 806901,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星建筑项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        100
+      ],
+      "Buffs": [
+        220
+      ],
+      "BuffArgs": [
+        "5"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806901,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_11/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 806900,
+      "ItemID": 806902,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星建筑项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        200
+      ],
+      "Buffs": [
+        220
+      ],
+      "BuffArgs": [
+        "8"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806902,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_11/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 806900,
+      "ItemID": 806903,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星建筑项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        300
+      ],
+      "Buffs": [
+        220
+      ],
+      "BuffArgs": [
+        "12"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806903,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_11/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 806900,
+      "ItemID": 806904,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星建筑项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        400
+      ],
+      "Buffs": [
+        220
+      ],
+      "BuffArgs": [
+        "16"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806904,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_11/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 806900,
+      "ItemID": 806905,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星建筑项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        600
+      ],
+      "Buffs": [
+        220
+      ],
+      "BuffArgs": [
+        "20"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 806905,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_11/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 807000,
+      "ItemID": 807001,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星宠物戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [
+        223
+      ],
+      "BuffArgs": [
+        "5"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807001,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_13/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 807000,
+      "ItemID": 807002,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星宠物戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [
+        223
+      ],
+      "BuffArgs": [
+        "8"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807002,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_13/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 807000,
+      "ItemID": 807003,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星宠物戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [
+        223
+      ],
+      "BuffArgs": [
+        "10"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807003,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_13/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 807000,
+      "ItemID": 807004,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星宠物戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [
+        223
+      ],
+      "BuffArgs": [
+        "12"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807004,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_13/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 807000,
+      "ItemID": 807005,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星宠物戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [
+        223
+      ],
+      "BuffArgs": [
+        "15"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807005,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_13/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 807100,
+      "ItemID": 807101,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 1,
+      "Name": "一星宠爱戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        3000
+      ],
+      "Buffs": [
+        173
+      ],
+      "BuffArgs": [
+        "1"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807101,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_14/spriteFrame",
+      "Exp": 500
+    },
+    {
+      "ID": 807100,
+      "ItemID": 807102,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 2,
+      "Name": "二星宠爱戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        4000
+      ],
+      "Buffs": [
+        173
+      ],
+      "BuffArgs": [
+        "3"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807102,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_14/spriteFrame",
+      "Exp": 2000
+    },
+    {
+      "ID": 807100,
+      "ItemID": 807103,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 3,
+      "Name": "三星宠爱戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        5000
+      ],
+      "Buffs": [
+        173
+      ],
+      "BuffArgs": [
+        "5"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807103,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_14/spriteFrame",
+      "Exp": 10000
+    },
+    {
+      "ID": 807100,
+      "ItemID": 807104,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 4,
+      "Name": "四星宠爱戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        6000
+      ],
+      "Buffs": [
+        173
+      ],
+      "BuffArgs": [
+        "7"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807104,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_14/spriteFrame",
+      "Exp": 35000
+    },
+    {
+      "ID": 807100,
+      "ItemID": 807105,
+      "isValid": true,
+      "StarMax": 5,
+      "Star": 5,
+      "Name": "五星宠爱戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        7000
+      ],
+      "Buffs": [
+        173
+      ],
+      "BuffArgs": [
+        "10"
+      ],
+      "Quality": 0,
+      "Weight": 100,
+      "Order": 807105,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_14/spriteFrame",
+      "Exp": 80000
+    },
+    {
+      "ID": 807200,
+      "ItemID": 807206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "炼狱魔龙长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        1500,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_14/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807300,
+      "ItemID": 807306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "炼狱魔龙长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24,
+        38
+      ],
+      "PropertyValues": [
+        100,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_14/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807400,
+      "ItemID": 807406,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "炼狱魔龙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        4
+      ],
+      "PropertyValues": [
+        8000,
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807406,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_14/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807500,
+      "ItemID": 807506,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "炼狱魔龙戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        30,
+        50
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807506,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_15/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807600,
+      "ItemID": 807606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "不朽冥王项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        5
+      ],
+      "PropertyValues": [
+        5000,
+        15
+      ],
+      "Buffs": [
+        287,
+        267
+      ],
+      "BuffArgs": [
+        "1,100",
+        "0,30"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807806,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_15/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807700,
+      "ItemID": 807706,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "毁灭冥王戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39
+      ],
+      "PropertyValues": [
+        33
+      ],
+      "Buffs": [
+        268
+      ],
+      "BuffArgs": [
+        "66,66"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807906,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_16/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807800,
+      "ItemID": 807806,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "神圣均衡盔甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        5
+      ],
+      "PropertyValues": [
+        15
+      ],
+      "Buffs": [
+        278,
+        284
+      ],
+      "BuffArgs": [
+        "-20",
+        "50"
+      ],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 808006,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_15/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 807900,
+      "ItemID": 807906,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "治愈行者长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        24
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [
+        279
+      ],
+      "BuffArgs": [
+        "1000,2"
+      ],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 808106,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_15/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808000,
+      "ItemID": 808006,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "无尽炽炎项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33
+      ],
+      "PropertyValues": [
+        500,
+        100
+      ],
+      "Buffs": [
+        280
+      ],
+      "BuffArgs": [
+        "500,2.5"
+      ],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 808206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_16/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808100,
+      "ItemID": 808106,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "不动磐石戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        800,
+        100
+      ],
+      "Buffs": [
+        281
+      ],
+      "BuffArgs": [
+        "1000,20,5"
+      ],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 808306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_17/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808200,
+      "ItemID": 808206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "嗜血冥王斗篷",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [
+        313
+      ],
+      "BuffArgs": [
+        "30"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_16/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808300,
+      "ItemID": 808306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "嗜血冥王长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24
+      ],
+      "PropertyValues": [
+        120
+      ],
+      "Buffs": [
+        341
+      ],
+      "BuffArgs": [
+        "2,100"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 807706,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_16/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808400,
+      "ItemID": 808406,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "鸣风之舞长袍",
+      "Type": 1,
+      "skillId": [
+        1002
+      ],
+      "PropertyIDs": [
+        24,
+        5
+      ],
+      "PropertyValues": [
+        50,
+        20
+      ],
+      "Buffs": [
+        332
+      ],
+      "BuffArgs": [
+        "10,250"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 808406,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_17/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808500,
+      "ItemID": 808506,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "鸣风之舞长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24
+      ],
+      "PropertyValues": [
+        150
+      ],
+      "Buffs": [
+        320
+      ],
+      "BuffArgs": [
+        "5000,15,150"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 808506,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_17/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808600,
+      "ItemID": 808606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "疾风守御项链",
+      "Type": 5,
+      "skillId": [
+        1001
+      ],
+      "PropertyIDs": [
+        2,
+        24
+      ],
+      "PropertyValues": [
+        10000,
+        50
+      ],
+      "Buffs": [
+        333
+      ],
+      "BuffArgs": [
+        "20,20"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 808606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_17/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808700,
+      "ItemID": 808706,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "极冻冰霜指环",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        36
+      ],
+      "PropertyValues": [
+        10000,
+        100
+      ],
+      "Buffs": [
+        322
+      ],
+      "BuffArgs": [
+        "Ice,1000,10,1.6"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 808706,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_18/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808800,
+      "ItemID": 808806,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "时光折跃长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [
+        348
+      ],
+      "BuffArgs": [
+        "-15"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 808806,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_18/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 808900,
+      "ItemID": 808906,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "时光折跃长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        24
+      ],
+      "PropertyValues": [
+        800,
+        120
+      ],
+      "Buffs": [
+        652
+      ],
+      "BuffArgs": [
+        "-10"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 808906,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_18/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809000,
+      "ItemID": 809006,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "女神祝福项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        4,
+        5
+      ],
+      "PropertyValues": [
+        100,
+        25
+      ],
+      "Buffs": [
+        351
+      ],
+      "BuffArgs": [
+        "25,30"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809006,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_18/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809100,
+      "ItemID": 809106,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "女神祝福戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1000
+      ],
+      "Buffs": [
+        350
+      ],
+      "BuffArgs": [
+        "25,30"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809106,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_19/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809200,
+      "ItemID": 809206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "厄焰之息盔甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        33,
+        5
+      ],
+      "PropertyValues": [
+        1000,
+        100,
+        15
+      ],
+      "Buffs": [
+        284
+      ],
+      "BuffArgs": [
+        "30"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_19/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809300,
+      "ItemID": 809306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "厄焰之息长靴",
+      "Type": 3,
+      "skillId": [
+        1004
+      ],
+      "PropertyIDs": [
+        1,
+        32,
+        24
+      ],
+      "PropertyValues": [
+        500,
+        100,
+        120
+      ],
+      "Buffs": [
+        438
+      ],
+      "BuffArgs": [
+        "40,5,3"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_19/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809400,
+      "ItemID": 809406,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "熔岩之心项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        4
+      ],
+      "PropertyValues": [
+        10000,
+        100
+      ],
+      "Buffs": [
+        390
+      ],
+      "BuffArgs": [
+        "Fire,5,10000"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809406,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_19/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809500,
+      "ItemID": 809506,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "炽焰焚天戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        39
+      ],
+      "PropertyValues": [
+        5000,
+        40
+      ],
+      "Buffs": [
+        391
+      ],
+      "BuffArgs": [
+        "Fire,50,5000,20"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809506,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_20/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809600,
+      "ItemID": 809606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "血纹伏击之戒",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        39
+      ],
+      "PropertyValues": [
+        5000,
+        35
+      ],
+      "Buffs": [
+        461
+      ],
+      "BuffArgs": [
+        "4000"
+      ],
+      "Quality": 1,
+      "Weight": 100,
+      "Order": 809606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_21/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809700,
+      "ItemID": 809706,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "剧毒藤花长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        34,
+        1,
+        40
+      ],
+      "PropertyValues": [
+        100,
+        2000,
+        50
+      ],
+      "Buffs": [
+        466
+      ],
+      "BuffArgs": [
+        "Poison,25"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809706,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_20/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809800,
+      "ItemID": 809806,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "腐化孢子项链",
+      "Type": 5,
+      "skillId": [
+        1007
+      ],
+      "PropertyIDs": [
+        2,
+        5
+      ],
+      "PropertyValues": [
+        8000,
+        15
+      ],
+      "Buffs": [
+        476,
+        479
+      ],
+      "BuffArgs": [
+        "Poison,1.08",
+        "15"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809806,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_20/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 809900,
+      "ItemID": 809906,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "荒漠虫王板甲",
+      "Type": 1,
+      "skillId": [
+        1008
+      ],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1000
+      ],
+      "Buffs": [
+        284,
+        501
+      ],
+      "BuffArgs": [
+        "35",
+        "25,2.5,15"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 809906,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_21/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810000,
+      "ItemID": 810006,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "虫王之蚀戒指",
+      "Type": 7,
+      "skillId": [],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        30,
+        50
+      ],
+      "Buffs": [
+        487,
+        500
+      ],
+      "BuffArgs": [
+        "12,25,1.5",
+        "1.5"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810006,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_22/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810100,
+      "ItemID": 810106,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "荆棘之心铠甲",
+      "Type": 1,
+      "skillId": [
+        1009
+      ],
+      "PropertyIDs": [
+        1,
+        32
+      ],
+      "PropertyValues": [
+        1000,
+        100
+      ],
+      "Buffs": [
+        284,
+        517
+      ],
+      "BuffArgs": [
+        "40",
+        "500,300,50,15,10"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810106,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_22/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810200,
+      "ItemID": 810206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "荒漠妖花项链",
+      "Type": 5,
+      "skillId": [
+        1010
+      ],
+      "PropertyIDs": [
+        1,
+        5
+      ],
+      "PropertyValues": [
+        1500,
+        15
+      ],
+      "Buffs": [
+        510,
+        515
+      ],
+      "BuffArgs": [
+        "Normal,10",
+        "500,1,10,20"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_21/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810300,
+      "ItemID": 810306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "燃焰之迹长靴",
+      "Type": 3,
+      "skillId": [
+        1011
+      ],
+      "PropertyIDs": [
+        24,
+        33
+      ],
+      "PropertyValues": [
+        100,
+        100
+      ],
+      "Buffs": [
+        518,
+        519
+      ],
+      "BuffArgs": [
+        "150,5",
+        "4,5"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_20/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810400,
+      "ItemID": 810406,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "黄金王之戒",
+      "Type": 7,
+      "skillId": [
+        1012
+      ],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        12000
+      ],
+      "Buffs": [
+        534
+      ],
+      "BuffArgs": [
+        "50,0.5"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810406,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_23/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810500,
+      "ItemID": 810506,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "远古蟹宝戒指",
+      "Type": 7,
+      "skillId": [
+        1013
+      ],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [
+        551
+      ],
+      "BuffArgs": [
+        "500,8"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810506,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_24/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810600,
+      "ItemID": 810606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "恩比卢卢之足",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24
+      ],
+      "PropertyValues": [
+        100
+      ],
+      "Buffs": [],
+      "BuffArgs": [],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_21/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810700,
+      "ItemID": 810706,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "魔术漫步长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        24
+      ],
+      "PropertyValues": [
+        120
+      ],
+      "Buffs": [
+        652
+      ],
+      "BuffArgs": [
+        "-12"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810706,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_22/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810800,
+      "ItemID": 810806,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "夜幕之咒长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        39
+      ],
+      "PropertyValues": [
+        1500,
+        30
+      ],
+      "Buffs": [
+        583,
+        581
+      ],
+      "BuffArgs": [
+        "None,15",
+        "25"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810806,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_23/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 810900,
+      "ItemID": 810906,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "夜幕之咒长靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        24
+      ],
+      "PropertyValues": [
+        500,
+        100
+      ],
+      "Buffs": [
+        584,
+        585
+      ],
+      "BuffArgs": [
+        "20",
+        "100"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 810906,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_23/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811000,
+      "ItemID": 811006,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "深海之心项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        4
+      ],
+      "PropertyValues": [
+        12000,
+        100
+      ],
+      "Buffs": [
+        640
+      ],
+      "BuffArgs": [
+        "12"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811006,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_22/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811100,
+      "ItemID": 811106,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "阿比霍斯之戒",
+      "Type": 7,
+      "skillId": [
+        1018
+      ],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        50,
+        35
+      ],
+      "Buffs": [
+        639
+      ],
+      "BuffArgs": [
+        "30,300,3"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811106,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_25/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811200,
+      "ItemID": 811206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "雷鸣之息项链",
+      "Type": 5,
+      "skillId": [
+        1019
+      ],
+      "PropertyIDs": [
+        35,
+        2
+      ],
+      "PropertyValues": [
+        100,
+        10000
+      ],
+      "Buffs": [
+        644,
+        645
+      ],
+      "BuffArgs": [
+        "6",
+        "35,6,2"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_23/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811300,
+      "ItemID": 811306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "永恒珊瑚铠甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [
+        284,
+        665
+      ],
+      "BuffArgs": [
+        "45",
+        "2"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_24/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811400,
+      "ItemID": 811406,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "狩灵幽魂戒指",
+      "Type": 7,
+      "skillId": [
+        1020
+      ],
+      "PropertyIDs": [
+        2
+      ],
+      "PropertyValues": [
+        10000
+      ],
+      "Buffs": [
+        666,
+        667
+      ],
+      "BuffArgs": [
+        "-10",
+        "120"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811406,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_26/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811500,
+      "ItemID": 811506,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "荒野迅牙项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        39
+      ],
+      "PropertyValues": [
+        8000,
+        20
+      ],
+      "Buffs": [
+        683
+      ],
+      "BuffArgs": [
+        "15,1000"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811506,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_24/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811600,
+      "ItemID": 811606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "永夜支配骨甲",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        2
+      ],
+      "PropertyValues": [
+        2500,
+        8000
+      ],
+      "Buffs": [
+        690
+      ],
+      "BuffArgs": [
+        "15"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_25/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811700,
+      "ItemID": 811706,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "永夜支配骨靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        32,
+        24
+      ],
+      "PropertyValues": [
+        100,
+        100
+      ],
+      "Buffs": [
+        691
+      ],
+      "BuffArgs": [
+        "12"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811706,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_24/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811800,
+      "ItemID": 811806,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "静谧潮汐长袍",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        2
+      ],
+      "PropertyValues": [
+        1500,
+        15000
+      ],
+      "Buffs": [
+        706
+      ],
+      "BuffArgs": [
+        "5,3000"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811806,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_26/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 811900,
+      "ItemID": 811906,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "静谧潮汐长靴",
+      "Type": 3,
+      "skillId": [
+        1022
+      ],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        120,
+        100
+      ],
+      "Buffs": [
+        711
+      ],
+      "BuffArgs": [
+        "50,200,10"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 811906,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_25/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812000,
+      "ItemID": 812006,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "至高冥王戒指",
+      "Type": 7,
+      "skillId": [
+        1025
+      ],
+      "PropertyIDs": [
+        39,
+        40
+      ],
+      "PropertyValues": [
+        33,
+        33
+      ],
+      "Buffs": [
+        743
+      ],
+      "BuffArgs": [
+        "3,66"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812006,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_27/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812100,
+      "ItemID": 812106,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "至高冥王项链",
+      "Type": 5,
+      "skillId": [],
+      "PropertyIDs": [
+        2,
+        4
+      ],
+      "PropertyValues": [
+        12000,
+        100
+      ],
+      "Buffs": [
+        755
+      ],
+      "BuffArgs": [
+        "50"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812106,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/necklace_25/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812200,
+      "ItemID": 812206,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "风暴雷罚上衣",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        39,
+        35
+      ],
+      "PropertyValues": [
+        2000,
+        30,
+        100
+      ],
+      "Buffs": [
+        766
+      ],
+      "BuffArgs": [
+        "20,3000,999900"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812206,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_27/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812300,
+      "ItemID": 812306,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "风暴雷罚短靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        4,
+        24
+      ],
+      "PropertyValues": [
+        100,
+        150
+      ],
+      "Buffs": [
+        767
+      ],
+      "BuffArgs": [
+        "3,1000,200"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812306,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_26/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812400,
+      "ItemID": 812406,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "无畏黑曜重铠",
+      "Type": 1,
+      "skillId": [],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [
+        284,
+        788
+      ],
+      "BuffArgs": [
+        "30",
+        "20,500"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812406,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/clothes_28/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812500,
+      "ItemID": 812506,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "无畏黑曜战靴",
+      "Type": 3,
+      "skillId": [],
+      "PropertyIDs": [
+        1,
+        32,
+        24
+      ],
+      "PropertyValues": [
+        1000,
+        100,
+        100
+      ],
+      "Buffs": [
+        789
+      ],
+      "BuffArgs": [
+        "20,500"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812506,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_27/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812600,
+      "ItemID": 812606,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "冰霜之迹长靴",
+      "Type": 3,
+      "skillId": [
+        1029
+      ],
+      "PropertyIDs": [
+        24,
+        36
+      ],
+      "PropertyValues": [
+        100,
+        100
+      ],
+      "Buffs": [
+        518,
+        818
+      ],
+      "BuffArgs": [
+        "150,5",
+        "4,5"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812606,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/shoes_28/spriteFrame",
+      "Exp": 140000
+    },
+    {
+      "ID": 812700,
+      "ItemID": 812706,
+      "isValid": true,
+      "StarMax": 6,
+      "Star": 6,
+      "Name": "远古雪国护戒",
+      "Type": 7,
+      "skillId": [
+        1030
+      ],
+      "PropertyIDs": [
+        1
+      ],
+      "PropertyValues": [
+        1500
+      ],
+      "Buffs": [
+        826
+      ],
+      "BuffArgs": [
+        "30"
+      ],
+      "Quality": 1,
+      "Weight": 0,
+      "Order": 812706,
+      "Describe": "",
+      "Icon": "arena/ui/layers/item/icons/equipment/ring_28/spriteFrame",
+      "Exp": 140000
+    }
+  ]
+}

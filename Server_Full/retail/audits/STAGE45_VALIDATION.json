@@ -1,0 +1,86 @@
+{
+  "stage": 45,
+  "client": "3.12.7",
+  "fullTests": {
+    "tests": 354,
+    "pass": 354,
+    "fail": 0
+  },
+  "focusedTests": {
+    "tests": 93,
+    "pass": 93,
+    "fail": 0
+  },
+  "previousTargetedTests": {
+    "tests": 122,
+    "pass": 122,
+    "fail": 0
+  },
+  "website": {
+    "changedThisStage": false,
+    "cumulativePatchFiles": [
+      {
+        "path": "Website_Full/lib/user-ingame-page.js",
+        "sha256": "150871fef2d94fd9783634cd0be5d03f2c36c83f3273fa8163ca8ff544bf4715"
+      },
+      {
+        "path": "Website_Full/public/admin-console.js",
+        "sha256": "413d021d17a5732916602bbbb65de26cb50f485d1045f6115c2a821d5cbea172"
+      },
+      {
+        "path": "Website_Full/public/admin-mail.js",
+        "sha256": "83b1e4ed039bdc3e4246346c46d83d3c10467f4e57bfec0495c126dee3ee80eb"
+      },
+      {
+        "path": "Website_Full/public/shop-assets/items.json",
+        "sha256": "8ac51d0857584c59aa1057b5c882bae1411b30d407ff455493015ec1d4cc5bc9"
+      },
+      {
+        "path": "Website_Full/public/user-ingame.js",
+        "sha256": "98c4e621069ac160636c2661c793c234556cb17f7712ab935de95725f3581cc0"
+      },
+      {
+        "path": "Website_Full/public/user-mounts.js",
+        "sha256": "df427e4c2fc36bd3f8759e6d76af0568e92793be5308e205e9aca3c12cf5e97f"
+      },
+      {
+        "path": "Website_Full/tests/admin-mail-browser.test.js",
+        "sha256": "4f0fc2f8561813fd9079793fd55cafe02c0494f00f3e03a36c7683b1cb00973f"
+      },
+      {
+        "path": "Website_Full/tests/mail-browser-harness.js",
+        "sha256": "8755c97367a4f28e0932ddcfc5e0943e8943787a700f68fbc93a7e0b634ffc84"
+      }
+    ],
+    "verification": "Identical bytes to Stage44; prior website suite 38/38 reused."
+  },
+  "newStage45Tests": 14,
+  "legacyTestExpectationsUpdated": 17,
+  "legacyTestExplanation": "Old expectations described superseded 27 NPC / 8 walls / 4 bridges and removed launchers; current approved layout contains 22 NPC/guards, 32 fences, 4 bridges. Layout assertions retained and updated. Missing migration launcher restored. These were not 17 confirmed live defects.",
+  "clientOwnedScenery": 2827,
+  "clientOwnedUniquePrefabs": 57,
+  "nativeImportsVerified": 42,
+  "runtimeFixes": [
+    "Disabled city objects no longer leave static build/AI collision checks enabled.",
+    "Synchronous city packet encode/transport errors retain pending queue and counters for a throttled retry.",
+    "Only exact duplicate optional decor is suppressed; operator fences/bridges/NPCs preserved.",
+    "Validated deferred spawn mode matches world and diagnostics."
+  ],
+  "transportLimit": "Enqueued transport success is not proof of client rendering or delivery acknowledgement. No protocol-level city ACK is present.",
+  "migration": {
+    "automatic": false,
+    "dryRun": "node Server/tools/migrate-stage30.js",
+    "apply": "node Server/tools/migrate-stage30.js --apply",
+    "conflictingSavesOverwritten": false,
+    "legacyFoldersKeptInBackup": true,
+    "tests": 4,
+    "limitations": "Stop server/site first. On interrupted I/O, inspect reported files and retained original data before retrying; this is not a crash-atomic database transaction."
+  },
+  "nativeClientIndexModified": false,
+  "originalInteractiveServerPlacementsRecovered": false,
+  "limitations": [
+    "Server scene_placements.json is only referenced by external editor path; original interactive object coordinates not recovered. Existing operator layout preserved.",
+    "Windows/Cocos rendering not verified here.",
+    "All unresolved gameplay/event/pass/pet/mount/AI/skill limits in Stage44/43/42 remain; full 1:1 restoration is incomplete."
+  ]
+}

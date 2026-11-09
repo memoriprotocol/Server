@@ -1,0 +1,27 @@
+{
+  "fishPond": [
+    {
+      "ID": 1,
+      "FishPond": [
+        700,
+        900
+      ],
+      "LeftOffset": [
+        0,
+        -58
+      ],
+      "LeftSize": [
+        200,
+        400
+      ],
+      "RightOffset": [
+        0,
+        38
+      ],
+      "RightSize": [
+        200,
+        400
+      ]
+    }
+  ]
+}

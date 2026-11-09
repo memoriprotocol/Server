@@ -1,0 +1,1261 @@
+{
+  "SuitContent": [
+    {
+      "ID": 900100,
+      "Name": "猛犸套装",
+      "SuitParts": [
+        800200,
+        800400
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        760
+      ],
+      "SpecialBuffArgs": [
+        "propValue:Normal|1.15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：来自怪物/boss的伤害减少20%"
+    },
+    {
+      "ID": 900200,
+      "Name": "毒蛇套装",
+      "SuitParts": [
+        800600,
+        800800
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        756
+      ],
+      "SpecialBuffArgs": [
+        "propValue:Poison|1.15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：毒抗+150"
+    },
+    {
+      "ID": 900300,
+      "Name": "凤凰套装",
+      "SuitParts": [
+        801000,
+        801200
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        758
+      ],
+      "SpecialBuffArgs": [
+        "propValue:Fire|1.15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：火抗+150"
+    },
+    {
+      "ID": 900400,
+      "Name": "冰熊套装",
+      "SuitParts": [
+        801400,
+        801600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        757
+      ],
+      "SpecialBuffArgs": [
+        "propValue:Ice|1.15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：冰抗+150"
+    },
+    {
+      "ID": 900500,
+      "Name": "雷龙套装",
+      "SuitParts": [
+        801800,
+        802000
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        759
+      ],
+      "SpecialBuffArgs": [
+        "propValue:Thunder|1.15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：雷抗+150"
+    },
+    {
+      "ID": 900600,
+      "Name": "龟甲套装",
+      "SuitParts": [
+        802200,
+        802400
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        762
+      ],
+      "SpecialBuffArgs": [
+        "propValue:15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：来自玩家的伤害减少20%"
+    },
+    {
+      "ID": 900900,
+      "Name": "丰饶套装",
+      "SuitParts": [
+        803300,
+        803600
+      ],
+      "PartsNumber": [
+        2
+      ],
+      "PropertyIDs": [
+        "resAbility"
+      ],
+      "PropertyValues": [
+        "3000"
+      ],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：采集+30"
+    },
+    {
+      "ID": 901200,
+      "Name": "胜利套装",
+      "SuitParts": [
+        804500,
+        804800
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        169
+      ],
+      "SpecialBuffArgs": [
+        "propValue:15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：对玩家的伤害增加15%"
+    },
+    {
+      "ID": 901300,
+      "Name": "圣光使者套装",
+      "SuitParts": [
+        805000,
+        805200,
+        805300,
+        805600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2,
+        4,
+        4
+      ],
+      "SpecialBuffs": [
+        166,
+        170,
+        624
+      ],
+      "SpecialBuffArgs": [
+        "propValue:20",
+        "propValue:15",
+        "propValue:0"
+      ],
+      "skillNumbers": 4,
+      "skillId": [
+        1017
+      ],
+      "iconPath": "",
+      "Describe": "两件套：采集+60；四件套：来自boss的伤害减少15%"
+    },
+    {
+      "ID": 901400,
+      "Name": "蛮牛套装",
+      "SuitParts": [
+        805700,
+        805800
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        217
+      ],
+      "SpecialBuffArgs": [
+        "propValue:15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：自身血量上限提升15%"
+    },
+    {
+      "ID": 901500,
+      "Name": "猎豹套装",
+      "SuitParts": [
+        805900,
+        806000
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        761
+      ],
+      "SpecialBuffArgs": [
+        "propValue:15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：自身闪避提升15%"
+    },
+    {
+      "ID": 901600,
+      "Name": "野兽套装",
+      "SuitParts": [
+        806100,
+        806200
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        165
+      ],
+      "SpecialBuffArgs": [
+        "propValue:15"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：对怪物/boss的伤害增加10%"
+    },
+    {
+      "ID": 901700,
+      "Name": "体力套装",
+      "SuitParts": [
+        806300,
+        806400
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        219
+      ],
+      "SpecialBuffArgs": [
+        "propValue:20"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "两件套：自身体力上限提升15%"
+    },
+    {
+      "ID": 901800,
+      "Name": "宝箱概率",
+      "SuitParts": [
+        806500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：增加3-5阶武器爆出概率"
+    },
+    {
+      "ID": 901900,
+      "Name": "开箱效率",
+      "SuitParts": [
+        806600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：提高开宝箱效率"
+    },
+    {
+      "ID": 902000,
+      "Name": "钓鱼套装",
+      "SuitParts": [
+        806700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：提高钓鱼获得经验值"
+    },
+    {
+      "ID": 902100,
+      "Name": "建材套装",
+      "SuitParts": [
+        806800
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：减少建筑所需耗材"
+    },
+    {
+      "ID": 902200,
+      "Name": "建筑套装",
+      "SuitParts": [
+        806900
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：增加建筑血量"
+    },
+    {
+      "ID": 902300,
+      "Name": "宠物套装",
+      "SuitParts": [
+        807000
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：宠物受到的伤害减少"
+    },
+    {
+      "ID": 902400,
+      "Name": "生命套装",
+      "SuitParts": [
+        807100
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：宠物增加生命上限"
+    },
+    {
+      "ID": 902500,
+      "Name": "炼狱魔龙套装",
+      "SuitParts": [
+        807200,
+        807300,
+        807400,
+        807500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2,
+        4,
+        4
+      ],
+      "SpecialBuffs": [
+        169,
+        165,
+        250
+      ],
+      "SpecialBuffArgs": [
+        "propValue:15",
+        "propValue:20",
+        "interval:60000"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 902600,
+      "Name": "不朽冥王项链",
+      "SuitParts": [
+        807600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：收集怪物灵魂，每个灵魂+1攻击（上限100），生命值少于10%时，消耗所有灵魂，每个灵魂恢复20点生命值"
+    },
+    {
+      "ID": 902700,
+      "Name": "毁灭冥王戒指",
+      "SuitParts": [
+        807700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：自身血量少于50%，暴击率+100"
+    },
+    {
+      "ID": 902800,
+      "Name": "神圣均衡盔甲",
+      "SuitParts": [
+        807800
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：基础攻击力降低40%，生命值增加80%"
+    },
+    {
+      "ID": 902900,
+      "Name": "治愈行者长靴",
+      "SuitParts": [
+        807900
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：每移动1000码，生命值恢复1%"
+    },
+    {
+      "ID": 903000,
+      "Name": "无尽炽炎项链",
+      "SuitParts": [
+        808000
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：对500码内的敌人造成每秒1%的最大生命值伤害"
+    },
+    {
+      "ID": 903100,
+      "Name": "不动磐石戒指",
+      "SuitParts": [
+        808100
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：1000码内每有一个敌人，物抗增加100，上限400"
+    },
+    {
+      "ID": 903200,
+      "Name": "嗜血冥王套装",
+      "SuitParts": [
+        808200,
+        808300
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 2,
+      "skillId": [
+        1000
+      ],
+      "iconPath": "",
+      "Describe": "附加效果：扣除自身最大生命值10%血量，攻击速度+10%，可叠加（最多5成），持续xx秒"
+    },
+    {
+      "ID": 903300,
+      "Name": "鸣风之舞套装",
+      "SuitParts": [
+        808400,
+        808500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        318
+      ],
+      "SpecialBuffArgs": [
+        "propValue:0"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1006
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 903400,
+      "Name": "疾风守御项链",
+      "SuitParts": [
+        808600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 903500,
+      "Name": "极冻冰霜指环",
+      "SuitParts": [
+        808700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 903600,
+      "Name": "时光折跃套装",
+      "SuitParts": [
+        808800,
+        808900
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        349
+      ],
+      "SpecialBuffArgs": [
+        "propValue:0.5"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：释放武器主动技能时，武器栏内其他武器主动技能剩余冷却时间-2秒"
+    },
+    {
+      "ID": 903700,
+      "Name": "女神祝福套装",
+      "SuitParts": [
+        809000,
+        809100
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        352
+      ],
+      "SpecialBuffArgs": [
+        "propValue:100"
+      ],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：释放武器主动技能时，增加50%移动速度，持续2s"
+    },
+    {
+      "ID": 903800,
+      "Name": "厄焰之息套装",
+      "SuitParts": [
+        809200,
+        809300
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        394
+      ],
+      "SpecialBuffArgs": [
+        "propValue:20"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1003
+      ],
+      "iconPath": "",
+      "Describe": "附加效果：获得5s控制免疫和35%移动速度加成"
+    },
+    {
+      "ID": 903900,
+      "Name": "熔岩之心项链",
+      "SuitParts": [
+        809400
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904000,
+      "Name": "炽焰焚天戒指",
+      "SuitParts": [
+        809500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904100,
+      "Name": "血纹伏击之戒",
+      "SuitParts": [
+        809600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904200,
+      "Name": "剧毒藤花长袍",
+      "SuitParts": [
+        809700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：自身造成毒属性伤害时有25%吸血效果"
+    },
+    {
+      "ID": 904300,
+      "Name": "腐化孢子项链",
+      "SuitParts": [
+        809800
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": "附加效果：毒属性伤害+15%。造成毒属性伤害时，有15%概率在命中位置生成一团毒云，持续5s"
+    },
+    {
+      "ID": 904400,
+      "Name": "荒漠虫王板甲",
+      "SuitParts": [
+        809900
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904500,
+      "Name": "虫王之蚀戒指",
+      "SuitParts": [
+        810000
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904600,
+      "Name": "荆棘之心铠甲",
+      "SuitParts": [
+        810100
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904700,
+      "Name": "荒漠妖花项链",
+      "SuitParts": [
+        810200
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904800,
+      "Name": "燃焰之迹长靴",
+      "SuitParts": [
+        810300
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 904900,
+      "Name": "黄金王之戒",
+      "SuitParts": [
+        810400
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905000,
+      "Name": "远古蟹宝戒指",
+      "SuitParts": [
+        810500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905100,
+      "Name": "恩比卢卢之足",
+      "SuitParts": [
+        810600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 1,
+      "skillId": [
+        1014
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905200,
+      "Name": "魔术漫步长靴",
+      "SuitParts": [
+        810700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 1,
+      "skillId": [
+        1015
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905300,
+      "Name": "夜幕之咒套装",
+      "SuitParts": [
+        810800,
+        810900
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 2,
+      "skillId": [
+        1016
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905400,
+      "Name": "深海之心项链",
+      "SuitParts": [
+        811000
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905500,
+      "Name": "阿比霍斯之戒",
+      "SuitParts": [
+        811100
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905600,
+      "Name": "雷鸣之息项链",
+      "SuitParts": [
+        811200
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905700,
+      "Name": "永恒珊瑚铠甲",
+      "SuitParts": [
+        811300
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905800,
+      "Name": "狩灵幽魂戒指",
+      "SuitParts": [
+        811400
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 905900,
+      "Name": "荒野迅牙项链",
+      "SuitParts": [
+        811500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906000,
+      "Name": "永夜支配套装",
+      "SuitParts": [
+        811600,
+        811700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        692
+      ],
+      "SpecialBuffArgs": [
+        "propValue:200"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1021
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906100,
+      "Name": "静谧潮汐套装",
+      "SuitParts": [
+        811800,
+        811900
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        708
+      ],
+      "SpecialBuffArgs": [
+        "propValue:-25"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1023
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906200,
+      "Name": "永恒冥王套装",
+      "SuitParts": [
+        812000,
+        812100
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        745
+      ],
+      "SpecialBuffArgs": [
+        "propValue:0"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1026
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906300,
+      "Name": "蓄电套装",
+      "SuitParts": [
+        812200,
+        812300
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        784
+      ],
+      "SpecialBuffArgs": [
+        "propValue:0"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1027
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906400,
+      "Name": "无畏女神套装",
+      "SuitParts": [
+        812400,
+        812500
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [
+        2
+      ],
+      "SpecialBuffs": [
+        793
+      ],
+      "SpecialBuffArgs": [
+        "propValue:10"
+      ],
+      "skillNumbers": 2,
+      "skillId": [
+        1028
+      ],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906500,
+      "Name": "冰霜之迹长靴",
+      "SuitParts": [
+        812600
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    },
+    {
+      "ID": 906600,
+      "Name": "冰霜钻石戒指",
+      "SuitParts": [
+        812700
+      ],
+      "PartsNumber": [],
+      "PropertyIDs": [],
+      "PropertyValues": [],
+      "SpecialNumbers": [],
+      "SpecialBuffs": [],
+      "SpecialBuffArgs": [],
+      "skillNumbers": 0,
+      "skillId": [],
+      "iconPath": "",
+      "Describe": ""
+    }
+  ]
+}

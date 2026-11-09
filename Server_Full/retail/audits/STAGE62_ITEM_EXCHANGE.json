@@ -1,0 +1,70 @@
+{
+  "stage": 62,
+  "version": "0.40.0-stage62-native-item-exchange",
+  "nativeEvidence": {
+    "entry": "CCSupplyOffice bound to Creatures.supplyOffice415; opens UILayerType.exchange while native NPC sensor is in range and hides on exit",
+    "request": "original CCExchangePanel.onClick constructs CommandExchangeItem89 with selected UUIDs, including native high-grade confirmation. CommandSellItem71 is a different old command, not spoofed as this path.",
+    "value": "CCExchangePanel.refreshExp sums WeaponScheme.Exp at stored WeaponLv or EquipmentScheme.Exp for selected instances, not ItemScheme.price.286 weapon and255 equipment definitions checked. Zero-Exp starter rows remain zero.",
+    "locks": "original CCItemView.checkItemLock emits CommandLockItem162 on Ctrl+left-click; original ItemManager.isLocked reads ext.il===1; WeaponLv defaults1. Native inventory sort keeps locked positions.",
+    "asset": "original NPC415 import CRC/hash checked against client ZIP, contains sensor circle600. Existing player50*skinScale overlap policy reused.",
+    "VM": "6 original methods executed: onClick, refreshExp, checkItemLock, Item.isLocked, Item.getWeaponLv, WeaponManager.getWeaponCfg; original prefab dependencies/Windows rendering not exercised"
+  },
+  "implemented": {
+    "scope": "existing Map2 main/rookie NPC415 only; no new locations or NPC placement",
+    "settlement": "one players.json commit includes item removal, combat XP/level/battleStats, quest18/level2 progress and pass8/9 progress; whole batch validated before write. Removed UUID blocks repeat reward. No new gold or account XP invented.",
+    "eligibility": "alive/sceneReady, Map2 city NPCs enabled, within600+50*SkinScale of415; owned unique UUIDs from bags1/3, one instance per item, native config/value available and unlocked",
+    "quests": "SellItem18 counts consumed instances; rookie2350 completion and combat-level updates committed atomically. Category2 daily task service still not restored.",
+    "passes": "existing SellWeapon8/SellEquipment9 tasks now record committed exchange counts; weekly auto-reward/cap from Stage61 unchanged",
+    "locks": "CommandLockItem sets only native il=1/0, preserves other extInfo; locked items refuse exchange/drop; frame and lobby sort preserve locked grid slots. No arbitrary userdata or client XP value accepted.",
+    "delivery": "one in-memory aggregate per player, earliest inventory diff/current quest values/current XP snapshot; retry250ms on notification error, logs at most5000ms. Already saved settlement is successful even when send fails; retry never grants again. Snapshot invalidated by account/world/entity/room/map/death-count/life availability changes.",
+    "life": "combat XP uses existing progression/life ledger; death/relogin behavior unchanged. Delivery for a previous death cannot replay into immediate respawn.",
+    "accountSwitch": "login clears itemExchangeDelivery alongside prior event/payment queues"
+  },
+  "localPolicies": {
+    "batchLimit": "128 unique UUIDs max; mixed bag1/3 accepted though native UI normally selects one bag at a time; entire malformed batch rejected",
+    "activeItems": "quickbar/equipped/warehouse items and currently selected weapon refused; must return eligible unequipped item to its bag first. Exact retail rejection semantics not recovered.",
+    "stacks": "weapon/equipment num must equal1, matching native instance caps and per-UUID preview; no multiplier invented for malformed stacks",
+    "missingData": "unrecovered WeaponLv/config refuses exchange rather than consuming for guessed XP; only level1 weapon data exists in this client",
+    "deliveryLimits": "notification queue is volatile and uses existing native TCP replication, not client acknowledgements. Relog/new scene loads saved authoritative state. Other simultaneous account inventory changes use current absolute snapshots; no new general inventory reconciliation protocol.",
+    "sortLimits": "preserves locks, retains prior server sorting for unlocked items; full native grade/family ordering not restored here",
+    "dropLock": "server lock protection added consistently; exact full retail lock interaction matrix not recovered"
+  },
+  "verification": {
+    "newTests": 43,
+    "updatedPriorExpectations": 1,
+    "updatedPriorReason": "sale task type8 is now PARTIAL_CONNECTED instead of NOT_CONNECTED",
+    "catalogValues": {
+      "weapons": 286,
+      "equipment": 255
+    },
+    "realWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "paymentHTTPRegression": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    }
+  },
+  "openMechanics": [
+    "old sellItem71 and resource shop client panel have not been implemented or remapped",
+    "other event types2..9 still need parameters/mechanics",
+    "configured pass task sources3/4/5/13/14 remain unconnected",
+    "category2 daily quests and other quest types remain partial",
+    "full native sorting, enhancement/durability/item interactions not completed",
+    "all locations and accumulated Map2/AI/combat/VFX/site requirements remain partial"
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

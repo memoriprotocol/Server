@@ -1,0 +1,25 @@
+{
+  "RiseHero": [
+    {
+      "Star": 0,
+      "levelUpExp": 1,
+      "level1UpExp": 1,
+      "level2UpExp": 5,
+      "level3UpExp": 1
+    },
+    {
+      "Star": 1,
+      "levelUpExp": 2,
+      "level1UpExp": 2,
+      "level2UpExp": 10,
+      "level3UpExp": 2
+    },
+    {
+      "Star": 2,
+      "levelUpExp": 3,
+      "level1UpExp": 3,
+      "level2UpExp": 15,
+      "level3UpExp": 3
+    }
+  ]
+}

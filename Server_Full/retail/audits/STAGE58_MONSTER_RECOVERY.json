@@ -1,0 +1,56 @@
+{
+  "stage": 58,
+  "removedBug": "Map2 environment decision.reset previously assigned r.hp=r.maxHP immediately",
+  "configuration": {
+    "maxHPPercent": 10,
+    "intervalMs": 1000,
+    "status": "LOCAL_POLICY_NOT_VERIFIED_RETAIL_RATE",
+    "note": "Gradual Map2 mob/boss recovery after target loss. Native Buff70 args8 has no verified binding to this transition."
+  },
+  "nativeEvidence": {
+    "MonsterStateType": {
+      "fastback": 7,
+      "reset": 9
+    },
+    "CCBloodBarComp": "original onAddHP consumes changeHP/currentHP/maxHP and updates bar, executed in VM",
+    "Buff70": {
+      "type": 70,
+      "name": "回血直到回满",
+      "stackBehaviors": [],
+      "maxStackNum": 0,
+      "args": [
+        8
+      ],
+      "duration": -1,
+      "isCtrl": false,
+      "isDebuff": false,
+      "canBePurify": false,
+      "controlType": [],
+      "isBanSkill": false,
+      "buffIcon": "",
+      "buffDesc": ""
+    },
+    "Buff70BindingToLeash": "NOT_FOUND; args8 is not treated as8% or8seconds for this behavior",
+    "bossAddHpNum": {
+      "ID": 68,
+      "name": "bossAddHpNum",
+      "content": [
+        "150"
+      ]
+    },
+    "exactRetailRecoveryRateAndInterval": "NOT_FOUND_IN_INSPECTED_CLIENT_SCHEMES_AND_FACTORIES"
+  },
+  "localPolicies": {
+    "start": "on first return-home/fastback or home-reset decision with no target; first step after1000ms",
+    "amount": "floor(maxHP*10/100), at least1, capped at missingHP; both mobs and bosses",
+    "stop": "new AI target or real incoming damage, fullHP, death, zeroHP, stale spawn life, non-Map2 or summoned actor",
+    "home": "healing continues after arrival until full unless interrupted; arrival itself never resets HP",
+    "catchUp": "at most one step per observed tick; empty room pauses timer and clears per-peer correction; no offline burst",
+    "delivery": "native addHP only for current observers; failed send retains one latest setHP correction per peer bound to world and target life, no duplicate floating-heal retry",
+    "respawn": "new life retains existing fullHP initialization and clears recovery state; natural respawn is distinct from disengage",
+    "configReload": "restart server after editing JSON; interval minimum250ms; rate0 disables steps"
+  },
+  "scope": "Map2 world mobs/bosses; no change to other map reset behavior",
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

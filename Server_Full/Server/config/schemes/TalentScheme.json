@@ -1,0 +1,506 @@
+{
+  "Talent": [
+    {
+      "ID": 1,
+      "parentID": [],
+      "name": "采集能手",
+      "desc": "采集额外获得经验",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 20,
+      "extra": ""
+    },
+    {
+      "ID": 2,
+      "parentID": [
+        1
+      ],
+      "name": "怪物猎人",
+      "desc": "打怪经验值增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 16,
+      "extra": ""
+    },
+    {
+      "ID": 3,
+      "parentID": [
+        1
+      ],
+      "name": "捕鱼达人",
+      "desc": "钓鱼cd减少",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 21,
+      "extra": ""
+    },
+    {
+      "ID": 4,
+      "parentID": [
+        3
+      ],
+      "name": "耐力训练",
+      "desc": "体力回复增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 19,
+      "extra": ""
+    },
+    {
+      "ID": 5,
+      "parentID": [
+        2
+      ],
+      "name": "武器精通",
+      "desc": "减少武器技能cd",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 17,
+      "extra": ""
+    },
+    {
+      "ID": 6,
+      "parentID": [
+        4
+      ],
+      "name": "旅行者",
+      "desc": "脱战移动速度提升",
+      "points": 2,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 18,
+      "extra": ""
+    },
+    {
+      "ID": 7,
+      "parentID": [
+        5
+      ],
+      "name": "战斗大师",
+      "desc": "减少人物技能cd",
+      "points": 2,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 22,
+      "extra": ""
+    },
+    {
+      "ID": 8,
+      "parentID": [
+        6,
+        7
+      ],
+      "name": "坚毅风采",
+      "desc": "减少控制时间",
+      "points": 3,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 40,
+      "extra": ""
+    },
+    {
+      "ID": 10,
+      "parentID": [],
+      "name": "工匠",
+      "desc": "建筑血量增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 8,
+      "extra": ""
+    },
+    {
+      "ID": 11,
+      "parentID": [
+        16
+      ],
+      "name": "篝火腾腾",
+      "desc": "篝火回复加成",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 1,
+      "extra": ""
+    },
+    {
+      "ID": 13,
+      "parentID": [
+        11
+      ],
+      "name": "粮田丰收",
+      "desc": "田产量加成",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 2,
+      "extra": ""
+    },
+    {
+      "ID": 14,
+      "parentID": [
+        15
+      ],
+      "name": "初级木匠",
+      "desc": "推推板数量增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 6,
+      "extra": ""
+    },
+    {
+      "ID": 15,
+      "parentID": [
+        10
+      ],
+      "name": "能工巧匠",
+      "desc": "建造消耗减少",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 9,
+      "extra": ""
+    },
+    {
+      "ID": 16,
+      "parentID": [
+        10
+      ],
+      "name": "资源回收",
+      "desc": "拆除建筑资源回收",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 10,
+      "extra": ""
+    },
+    {
+      "ID": 17,
+      "parentID": [
+        16
+      ],
+      "name": "箭塔强化",
+      "desc": "箭塔伤害提升",
+      "points": 1,
+      "single": true,
+      "maxLevel": 2,
+      "buffID": 3,
+      "extra": ""
+    },
+    {
+      "ID": 18,
+      "parentID": [
+        15
+      ],
+      "name": "尖刺强化",
+      "desc": "尖刺伤害提升",
+      "points": 1,
+      "single": true,
+      "maxLevel": 2,
+      "buffID": 33,
+      "extra": ""
+    },
+    {
+      "ID": 19,
+      "parentID": [
+        17
+      ],
+      "name": "冰塔",
+      "desc": "额外获得建筑冰塔",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 34,
+      "extra": ""
+    },
+    {
+      "ID": 20,
+      "parentID": [
+        17
+      ],
+      "name": "火塔",
+      "desc": "额外获得建筑火塔",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 35,
+      "extra": ""
+    },
+    {
+      "ID": 23,
+      "parentID": [
+        18
+      ],
+      "name": "毒刺",
+      "desc": "额外获得建筑毒刺",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 38,
+      "extra": ""
+    },
+    {
+      "ID": 24,
+      "parentID": [
+        18
+      ],
+      "name": "冰刺",
+      "desc": "额外获得建筑冰刺",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 39,
+      "extra": ""
+    },
+    {
+      "ID": 25,
+      "parentID": [
+        14
+      ],
+      "name": "高级木匠",
+      "desc": "兽夹数量增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 7,
+      "extra": ""
+    },
+    {
+      "ID": 26,
+      "parentID": [
+        10
+      ],
+      "name": "建筑加固",
+      "desc": "建筑减伤",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 41,
+      "extra": ""
+    },
+    {
+      "ID": 27,
+      "parentID": [
+        26
+      ],
+      "name": "箭塔维修",
+      "desc": "建筑回血",
+      "points": 2,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 42,
+      "extra": ""
+    },
+    {
+      "ID": 30,
+      "parentID": [],
+      "name": "养宠能手",
+      "desc": "宠物血量增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 27,
+      "extra": ""
+    },
+    {
+      "ID": 31,
+      "parentID": [
+        30
+      ],
+      "name": "皮糙肉厚",
+      "desc": "宠物所受伤害减少",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 29,
+      "extra": ""
+    },
+    {
+      "ID": 32,
+      "parentID": [
+        30
+      ],
+      "name": "尖牙利爪",
+      "desc": "宠物攻击力提升",
+      "points": 1,
+      "single": false,
+      "maxLevel": 3,
+      "buffID": 30,
+      "extra": ""
+    },
+    {
+      "ID": 33,
+      "parentID": [
+        31
+      ],
+      "name": "休养生息",
+      "desc": "宠物脱战自动回血",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 28,
+      "extra": ""
+    },
+    {
+      "ID": 35,
+      "parentID": [
+        32
+      ],
+      "name": "捕猎技巧",
+      "desc": "宠物技能cd减少",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 24,
+      "extra": ""
+    },
+    {
+      "ID": 36,
+      "parentID": [
+        35
+      ],
+      "name": "饲育大师",
+      "desc": "提高宠物等级上限",
+      "points": 2,
+      "single": false,
+      "maxLevel": 4,
+      "buffID": 26,
+      "extra": ""
+    },
+    {
+      "ID": 37,
+      "parentID": [
+        33
+      ],
+      "name": "迅猛追猎",
+      "desc": "宠物移速加快",
+      "points": 2,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 45,
+      "extra": ""
+    },
+    {
+      "ID": 38,
+      "parentID": [
+        36,
+        37
+      ],
+      "name": "生命赐福",
+      "desc": "增加宠物命数",
+      "points": 5,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 23,
+      "extra": ""
+    },
+    {
+      "ID": 40,
+      "parentID": [],
+      "name": "运气加成",
+      "desc": "装备掉落概率增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 14,
+      "extra": ""
+    },
+    {
+      "ID": 41,
+      "parentID": [
+        40
+      ],
+      "name": "宝石发掘",
+      "desc": "获得宝石的概率增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 11,
+      "extra": ""
+    },
+    {
+      "ID": 42,
+      "parentID": [
+        40
+      ],
+      "name": "宝藏猎人",
+      "desc": "开启宝箱获得稀有武器概率增加",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 13,
+      "extra": ""
+    },
+    {
+      "ID": 43,
+      "parentID": [
+        40
+      ],
+      "name": "驯宠高手",
+      "desc": "驯养概率提升",
+      "points": 1,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 12,
+      "extra": ""
+    },
+    {
+      "ID": 44,
+      "parentID": [
+        40
+      ],
+      "name": "额外收获",
+      "desc": "钓鱼有概率获得额外物资",
+      "points": 1,
+      "single": false,
+      "maxLevel": 2,
+      "buffID": 15,
+      "extra": ""
+    },
+    {
+      "ID": 45,
+      "parentID": [
+        42,
+        44
+      ],
+      "name": "多多益善",
+      "desc": "开局额外开启一个宝箱（获得武器）",
+      "points": 2,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 32,
+      "extra": ""
+    },
+    {
+      "ID": 46,
+      "parentID": [
+        41
+      ],
+      "name": "好事成双",
+      "desc": "合成装备时有概率获得同名一星装备",
+      "points": 2,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 44,
+      "extra": ""
+    },
+    {
+      "ID": 47,
+      "parentID": [
+        43
+      ],
+      "name": "驯养奇珍",
+      "desc": "驯养概率掉落",
+      "points": 2,
+      "single": false,
+      "maxLevel": 1,
+      "buffID": 43,
+      "extra": ""
+    }
+  ]
+}

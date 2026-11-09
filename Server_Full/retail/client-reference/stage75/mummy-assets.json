@@ -1,0 +1,26 @@
+[
+  {
+    "path": "arena/heroskill/300700_skill_tx/prefab/300700_skill_tx",
+    "index": 38651,
+    "pack": "0f93670e4",
+    "importSHA256": "e05a2bba849d666cb66771f40b095d1be404eddbd4b5dc73c14965a6881adce8",
+    "importCRCVerified": true,
+    "rawNativeTimelineDecoded": false
+  },
+  {
+    "path": "arena/heroskill/300700_skill_tx_702/prefab/300700_skill_tx",
+    "index": 14083,
+    "pack": "04d7a9cad",
+    "importSHA256": "e1ad609b277766e2144676523e34425a3d710f0dd5aa4e5c531de394831e51ed",
+    "importCRCVerified": true,
+    "rawNativeTimelineDecoded": false
+  },
+  {
+    "path": "arena/heroskill/300700_skill_tx_703/prefab/300700_skill_tx",
+    "index": 32228,
+    "pack": "0b42918f8",
+    "importSHA256": "5335891a1344925872b974af40657946b247ab54e814c8916672bba47cfd6517",
+    "importCRCVerified": true,
+    "rawNativeTimelineDecoded": false
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "AchievementPoints": [
+    {
+      "ID": 1,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        100
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 2,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        200
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 3,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        300
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 4,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        400
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 5,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        500
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 6,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        600
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 7,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        700
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 8,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        800
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 9,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        900
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    },
+    {
+      "ID": 10,
+      "Name": "成就等级",
+      "AchievementArgs": [
+        1000
+      ],
+      "RewardID": [
+        109
+      ],
+      "RewardNum": [
+        300
+      ],
+      "DropID": 0
+    }
+  ]
+}

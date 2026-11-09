@@ -1,0 +1,60 @@
+{
+  "stage": 61,
+  "version": "0.39.0-stage61-pass-reward-cycle",
+  "nativeEvidence": {
+    "requestFeedback": "original PassportsNetwork.passportsReset invokes controller.requestPassportsInfo unconditionally. Stage60 passInfo success emitted another reset. Stage61 query replies without reset/full actor sync; actual original controller/reset executed through authenticated GameServer packet test.",
+    "weeklyDisplay": "original PassportsTaskView displays passportData.taskExp against weekExpLimit; TaskItemView only renders repeat progress/completed state, no weekly claim interaction. ChallengeItemView/PassportsController explicitly request season/check-in claims.",
+    "weeklyAutoRewardInference": "Automatic weekly reward is a server reconstruction inferred from noninteractive native weekly UI, not recovered retail server code. Timing/cap edge semantics not independently verified retail.",
+    "nativePushes": "actual original PassportsNetwork.passportsUpdateTask/passportsUpdateExp consume encoded PassTaskPush/PassExpPush in VM. PassCoinPush uses native passCoin. No Index edits.",
+    "period": "original getWeekIndex executed under explicitly UTC client Date, matching server Monday UTC. Retail timezone and non-UTC client parity NOT recovered."
+  },
+  "implemented": {
+    "weeklyXP": "configured repeat completions auto-credit in same transaction as committed gameplay progress. taskExp counts only weekly tasks, cap from native weekExpLimit; weekExp retained as compatible alias. Season/check-in/bought/gift XP excluded.",
+    "repeatProgress": "persist internal totalProgress, send native current-cycle remainder; completeCount/getRewardCount bounded by native FinishTimes; max completed shows full target.",
+    "migration": "mechanicsVersion61; legacy cumulative progress becomes totalProgress; weekly-only weekExp corrects old mixed taskExp; already-claimed repetitions not repaid. Pending legacy weekly repetitions may settle once within cap.",
+    "rollover": "online once1000ms; UTC day records login once, UTC Monday resets weekly tasks/taskExp/check-in, keeps season XP/reward markers/shop purchases. No catch-up for missed offline login days.",
+    "rewardSettlement": "pass and SevenDay handlers plan on player clone, validate response protobuf before write, commit changed fields and claim marker once in players.json, preserve live player identity. Does not write or roll back unrelated accounts/admin-state. Postcommit collection notification failure is delivery failure, not failed payment.",
+    "delivery": "passInfo is read reply without reset loop or actor-wide sync. Mutations/full state transitions may request one reset. Absolute native task/XP/coin updates after successful persistence; failed push retries from last sent snapshot, no re-grant. Full inventory/account sync failure queues earliest before-snapshot and retries once1000ms. Queues in memory only; saved data and login are durable recovery.",
+    "sevenDay": "daily login bookkeeping while online; successful day update prompts subscribed client once, not every second. Claims through same atomic settlement. All7 native rewards tested including restart and full weapon bag.",
+    "coinSpend": "CostGold recorded with gold debit and entitlement change in ordinary shop/trader, coin mounts/gifts, weapon lottery, hero-master change, talent reset, pet level. Existing gacha CostGold retained. Diamond spend does not count. Actual source mechanics/prices remain prior reconstruction.",
+    "accountBinding": "successful login clears prior account pass/activity snapshots and event/payment retry queues; connection adapter capability flags retained"
+  },
+  "localPolicies": {
+    "weeklyCapEdge": "completions beyond cap marked complete with no extra XP; no rollover of denied weekly XP. Priority follows native task row order when settling several pending completions. These edge semantics not proven retail.",
+    "disabledTasks": "disabled task neither accumulates nor auto-rewards; prior pending completion can settle when enabled. No automatic retro-credit for events while disabled.",
+    "seasonLifetime": "admin-forced seasons remain on until off, preserve historical player progress; original Stage60 client window bridge unchanged. No new season reset or replay rewards."
+  },
+  "verification": {
+    "newTests": 41,
+    "updatedPriorExpectations": 2,
+    "updatedPriorReason": "first weekly login now automatically adds native1000 XP; check-in total6000 and buying2 levels total5000 on first login",
+    "nativeRewardLevels": 240,
+    "nativeShopRows": 15,
+    "sevenDayRewards": 7,
+    "actualWebSocketSmoke": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "paymentHTTPRegression": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    }
+  },
+  "openMechanics": [
+    "event types2..9 still lack restored parameters/mechanics",
+    "configured task types3/4/5/8/9/13/14 not connected to authoritative gameplay sources",
+    "exact retail reset timezone, cap edge and offline settlement semantics not recovered",
+    "live Windows UI/red points/reward animation/asset loading not tested",
+    "all locations and the accumulated Map2/combat/AI/other requirements remain partial"
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

@@ -1,0 +1,1009 @@
+{
+  "MeditateCfg": [
+    {
+      "level": 1,
+      "cure": 10,
+      "consume": 5
+    },
+    {
+      "level": 2,
+      "cure": 10,
+      "consume": 5
+    },
+    {
+      "level": 3,
+      "cure": 10,
+      "consume": 5
+    },
+    {
+      "level": 4,
+      "cure": 10,
+      "consume": 5
+    },
+    {
+      "level": 5,
+      "cure": 10,
+      "consume": 5
+    },
+    {
+      "level": 6,
+      "cure": 10,
+      "consume": 6
+    },
+    {
+      "level": 7,
+      "cure": 10,
+      "consume": 6
+    },
+    {
+      "level": 8,
+      "cure": 10,
+      "consume": 6
+    },
+    {
+      "level": 9,
+      "cure": 10,
+      "consume": 6
+    },
+    {
+      "level": 10,
+      "cure": 10,
+      "consume": 6
+    },
+    {
+      "level": 11,
+      "cure": 10,
+      "consume": 7
+    },
+    {
+      "level": 12,
+      "cure": 10,
+      "consume": 7
+    },
+    {
+      "level": 13,
+      "cure": 10,
+      "consume": 7
+    },
+    {
+      "level": 14,
+      "cure": 10,
+      "consume": 7
+    },
+    {
+      "level": 15,
+      "cure": 10,
+      "consume": 7
+    },
+    {
+      "level": 16,
+      "cure": 10,
+      "consume": 8
+    },
+    {
+      "level": 17,
+      "cure": 10,
+      "consume": 8
+    },
+    {
+      "level": 18,
+      "cure": 10,
+      "consume": 8
+    },
+    {
+      "level": 19,
+      "cure": 10,
+      "consume": 8
+    },
+    {
+      "level": 20,
+      "cure": 10,
+      "consume": 8
+    },
+    {
+      "level": 21,
+      "cure": 10,
+      "consume": 9
+    },
+    {
+      "level": 22,
+      "cure": 10,
+      "consume": 9
+    },
+    {
+      "level": 23,
+      "cure": 10,
+      "consume": 9
+    },
+    {
+      "level": 24,
+      "cure": 10,
+      "consume": 9
+    },
+    {
+      "level": 25,
+      "cure": 10,
+      "consume": 9
+    },
+    {
+      "level": 26,
+      "cure": 10,
+      "consume": 10
+    },
+    {
+      "level": 27,
+      "cure": 10,
+      "consume": 10
+    },
+    {
+      "level": 28,
+      "cure": 10,
+      "consume": 10
+    },
+    {
+      "level": 29,
+      "cure": 10,
+      "consume": 10
+    },
+    {
+      "level": 30,
+      "cure": 10,
+      "consume": 10
+    },
+    {
+      "level": 31,
+      "cure": 10,
+      "consume": 11
+    },
+    {
+      "level": 32,
+      "cure": 10,
+      "consume": 11
+    },
+    {
+      "level": 33,
+      "cure": 10,
+      "consume": 11
+    },
+    {
+      "level": 34,
+      "cure": 10,
+      "consume": 11
+    },
+    {
+      "level": 35,
+      "cure": 10,
+      "consume": 11
+    },
+    {
+      "level": 36,
+      "cure": 10,
+      "consume": 12
+    },
+    {
+      "level": 37,
+      "cure": 10,
+      "consume": 12
+    },
+    {
+      "level": 38,
+      "cure": 10,
+      "consume": 12
+    },
+    {
+      "level": 39,
+      "cure": 10,
+      "consume": 12
+    },
+    {
+      "level": 40,
+      "cure": 10,
+      "consume": 12
+    },
+    {
+      "level": 41,
+      "cure": 10,
+      "consume": 13
+    },
+    {
+      "level": 42,
+      "cure": 10,
+      "consume": 13
+    },
+    {
+      "level": 43,
+      "cure": 10,
+      "consume": 13
+    },
+    {
+      "level": 44,
+      "cure": 10,
+      "consume": 13
+    },
+    {
+      "level": 45,
+      "cure": 10,
+      "consume": 13
+    },
+    {
+      "level": 46,
+      "cure": 10,
+      "consume": 14
+    },
+    {
+      "level": 47,
+      "cure": 10,
+      "consume": 14
+    },
+    {
+      "level": 48,
+      "cure": 10,
+      "consume": 14
+    },
+    {
+      "level": 49,
+      "cure": 10,
+      "consume": 14
+    },
+    {
+      "level": 50,
+      "cure": 10,
+      "consume": 14
+    },
+    {
+      "level": 51,
+      "cure": 10,
+      "consume": 15
+    },
+    {
+      "level": 52,
+      "cure": 10,
+      "consume": 15
+    },
+    {
+      "level": 53,
+      "cure": 10,
+      "consume": 15
+    },
+    {
+      "level": 54,
+      "cure": 10,
+      "consume": 15
+    },
+    {
+      "level": 55,
+      "cure": 10,
+      "consume": 15
+    },
+    {
+      "level": 56,
+      "cure": 10,
+      "consume": 16
+    },
+    {
+      "level": 57,
+      "cure": 10,
+      "consume": 16
+    },
+    {
+      "level": 58,
+      "cure": 10,
+      "consume": 16
+    },
+    {
+      "level": 59,
+      "cure": 10,
+      "consume": 16
+    },
+    {
+      "level": 60,
+      "cure": 10,
+      "consume": 16
+    },
+    {
+      "level": 61,
+      "cure": 10,
+      "consume": 17
+    },
+    {
+      "level": 62,
+      "cure": 10,
+      "consume": 17
+    },
+    {
+      "level": 63,
+      "cure": 10,
+      "consume": 17
+    },
+    {
+      "level": 64,
+      "cure": 10,
+      "consume": 17
+    },
+    {
+      "level": 65,
+      "cure": 10,
+      "consume": 17
+    },
+    {
+      "level": 66,
+      "cure": 10,
+      "consume": 18
+    },
+    {
+      "level": 67,
+      "cure": 10,
+      "consume": 18
+    },
+    {
+      "level": 68,
+      "cure": 10,
+      "consume": 18
+    },
+    {
+      "level": 69,
+      "cure": 10,
+      "consume": 18
+    },
+    {
+      "level": 70,
+      "cure": 10,
+      "consume": 18
+    },
+    {
+      "level": 71,
+      "cure": 10,
+      "consume": 19
+    },
+    {
+      "level": 72,
+      "cure": 10,
+      "consume": 19
+    },
+    {
+      "level": 73,
+      "cure": 10,
+      "consume": 19
+    },
+    {
+      "level": 74,
+      "cure": 10,
+      "consume": 19
+    },
+    {
+      "level": 75,
+      "cure": 10,
+      "consume": 19
+    },
+    {
+      "level": 76,
+      "cure": 10,
+      "consume": 20
+    },
+    {
+      "level": 77,
+      "cure": 10,
+      "consume": 20
+    },
+    {
+      "level": 78,
+      "cure": 10,
+      "consume": 20
+    },
+    {
+      "level": 79,
+      "cure": 10,
+      "consume": 20
+    },
+    {
+      "level": 80,
+      "cure": 10,
+      "consume": 20
+    },
+    {
+      "level": 81,
+      "cure": 10,
+      "consume": 21
+    },
+    {
+      "level": 82,
+      "cure": 10,
+      "consume": 21
+    },
+    {
+      "level": 83,
+      "cure": 10,
+      "consume": 21
+    },
+    {
+      "level": 84,
+      "cure": 10,
+      "consume": 21
+    },
+    {
+      "level": 85,
+      "cure": 10,
+      "consume": 21
+    },
+    {
+      "level": 86,
+      "cure": 10,
+      "consume": 22
+    },
+    {
+      "level": 87,
+      "cure": 10,
+      "consume": 22
+    },
+    {
+      "level": 88,
+      "cure": 10,
+      "consume": 22
+    },
+    {
+      "level": 89,
+      "cure": 10,
+      "consume": 22
+    },
+    {
+      "level": 90,
+      "cure": 10,
+      "consume": 22
+    },
+    {
+      "level": 91,
+      "cure": 10,
+      "consume": 23
+    },
+    {
+      "level": 92,
+      "cure": 10,
+      "consume": 23
+    },
+    {
+      "level": 93,
+      "cure": 10,
+      "consume": 23
+    },
+    {
+      "level": 94,
+      "cure": 10,
+      "consume": 23
+    },
+    {
+      "level": 95,
+      "cure": 10,
+      "consume": 23
+    },
+    {
+      "level": 96,
+      "cure": 10,
+      "consume": 24
+    },
+    {
+      "level": 97,
+      "cure": 10,
+      "consume": 24
+    },
+    {
+      "level": 98,
+      "cure": 10,
+      "consume": 24
+    },
+    {
+      "level": 99,
+      "cure": 10,
+      "consume": 24
+    },
+    {
+      "level": 100,
+      "cure": 10,
+      "consume": 24
+    },
+    {
+      "level": 101,
+      "cure": 10,
+      "consume": 25
+    },
+    {
+      "level": 102,
+      "cure": 10,
+      "consume": 25
+    },
+    {
+      "level": 103,
+      "cure": 10,
+      "consume": 25
+    },
+    {
+      "level": 104,
+      "cure": 10,
+      "consume": 25
+    },
+    {
+      "level": 105,
+      "cure": 10,
+      "consume": 25
+    },
+    {
+      "level": 106,
+      "cure": 10,
+      "consume": 26
+    },
+    {
+      "level": 107,
+      "cure": 10,
+      "consume": 26
+    },
+    {
+      "level": 108,
+      "cure": 10,
+      "consume": 26
+    },
+    {
+      "level": 109,
+      "cure": 10,
+      "consume": 26
+    },
+    {
+      "level": 110,
+      "cure": 10,
+      "consume": 26
+    },
+    {
+      "level": 111,
+      "cure": 10,
+      "consume": 27
+    },
+    {
+      "level": 112,
+      "cure": 10,
+      "consume": 27
+    },
+    {
+      "level": 113,
+      "cure": 10,
+      "consume": 27
+    },
+    {
+      "level": 114,
+      "cure": 10,
+      "consume": 27
+    },
+    {
+      "level": 115,
+      "cure": 10,
+      "consume": 27
+    },
+    {
+      "level": 116,
+      "cure": 10,
+      "consume": 28
+    },
+    {
+      "level": 117,
+      "cure": 10,
+      "consume": 28
+    },
+    {
+      "level": 118,
+      "cure": 10,
+      "consume": 28
+    },
+    {
+      "level": 119,
+      "cure": 10,
+      "consume": 28
+    },
+    {
+      "level": 120,
+      "cure": 10,
+      "consume": 28
+    },
+    {
+      "level": 121,
+      "cure": 10,
+      "consume": 29
+    },
+    {
+      "level": 122,
+      "cure": 10,
+      "consume": 29
+    },
+    {
+      "level": 123,
+      "cure": 10,
+      "consume": 29
+    },
+    {
+      "level": 124,
+      "cure": 10,
+      "consume": 29
+    },
+    {
+      "level": 125,
+      "cure": 10,
+      "consume": 29
+    },
+    {
+      "level": 126,
+      "cure": 10,
+      "consume": 30
+    },
+    {
+      "level": 127,
+      "cure": 10,
+      "consume": 30
+    },
+    {
+      "level": 128,
+      "cure": 10,
+      "consume": 30
+    },
+    {
+      "level": 129,
+      "cure": 10,
+      "consume": 30
+    },
+    {
+      "level": 130,
+      "cure": 10,
+      "consume": 30
+    },
+    {
+      "level": 131,
+      "cure": 10,
+      "consume": 31
+    },
+    {
+      "level": 132,
+      "cure": 10,
+      "consume": 31
+    },
+    {
+      "level": 133,
+      "cure": 10,
+      "consume": 31
+    },
+    {
+      "level": 134,
+      "cure": 10,
+      "consume": 31
+    },
+    {
+      "level": 135,
+      "cure": 10,
+      "consume": 31
+    },
+    {
+      "level": 136,
+      "cure": 10,
+      "consume": 32
+    },
+    {
+      "level": 137,
+      "cure": 10,
+      "consume": 32
+    },
+    {
+      "level": 138,
+      "cure": 10,
+      "consume": 32
+    },
+    {
+      "level": 139,
+      "cure": 10,
+      "consume": 32
+    },
+    {
+      "level": 140,
+      "cure": 10,
+      "consume": 32
+    },
+    {
+      "level": 141,
+      "cure": 10,
+      "consume": 33
+    },
+    {
+      "level": 142,
+      "cure": 10,
+      "consume": 33
+    },
+    {
+      "level": 143,
+      "cure": 10,
+      "consume": 33
+    },
+    {
+      "level": 144,
+      "cure": 10,
+      "consume": 33
+    },
+    {
+      "level": 145,
+      "cure": 10,
+      "consume": 33
+    },
+    {
+      "level": 146,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 147,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 148,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 149,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 150,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 151,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 152,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 153,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 154,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 155,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 156,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 157,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 158,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 159,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 160,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 161,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 162,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 163,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 164,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 165,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 166,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 167,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 168,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 169,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 170,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 171,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 172,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 173,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 174,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 175,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 176,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 177,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 178,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 179,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 180,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 181,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 182,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 183,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 184,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 185,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 186,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 187,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 188,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 189,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 190,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 191,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 192,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 193,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 194,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 195,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 196,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 197,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 198,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 199,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 200,
+      "cure": 10,
+      "consume": 35
+    },
+    {
+      "level": 201,
+      "cure": 10,
+      "consume": 35
+    }
+  ]
+}

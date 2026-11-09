@@ -1,0 +1,40 @@
+{
+  "Backpack": [
+    {
+      "ID": 1,
+      "Tab": 0,
+      "Name": "武器",
+      "InitialCaps": 64,
+      "UnlockCaps": 1,
+      "UnlockPrice": 80,
+      "CapsMax": 64
+    },
+    {
+      "ID": 2,
+      "Tab": 1,
+      "Name": "装备",
+      "InitialCaps": 64,
+      "UnlockCaps": 1,
+      "UnlockPrice": 80,
+      "CapsMax": 64
+    },
+    {
+      "ID": 3,
+      "Tab": 5,
+      "Name": "仓库",
+      "InitialCaps": 24,
+      "UnlockCaps": 1,
+      "UnlockPrice": 80,
+      "CapsMax": 24
+    },
+    {
+      "ID": 4,
+      "Tab": 6,
+      "Name": "背包",
+      "InitialCaps": 64,
+      "UnlockCaps": 1,
+      "UnlockPrice": 80,
+      "CapsMax": 64
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Bubble": [
+    {
+      "ID": 1,
+      "BubbleType": [
+        1
+      ],
+      "TargetArgs": [],
+      "ItemID": 331001,
+      "Path1": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_01_01/spriteFrame",
+      "Path2": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_01_02/spriteFrame",
+      "TailOffset": -30,
+      "FontColor": "#000000",
+      "SSizeOffset": "46|0",
+      "MSizeOffset": "56|28",
+      "isValid": true
+    },
+    {
+      "ID": 2,
+      "BubbleType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 331002,
+      "Path1": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_02_01/spriteFrame",
+      "Path2": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_02_02/spriteFrame",
+      "TailOffset": -30,
+      "FontColor": "#ffffff",
+      "SSizeOffset": "46|0",
+      "MSizeOffset": "56|36",
+      "isValid": true
+    },
+    {
+      "ID": 3,
+      "BubbleType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 331003,
+      "Path1": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_03_01/spriteFrame",
+      "Path2": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_03_02/spriteFrame",
+      "TailOffset": -35,
+      "FontColor": "#000000",
+      "SSizeOffset": "46|0",
+      "MSizeOffset": "56|28",
+      "isValid": true
+    },
+    {
+      "ID": 4,
+      "BubbleType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 331004,
+      "Path1": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_05_01/spriteFrame",
+      "Path2": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_05_02/spriteFrame",
+      "TailOffset": -31,
+      "FontColor": "#850909",
+      "SSizeOffset": "46|0",
+      "MSizeOffset": "56|28",
+      "isValid": true
+    },
+    {
+      "ID": 5,
+      "BubbleType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 331005,
+      "Path1": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_07_01/spriteFrame",
+      "Path2": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_07_02/spriteFrame",
+      "TailOffset": -31,
+      "FontColor": "#f85e01",
+      "SSizeOffset": "46|0",
+      "MSizeOffset": "56|28",
+      "isValid": true
+    },
+    {
+      "ID": 6,
+      "BubbleType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 331006,
+      "Path1": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_08_01/spriteFrame",
+      "Path2": "arena/digger/ui_bar/chat_bubbles/ui_chat_bubble_08_02/spriteFrame",
+      "TailOffset": -31,
+      "FontColor": "#c63502",
+      "SSizeOffset": "46|0",
+      "MSizeOffset": "56|28",
+      "isValid": true
+    }
+  ]
+}

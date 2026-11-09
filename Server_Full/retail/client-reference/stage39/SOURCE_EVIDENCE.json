@@ -1,0 +1,56 @@
+{
+  "main-index.js": {
+    "bytes": 20184545,
+    "sha256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b"
+  },
+  "main-config.json": {
+    "bytes": 16396,
+    "sha256": "30ed919d98029b21e1089651861e2ca77d91f3583de4831e00d842c9a0b09155"
+  },
+  "resources-config.json": {
+    "bytes": 5307186,
+    "sha256": "3c101918ae592ba59ddd9c6cdf3cbc98ecc1adb756af0c5d3b0a96156a6bf5b7"
+  },
+  "map2-pack.json": {
+    "bytes": 167278,
+    "sha256": "7e6a9da80da2a612ce138e33c86a48b4ed90a07b6fe8656d9bf8004a976000bc"
+  },
+  "map2Layers": {
+    "ground": 244,
+    "ground_top": 928,
+    "objects": 1654,
+    "underground": 0,
+    "wall": 1
+  },
+  "map2Asset": {
+    "path": "arena/maps/map_2",
+    "pack": "01ba3b118",
+    "index": 7271,
+    "sceneExportDate": "2024/2/22"
+  },
+  "cityPlacement": {
+    "status": "UNRESOLVED",
+    "stage38Layout": "operator-maincity-layout",
+    "laterS32Capture": "world-entities.json contains later map5/mapID41 records; not valid evidence of 3.12 Map2 positions",
+    "clientBakedTownObject": "LD_bpcsb_001 already exists in things layer at (-1697,-1266); must not duplicate it as server entity"
+  },
+  "castContract": {
+    "CCBodyMonsterAnimComp": "useSkill looks up SkillIDs.findIndex(skillID), plays skill/skill2/skill3/...",
+    "CCBodyEliteMonsterAnimComp": "skillCastPoint drives elite body animations",
+    "CCSkillComp": "subscribes to useSkill, skillCastPoint, skillWarn, skillCast, skillLaunch, skillFall, skillBoom",
+    "CCSkillFactory": "non-hero skills are created at level 1",
+    "MonsterStateType": {
+      "sleep": 0,
+      "idle": 1,
+      "patrol": 2,
+      "attack": 3,
+      "walk": 4,
+      "chase": 5,
+      "flee": 6,
+      "fastback": 7,
+      "relax": 8,
+      "reset": 9
+    },
+    "scope": "Events/cooldowns/windup only. Special effects, projectile entity lifecycles and damage/resistance formula are not restored."
+  }
+}

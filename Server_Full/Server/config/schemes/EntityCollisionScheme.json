@@ -1,0 +1,78 @@
+{
+  "EntityCollision": [
+    {
+      "CollideTypeA": 0,
+      "CollisionTypes": []
+    },
+    {
+      "CollideTypeA": 1,
+      "CollisionTypes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        1,
+        8
+      ]
+    },
+    {
+      "CollideTypeA": 2,
+      "CollisionTypes": [
+        1,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "CollideTypeA": 3,
+      "CollisionTypes": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "CollideTypeA": 4,
+      "CollisionTypes": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "CollideTypeA": 5,
+      "CollisionTypes": [
+        1,
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "CollideTypeA": 6,
+      "CollisionTypes": [
+        1,
+        6
+      ]
+    },
+    {
+      "CollideTypeA": 7,
+      "CollisionTypes": [
+        5
+      ]
+    },
+    {
+      "CollideTypeA": 8,
+      "CollisionTypes": [
+        1,
+        2
+      ]
+    },
+    {
+      "CollideTypeA": 9,
+      "CollisionTypes": []
+    }
+  ]
+}

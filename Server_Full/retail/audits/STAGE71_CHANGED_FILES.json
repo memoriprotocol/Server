@@ -1,0 +1,162 @@
+[
+  {
+    "path": "ISSUES_STAGE71_RU.txt",
+    "change": "added",
+    "sha256": "34cd08264791dfe3d75692b488c57aefef0919fbff7115d8bd4103186ca2db7f"
+  },
+  {
+    "path": "README_STAGE71_RU.txt",
+    "change": "added",
+    "sha256": "9d56895ad9c18b7553c72b9b064e633b7b18f6fce6be6a1c7b0847c10a604340"
+  },
+  {
+    "path": "Server_Full/README_STAGE71_RU.txt",
+    "change": "added",
+    "sha256": "9d56895ad9c18b7553c72b9b064e633b7b18f6fce6be6a1c7b0847c10a604340"
+  },
+  {
+    "path": "Server_Full/Server/lib/collection-3127.js",
+    "change": "modified",
+    "sha256": "90749b6537107a4e8c450f4e3afc92bef6063e0e7fe7970314441a4930065f51"
+  },
+  {
+    "path": "Server_Full/Server/lib/fishing-3127.js",
+    "change": "modified",
+    "sha256": "7c4606f4d5eeb8236cc8e2e160b4b81e21ed52763a8f1a059f5e16c838beb95d"
+  },
+  {
+    "path": "Server_Full/Server/lib/fishing-delivery-3127.js",
+    "change": "added",
+    "sha256": "b3cc95727102c869422dbb7b1093a05b8b2aec6628efd7846b168a1bb40b53c9"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "49cdae53a4e3a6cea3cce5934536f3ecb540982034365ef05075adabcc5a8e19"
+  },
+  {
+    "path": "Server_Full/Server/lib/inventory.js",
+    "change": "modified",
+    "sha256": "5c4aba814abf85c2ec185078340244ed210ee654367ceb7279a625574717985e"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "modified",
+    "sha256": "72696c60fcda3bce9e29e4e3f09a001452e3ba77fac8d02dbfece518345c1ccf"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "e67c943b3865394b522b6a1c535596529b96aaef6091f2d6f079683bd6d6071e"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage71-native.js",
+    "change": "added",
+    "sha256": "8845084636a7e11621fafe41da5754e68a93f66391977b546da45a0b605090dc"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage47-skills-fishing.test.js",
+    "change": "modified",
+    "sha256": "c7836fbf57e03bed46dd42b527896df58230df1f5170fc1e17907f5a32cbe9a6"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage71-fishing-cycle.test.js",
+    "change": "added",
+    "sha256": "4d7e6231e8aca8f484a33150eb1bfa3043ccf8e4053db4f5af2cb4dd0357fe46"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage71-native-fishing.test.js",
+    "change": "added",
+    "sha256": "2141324f6dcc4eedfe524d995f36fe70b16fe35a05aa6a72a12775305dff0d4f"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "a5be1a464e80a2be8f5ad0314c99a38056ab849cd52df5e00fe248c7e6aa0a80"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_FISHING_NATIVE_CYCLE.json",
+    "change": "added",
+    "sha256": "a10e02dfa1591addad65914bce9fa86e8be3e80a08c5cc70282fb3ba66334adf"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "82f27b13e4a1314069c24db42655d7a2ee26dd249abb2107b537eae4f58ccf4c"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "282996281410e920e7e7758829fa26d145bb960eff56203e7595ed8b8e93111f"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_SMOKE.log",
+    "change": "added",
+    "sha256": "e51dbf24b8546116076304b786693cdbbbdc7949632079d99e9e39439ff4939d"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_TESTS.log",
+    "change": "added",
+    "sha256": "07e993b5cb8d0f8a6d9422089d94f519e3b92ad9eaee20eea3a454283dfdc386"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_VALIDATION.json",
+    "change": "added",
+    "sha256": "3a6f24af48009943d6b26357dc4c36a39d0e86a2f674278096d855b4841a0190"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE71_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/AnimManager.ts",
+    "change": "added",
+    "sha256": "c8a69f5bd3f22287c25f279bae99fca5366e98aef4964aca69132f8434ff1398"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/BuffCfg.ts",
+    "change": "added",
+    "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/CCBodyAnimComp.ts",
+    "change": "added",
+    "sha256": "a8ef2249b64ed4a516ce6fbb13393d310d98548aed9b234100506c7abe0a8824"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/CCBodyAnimComp2.ts",
+    "change": "added",
+    "sha256": "86d6623d82353942229fd9b4f05d1bdcc93ac1c95c77cbffa80c363e1ba500ec"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/CCPetComp.ts",
+    "change": "added",
+    "sha256": "3eb6c3a060974464f8800cfac620e099d81ca870999974ea4ae512c963e65353"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/WeaponManager.ts",
+    "change": "added",
+    "sha256": "f63a77a43e420423633676a5fd2b9faca5c480f7bca919b0c7cf3a678da1d589"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/native-descriptions.json",
+    "change": "added",
+    "sha256": "a1a897ac9b826fb811a6ee8ef7e546a63cf55036b2d50d5893a4d24c6cc3fd12"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage71/rod-assets.json",
+    "change": "added",
+    "sha256": "4cdc15ed2108ae68f19394c2ed455f87ce7a47ec5669271f852a720b6e4657f9"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "e9e2130088c11410e11fe7d2989accdfb1a3d454b9b7de14ac5451404a452d1c"
+  }
+]

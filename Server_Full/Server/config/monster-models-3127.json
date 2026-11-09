@@ -1,0 +1,100 @@
+{
+  "source": "Original client resources/config.json cc.Prefab entries. Summons choose MonsterContent.Form.",
+  "models": {
+    "1208": {
+      "1": "arena_3d/monsters/monster_1208/a/monster",
+      "2": "arena_3d/monsters/monster_1208/b/monster",
+      "3": "arena_3d/monsters/monster_1208/c/monster"
+    },
+    "1210": {
+      "1": "arena_3d/monsters/monster_1210/a/monster",
+      "2": "arena_3d/monsters/monster_1210/b/monster",
+      "3": "arena_3d/monsters/monster_1210/c/monster"
+    },
+    "1211": {
+      "1": "arena_3d/monsters/monster_1211/a/monster",
+      "2": "arena_3d/monsters/monster_1211/b/monster",
+      "3": "arena_3d/monsters/monster_1211/c/monster"
+    },
+    "1213": {
+      "1": "arena_3d/monsters/monster_1213/a/monster",
+      "2": "arena_3d/monsters/monster_1213/b/monster",
+      "3": "arena_3d/monsters/monster_1213/c/monster"
+    },
+    "1226": {
+      "1": "arena_3d/monsters/monster_1226/a/monster",
+      "2": "arena_3d/monsters/monster_1226/b/monster",
+      "3": "arena_3d/monsters/monster_1226/c/monster"
+    },
+    "1227": {
+      "1": "arena_3d/monsters/monster_1227/a/monster",
+      "2": "arena_3d/monsters/monster_1227/b/monster",
+      "3": "arena_3d/monsters/monster_1227/c/monster"
+    },
+    "1228": {
+      "1": "arena_3d/monsters/monster_1228/a/monster",
+      "2": "arena_3d/monsters/monster_1228/b/monster",
+      "3": "arena_3d/monsters/monster_1228/c/monster"
+    },
+    "1230": {
+      "1": "arena_3d/monsters/monster_1230/a/monster",
+      "2": "arena_3d/monsters/monster_1230/b/monster",
+      "3": "arena_3d/monsters/monster_1230/c/monster"
+    },
+    "1232": {
+      "1": "arena_3d/monsters/monster_1232/a/monster",
+      "2": "arena_3d/monsters/monster_1232/b/monster",
+      "3": "arena_3d/monsters/monster_1232/c/monster"
+    },
+    "1235": {
+      "1": "arena_3d/monsters/monster_1235/a/monster",
+      "2": "arena_3d/monsters/monster_1235/b/monster",
+      "3": "arena_3d/monsters/monster_1235/c/monster"
+    },
+    "1238": {
+      "1": "arena_3d/monsters/monster_1238/a/monster",
+      "2": "arena_3d/monsters/monster_1238/b/monster",
+      "3": "arena_3d/monsters/monster_1238/c/monster"
+    },
+    "1258": {
+      "1": "arena_3d/monsters/monster_1258/a/monster",
+      "2": "arena_3d/monsters/monster_1258/b/monster",
+      "3": "arena_3d/monsters/monster_1258/c/monster"
+    },
+    "1259": {
+      "1": "arena_3d/monsters/monster_1259/monster",
+      "2": "arena_3d/monsters/monster_1259/monster",
+      "3": "arena_3d/monsters/monster_1259/monster"
+    },
+    "1260": {
+      "1": "arena_3d/monsters/monster_1260/monster",
+      "2": "arena_3d/monsters/monster_1260/monster",
+      "3": "arena_3d/monsters/monster_1260/monster"
+    },
+    "1264": {
+      "1": "arena_3d/monsters/monster_1264/a/monster",
+      "2": "arena_3d/monsters/monster_1264/b/monster",
+      "3": "arena_3d/monsters/monster_1264/c/monster"
+    },
+    "1302": {
+      "1": "arena_3d/monsters/monster_1302/monster",
+      "2": "arena_3d/monsters/monster_1302/monster",
+      "3": "arena_3d/monsters/monster_1302/monster"
+    },
+    "1305": {
+      "1": "arena_3d/monsters/monster_1305/monster",
+      "2": "arena_3d/monsters/monster_1305/monster",
+      "3": "arena_3d/monsters/monster_1305/monster"
+    },
+    "1306": {
+      "1": "arena_3d/monsters/monster_1306/monster",
+      "2": "arena_3d/monsters/monster_1306/monster",
+      "3": "arena_3d/monsters/monster_1306/monster"
+    },
+    "1307": {
+      "1": "arena_3d/monsters/monster_1307/monster",
+      "2": "arena_3d/monsters/monster_1307/monster",
+      "3": "arena_3d/monsters/monster_1307/monster"
+    }
+  }
+}

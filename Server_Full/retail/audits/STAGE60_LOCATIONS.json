@@ -1,0 +1,544 @@
+{
+  "ok": true,
+  "clientVersion": "3.12.7",
+  "scope": "ALL_NATIVE_LOCATIONS_REQUIRED",
+  "maps": 19,
+  "clientOpenMaps": 17,
+  "reservedClosedMaps": 2,
+  "locations": [
+    {
+      "mapID": 1,
+      "nativeName": "没啥用",
+      "clientIsOpen": false,
+      "width": 120000,
+      "height": 42000,
+      "born": [
+        4180,
+        2395,
+        -28,
+        -132
+      ],
+      "canBuild": true,
+      "productionRows": 131,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "CLIENT_RESERVED_CLOSED",
+      "requiredWork": [
+        "verify intended use; do not force-open placeholder"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 2,
+      "nativeName": "英勇小镇",
+      "clientIsOpen": true,
+      "width": 62000,
+      "height": 62800,
+      "born": [
+        4180,
+        2395,
+        -28,
+        -132
+      ],
+      "canBuild": true,
+      "productionRows": 318,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": true,
+      "roomLevels": [
+        "main",
+        "rookie"
+      ],
+      "status": "PARTIAL_MAIN_WORLD",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 3,
+      "nativeName": "千峰雪原",
+      "clientIsOpen": true,
+      "width": 62080,
+      "height": 62848,
+      "born": [
+        1920,
+        1024,
+        -23200,
+        27725
+      ],
+      "canBuild": true,
+      "productionRows": 167,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 4,
+      "nativeName": "暗夜森林",
+      "clientIsOpen": true,
+      "width": 102000,
+      "height": 28800,
+      "born": [
+        2048,
+        1024,
+        -19308,
+        -9900
+      ],
+      "canBuild": true,
+      "productionRows": 44,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 5,
+      "nativeName": "魔龙巢穴",
+      "clientIsOpen": true,
+      "width": 48700,
+      "height": 55800,
+      "born": [
+        2048,
+        1536,
+        4391,
+        5454
+      ],
+      "canBuild": true,
+      "productionRows": 5,
+      "generateRows": 0,
+      "pveStars": [
+        1
+      ],
+      "partialEntry": true,
+      "roomLevels": [],
+      "status": "PARTIAL_DUNGEON_FLOW",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 6,
+      "nativeName": "不死之地",
+      "clientIsOpen": true,
+      "width": 13000,
+      "height": 14688,
+      "born": [
+        1024,
+        1024,
+        -1634,
+        1645
+      ],
+      "canBuild": true,
+      "productionRows": 0,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 7,
+      "nativeName": "落日荒漠",
+      "clientIsOpen": true,
+      "width": 42000,
+      "height": 42000,
+      "born": [
+        2048,
+        512,
+        -13824,
+        -1000
+      ],
+      "canBuild": true,
+      "productionRows": 78,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 8,
+      "nativeName": "无尽深海",
+      "clientIsOpen": true,
+      "width": 62000,
+      "height": 62800,
+      "born": [
+        256,
+        256,
+        -17985,
+        -23960
+      ],
+      "canBuild": true,
+      "productionRows": 287,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 9,
+      "nativeName": "灰烬圣地",
+      "clientIsOpen": true,
+      "width": 62000,
+      "height": 62800,
+      "born": [],
+      "canBuild": true,
+      "productionRows": 128,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 10,
+      "nativeName": "霜月城堡",
+      "clientIsOpen": true,
+      "width": 62000,
+      "height": 62800,
+      "born": [],
+      "canBuild": true,
+      "productionRows": 184,
+      "generateRows": 2,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 11,
+      "nativeName": "暂时不要",
+      "clientIsOpen": false,
+      "width": 42000,
+      "height": 37000,
+      "born": [
+        2048,
+        2048,
+        -28,
+        -2032
+      ],
+      "canBuild": true,
+      "productionRows": 3,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "CLIENT_RESERVED_CLOSED",
+      "requiredWork": [
+        "verify intended use; do not force-open placeholder"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 12,
+      "nativeName": "守卫莉娅",
+      "clientIsOpen": true,
+      "width": 28880,
+      "height": 33320,
+      "born": [
+        100,
+        100,
+        0,
+        0
+      ],
+      "canBuild": true,
+      "productionRows": 0,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 13,
+      "nativeName": "遗忘海域",
+      "clientIsOpen": true,
+      "width": 25984,
+      "height": 25984,
+      "born": [
+        1280,
+        1280,
+        -6840,
+        4200
+      ],
+      "canBuild": true,
+      "productionRows": 25,
+      "generateRows": 0,
+      "pveStars": [
+        1
+      ],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 14,
+      "nativeName": "旧日墓园",
+      "clientIsOpen": true,
+      "width": 22200,
+      "height": 15960,
+      "born": [
+        1024,
+        1024,
+        -8000,
+        5500
+      ],
+      "canBuild": true,
+      "productionRows": 3,
+      "generateRows": 0,
+      "pveStars": [
+        1,
+        2,
+        3
+      ],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 15,
+      "nativeName": "霜之领地",
+      "clientIsOpen": true,
+      "width": 20280,
+      "height": 20280,
+      "born": [
+        512,
+        512,
+        7400,
+        -7000
+      ],
+      "canBuild": true,
+      "productionRows": 1,
+      "generateRows": 0,
+      "pveStars": [
+        1
+      ],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 16,
+      "nativeName": "厄运神殿",
+      "clientIsOpen": true,
+      "width": 20280,
+      "height": 20280,
+      "born": [
+        512,
+        512,
+        7700,
+        -7300
+      ],
+      "canBuild": true,
+      "productionRows": 2,
+      "generateRows": 0,
+      "pveStars": [
+        1,
+        2
+      ],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 17,
+      "nativeName": "英勇派对",
+      "clientIsOpen": true,
+      "width": 108600,
+      "height": 8400,
+      "born": [
+        512,
+        4096,
+        -52000,
+        0
+      ],
+      "canBuild": true,
+      "productionRows": 0,
+      "generateRows": 1,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 18,
+      "nativeName": "秋枫平原",
+      "clientIsOpen": true,
+      "width": 51000,
+      "height": 57000,
+      "born": [
+        4096,
+        2395,
+        -1000,
+        23250
+      ],
+      "canBuild": true,
+      "productionRows": 117,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": false,
+      "roomLevels": [],
+      "status": "NOT_RESTORED",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    },
+    {
+      "mapID": 99,
+      "nativeName": "新手教程",
+      "clientIsOpen": true,
+      "width": 20000,
+      "height": 11776,
+      "born": [
+        1,
+        1,
+        -7061,
+        -1000
+      ],
+      "canBuild": true,
+      "productionRows": 0,
+      "generateRows": 0,
+      "pveStars": [],
+      "partialEntry": true,
+      "roomLevels": [
+        "guide"
+      ],
+      "status": "PARTIAL_TUTORIAL",
+      "requiredWork": [
+        "native entry/return and room lifecycle",
+        "geometry, water, collision and object placement",
+        "mobs, bosses, skills, resources and respawn",
+        "quests, drops, XP and location-specific rules",
+        "native client loading and Windows visual verification"
+      ],
+      "fullRetailParity": false
+    }
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

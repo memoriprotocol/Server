@@ -1,0 +1,24 @@
+{
+  "stage": "38",
+  "change": "Reverse WEST facing only",
+  "targetSourceIds": [
+    26605,
+    26606,
+    26613
+  ],
+  "angleBefore": 270,
+  "angleAfter": 90,
+  "unchanged": [
+    "Guard CID/nativeCreatureId 3001",
+    "all NPC coordinates",
+    "other 9 guards and their angles",
+    "all other NPCs",
+    "monsters",
+    "bosses",
+    "city walls",
+    "bridges",
+    "decor",
+    "accounts and saves"
+  ],
+  "installation": "Run SET_WEST_GUARDS_OUTWARD.bat after overlaying patch; it edits only three angle fields and stores .stage38.bak."
+}

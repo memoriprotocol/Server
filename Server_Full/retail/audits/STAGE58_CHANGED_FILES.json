@@ -1,0 +1,152 @@
+[
+  {
+    "path": "ISSUES_STAGE58_RU.txt",
+    "change": "added",
+    "sha256": "531cf7305465fb94061041f273bb5229ff921ba18f68f6039bb3804687797109"
+  },
+  {
+    "path": "README_STAGE58_RU.txt",
+    "change": "added",
+    "sha256": "764fc0fe5eb673175c0e6e9cd97656b4087661a735e895fa94ff833ace06218d"
+  },
+  {
+    "path": "Server_Full/README_STAGE58_RU.txt",
+    "change": "added",
+    "sha256": "764fc0fe5eb673175c0e6e9cd97656b4087661a735e895fa94ff833ace06218d"
+  },
+  {
+    "path": "Server_Full/Server/config/map2-monster-recovery-3127.json",
+    "change": "added",
+    "sha256": "6bfb9bef99b27c1a4118f3314700b7915a4b58ff88b745d67eaef6a02f025aab"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "change": "modified",
+    "sha256": "ef1509f8ad7394b9f76171bc9817ca8230a3969444f2763efecfcc5f983168f5"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "140fe720a6f78f2c219e0f9f857ae1a91bba2993a723d73b2dcf281375ec3e11"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "change": "modified",
+    "sha256": "0a07cc4f6d97e3985a0106ca53660a229b3caae3c19056f6ac8eafefd0bdbca8"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-ai-3127.js",
+    "change": "modified",
+    "sha256": "aa5ef046c3bca96f3336b96e9123c483fbbb34957cdf2b566df83a9db7b85902"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-recovery-3127.js",
+    "change": "added",
+    "sha256": "a128efcb91b2c96983660b402014b309f63a013bee086cac88aa5b8894f0ea9a"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "change": "modified",
+    "sha256": "5536d27db403bb8f46a8843ada8a3498763586b8f4d5bed3f650e9da8201f6cb"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-melee-3127.js",
+    "change": "added",
+    "sha256": "2d810218800ec67bfea54141bc0b304e64358bfa31913b88c10040e1e87a6462"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-primary-3127.js",
+    "change": "modified",
+    "sha256": "87d5d1f1154c5a1e0d48a225c882e46f9fa9540beae8c2e21fee9517b73feed5"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage53-displacement.test.js",
+    "change": "modified",
+    "sha256": "981b8098d1200c234af86c74e796efbe9583bba521b9d3061a7d43a4c00b0f79"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage55-moonshard-control.test.js",
+    "change": "modified",
+    "sha256": "50f50cb05793fbdcc3b9febe28993320d949dc89534b00e936eb1741621a77dd"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage58-aggro-retention.test.js",
+    "change": "added",
+    "sha256": "4be2b43352e0aa6b4d47da2badd503df8911126831ba6afa1083df890f5a5a37"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage58-melee-timing.test.js",
+    "change": "added",
+    "sha256": "d2429587ab6139145dac001d2c03077ab8a595d2a41c0790d095f67002e4c85d"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage58-monster-recovery.test.js",
+    "change": "added",
+    "sha256": "cc721eb670e00037196f12600053f99d3a62625020de26b90ca000bf0f144501"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage58-native-contract.test.js",
+    "change": "added",
+    "sha256": "6500b707e87e6479983f16b8e960a8c1d19e5884bfb2110401de5a39ed2191e8"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "97c1ca3430fddab8c23ab80dc744d1ee9add65beb9178ecc5677189854f8dcfe"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_AGGRO.json",
+    "change": "added",
+    "sha256": "2d2ae48ef61f9ef7cc28c257f175802d9a2cafe4dcc9ca4df53ed08414e4b8a9"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_MELEE.json",
+    "change": "added",
+    "sha256": "d7d7fb3204fd062c00477e59b1a444e55406dc5c2181c4fe87ef3ebead210d3e"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_MONSTER_RECOVERY.json",
+    "change": "added",
+    "sha256": "31f1646d27dd72009d67ad373a28e2456c178e3291695dbc531c695af40163f6"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "c2163de782200ede858f27167548a6f70eaa5e10d19aa5a2089b0516d8a36cdc"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_TESTS.log",
+    "change": "added",
+    "sha256": "fb1275090af852765c419569b33c3e3fd704f84fd7f4d8c0cb48c7cf4b7a3818"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_VALIDATION.json",
+    "change": "added",
+    "sha256": "0dd318972555461200e63a29b341db5716d90d5c0c025053ad2497713dfffa84"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE58_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage58/CCBloodBarComp.ts",
+    "change": "added",
+    "sha256": "4854d87a30ed66de20ff9e594b2e399a6c30b08284edabb149796a99b566fbc5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage58/CCSkillComp.ts",
+    "change": "added",
+    "sha256": "49f6b4973a00a7f91d9f702b65e8edc40b208581b80076259353a89c2c2917a9"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage58/MonsterStateType.ts",
+    "change": "added",
+    "sha256": "c3ef0b2718cdab7099dba3612daa6aef95f35c9af3de20d9cfa330f198ea68fd"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "01d2e6f18490ff0c04c0882baac5032bd32f6b9ef377e68853ddd2ad56bf2a10"
+  }
+]

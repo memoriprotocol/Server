@@ -1,0 +1,22 @@
+[
+  {
+    "path": "Server_Full/Server/config/city-main-3127.json",
+    "sha256": "72b5f5ff9e1ad900272d1caf96bab5ae92c6d082d5b32416cb2c213216758730",
+    "identicalToStage44": true
+  },
+  {
+    "path": "Server_Full/Server/config/map2-native-npcs-3127.json",
+    "sha256": "e527a10f4bb1ecf103a386f9706b9cd328236297b690344b209a9e746af45245",
+    "identicalToStage44": true
+  },
+  {
+    "path": "Server_Full/Server/config/map2-city-objects-3127.json",
+    "sha256": "4e0fe572d2cb8d33aca7b6ce480c685bc5de098431f992b6225684cff2bb8bfa",
+    "identicalToStage44": true
+  },
+  {
+    "path": "Server_Full/Server/config/map2-verified-prefabs-3127.json",
+    "sha256": "cc4e454731e64e855443727c4c5dc254aa23db9da133d0b0a38ebe551212e29d",
+    "identicalToStage44": true
+  }
+]

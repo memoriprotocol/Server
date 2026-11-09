@@ -1,0 +1,48 @@
+{
+  "client": "3.12.7",
+  "plans": {
+    "42000001:0": {
+      "mountId": 42000001,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_001/mount_001",
+      "verified": true
+    },
+    "42000002:0": {
+      "mountId": 42000002,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_002/mount_002",
+      "verified": true
+    },
+    "42000003:0": {
+      "mountId": 42000003,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_003/mount_003",
+      "verified": true
+    },
+    "42000004:0": {
+      "mountId": 42000004,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_004/mount_004",
+      "verified": true
+    },
+    "42000004:1": {
+      "mountId": 42000004,
+      "skinId": 1,
+      "skeleton": "arena/player/mount/mount_004_01/mount_004_01",
+      "verified": true
+    }
+  },
+  "unmounted": {
+    "skeleton": "arena/player/mount/zuoqi_000/zuoqi_000",
+    "verified": true
+  },
+  "method": "MountManager.getMountPath; sp.SkeletonData table and CRC-verified original imports. Native textures/rendering not executed.",
+  "verifiedImportPacks": {
+    "e6ddcd27-607c-47d0-bae6-6963fb6d175c": "5937414ec2e175db097f9dc2445c88093a7a7d55bb685809d75be003da7ea956",
+    "f65517c4-af73-4673-af33-851ab8d2690c": "2ebc2afea947cb6854d499a04dc5923613334abb07922a9133dc36deb87c4d91",
+    "0ea2d521-c556-47d4-95f2-0715b69c4382": "a7771594ab3acd36b96c5c433117ef9628b8dd4845fd05c3c7e1fe5b9eddd79c",
+    "3ba3b37e-f129-48bd-9146-9e562fe628ef": "76b05cc3120a9753c188c2d2a10174120d16fa1087f5d4114208318d07910ddb",
+    "9345b04c-261a-44a7-a386-c970afac313a": "83bcefe435098142db5b7e3a096e2f909105a4bdd330bbff77441bb23a798e63",
+    "91a22f5a-d8d2-4129-a404-7fe5b32afb32": "0be057b6692dce55b3aa9ad57ae2a64900385e568daa6e0d44db2c0bddedbf8d"
+  }
+}

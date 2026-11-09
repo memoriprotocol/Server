@@ -1,0 +1,38 @@
+[
+  {
+    "path": "Server_Full/retail/client-reference/stage61/ChallengeItemView.ts",
+    "sha256": "20e6f1cdbf669298e8e821b057341fa31035fe0b97a31a2e45c0352ea394af4d",
+    "bytes": 3434,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassTask.ts",
+    "sha256": "1e9b627ac30cc84505dec860f1c675093ab6dbe6fb2800586b41ec6f491d6d7a",
+    "bytes": 3181,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassportsController.ts",
+    "sha256": "35299a5d90da3a7f3f63e85cb6ab2c6c0a4c6eefe0654e9d0e0ec28b53ebee33",
+    "bytes": 10014,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassportsNetwork.ts",
+    "sha256": "6e291f5b83455e0a217ccd1d0d70a8d438ffa33960cb13c968a4ffca27231a9a",
+    "bytes": 3565,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassportsTaskView.ts",
+    "sha256": "f2a29fd6ec165e62a1236c50b2997f80bdfe4d0d99b89e1363aa20ab305eb5fe",
+    "bytes": 13820,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/TaskItemView.ts",
+    "sha256": "ea16353e7bbccdb3e8d4aade76992209992263fe60566b2d904ea0392e2b749e",
+    "bytes": 3194,
+    "verbatimOriginalFactory": true
+  }
+]

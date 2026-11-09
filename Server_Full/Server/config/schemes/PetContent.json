@@ -1,0 +1,224 @@
+{
+  "PetCfg": [
+    {
+      "PetID": 1404,
+      "Name": "大猪",
+      "Quality": 2,
+      "Description": "十步杀一人 千里不留行",
+      "Area": 0,
+      "ItemId": 120100,
+      "skillID": 2226,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1427,
+      "Name": "猩猩",
+      "Quality": 2,
+      "Description": "新丰美酒斗十千 咸阳游侠多少年",
+      "Area": 0,
+      "ItemId": 120200,
+      "skillID": 2228,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1411,
+      "Name": "狐狸",
+      "Quality": 2,
+      "Description": "鞋儿破 帽儿破 身上的袈裟破",
+      "Area": 0,
+      "ItemId": 120500,
+      "skillID": 2238,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1413,
+      "Name": "平头哥",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 121500,
+      "skillID": 2232,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1403,
+      "Name": "大猫",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 121600,
+      "skillID": 2239,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1438,
+      "Name": "黑猫",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 121700,
+      "skillID": 2248,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1410,
+      "Name": "羊",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 121800,
+      "skillID": 2236,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1420,
+      "Name": "蜜蜂",
+      "Quality": 1,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 121900,
+      "skillID": 0,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1428,
+      "Name": "犀牛",
+      "Quality": 1,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 122100,
+      "skillID": 0,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1426,
+      "Name": "鳄鱼",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 122200,
+      "skillID": 0,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1435,
+      "Name": "浣熊",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 122900,
+      "skillID": 2235,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1430,
+      "Name": "熊猫",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 123000,
+      "skillID": 2249,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1443,
+      "Name": "黑龙",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 123100,
+      "skillID": 2260,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1464,
+      "Name": "秃鹫",
+      "Quality": 2,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 0,
+      "ItemId": 123500,
+      "skillID": 2268,
+      "MountSkill": 0
+    },
+    {
+      "PetID": 1444,
+      "Name": "赤炎鸾",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 123600,
+      "skillID": 2292,
+      "MountSkill": 2292
+    },
+    {
+      "PetID": 1445,
+      "Name": "闪龙",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 123700,
+      "skillID": 2348,
+      "MountSkill": 2348
+    },
+    {
+      "PetID": 1446,
+      "Name": "紫牛",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 123800,
+      "skillID": 2362,
+      "MountSkill": 2362
+    },
+    {
+      "PetID": 1447,
+      "Name": "万圣节幽灵",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 123900,
+      "skillID": 2373,
+      "MountSkill": 2373
+    },
+    {
+      "PetID": 1448,
+      "Name": "水豚",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 124000,
+      "skillID": 2905,
+      "MountSkill": 2905
+    },
+    {
+      "PetID": 1449,
+      "Name": "姜饼人",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 124100,
+      "skillID": 2925,
+      "MountSkill": 2925
+    },
+    {
+      "PetID": 1451,
+      "Name": "貔貅",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 124200,
+      "skillID": 2977,
+      "MountSkill": 2977
+    },
+    {
+      "PetID": 1452,
+      "Name": "蒸饺",
+      "Quality": 3,
+      "Description": "世有伯乐 然后有千里马",
+      "Area": 4,
+      "ItemId": 124300,
+      "skillID": 2975,
+      "MountSkill": 2975
+    }
+  ]
+}

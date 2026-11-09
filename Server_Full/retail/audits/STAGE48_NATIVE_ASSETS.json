@@ -1,0 +1,74 @@
+[
+  {
+    "index": 9790,
+    "path": "arena/maps/map_5",
+    "pack": "019e92831",
+    "importSHA256": "5cad5fa1f08fee65fa41f8c690221701b4080b2af4202096c8a5993a034dab10",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 9490,
+    "path": "arena_3d/monsters/monster_1309/monster",
+    "pack": "0e55115f0",
+    "importSHA256": "9e2f532ff13f65b1c045c1853b681a4c9edf2508e28318d48bd4c538608f7548",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 32534,
+    "path": "arena_3d/monsters/monster_1316/monster",
+    "pack": "050fecf1f",
+    "importSHA256": "c8e2f8729df373e281c05583d81c4ce99c6629b072bcae79c5d43c880fdd6f80",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 36474,
+    "path": "arena_3d/monsters/monster_1317/monster",
+    "pack": "096ff7907",
+    "importSHA256": "1528430ffc716209c3c46e2d80cf168397619107f1cfccc7a2ab0c7a396992c0",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 39017,
+    "path": "arena_3d/monsters/monster_1318/monster",
+    "pack": "0b0ebd373",
+    "importSHA256": "539f4628844df3ce10b4547da9071d846742643750b7afd29e9751ec520a2a57",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 24406,
+    "path": "arena_3d/monsters/monster_1319/monster",
+    "pack": "0e7598444",
+    "importSHA256": "9e319b82e149082332dab032cf5b7d68706d98f3351a928bcf8f5de11afde6ea",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 37207,
+    "path": "arena_3d/scene_item/10029/main",
+    "pack": "0798ec980",
+    "importSHA256": "b4968a99bd829aecc303421bca18cb0a0da2764138640dccd8c247a625c7895f",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 31612,
+    "path": "arena/maps/universe-new/objects/common/portal/portal",
+    "pack": "05f3e7410",
+    "importSHA256": "8a3b0dc5a1bbe9907fb070415aa17f4a8fa88620b08d52a01c05750efa14a4e0",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  },
+  {
+    "index": 48721,
+    "path": "arena/npc/419/npc-1",
+    "pack": "82f304d9-abb1-47d8-8f05-b7c3c89fc48c",
+    "importSHA256": "da551db561ed5183a6cc6d09bd9993b19b303a33f11d6a79337d977e53fa793d",
+    "nativeImportVerified": true,
+    "renderVerified": false
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "stage": 68,
+  "version": "0.46.0-stage68-chef-food-effects",
+  "tests": {
+    "tests": 1442,
+    "pass": 1442,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage68": 74,
+    "modifiedOldTests": 0,
+    "command": "node --test --test-concurrency=4 stage68/Server_Full/Server/tests/*.test.js"
+  },
+  "syntax": {
+    "status": "PASS",
+    "checkedJavaScriptFiles": 12,
+    "files": [
+      "Server_Full/Server/lib/chef-pots-3127.js",
+      "Server_Full/Server/lib/combat-input-3127.js",
+      "Server_Full/Server/lib/environment-3127.js",
+      "Server_Full/Server/lib/food-effects-3127.js",
+      "Server_Full/Server/lib/hero-vfx-3127.js",
+      "Server_Full/Server/lib/monster-effects-3127.js",
+      "Server_Full/Server/lib/player-skills-3127.js",
+      "Server_Full/Server/lib/world.js",
+      "Server_Full/Server/tests/helpers/stage68-native.js",
+      "Server_Full/Server/tests/stage68-food-chef.test.js",
+      "Server_Full/Server/tests/stage68-native-food.test.js",
+      "Server_Full/server.js"
+    ]
+  },
+  "smoke": {
+    "stage68": {
+      "nativeChefF": true,
+      "nativePot1038": true,
+      "nativeCommand94Food": true,
+      "portionsOnce": true,
+      "sharedFoodCooldown": true,
+      "casterHPHealShield": true,
+      "nativeFoodStats": true,
+      "nativeItem32Consumed": true,
+      "periodicFoodRegen": true
+    },
+    "stage67Regression": {
+      "nativeSwordF": true,
+      "backstep": true,
+      "visibleEntity1208": true,
+      "star3WaveDamage": true,
+      "swordWeaponPassive": true,
+      "nativeWizardFrostStacksAndFreeze": true,
+      "nunWeaponHealingBonus": true
+    },
+    "stage66Regression": {
+      "nativeFrames": true,
+      "spartanTickAndToggle": true,
+      "mageStaffCDPacket": true,
+      "paladinCleanseAndInvulnerability": true,
+      "nunDelayedHealAndDefence": true,
+      "weaponDoubleCharge": true,
+      "thirdChargeRejected": true
+    },
+    "stage65Regression": {
+      "nativeHeroF": true,
+      "nativeWeaponRMB": true,
+      "delayedFieldCreation": true,
+      "wizardPulseDamage": true,
+      "vortex500DamageCap": true,
+      "nativeEffect107And1065": true,
+      "variantScale12": true
+    },
+    "stage64Regression": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.46.0-stage68-chef-food-effects",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "PVPBoardNotRemovedOrReplaced": true,
+    "allConfigSchemesByteIdenticalToStage67": true,
+    "clientAddonWebsiteByteIdenticalToStage67": true,
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

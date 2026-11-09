@@ -1,0 +1,28 @@
+{
+  "stage": "31",
+  "reference": "3.12.7 official CreatureScheme + native asset path catalog",
+  "confirmed": {
+    "warehouse": 402,
+    "mail": 422,
+    "changeClassMaster": 421,
+    "guardVariants": [
+      3001,
+      3002,
+      3003,
+      3004,
+      3005
+    ],
+    "guardRenderType": 1037
+  },
+  "unconfirmed": {
+    "godOfWar": "not found in supplied 3.12 CreatureScheme; temporary officer Jerry 412 model, intentionally labelled as provisional",
+    "changeHero": "421 is class-change master, not proven hero switch"
+  },
+  "corrections": {
+    "invalidMerchantGuardCid": 403,
+    "invalidWarehouseCid": 405,
+    "invalidHeroChangeCid": 411,
+    "invalidPrincessAsGodOfWarCid": 426
+  },
+  "note": "No client files changed; render appearance of native guard monster type requires live client test."
+}

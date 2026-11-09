@@ -1,0 +1,58 @@
+{
+  "Exchange": [
+    {
+      "ID": 1,
+      "ItemID": 21,
+      "ItemNum": 700000,
+      "Extra": 200000,
+      "SaleItemID": 25,
+      "SaleItemNum": 10000,
+      "IconURL": "ui_shopping_coin_06"
+    },
+    {
+      "ID": 2,
+      "ItemID": 21,
+      "ItemNum": 350000,
+      "Extra": 100000,
+      "SaleItemID": 25,
+      "SaleItemNum": 5000,
+      "IconURL": "ui_shopping_coin_05"
+    },
+    {
+      "ID": 3,
+      "ItemID": 21,
+      "ItemNum": 140000,
+      "Extra": 20000,
+      "SaleItemID": 25,
+      "SaleItemNum": 2000,
+      "IconURL": "ui_shopping_coin_04"
+    },
+    {
+      "ID": 4,
+      "ItemID": 21,
+      "ItemNum": 70000,
+      "Extra": 10000,
+      "SaleItemID": 25,
+      "SaleItemNum": 1000,
+      "IconURL": "ui_shopping_coin_03"
+    },
+    {
+      "ID": 5,
+      "ItemID": 21,
+      "ItemNum": 30000,
+      "Extra": 0,
+      "SaleItemID": 25,
+      "SaleItemNum": 500,
+      "IconURL": "ui_shopping_coin_02"
+    },
+    {
+      "ID": 6,
+      "ItemID": 21,
+      "ItemNum": 6000,
+      "Extra": 0,
+      "SaleItemID": 25,
+      "SaleItemNum": 100,
+      "IconURL": "ui_shopping_coin_01"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+TAP version 13
+# Subtest: Chicken star1 skin2301 native form, speed, buffs, expiry
+ok 1 - Chicken star1 skin2301 native form, speed, buffs, expiry
+  ---
+  duration_ms: 45.148773
+  type: 'test'
+  ...
+# Subtest: Chicken star1 skin2307 native form, speed, buffs, expiry
+ok 2 - Chicken star1 skin2307 native form, speed, buffs, expiry
+  ---
+  duration_ms: 6.985525
+  type: 'test'
+  ...
+# Subtest: Chicken star1 skin2305 native form, speed, buffs, expiry
+ok 3 - Chicken star1 skin2305 native form, speed, buffs, expiry
+  ---
+  duration_ms: 4.351308
+  type: 'test'
+  ...
+# Subtest: Chicken star1 skin2303 native form, speed, buffs, expiry
+ok 4 - Chicken star1 skin2303 native form, speed, buffs, expiry
+  ---
+  duration_ms: 5.77076
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2301 native form, speed, buffs, expiry
+ok 5 - Chicken star2 skin2301 native form, speed, buffs, expiry
+  ---
+  duration_ms: 3.129932
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2307 native form, speed, buffs, expiry
+ok 6 - Chicken star2 skin2307 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.309811
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2305 native form, speed, buffs, expiry
+ok 7 - Chicken star2 skin2305 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.354598
+  type: 'test'
+  ...
+# Subtest: Chicken star2 skin2303 native form, speed, buffs, expiry
+ok 8 - Chicken star2 skin2303 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.254367
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2301 native form, speed, buffs, expiry
+ok 9 - Chicken star3 skin2301 native form, speed, buffs, expiry
+  ---
+  duration_ms: 3.432487
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2307 native form, speed, buffs, expiry
+ok 10 - Chicken star3 skin2307 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.894869
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2305 native form, speed, buffs, expiry
+ok 11 - Chicken star3 skin2305 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.197242
+  type: 'test'
+  ...
+# Subtest: Chicken star3 skin2303 native form, speed, buffs, expiry
+ok 12 - Chicken star3 skin2303 native form, speed, buffs, expiry
+  ---
+  duration_ms: 2.119234
+  type: 'test'
+  ...
+# Subtest: Native 3.12.7 tables prove 4 normal/alternate skin pairs and 4 buff identifiers
+ok 13 - Native 3.12.7 tables prove 4 normal/alternate skin pairs and 4 buff identifiers
+  ---
+  duration_ms: 0.365048
+  type: 'test'
+  ...
+# Subtest: Chicken form blocks weapon and basic attacks but keeps movement state
+ok 14 - Chicken form blocks weapon and basic attacks but keeps movement state
+  ---
+  duration_ms: 2.075628
+  type: 'test'
+  ...
+# Subtest: Chicken cannot double-cast or spend another charge during form
+ok 15 - Chicken cannot double-cast or spend another charge during form
+  ---
+  duration_ms: 2.028657
+  type: 'test'
+  ...
+# Subtest: Native level gate rejects Chicken F before cooldown
+ok 16 - Native level gate rejects Chicken F before cooldown
+  ---
+  duration_ms: 1.335336
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on death
+ok 17 - Chicken form invalidates on death
+  ---
+  duration_ms: 4.322464
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on hero
+ok 18 - Chicken form invalidates on hero
+  ---
+  duration_ms: 3.928101
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on skin
+ok 19 - Chicken form invalidates on skin
+  ---
+  duration_ms: 1.679854
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on room
+ok 20 - Chicken form invalidates on room
+  ---
+  duration_ms: 5.151039
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on map
+ok 21 - Chicken form invalidates on map
+  ---
+  duration_ms: 3.529844
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on life
+ok 22 - Chicken form invalidates on life
+  ---
+  duration_ms: 1.465362
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on actor
+ok 23 - Chicken form invalidates on actor
+  ---
+  duration_ms: 1.414786
+  type: 'test'
+  ...
+# Subtest: Chicken form invalidates on loading
+ok 24 - Chicken form invalidates on loading
+  ---
+  duration_ms: 1.513544
+  type: 'test'
+  ...
+# Subtest: Chicken cleanup on hero switch retains no transformed buff or native visual
+ok 25 - Chicken cleanup on hero switch retains no transformed buff or native visual
+  ---
+  duration_ms: 4.538749
+  type: 'test'
+  ...
+# Subtest: Chicken no fabricated visual entity, projectile or direct damage
+ok 26 - Chicken no fabricated visual entity, projectile or direct damage
+  ---
+  duration_ms: 1.461796
+  type: 'test'
+  ...
+1..26
+# tests 26
+# suites 0
+# pass 26
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 464.135854

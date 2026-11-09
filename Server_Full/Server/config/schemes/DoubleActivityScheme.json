@@ -1,0 +1,137 @@
+{
+  "DoubleActivityContent": [
+    {
+      "DoubleGroupID": 1,
+      "Desc": "金币",
+      "DoubleType": 2,
+      "ItemID": [
+        109
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 2,
+      "Desc": "公会勋章",
+      "DoubleType": 2,
+      "ItemID": [
+        12
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 3,
+      "Desc": "所有装备",
+      "DoubleType": 1,
+      "ItemID": [],
+      "ItemType": [
+        11
+      ],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 4,
+      "Desc": "所有武器",
+      "DoubleType": 1,
+      "ItemID": [],
+      "ItemType": [
+        6
+      ],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 5,
+      "Desc": "魔龙专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        807506,
+        807406,
+        807306,
+        807206,
+        617400
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 6,
+      "Desc": "冥王专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        808306,
+        808206,
+        807706,
+        807606,
+        617800
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 7,
+      "Desc": "风雪双子专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        808606,
+        808506,
+        618400
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 8,
+      "Desc": "变异共享掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        809106,
+        809006,
+        808906,
+        808806
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 9,
+      "Desc": "变异-沙虫专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        618500
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 10,
+      "Desc": "变异石头人专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        618700
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 11,
+      "Desc": "变异牛头专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        618600
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    },
+    {
+      "DoubleGroupID": 12,
+      "Desc": "变异巨人专属掉落",
+      "DoubleType": 2,
+      "ItemID": [
+        618800
+      ],
+      "ItemType": [],
+      "SubGroupIDs": []
+    }
+  ]
+}

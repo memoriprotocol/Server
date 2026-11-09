@@ -1,0 +1,809 @@
+{
+  "WeaponForge": [
+    {
+      "WeaponID": 605600,
+      "Name": "小刀",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [],
+      "ConsumeMaterialNum": [],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        400,
+        600
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 606900,
+      "Name": "双手战刃",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [],
+      "ConsumeMaterialNum": [],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        200,
+        800
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 600300,
+      "Name": "射日弓",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [],
+      "ConsumeMaterialNum": [],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        600,
+        400
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 607200,
+      "Name": "长矛",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [],
+      "ConsumeMaterialNum": [],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        800,
+        200
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 607400,
+      "Name": "火药箭",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        1200,
+        800
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 610500,
+      "Name": "流炎爆刀",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        400,
+        1600
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 610900,
+      "Name": "雷电双刀",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110900
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        400,
+        1600
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 608600,
+      "Name": "电光锤",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110900
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        1600,
+        400
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 607500,
+      "Name": "结霜剑",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111000
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        800,
+        1200
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 602800,
+      "Name": "急冻之箭",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111000
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        1200,
+        800
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 607700,
+      "Name": "瘟疫剑",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111100
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        800,
+        1200
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 601400,
+      "Name": "五毒鞭",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111100
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        1600,
+        400
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 600001,
+      "Name": "元素之心",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        15,
+        15,
+        15
+      ],
+      "ConsumeResourceID": [
+        102
+      ],
+      "ConsumeResourceNum": [
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 600002,
+      "Name": "霸者之爪",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111200,
+        111300,
+        111400
+      ],
+      "ConsumeMaterialNum": [
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        102
+      ],
+      "ConsumeResourceNum": [
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 600003,
+      "Name": "霸者之牙",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111500,
+        111600,
+        111700
+      ],
+      "ConsumeMaterialNum": [
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        102
+      ],
+      "ConsumeResourceNum": [
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 600004,
+      "Name": "霸者之脊",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111800,
+        111900,
+        112000
+      ],
+      "ConsumeMaterialNum": [
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        102
+      ],
+      "ConsumeResourceNum": [
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 600005,
+      "Name": "霸者之眼",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        112100,
+        112200,
+        112300
+      ],
+      "ConsumeMaterialNum": [
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        102
+      ],
+      "ConsumeResourceNum": [
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 610000,
+      "Name": "霰弹枪",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        111800
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        800,
+        3200,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 604700,
+      "Name": "熔岩嚎叫",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        111500
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        800,
+        3200,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 608700,
+      "Name": "天丛云剑",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110900,
+        111200
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        1600,
+        2400,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 609000,
+      "Name": "雷之裂隙",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110900,
+        112100
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        2400,
+        1600,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 607900,
+      "Name": "冷风长剑",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111000,
+        111900
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        1600,
+        2400,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 604300,
+      "Name": "极寒之刃",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111000,
+        111300
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        800,
+        3200,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 603400,
+      "Name": "恶魔的低语",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111100,
+        112300
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        1600,
+        2400,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 608500,
+      "Name": "女巫之光",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111100,
+        112300
+      ],
+      "ConsumeMaterialNum": [
+        15,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        2400,
+        1600,
+        1000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 604200,
+      "Name": "国王之剑",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100,
+        111200,
+        111300,
+        111400
+      ],
+      "ConsumeMaterialNum": [
+        30,
+        30,
+        30,
+        30,
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        4000,
+        6000,
+        2000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 603700,
+      "Name": "炎魔之手",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100,
+        111500,
+        111600,
+        111700
+      ],
+      "ConsumeMaterialNum": [
+        30,
+        30,
+        30,
+        30,
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        5000,
+        5000,
+        2000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 604500,
+      "Name": "雷神之锤",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100,
+        111800,
+        111900,
+        112000
+      ],
+      "ConsumeMaterialNum": [
+        30,
+        30,
+        30,
+        30,
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        8000,
+        2000,
+        2000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 609100,
+      "Name": "九头蛇之吻",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100,
+        111200,
+        111300,
+        111400
+      ],
+      "ConsumeMaterialNum": [
+        30,
+        30,
+        30,
+        30,
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        4000,
+        6000,
+        2000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 603600,
+      "Name": "波塞冬之歌",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100,
+        112100,
+        112200,
+        112300
+      ],
+      "ConsumeMaterialNum": [
+        30,
+        30,
+        30,
+        30,
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        8000,
+        2000,
+        2000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 609200,
+      "Name": "美杜莎之瞳",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800,
+        110900,
+        111000,
+        111100,
+        112100,
+        112200,
+        112300
+      ],
+      "ConsumeMaterialNum": [
+        30,
+        30,
+        30,
+        30,
+        1,
+        1,
+        1
+      ],
+      "ConsumeResourceID": [
+        5,
+        8,
+        102
+      ],
+      "ConsumeResourceNum": [
+        6000,
+        4000,
+        2000
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 602900,
+      "Name": "燃烧之鞭",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        110800
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        1600,
+        400
+      ],
+      "isValid": false
+    },
+    {
+      "WeaponID": 607600,
+      "Name": "眼镜蛇弓",
+      "UnlockLevel": 1,
+      "UnlockPlayerLevel": 0,
+      "ConsumeMaterialID": [
+        111100
+      ],
+      "ConsumeMaterialNum": [
+        5
+      ],
+      "ConsumeResourceID": [
+        5,
+        8
+      ],
+      "ConsumeResourceNum": [
+        1200,
+        800
+      ],
+      "isValid": false
+    }
+  ]
+}

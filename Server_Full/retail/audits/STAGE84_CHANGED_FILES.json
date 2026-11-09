@@ -1,0 +1,103 @@
+{
+  "baseArchiveSHA256": "98a0a74a07935aca6f05ad6d3d44ed8091c17ac49663a07ca48390a6c05b469d",
+  "changed": [
+    {
+      "path": "Server_Full/package.json",
+      "before": "bb6d5c494bcaa205a2e5f1cf86c94066e971a9d6e0b381dc7427e52243cf5901",
+      "after": "33a58b2115d4b9d1abca76271673577146fa185f0a54daf25b3f125fb3d267eb"
+    },
+    {
+      "path": "Server_Full/Server/lib/game.js",
+      "before": "9f8da4591a29084846e8c17dde61ece6a0bb693003e1b4314710c1e7c270334f",
+      "after": "80a43780331ab047b89c3ed7ec51c09bab3dea429c648ec21be12c7998e70180"
+    },
+    {
+      "path": "Server_Full/Server/lib/life-3127.js",
+      "before": "172f6d9a037e30107b131539fccb01099edb8cefac320380e12f03ab61722416",
+      "after": "547d369ff656aaca3322a109a34b62501182a2e8d7f69436885bdf93e18f5c1a"
+    },
+    {
+      "path": "Server_Full/Server/lib/progression-3127.js",
+      "before": "f93865be138d1813469b8a206f8a0d5796a67d4a49e5f9af3bc0b1905012a9d2",
+      "after": "58ecaac30404923998417ebd060fa5dfb2d6ae055a1ede778abec302bd97056a"
+    },
+    {
+      "path": "Server_Full/Server/lib/quests-3127.js",
+      "before": "3f26fe9ffe14dbd1b2ec10fb41100b515ed6d6680c6f7c774ddeb758857a65d0",
+      "after": "21ac2506c1e0018170a9cfb2685733f0007704618c35c8aecff7006caca6b1e6"
+    },
+    {
+      "path": "Server_Full/Server/lib/room-rank-3127.js",
+      "before": "b7e70d03ad8e4f50a759ce5519b2b3817584c9db04b4759f551470adb4a9db49",
+      "after": "be918340c46c79c99d943daa99bf78b4bc0837e50f26ecb22ab36d6601b54bad"
+    },
+    {
+      "path": "Server_Full/Server/lib/item-exchange-3127.js",
+      "before": "54c42c5d62b6853ff5047bd2f48d8a1d153906ecc9b5ab5a1b8979d05185a372",
+      "after": "b5251981237292ca9af8b5040220137cce2ecffb3ca167fdc28e00ce7b47db14"
+    },
+    {
+      "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+      "before": "29119df4897fc4105422b70e59a946cdf5b4bc58226ad08daf0da67c6463b73f",
+      "after": "1b588ce63e1176f0272875bf7570d478b4008a96608ce9212f979353d7721556"
+    },
+    {
+      "path": "Server_Full/Server/lib/profile.js",
+      "before": "b6760ee9b08ae7585cb3965fd6114ce4fd15e8aab217fa166188f341f5eb644a",
+      "after": "025d1e86742a2df592e1b54d3009a051fd5692fe92e8baaed237cd4dc4eb78e8"
+    },
+    {
+      "path": "Server_Full/Server/lib/rankings-3127.js",
+      "before": "599b5692b0ced74805b658a46bbc696cb531a068baf74093750aaed4ea18d266",
+      "after": "c4a91ef47038fde2b9b03a96ef65125a170989a2e5a022e81a38de2d4278feef"
+    },
+    {
+      "path": "Server_Full/Server/lib/world.js",
+      "before": "3495c0e5f48ce254027f2caf9232cb49b82a7c0438d0bd740ed017091ed31ec5",
+      "after": "60ca5bfbf42cee3c3e7cbb781641e9df005c2086264065993b9b75241d55065f"
+    },
+    {
+      "path": "Server_Full/Server/config/account-rank-policy-3127.json",
+      "before": "ed9d2953924bbf8f75bcb7d943591a12d361ec56a8e2131fd434aa899712179a",
+      "after": "159502e6b608556192309e3280cb7ef84bfecf4982a82b6079dfdac37fc8aead"
+    },
+    {
+      "path": "Server_Full/Server/tests/stage64-map-ranks-native.test.js",
+      "before": "2d56b30c9a49a94e396148721c6fa60de134054fec9792a9311b323f2e7b0325",
+      "after": "cbcd59db24b946f6ec33cf5007e45edc72bc99a340cc932c01d0fb45b4d6d954"
+    },
+    {
+      "path": "Server_Full/Server/tests/stage63-account-hall-rank.test.js",
+      "before": "d977b373dca4909f51d9a2a6cfdbe25ce653d60e604049433f734ecbba61a010",
+      "after": "c52abb2d4f2e31eb22c6ea21920a931399acbb2aeb4e5def7ddf9dfcc82f80c8"
+    }
+  ],
+  "addedBeforeThisManifest": [
+    "Server_Full/README_STAGE84_RU.txt",
+    "Server_Full/Server/lib/dan-3127.js",
+    "Server_Full/Server/lib/level-delivery-3127.js",
+    "Server_Full/Server/tests/helpers/stage84-native.js",
+    "Server_Full/Server/tests/stage84-level-dan.test.js",
+    "Server_Full/Server/tests/stage84-native-level-dan.test.js",
+    "Server_Full/retail/audits/STAGE84_ALL_TESTS.log",
+    "Server_Full/retail/audits/STAGE84_CLIENT_AND_RESTORATION_AUDIT.json",
+    "Server_Full/retail/audits/STAGE84_FOCUSED_TESTS.log",
+    "Server_Full/retail/audits/STAGE84_NETWORK_SMOKE.js",
+    "Server_Full/retail/audits/STAGE84_NETWORK_SMOKE.json",
+    "Server_Full/retail/audits/STAGE84_NETWORK_SMOKE.log",
+    "Server_Full/retail/audits/STAGE84_SYNTAX.json",
+    "Server_Full/retail/client-reference/stage84/CCAvatarUIComp.ts",
+    "Server_Full/retail/client-reference/stage84/CCBloodBarComp.ts",
+    "Server_Full/retail/client-reference/stage84/ConstantsManager.ts",
+    "Server_Full/retail/client-reference/stage84/DanController.ts",
+    "Server_Full/retail/client-reference/stage84/DanManager.ts",
+    "Server_Full/retail/client-reference/stage84/DanModel.ts",
+    "Server_Full/retail/client-reference/stage84/DanView.ts",
+    "Server_Full/retail/client-reference/stage84/ItemPanelNetwork.ts",
+    "Server_Full/retail/client-reference/stage84/LevelExpConfigManager.ts",
+    "Server_Full/retail/client-reference/stage84/ScoreItemView.ts",
+    "Server_Full/retail/client-reference/stage84/TitleManager.ts"
+  ],
+  "removed": [],
+  "allOtherBaseFilesByteIdentical": true
+}

@@ -1,0 +1,54 @@
+{
+  "stage": "30",
+  "scope": "layout-only",
+  "rootEntryPoint": "Server_Full/server.js",
+  "runtimeDirectory": "Server_Full/Server/",
+  "referenceDirectory": "Server_Full/retail/",
+  "moved": [
+    "config",
+    "data",
+    "lib",
+    "local-update",
+    "tests",
+    "tools",
+    "CLIENT_CONTRACT_3127.json",
+    "CLIENT_ENUMS_3127.json",
+    "CLIENT_ROUTES_3127.json",
+    ".env.example"
+  ],
+  "startupVerifications": {
+    "httpStatus": 200,
+    "adminPublicStats": 200,
+    "cityDiagnostics": 200,
+    "environmentDiagnostics": 200,
+    "projectManifest": 200,
+    "versionManifest": 200,
+    "websocketUpgrade": 101
+  },
+  "migrationTest": {
+    "preservedAccounts": true,
+    "preservedPlayers": true,
+    "preservedEditedNpcConfiguration": true,
+    "idempotentSecondRun": true,
+    "blocksRunningWithoutLegacyDataMigration": true
+  },
+  "tests": {
+    "stage29Baseline": {
+      "passed": 155,
+      "failed": 17,
+      "total": 172
+    },
+    "stage30": {
+      "passed": 158,
+      "failed": 17,
+      "total": 175
+    },
+    "newFailureCount": 0,
+    "note": "17 failures from old city geometry/NPC count assumptions also fail in unmodified stage29; not repaired by a layout-only change."
+  },
+  "notes": [
+    "Stage30 patch intentionally excludes Server/data to avoid overwriting user saves.",
+    "MIGRATE_STAGE30.bat moves the original data directory to Server/data.",
+    "Full server archive contains bundled Stage29 data; use for fresh install, not overwrite an existing save."
+  ]
+}

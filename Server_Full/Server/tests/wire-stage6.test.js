@@ -1,0 +1,5 @@
+'use strict';
+const test=require('node:test'),assert=require('node:assert/strict'),http=require('node:http');
+const {websocketUpgrade,pbFields}=require('../lib/wire');
+test('large world snapshot can use WebSocket 64-bit length header',async()=>{const server=http.createServer();server.on('upgrade',(req,socket)=>{const ws=websocketUpgrade(req,socket,body=>ws.send(body));});await new Promise(r=>server.listen(0,'127.0.0.1',r));let ws;try{ws=new WebSocket('ws://127.0.0.1:'+server.address().port);await new Promise((r,j)=>{ws.onopen=r;ws.onerror=j;});const payload=Buffer.alloc(100000,65);const answer=new Promise((r,j)=>{ws.onmessage=async e=>r(Buffer.from(await e.data.arrayBuffer()));ws.onerror=j;});ws.send(payload);assert.deepEqual(await answer,payload);await new Promise(r=>{ws.onclose=r;ws.close();});}finally{ws?.close();await new Promise(r=>server.close(r));}});
+test('truncated protobuf fixed-size fields are rejected',()=>{assert.throws(()=>pbFields(Buffer.from([13,0,0])),/truncated fixed32/);assert.throws(()=>pbFields(Buffer.from([9,0,0])),/truncated fixed64/);});

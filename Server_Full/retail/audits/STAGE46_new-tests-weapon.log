@@ -1,0 +1,48 @@
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=0 drawType=1 result=ok shards=300200x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=1 drawType=1 result=ok shards=120100x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=0
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=0
+✔ ride state includes native inRiding 626 and dismount removes it (22.522785ms)
+✔ LMB dismount is sent before weapon attack and leaves no riding buff (5.474171ms)
+✔ RMB dismounts before using the actual equipped active skill (4.200687ms)
+✔ hero F is denied below combat level ten without spending stamina or cooldown (2.964659ms)
+✔ native cooldown synchronization does not cast or spend stamina (2.060985ms)
+✔ hero cast carries native cast-point then cast events (1.549474ms)
+✔ every hero and pet shard is routed into permanent progress rather than Item (31.273719ms)
+✔ skin item 27202 opens Nun skin 202 without unlocking a locked hero (1.636824ms)
+✔ granting collection rewards requires no free Item bag slot (5.107065ms)
+✔ a mixed staged reward normalizes before saving and removes entitlements from outgoing draft (1.989309ms)
+✔ failed collection save preserves inventory, stars and notifications (1.476385ms)
+✔ old skin, hero and pet items migrate once during account recovery (1.288816ms)
+✔ real gacha routes update a non-Sparta hero and pet through native collections (14.599362ms)
+✔ all native hero records exist at login, including locked heroes with purchased skins (1.808249ms)
+✔ the original client updateDraw actually accepts hero and pet collection records (3.705871ms)
+✔ master switches an unlocked hero and an owned skin using the native command (2.587589ms)
+✔ cosmetic changes at the master are free and allowed during hero-switch cooldown (1.605538ms)
+✔ master rejects locked heroes, unowned skins and remote requests (0.785829ms)
+✔ a failed master transaction leaves the avatar, selection and balance unchanged (1.269108ms)
+✔ the live frame dispatcher handles CommandSwitchHero instead of auditing it as unknown (1.774058ms)
+✔ peace guard sends native protection visuals and blocks movement for its cast (1.832375ms)
+✔ buff pillars are correct native stone objects, take five hits and do not destroy their scene entity (1.49241ms)
+✔ ground lifetime boundary is exactly 40000ms and wire data contains the remaining lifetime (1.165874ms)
+✔ expiry removes room drops from disk and sends native entityDestroyed exactly once (1.954857ms)
+✔ expired drops cannot be picked up or included in a late-join snapshot (1.778826ms)
+✔ expiry persistence failure does not remove drops in memory or broadcast a deletion (1.023692ms)
+✔ throwing and creature loot both receive creation timestamps used by the same expiry rule (3.100621ms)
+✔ native SELF weapon buffs change real speed and critical harm and expire (2.241002ms)
+✔ native immediate healing buffs heal teammates instead of enemies (1.015971ms)
+✔ full-width punctuation in native Slime skill arguments preserves duration (0.179627ms)
+✔ the original native RMB handler emits command6 and the live server creates its visible projectile (4.04127ms)
+✔ all 226 native weapon skill2 IDs are accepted through the actual RMB command (68.822389ms)
+✔ all 40 catalogued non-projectile weapon variants spawn their own native VFX entity (16.115967ms)
+✔ ground-targeted RMB area damage is centred on the cursor rather than the caster (1.395485ms)
+ℹ tests 34
+ℹ suites 0
+ℹ pass 34
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 492.907844

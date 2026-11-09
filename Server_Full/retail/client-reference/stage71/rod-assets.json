@@ -1,0 +1,41 @@
+[
+  {
+    "rodModel": 619200,
+    "index": 45574,
+    "path": "arena/player/weapons/619200/left/619200",
+    "pack": "493d60c2-0e3f-4623-946f-9ecc1eeccdfe",
+    "importSHA256": "27e8aadf8e64c3a7cefd10cf97a9233488c12f4dbb67fd6c7fa9773df3fb56cd",
+    "nativeBytesDeclared": 54539,
+    "nativeCRC32Declared": 234800490,
+    "nativeZipVolume": 4,
+    "nativeBytesRead": false,
+    "nativeSHA256": null,
+    "animationTimelinesDecoded": false
+  },
+  {
+    "rodModel": 619201,
+    "index": 45751,
+    "path": "arena/player/weapons/619201/left/619201",
+    "pack": "4c49c75f-eb82-4080-b1b3-aade836f4418",
+    "importSHA256": "3db1af503294d969b064a90cfe54fd8048f5d0c455fbac91274f70e977ada2c4",
+    "nativeBytesDeclared": 56864,
+    "nativeCRC32Declared": 2341090391,
+    "nativeZipVolume": 4,
+    "nativeBytesRead": false,
+    "nativeSHA256": null,
+    "animationTimelinesDecoded": false
+  },
+  {
+    "rodModel": 619202,
+    "index": 49813,
+    "path": "arena/player/weapons/619202/left/619202",
+    "pack": "97abe663-2b03-4055-895c-f763e62b8345",
+    "importSHA256": "aaf5956ebcaed9a79f0cfef9bb9ec9b8a622716a5e230a0cd037eb0fb0e683c4",
+    "nativeBytesDeclared": 69108,
+    "nativeCRC32Declared": 3130881579,
+    "nativeZipVolume": 7,
+    "nativeBytesRead": false,
+    "nativeSHA256": null,
+    "animationTimelinesDecoded": false
+  }
+]

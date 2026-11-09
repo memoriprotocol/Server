@@ -1,0 +1,160 @@
+TAP version 13
+# Subtest: Native werewolf CCWereWolf maps three levels, 4 distinct form pairs and exact buff IDs
+ok 1 - Native werewolf CCWereWolf maps three levels, 4 distinct form pairs and exact buff IDs
+  ---
+  duration_ms: 1.694566
+  type: 'test'
+  ...
+# Subtest: Werewolf: star1 skin2201 native toggle, properties, speed expiry
+ok 2 - Werewolf: star1 skin2201 native toggle, properties, speed expiry
+  ---
+  duration_ms: 34.614358
+  type: 'test'
+  ...
+# Subtest: Werewolf: star1 skin2203 native toggle, properties, speed expiry
+ok 3 - Werewolf: star1 skin2203 native toggle, properties, speed expiry
+  ---
+  duration_ms: 5.032532
+  type: 'test'
+  ...
+# Subtest: Werewolf: star1 skin2205 native toggle, properties, speed expiry
+ok 4 - Werewolf: star1 skin2205 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.948373
+  type: 'test'
+  ...
+# Subtest: Werewolf: star1 skin2207 native toggle, properties, speed expiry
+ok 5 - Werewolf: star1 skin2207 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.247139
+  type: 'test'
+  ...
+# Subtest: Werewolf: star2 skin2201 native toggle, properties, speed expiry
+ok 6 - Werewolf: star2 skin2201 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.648351
+  type: 'test'
+  ...
+# Subtest: Werewolf: star2 skin2203 native toggle, properties, speed expiry
+ok 7 - Werewolf: star2 skin2203 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.062431
+  type: 'test'
+  ...
+# Subtest: Werewolf: star2 skin2205 native toggle, properties, speed expiry
+ok 8 - Werewolf: star2 skin2205 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.097905
+  type: 'test'
+  ...
+# Subtest: Werewolf: star2 skin2207 native toggle, properties, speed expiry
+ok 9 - Werewolf: star2 skin2207 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.344465
+  type: 'test'
+  ...
+# Subtest: Werewolf: star3 skin2201 native toggle, properties, speed expiry
+ok 10 - Werewolf: star3 skin2201 native toggle, properties, speed expiry
+  ---
+  duration_ms: 3.120479
+  type: 'test'
+  ...
+# Subtest: Werewolf: star3 skin2203 native toggle, properties, speed expiry
+ok 11 - Werewolf: star3 skin2203 native toggle, properties, speed expiry
+  ---
+  duration_ms: 2.418494
+  type: 'test'
+  ...
+# Subtest: Werewolf: star3 skin2205 native toggle, properties, speed expiry
+ok 12 - Werewolf: star3 skin2205 native toggle, properties, speed expiry
+  ---
+  duration_ms: 2.464974
+  type: 'test'
+  ...
+# Subtest: Werewolf: star3 skin2207 native toggle, properties, speed expiry
+ok 13 - Werewolf: star3 skin2207 native toggle, properties, speed expiry
+  ---
+  duration_ms: 2.700707
+  type: 'test'
+  ...
+# Subtest: 3 star wolf leech triggers from actual damage only during native buff lifetime
+ok 14 - 3 star wolf leech triggers from actual damage only during native buff lifetime
+  ---
+  duration_ms: 2.354127
+  type: 'test'
+  ...
+# Subtest: Star 1 and 2 wolf cannot leech and 3-star clamps at maxHP
+ok 15 - Star 1 and 2 wolf cannot leech and 3-star clamps at maxHP
+  ---
+  duration_ms: 1.614055
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on death
+ok 16 - Wolf cleans orphan state on death
+  ---
+  duration_ms: 1.596659
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on hero
+ok 17 - Wolf cleans orphan state on hero
+  ---
+  duration_ms: 1.802949
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on skin
+ok 18 - Wolf cleans orphan state on skin
+  ---
+  duration_ms: 1.635117
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on room
+ok 19 - Wolf cleans orphan state on room
+  ---
+  duration_ms: 4.464579
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on map
+ok 20 - Wolf cleans orphan state on map
+  ---
+  duration_ms: 3.057774
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on life
+ok 21 - Wolf cleans orphan state on life
+  ---
+  duration_ms: 2.097832
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on actor
+ok 22 - Wolf cleans orphan state on actor
+  ---
+  duration_ms: 2.21018
+  type: 'test'
+  ...
+# Subtest: Wolf cleans orphan state on loading
+ok 23 - Wolf cleans orphan state on loading
+  ---
+  duration_ms: 2.572855
+  type: 'test'
+  ...
+# Subtest: Skill level 10 gate and native F input, wrong skill ownership blocked
+ok 24 - Skill level 10 gate and native F input, wrong skill ownership blocked
+  ---
+  duration_ms: 1.623549
+  type: 'test'
+  ...
+# Subtest: clear on hero switch avoids leaking native model and wolf buffs
+ok 25 - clear on hero switch avoids leaking native model and wolf buffs
+  ---
+  duration_ms: 5.127093
+  type: 'test'
+  ...
+1..25
+# tests 25
+# suites 0
+# pass 25
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 410.168654

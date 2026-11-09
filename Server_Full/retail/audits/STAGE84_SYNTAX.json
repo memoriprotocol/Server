@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "files": [
+    "Server_Full/Server/lib/game.js",
+    "Server_Full/Server/lib/life-3127.js",
+    "Server_Full/Server/lib/progression-3127.js",
+    "Server_Full/Server/lib/quests-3127.js",
+    "Server_Full/Server/lib/room-rank-3127.js",
+    "Server_Full/Server/lib/level-delivery-3127.js",
+    "Server_Full/Server/lib/item-exchange-3127.js",
+    "Server_Full/Server/lib/runtime-tick-3127.js",
+    "Server_Full/Server/lib/profile.js",
+    "Server_Full/Server/lib/rankings-3127.js",
+    "Server_Full/Server/lib/dan-3127.js",
+    "Server_Full/Server/lib/world.js",
+    "Server_Full/Server/tests/stage64-map-ranks-native.test.js",
+    "Server_Full/Server/tests/stage63-account-hall-rank.test.js",
+    "Server_Full/Server/tests/stage84-native-level-dan.test.js",
+    "Server_Full/Server/tests/stage84-level-dan.test.js",
+    "Server_Full/Server/tests/helpers/stage84-native.js"
+  ]
+}

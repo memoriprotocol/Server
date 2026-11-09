@@ -1,0 +1,32 @@
+{
+  "stage": 34,
+  "source": "user submitted 3.12.7 client + server logs",
+  "clientErrors": {
+    "ownerName_null": 10,
+    "width_null": 3,
+    "buffs_null": 6,
+    "cocosHandleQueueFrames": 426
+  },
+  "serverObservations": {
+    "worldClientLoadingFinish": 6,
+    "fullCitySentCount": 4,
+    "normalMobsPreviouslyInSingleSnapshot": 289
+  },
+  "fixScope": [
+    "ordinary mob initial AOI bounded",
+    "ordinary mob visual metadata",
+    "city stream in smaller batches with fallbacks and moving client frames",
+    "40 unique town appearance paths in editable ring",
+    "guards keep IDs and positions, no verified Cocos render proof"
+  ],
+  "untouched": [
+    "four bosses and their exact wire representation",
+    "city walls/bridges/colliders",
+    "22 NPC positions and IDs including God of War and Mail"
+  ],
+  "limitations": [
+    "No Cocos render ACK exists on the server protocol; a transmitted entity can still be invisible",
+    "40 asset paths do not establish all are standalone cc.Prefab",
+    "Guard 3001..3005 appearance prefab not verified"
+  ]
+}

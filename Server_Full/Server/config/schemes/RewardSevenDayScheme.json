@@ -1,0 +1,74 @@
+{
+  "RewardSevenDay": [
+    {
+      "ID": 1,
+      "day": 1,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        10000
+      ]
+    },
+    {
+      "ID": 2,
+      "day": 2,
+      "rewardID": [
+        611200
+      ],
+      "rewardNum": [
+        1
+      ]
+    },
+    {
+      "ID": 3,
+      "day": 3,
+      "rewardID": [
+        614100
+      ],
+      "rewardNum": [
+        1
+      ]
+    },
+    {
+      "ID": 4,
+      "day": 4,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        20000
+      ]
+    },
+    {
+      "ID": 5,
+      "day": 5,
+      "rewardID": [
+        617400
+      ],
+      "rewardNum": [
+        1
+      ]
+    },
+    {
+      "ID": 6,
+      "day": 6,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        30000
+      ]
+    },
+    {
+      "ID": 7,
+      "day": 7,
+      "rewardID": [
+        618100
+      ],
+      "rewardNum": [
+        1
+      ]
+    }
+  ]
+}

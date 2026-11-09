@@ -1,0 +1,838 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> heroland-3127-independent-server@0.22.0-stage44-collection-mounts test
+> node --test Server/tests/*.test.js
+
+✔ grants developer to existing account and website permissions become eligible (999.322662ms)
+✔ does not allow deleting only developer (408.415199ms)
+✔ rejects invalid account and leaves file intact (192.158418ms)
+✔ current operator city preserves 22 NPC/guards and 32 fences on Map2 (11.196208ms)
+✔ stage17 keeps original 2024 safe rectangles and adds central gates (1.013229ms)
+✔ local gateway authenticates launcher token; notices, version and telemetry have bounded local endpoints (224.438555ms)
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=69
+[game] login uid=1 account=tester123 lang=ru
+✔ website login -> one-time launcher ticket -> authenticated game login (451.101615ms)
+✔ invalid token cannot bind a player; registered identity is not controlled by account protobuf field (103.456759ms)
+[GAME WS] close uid=1
+✔ all 226 client routes receive an explicit classification, not fake implemented status (16.560631ms)
+✔ known team/friend requests have correct bidirectional protobuf schema except notification-only getTeamMembers (0.286897ms)
+✔ heartbeats are only aggregated, tokenless, and RTT requires matching pong (3.53721ms)
+✔ without a WebSocket pong show no RTT, not an invented 0 ms ping (0.245075ms)
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=2
+✔ actual WS Pong from 2024-style client measures server RTT and heartbeat route stays quiet (99.473505ms)
+✔ frame input is quiet in GAME ROUTE logs but counted alongside 5-minute RTT heartbeat summary (5.919338ms)
+[GAME WS] close uid=2
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=29
+[WORLD LOAD] uid=1 phase=loginLoadingFinish
+[CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=3
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=16
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=19
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=18
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=2 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=13
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=0
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=0
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[WORLD] snapshot uid=1 map=2 players=2 entities=2 push=rm
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD] assigned uid=2 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=2 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=99 players=1 entities=1 push=rm
+✔ loading completion restores native XP privately, including totals above signed int32 (334.92072ms)
+✔ lobby IDs pass the literal 2024 EnterPanel battle prefix filter (1.277553ms)
+✔ serialized guide avatar satisfies unconditional pet/draw reads in CCDigger components (260.154297ms)
+✔ ground pickup uses actual item config ID in its client event, survives restart, and cannot repeat (214.615031ms)
+✔ forged sender and UUID cannot spend another account item; invalid quantities do not mutate (123.564428ms)
+✔ public pickup transfers ownership once, enforces reserve and radius, and keeps private bag events private (126.963095ms)
+✔ full destination bag rejects entire pickup without losing ground item (153.734028ms)
+✔ disk failure rolls back both inventory and ground mutation before any successful push (167.735875ms)
+✔ tutorial bag is isolated from persistent profile and other tutorial sessions (111.491629ms)
+✔ quick slots swap without duplication, selection emits wire-compatible weapon and clears after drop (141.121709ms)
+✔ equipment replacement has one item per body slot, changes direct stats and persists through re-entry (141.531729ms)
+✔ malformed command payload is rejected, unknown use effect does not consume an item (105.761688ms)
+✔ room switch sends one destroy/exit; repeated enter does not announce a duplicate player (124.395907ms)
+✔ re-enter snapshot restores ground entities and excludes peers who have not loaded the scene (122.797191ms)
+✔ legacy item shape is mapped without overwriting stored data; ambiguous duplicates fail explicitly (1.776707ms)
+✔ admin grant is bounded, persists real item cfg and rejects full bags without partial grants (118.380571ms)
+✔ lobby bag move and reorder persist without requiring a fake world (96.749237ms)
+✔ lobby drop has no ground and fails without deleting an owned item (89.107744ms)
+✔ equipment query selects same-room entity and refuses unrelated player or unselected world (113.687129ms)
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=13
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=4
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+✔ 2024 E autoUseSkill -1 toggles E mode, cooldown applies and never initiates walking (262.269256ms)
+✔ 2024 mouse press invokes attack; mouse-up does not disable auto mode (131.334569ms)
+✔ 2024 held left/right commands are 114-117 not later-client 116-119 (160.928634ms)
+✔ auto mode does not chase targets or interrupt WASD movement (47.318189ms)
+✔ mouse aim does not rotate movement or authorize unknown skill (57.019953ms)
+✔ 2024 wall rectangular footprint: a walk along the side passes and direct collision blocks (1.926059ms)
+✔ real client dimensions are used in overlap preview, with circle rectangle contact (0.239477ms)
+✔ collision is swept without teleportation and allows escape from an old overlap (0.215661ms)
+✔ 2024 oriWeaponID identifies one family across upgrades, without late-only IDs (4.755905ms)
+✔ no client mouse click can start movement after adding geometry adapter (0.381248ms)
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=10
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=16
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=4
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=77
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=undefined level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=undefined phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=undefined map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=undefined map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=63
+✔ mouse click NEVER walks; only keyboard moveStart advances (317.320476ms)
+✔ keyboard direction, mouse rotation, manual stop, zero-speed input (171.919994ms)
+✔ 2024 attack event and server cooldown; never invents hit rewards (132.437027ms)
+✔ building preview requires known native config, level and resource costs (129.900101ms)
+✔ no out-of-range or ghost building mutates inventory (115.683813ms)
+✔ collision adapter blocks crossing a placed radius and bounds guide map (0.400487ms)
+✔ attack hits a hostile building in the facing arc without issuing moveTo or changing the walking target (212.837568ms)
+✔ default 2024 server does not apply speculative PVP damage or move avatars on attack (130.173539ms)
+✔ swept motion prevents crossing thin obstacles within one tick (6.151344ms)
+✔ 2024 client request and response route catalog is decodable and all mapped replies are serializable (124.872462ms)
+✔ known mutable routes are not silently declared successful when not implemented (0.499063ms)
+✔ authenticated local RTC signals only within same active room; not a GME audio server (185.999222ms)
+✔ original 5 safe rectangles are active on Map2 and never on guide map (1.271353ms)
+✔ a building footprint touching a safe zone boundary is rejected even when its center is outside (0.200719ms)
+✔ safe zone prevents attacking protected buildings and attacks fired from city at outsiders (29.392877ms)
+✔ current fence segments block walls while all four configured gates remain traversable (1.427276ms)
+✔ safezones remain active even when city prefabs are disabled to avoid Cocos crash (0.218295ms)
+✔ actual build validation rejects a native safe zone even with enough materials (0.371023ms)
+✔ attack resolution never subtracts HP inside a safe zone, including structures (0.744519ms)
+✔ experimental PvP remains forbidden across boundaries of any of the five zones (11.483957ms)
+✔ team: create, list, join, rename, leader change, member list push, leave (9.779769ms)
+✔ team: cross-room membership, unsolicited invite and unauthorized kicks are rejected (9.613942ms)
+✔ team: leaving world dissolves membership, no ghost team remains (51.712626ms)
+✔ friends: request, accept, list, durable chat/read, remove, block (12.880848ms)
+✔ friends: cannot look up nonexistent people as success; no fake friendship by online presence (5.832649ms)
+✔ 2024 achievement catalog yields one existing first stage per type (2.791208ms)
+✔ saved legitimate progress survives, missing values default without completing (0.291194ms)
+✔ LoginResp and AchievementRsp serialize typed achievement data (49.780057ms)
+✔ player EntityInfo contains valid building and settle components for 2024 client UI (11.467664ms)
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=36
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=36 npc=0 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=36 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=41
+[WORLD LOAD] uid=1 phase=enter cityMode=off initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+✔ main hall login sends player first, then defers Stage17 city objects until frame + loginLoadingFinish (198.227699ms)
+✔ city can be switched off without removing player from room (76.924774ms)
+✔ stage17 no longer quarantines city entirely; old off flag still disables objects (1.254189ms)
+✔ native map2 still preserves 5 safe rectangles and now adds manual perimeter objects (1.56422ms)
+✔ catalog documents client assets; Stage17 uses only assets available in this client (0.800332ms)
+✔ Map2 uses ten verified NPC prefabs and twelve native-creature guards, not every cross-map NPC (3.120379ms)
+✔ all manually placed NPCs stand within genuine map2 central safe area, away from player spawn and walls (0.472504ms)
+✔ NPC are never spawned on guide map; opt-in mode isolates them from city walls (0.475629ms)
+✔ all 22 NPC and guard entity snapshots encode and decode in authentic 2024 ReplicateMsg protobuf (18.685476ms)
+✔ NPC dialog uses authentic NPC talk group and verifies distance (0.316982ms)
+✔ legacy safe mode can disable all NPCs without disabling five real safe zones (2.925738ms)
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=17
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[SHOP 2024] uid=1 shopType=0 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=1 shopType=5 offers=4 ids=42000001,42000002,42000003,42000004
+[SHOP 2024] uid=1 shopType=40 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[DRAW 2024] uid=1 typ=777 drawType=1 result=BAD_NATIVE_DRAW_REQUEST shards= free={}
+[DRAW 2024] uid=1 typ=0 drawType=0 result=ok shards=302000x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+✔ inside Map2 safe zone LMB,E,F,RMB and holds cannot start skills or attack animations (139.332322ms)
+✔ safe-zone combat rejection never prevents WASD movement, head aiming, or mouse button release (81.932555ms)
+✔ autoattack started outside safe zone is cancelled immediately on entering protected area (104.987319ms)
+✔ local shop always returns valid ItemScheme IDs and proper QueryShopItemRsp protobuf (56.459407ms)
+✔ local shop payment, inventory grant and coin update are atomic, no negative-balance exploit (84.146584ms)
+✔ authentic TraderDraw 2024 weights and tier prices with local-only reward mapping (68.758339ms)
+✔ hall gacha accepts native hero draw types and no real-money purchase path (58.866473ms)
+✔ weapon gacha uses only February 2024 WeaponScheme IDs and persists owned inventory (57.769785ms)
+[SHOP 2024] uid=1 shopType=0 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=1 shopType=3 offers=3 ids=320401,320402,320403
+[SHOP 2024] uid=1 shopType=4 offers=3 ids=37000002,37000003,37000009
+[SHOP 2024] uid=1 shopType=5 offers=4 ids=42000001,42000002,42000003,42000004
+[SHOP 2024] uid=1 shopType=6 offers=19 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=1 shopType=7 offers=52 ids=80032001,80033001,40000001,41000001,300100
+[SHOP 2024] uid=1 shopType=8 offers=3 ids=37000002,37000003,37000002
+[SHOP 2024] uid=1 shopType=9 offers=3 ids=12,15,17
+[SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=1 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=1 shopType=8 offers=3 ids=37000002,37000003,37000002
+✔ all 2024 shop tabs encode/decodes and every item/currency icon exists (69.747037ms)
+✔ skin tab ShopType 1: item->SkinScheme id, genuine cost and currency, not missing ID (91.481826ms)
+✔ skin purchase uses real SkinScheme price, atomically persists ownership, replies with correct proto (84.891653ms)
+✔ different shop tab / insufficient funds cannot grant inventory or modify wallet (60.910729ms)
+✔ gift shop uses actual GiftScheme contents and opening purchased package applies deterministic rewards (50.702751ms)
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=28
+✔ current native catalog certifies 46 prefabs and twelve CreatureScheme guards (1.249542ms)
+✔ full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds (11.045856ms)
+✔ supported launcher selects paced city streaming; NPC/object flags retain their operator overrides (0.394979ms)
+✔ safe-zone protections persist if visual prefabs are disabled (0.285645ms)
+✔ world protobuf snapshots include city only when requested; movement still unchanged (27.12676ms)
+✔ actual battle.iob.enter queues 58 visuals, and gameplay frame + loadingFinished sends first genuine NPC (171.857465ms)
+[SHOP 2024] uid=1 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=1 shopType=6 offers=19 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=1 shopType=7 offers=52 ids=80032001,80033001,40000001,41000001,300100
+[DRAW 2024] uid=1 typ=0 drawType=0 result=ok shards=302000x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+[DRAW 2024] uid=1 typ=0 drawType=0 result=ok shards=300200x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+[DRAW 2024] uid=1 typ=1 drawType=0 result=ok shards=123900x1 free={"heroFreeDraw":0,"petFreeDraw":1}
+[DRAW 2024] uid=1 typ=1 drawType=1 result=NOT_ENOUGH_COIN shards= free={}
+[SHOP 2024] uid=1 shopType=6 offers=19 ids=27202,27301,27502,27602,27902
+✔ Recruit and Consumable cards use existing February 2024 ItemScheme with icons; Gift contains mounts and skins (149.941907ms)
+✔ first Hero Free spin advances native collection progress, second paid attempt costs coins (188.662896ms)
+✔ Pet Free spin persists native affection without a loose inventory shard (113.723703ms)
+✔ giftable native mount sent to another account charges displayed local currency and presentPrice atomically (121.477865ms)
+✔ unverified river rectangles are disabled along with the removed guessed bridges (1.188851ms)
+✔ protobuf bytes decoder accepts empty binary command under --throw-deprecation (242.385906ms)
+✔ Map2 runtime visual catalogue counts 22 NPC/guards, 32 fences and four bridges (5.734688ms)
+✔ world counters distinguish catalogued, transmitted and Cocos-rendered (unknown) (0.592272ms)
+[DRAW 2024] uid=1 typ=0 drawType=0 result=ok shards=302600x1 free={"heroFreeDraw":1,"petFreeDraw":0}
+[DRAW 2024] uid=1 typ=1 drawType=0 result=ok shards=123600x1 free={"heroFreeDraw":1,"petFreeDraw":1}
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=16
+[PETS 2024] uid=1 command=getAllPets count=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+✔ plain node server uses the current city roster and deferred streaming by default (2.12823ms)
+✔ Recruit Hero/Pet uses native 2024 fragments, mapped to real shard schemes (15.441513ms)
+✔ free draws record native fragments in collection progress without coin deduction (141.25079ms)
+✔ pet bag C command emits 2024 PetInfo, with cid (not proto.Pet.petId) (113.19724ms)
+✔ exitTeam succeeds during room transitions and clears client roster (60.108774ms)
+✔ in-world CommandExitTeam (30) leaves native team and emits empty teamChange (57.367631ms)
+[SHOP 2024] uid=2 shopType=1 offers=62 ids=27202,27301,27502,27602,27902
+[SHOP 2024] uid=2 shopType=2 offers=12 ids=80032001,80033001,80034001,80035001,80036001
+[SHOP 2024] uid=2 shopType=3 offers=3 ids=320401,320402,320403
+[SHOP 2024] uid=2 shopType=4 offers=3 ids=37000002,37000003,37000009
+[SHOP 2024] uid=2 shopType=5 offers=4 ids=42000001,42000002,42000003,42000004
+[SHOP 2024] uid=2 shopType=7 offers=52 ids=80032001,80033001,40000001,41000001,300100
+[SHOP 2024] uid=2 shopType=8 offers=3 ids=37000002,37000003,37000002
+[SHOP 2024] uid=2 shopType=9 offers=3 ids=12,15,17
+✔ client Gift filter sees actual products from login-requested tabs after protobuf round trip (9.871626ms)
+✔ original zero flags reproduce empty Gift with exact native filtering function (0.491532ms)
+✔ Gift catalog uses native query handler rather than empty initial route (3.821463ms)
+✔ Map2 city has 32 fences, four bridges, and 22 operator NPC placements (3.125766ms)
+✔ fence collision intervals leave each gate free of the two intruding prefabs (0.58366ms)
+✔ all four gate centers are open while adjacent fence sections stop swept player motion (6.617318ms)
+✔ bridges line up with their gate axes and span the native moat bank estimates (0.760173ms)
+✔ city records survive native entity replication; NPC ring stays on land inside the moat (184.665681ms)
+✔ Ctrl+R shortcut gracefully saves worker and reloads JS/JSON in a fresh process (647.711438ms)
+✔ all nine website player editors return native catalogs and real account UID (12.947538ms)
+✔ admin grants persist, deny missing rights and revision updates are idempotent (7.394545ms)
+✔ website exact guild edit/activate/equip/deactivate payloads operate on persistent guild (13.644837ms)
+✔ shop editor creates product, native buy charges diamonds, respects stock and restarts (27.624768ms)
+✔ mail delivery is live, attachments claim once, fixed mail revises and recalls (23.611196ms)
+✔ native event controls use native pass reset schema and survive restart (16.573902ms)
+✔ map2 production and local static spawns verify against native entity schema (47.544995ms)
+✔ water mask preserves dry lake island, land animals cannot cross water and crocs can (0.928252ms)
+✔ player water enter and exit produces real native swimming event (1.24947ms)
+✔ world AOI is gated on loading and mob/resource death rewards only once (22.047179ms)
+✔ native well restores 50% HP and statue picks native buffs with cooldown (13.824429ms)
+✔ AI tick emits valid native movement and delayed attack events (78.236522ms)
+✔ all website catalogs, mail tabs and shop list produce complete data (30.446383ms)
+✔ mob death grants native XP once and failed shop stock commit restores the wallet (24.221746ms)
+✔ native guild creation, list and own membership round-trip without losing member data (3.537997ms)
+✔ eight gate-adjacent intruding fence sections are removed, south bridge raised (2.049864ms)
+✔ four requested central NPCs, two per exit and one in each external safe zone (0.629398ms)
+✔ all sent NPCs use valid Cocos proxy serialization, including guards (10.89518ms)
+✔ mobs are active and spawn on nearest-first AOI after loading; boss and statics remain (20.000485ms)
+✔ swimming state resynchronizes after loading without false land events (1.27556ms)
+✔ retail contains all reference-only files, with no stale root copies (1.596078ms)
+✔ runtime contracts and editable NPC / map configs still live at their original paths (14.140124ms)
+✔ stage30: clean outer root and internal runtime/retail (5.124744ms)
+✔ stage30: core runtime assets and admin tools resolve in their new locations (160.087772ms)
+✔ stage30: worker can load full auth, admin and game backend from root entrypoint (518.769096ms)
+✔ 3.12 water transitions drive native BuffScheme inWater=181 and exit removes it (4.804151ms)
+✔ each guard uses real 3.12 creature group4 id and monster component; mail remains 422 (2.060948ms)
+✔ all ordinary mobs load at entry while existing boss spawn protocol stays unchanged (89.489749ms)
+✔ bosses stay identical to verified Stage30 baseline (16.776734ms)
+✔ God of War replaces only Officer 412 with native Map6 entrance NPC420; remains at operator position (8.617734ms)
+✔ each ordinary Map2 creature has prefab_path in first wire snapshot; no other creature changed (38.627226ms)
+✔ boss templates and complete wire serialization IDENTICAL to Stage30/Stage32 (5.530934ms)
+✔ Stage36 removes all Stage34/35 temporary props while preserving original city structures (3.348585ms)
+✔ initial mob-only entry packet is near bounded; has 3.12 creature metadata (16.004615ms)
+✔ boss prefab bytes remain identical to Stage30 baseline (2.819347ms)
+✔ guard CID 3001..3005 remains unchanged and loaded into eligible city list (0.494606ms)
+✔ all twelve guards have identical creature appearance and outward gate/safe-area direction (2.908069ms)
+✔ old decor is completely absent but city geometry and all normal NPCs remain (0.249701ms)
+✔ four boss wire records remain identical to Stage30 baseline (5.476752ms)
+✔ Stage38: 3 west guards face opposite previous direction with 3001, all other guard angles unchanged (3.915007ms)
+✔ every map2 mob/boss activates only its own skill IDs with exact independent cooldowns (10.819165ms)
+✔ windup delays release, cast happens once, and backswing prevents movement/new cast (0.731288ms)
+✔ safe zone entry, scene replacement, disconnect and actor death cancel the pending cast (0.821113ms)
+✔ respawn does not retain cast state or cooldowns from the previous life (0.488627ms)
+✔ special skills are not silently converted to a damaging melee attack (0.457041ms)
+✔ environment tick sends native skill packets only after spawn and delays contact damage (11.968356ms)
+✔ all trees and wells have dry footprints outside boss arenas and protected city (15.60853ms)
+✔ well spacing is enforced for every pair; room creation and respawn homes use corrected positions (15.066724ms)
+✔ full water footprint is checked even when center is dry (0.549528ms)
+✔ boss spawn polygons and their edges exclude trees and wells (0.504ms)
+✔ entire client-exported mine arena bounds are clear including corners far from the spawn (0.595677ms)
+✔ base damage uses the client tooltip formula and support HP percentages (4.286341ms)
+✔ boss sector hits outside legacy 220 radius, misses behind, and respects city protection (8.952316ms)
+✔ healing and shield are distinct ally effects; shield absorbs and expires without healing (2.307745ms)
+✔ attack and critical buffs change server properties, refresh without stacking, and revert (3.029129ms)
+✔ tauren summons four real level40 mobs with their own skills, lifetime, and no reward farming (9.768952ms)
+✔ golem fan uses twelve native energy entities, advances them, and destroys expired missiles (5.977048ms)
+✔ projectile return is two swept legs, each target hit once per leg even across a delayed tick (1.379403ms)
+✔ acid volley supplies the exact client user-data contract, lands before damage, and expires pools (3.292852ms)
+✔ dash and burrow end events clean effects; an old life cannot damage after respawn (2.664487ms)
+✔ poison and confusion use native IDs and timed server state, not only client icons (1.611419ms)
+✔ every emitted effect event and entity passes the 3.12 protobuf codec (16.535545ms)
+✔ native mushroom illusion hides its owner, creates three native clones and reveals on real-clone death (22.056774ms)
+✔ illusion duration and a late observer restore native hide/reveal state (3.586509ms)
+✔ gas has native radius, deals area damage for eight seconds and is removed at expiry (1.270592ms)
+✔ hurricane uses the verified native prefab and swept projectile collision (0.736917ms)
+✔ native flower keeps client level, HP and lifetime without fabricated skills or rewards (0.764338ms)
+✔ environment sends transient spawns before their movement and removes effects after source death (6.20033ms)
+[QUEST PROGRESS] SOCKET_CLOSED
+[REWARD PUSH] committed; delivery failed: SOCKET_CLOSED
+[QUEST PROGRESS] SOCKET_CLOSED
+[REWARD PUSH] committed; delivery failed: SOCKET_CLOSED
+[NOTICE DELIVERY] uid=2 SOCKET_CLOSED
+✔ all Map2 actors have resolvable client drop graphs; missing exact rows are explicitly marked (32.302756ms)
+✔ independent nested draws preserve repeated groups and use exact client quantities (0.475448ms)
+✔ monster kill grants XP, crosses several levels, updates real stats and persists once (30.342418ms)
+✔ death save failure rolls back XP, drops, kill and HP; retry keeps the same loot roll (4.477735ms)
+✔ team XP is conserved, personal XP stays with killer, distant and other-room peers are excluded (22.045026ms)
+✔ boss death and respawn use the 3.12 envelopes, are sent once per life, and stay in their room (6.129184ms)
+✔ rainbow/mythic boss-loot notice fires only after a committed pickup, not on drop or failure (3.78859ms)
+✔ actual environment respawn timer warns once, restores the boss and emits native createBoss once (15.365963ms)
+✔ XP is conserved at every level boundary and totals above int32 use the unsigned native event (23.553592ms)
+✔ category drops respect client Weight and exclude zero-weight universal jewels (0.857616ms)
+✔ a socket delivery failure after saving never grants the same kill twice (8.227007ms)
+✔ rare manual drops and ordinary boss items do not trigger valuable-loot announcements (1.070753ms)
+✔ one disconnected player cannot suppress boss announcements to other room members (12.486477ms)
+[PLAYER DEATH SAVE] PERSISTENCE_FAILED
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=0
+[WORLD LOAD] uid=2 phase=loginLoadingFinish
+[CITY WORLD] uid=2 map=2 stage=client-loading-finished planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=7 render=UNVERIFIED
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=1 entities=1 push=rm
+✔ native critical rate uses percent boundaries, clamps chance and honors canCrit (8.739139ms)
+✔ critical multiplier comes from actual stats; fixed DOT never rerolls or multiplies (1.186657ms)
+✔ real equipment crit/critHarm bonuses affect the calculation (0.796265ms)
+✔ hero basic strike applies critical damage and sends native critical hit and number types (12.846524ms)
+✔ monster critical uses the same rolled result for HP, hit effect and floating number (1.850935ms)
+✔ fully absorbed critical displays shield absorption instead of an HP critical zero (6.38143ms)
+✔ partial shield shows absorption separately and critical only for actual HP lost (1.98228ms)
+✔ poison ticks retain native poison type even when source has guaranteed crit (0.965858ms)
+✔ lethal hit leaves a dead body and sends death publicly, settlement only to its owner (6.532404ms)
+✔ settlement converts only XP earned in this segment, using main/rookie constants (6.816052ms)
+✔ death persistence failure leaves HP, shield, buffs and account state intact before retry (3.070932ms)
+✔ continue keeps ceil(half level), charges quoted coins once and uses native spawn/protection (34.495424ms)
+✔ insufficient coins, continuation cap, forged UID and invalid mode fail without mutation (4.619057ms)
+✔ respawn save failure preserves the death, XP, money and position for retry (4.07749ms)
+✔ dead players cannot move, attack, pick up, drink or rotate; heartbeat/load still work (6.182543ms)
+✔ Stage42 new login/reselection resets battle level and death while keeping settled currency (40.767296ms)
+✔ protection blocks damage outside town, expires, and does not accumulate buffs (4.839695ms)
+✔ native resource collection does not become a critical strike (5.223105ms)
+✔ all emitted life and combat envelopes verify against original 3.12 schemas (2.258783ms)
+✔ real mob XP, loot gold and kill counters feed the persisted battle segment exactly once (15.929142ms)
+✔ finish converts an alive segment once; finishing an already settled death never pays twice (5.820515ms)
+✔ reconnect retains the original protection deadline instead of extending or losing it (5.907614ms)
+✔ account title XP is separate from hero XP and high unsigned hero XP never wraps in PlayerInfo (3.994947ms)
+✔ leaving view uses native leave reason; a killed monster uses dead reason after its death event (5.573321ms)
+✔ hero critical absorbed by a monster shield does not emit a fake critical zero (1.657427ms)
+✔ all original Map2 mob levels select their exact native form, not a forced first form (9.806738ms)
+✔ room creation and timed respawn preserve the selected native variant (23.363239ms)
+✔ all four original boss packets and IDs retain the exact fixture bytes (5.482501ms)
+[GAME ROUTE] game.gameHandler.getCoin uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getDiamond uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getCoin uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getDiamond uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getCoin uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.getDiamond uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.reqRanking uid=2 bytes=0
+[GAME ROUTE] game.talentHandler.reputationGetRank uid=2 bytes=0
+[GAME ROUTE] game.talentHandler.tdGetRank uid=2 bytes=0
+[GAME ROUTE] game.activityHandler.getActivityRank uid=2 bytes=2
+[GAME ROUTE] game.guildHandler.getGuildRank uid=2 bytes=0
+[GAME ROUTE] game.guildHandler.getGuildRankDetail uid=2 bytes=0
+[GAME ROUTE] game.passHandler.passInfo uid=2 bytes=0
+[GAME ROUTE] game.passHandler.passInfo uid=2 bytes=0
+[GAME ROUTE] game.passHandler.passInfo uid=2 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=2 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=2 bytes=0
+[PASS] game.passHandler.getPassAward PASS_REWARD_UNAVAILABLE
+[GAME ROUTE] game.passHandler.getPassTaskReward uid=2 bytes=2
+[GAME ROUTE] game.passHandler.getPassTaskReward uid=2 bytes=2
+[PASS] game.passHandler.getPassTaskReward PASS_TASK_REWARD_UNAVAILABLE
+[PASS] game.passHandler.getPassTaskReward PASS_TASK_DISABLED
+[GAME ROUTE] game.passHandler.getPassTaskReward uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyAdvancedPass uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyAdvancedPass uid=2 bytes=2
+[PASS] game.passHandler.buyAdvancedPass PASS_ALREADY_UPGRADED
+[GAME ROUTE] game.passHandler.buyAdvancedPass uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyPassExp uid=2 bytes=2
+[GAME ROUTE] game.passHandler.buyPassExp uid=2 bytes=2
+[PASS] game.passHandler.buyPassExp disk
+[GAME ROUTE] game.activityHandler.loadActivity uid=2 bytes=0
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=2 bytes=5
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=2 bytes=5
+[ACTIVITY] game.activityHandler.getActivityAwards ACTIVITY_REWARD_UNAVAILABLE
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=2 bytes=5
+[ACTIVITY] game.activityHandler.getActivityAwards ACTIVITY_REWARD_UNAVAILABLE
+[GAME ROUTE] game.drawHandler.draw uid=2 bytes=4
+[DRAW 2024] uid=2 typ=1 drawType=1 result=ok shards=124300x2,121600x1,123600x3,120500x1,123500x1,121700x1,121500x1 free={"petFreeDraw":1}
+[GAME ROUTE] game.drawHandler.draw uid=2 bytes=4
+[DRAW 2024] uid=2 typ=1 drawType=2 result=ok shards=121700x2,120200x3,123900x2,123100x1,124200x2,120500x2,122900x4,124300x3,122100x1,122200x7,123600x5,123800x3,123500x1,124000x4,123000x3,121900x1,123700x2,121500x1,121600x1,121800x1,120100x1 free={"petFreeDraw":1}
+[GAME ROUTE] game.drawHandler.draw uid=2 bytes=4
+[DRAW 2024] uid=2 typ=1 drawType=1 result=ok shards=123500x2,122900x1,121600x1,123700x1,123600x1,124100x1,124300x1,124000x1,120500x1 free={"petFreeDraw":1}
+[GAME ROUTE] game.talentHandler.unlock uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.unlock uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.unlock uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.cancel uid=2 bytes=2
+[GAME ROUTE] game.talentHandler.cancel uid=2 bytes=2
+[GAME ROUTE] game.gameHandler.giveUpBeginner uid=2 bytes=0
+[GAME ROUTE] game.gameHandler.chooseIsBeginner uid=2 bytes=2
+✔ CoinRsp and DiamondRsp decode through game wire route at 0 (16.056386ms)
+✔ CoinRsp and DiamondRsp decode through game wire route at 128 (6.026461ms)
+✔ CoinRsp and DiamondRsp decode through game wire route at 1234567890 (3.216928ms)
+✔ leaderboard schemas contain real score, reputation, TD and activity records (7.317452ms)
+✔ guild ranks sort and omit the native broken field zero (4.254473ms)
+✔ 62 native event controls expose dates in Unix seconds and missing parameter status (5.123747ms)
+✔ forced seasons preserve separate progress and correct TaskID identities (32.15165ms)
+✔ pass rewards persist and cannot be duplicated (15.012277ms)
+✔ weekly check-in cannot repeat and task controls gate claims (23.778898ms)
+✔ advanced pass uses native price difference, grants a rod and rejects re-purchase (16.288207ms)
+✔ pass level price and persistence rollback are atomic (7.499974ms)
+✔ seven-day login grants native rewards once and blocks future days (16.245654ms)
+✔ pet gacha uses category 1, native x10/x50 and coupon precedence (23.308211ms)
+✔ mail catalog has exactly 1902 native definitions and real localized searches (11.146743ms)
+✔ player editor modifies real shard inventory and validates level/XP pairing (4.061617ms)
+✔ safe healing is 200 per 1500ms with no catch-up burst or dead healing (1.967529ms)
+✔ campfire heals 150 per tick, caps HP, and does not stack nearby fires (1.751747ms)
+✔ death clears buildings and disconnect resets XP but preserves hero, title and talents (5.297055ms)
+✔ drop includes offset needed before the client subscribes label cleanup (0.548657ms)
+✔ well spacing is 8000+ and two native interactive altars surround every boss (1.127258ms)
+✔ crocodile carries native swimming buff and cannot cross land (1.059578ms)
+✔ spear uses its effect range and overlapping mobs remain hittable (2.528934ms)
+✔ ranged bullet is visible on the wire and damage waits for collision (3.297068ms)
+✔ boss elemental weaknesses follow native resistance rows (0.651099ms)
+✔ talents enforce points, prerequisites and descendants before cancellation (5.936267ms)
+✔ owned mount can be selected, ridden and dismounted without stacking speed (5.152851ms)
+✔ peace guard casts for 3 seconds and consumes three uses per day (4.904711ms)
+✔ beginner opt-out persists independently of guide completion (2.490327ms)
+✔ Map2 has native 104 chest instances with correct water and death-drop definitions (7.547756ms)
+✔ quests filter collection targets and submission grants only once (7.031937ms)
+✔ fishing requires a dry shore and owned rod, then grants native fish and XP (11.395724ms)
+✔ peace AI ignores an unprovoked player, retaliates after a hit, then loses expired hate (33.053263ms)
+✔ boss acquires within SeekRange and returns outside GuardRange (4.396385ms)
+✔ unseen creatures cannot acquire players (17.460272ms)
+✔ returning monster resets only on arrival and clears its target (4.428502ms)
+✔ native sleep state is applied and a hit wakes the creature (2.854108ms)
+✔ wizard F damages cursor ground and repeats at hitCd (12.094224ms)
+✔ Nun heals over time and caps HP (1.929262ms)
+✔ paladin creates and expires a real shield (32.552197ms)
+✔ RMB damage consumes native stamina once and respects cooldown (8.479102ms)
+✔ protobuf-default skill angle preserves the cursor at close overlap (2.278672ms)
+✔ native enemy stun expires cleanly (7.987691ms)
+✔ death stops outgoing skill jobs (1.751958ms)
+✔ verified native VFX imports exclude missing vampire layers and obsolete Sparta entity (7.525092ms)
+✔ wizard creates native snowstorm at cursor then removes it (26.142826ms)
+✔ Sparta uses skin-aware buffs 586/705 and removes them (3.43283ms)
+✔ vampire channel blocks attacks and aim while native VFX and damage ticks run (3.732687ms)
+✔ bard follows caster, heals, and appears in room snapshots (3.189658ms)
+✔ paladin shields allies from caster HP with native caster skin (2.388526ms)
+✔ Nun uses native skillCast without duplicate VFX entity (1.281047ms)
+✔ unknown skins never substitute later-version VFX entities (1.174378ms)
+✔ death clears scene VFX and channel immunity for room peers (4.486298ms)
+✔ leaving destroys VFX and excludes it from future snapshots (2.673991ms)
+✔ Ninja dashes to cursor and creates four native shuriken without instant phantom damage (30.533062ms)
+✔ Ninja shuriken damages by segment and never hits the same target twice (6.426637ms)
+✔ Ninja zero cursor distance does not force a full-range dash (3.266964ms)
+✔ weapon moveDistance parameters cannot teleport the avatar (2.804955ms)
+✔ planning pass progress leaves the live player untouched until its inventory transaction commits (4.05102ms)
+✔ every native hero uses the same unlock and star progression as RiseHeroManager (25.065983ms)
+✔ all pet qualities and maximum-star affection match native PetAffectionManager (3.90346ms)
+✔ all five ride visuals use exactly the native MountManager paths and zero base-skin index (3.738405ms)
+✔ every shard that native gacha can roll maps to a concrete hero or pet (2.63964ms)
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=0 drawType=1 result=ok shards=300200x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=1 drawType=1 result=ok shards=120100x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW 2024] uid=1 typ=0 drawType=1 result=PERSISTENCE_FAILED shards= free={}
+[GAME ROUTE] game.heroHandler.switchHero uid=1 bytes=2
+[GAME ROUTE] game.heroHandler.switchHero uid=1 bytes=2
+[GAME ROUTE] game.heroHandler.switchHero uid=1 bytes=2
+[GAME ROUTE] game.heroHandler.upPetLv uid=1 bytes=3
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.shopHandler.buyShopItem uid=1 bytes=9
+[GAME ROUTE] game.drawHandler.draw uid=1 bytes=4
+[DRAW DELIVERY] committed: NETWORK_CLOSED
+[DRAW 2024] uid=1 typ=0 drawType=1 result=ok shards=300200x10 free={"heroFreeDraw":0,"petFreeDraw":0}
+✔ hero shards unlock and upgrade at native 5/10/15 thresholds; excess is preserved as item112 (20.822707ms)
+✔ pet stars use total affection and native 10/25/40 thresholds (3.881017ms)
+✔ gacha atomically updates collection and sends updateDraw before its native response (19.872463ms)
+✔ gacha pet result is a real Pet record, not a loose shard stack (4.161254ms)
+✔ failed persistence rolls back gacha payment, collection, coupons and success pushes (2.32491ms)
+✔ legacy bag shards migrate once and preserve unrelated items (2.365411ms)
+✔ collection survives reload and session-level reset; LoginResp includes all collected heroes (8.82697ms)
+✔ locked hero selection is rejected; selecting a collected hero preserves free Sparta (10.152293ms)
+✔ three-star ownership reaches the avatar, skill level, healing and VFX plan (8.704548ms)
+✔ pet ordinary level uses native coin cost separately from affection stars (3.16383ms)
+✔ all native purchased mounts push ownership and ride with base skin zero (20.210846ms)
+✔ legacy full-ID mount skins normalize to zero and native variant index one stays valid (1.839559ms)
+✔ all mount visual paths match CRC-verified native SkeletonData imports (0.456439ms)
+✔ failed mount purchase cannot grant ownership or send a successful ownership push (1.303861ms)
+✔ native mount music stop index -1 is accepted after dismount (1.125145ms)
+✔ admin catalog exposes native bundled mount variants and revokes the parent entitlement (2.802772ms)
+✔ a failed draw notification cannot roll back an already committed collection or change its successful response (1.969291ms)
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=10 npcSent=10 wallSent=0 bridgeSent=0 remaining=48 clientFrames=5 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=20 npcSent=20 wallSent=0 bridgeSent=0 remaining=38 clientFrames=10 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=30 npcSent=22 wallSent=8 bridgeSent=0 remaining=28 clientFrames=15 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=40 npcSent=22 wallSent=18 bridgeSent=0 remaining=18 clientFrames=20 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=50 npcSent=22 wallSent=28 bridgeSent=0 remaining=8 clientFrames=25 render=UNVERIFIED
+[CITY WORLD] uid=1 map=2 stage=spawn-progress planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=58 npcSent=22 wallSent=32 bridgeSent=4 remaining=0 clientFrames=29 render=UNVERIFIED
+[WORLD LOAD] uid=1 city-transmitted count=58; visuals need client verification
+✔ Map2 client scenery recovers five layers, 2827 original positions and 57 verified prefab paths (3.958283ms)
+✔ optional decor never duplicates an exact client-owned placement; NPC actors remain networked (0.522047ms)
+✔ current operator walls, bridges and native NPCs are retained as 58 separate server entities (0.559113ms)
+✔ disabling physical city objects removes ghost-wall build/AI overlaps without removing safe zones (1.10134ms)
+✔ guide map never inherits Map2 static collision or city actors (0.204184ms)
+✔ diagnostic spawn mode agrees with the actual deferred default and validates unknown modes (1.316991ms)
+✔ failed city sends retain objects and counters, then retry the exact batch (4.521711ms)
+✔ successful city batches require a fresh frame and do not repeat an already sent batch (0.853641ms)
+✔ city streaming drains all 58 objects once, preserving input order and native wire records (6.21387ms)
+✔ loading gate and fallback retain their independent one-object pacing (0.711819ms)
+✔ legacy migration planning reads sources without moving data or creating backups (11.076418ms)
+✔ legacy layout migration preserves original folders in backup and leaves current runtime untouched (7.393641ms)
+✔ different destination saves stop migration before any source or target is changed (11.358262ms)
+✔ layout rename failure restores moved sources and removes unchanged newly copied saves (5.104965ms)
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=0
+✔ all mapped request and response types exist in the actual 2024 decoder (1.855052ms)
+✔ all startup reads decode, mail has data.mails and balances stay unchanged (70.413697ms)
+✔ rank error fallback cannot place UTF-8 text into an integer field (0.310582ms)
+✔ main and rookie lists match account mode and nomination is separate (1.306525ms)
+✔ guide uses map99, identity-bound player and rm entityCreated, re-enter does not reset (82.446078ms)
+✔ battle heartbeat is a real reply and aggregates into the same five minute window (48.180611ms)
+✔ skip tutorial persists and sends toMain; a fresh main session uses map2 and formal mode (58.782784ms)
+✔ lobby profile region matches filterLang and saved player inventory round trips (50.768454ms)
+✔ movement emits decoded entity positions; forged far move cannot teleport avatar (57.702069ms)
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=5
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+✔ s3.2 cursor rotation mapped to 2024 cannonRotateTo 23 -> event 58, signed angles (106.242632ms)
+✔ s3.2 manual weapon use produces 2024 EntityEvent.useSkill(34), not empty startAttack(6) (69.242774ms)
+✔ E attack creates native buff 246 and repeats native skill animation following latest cursor (73.032496ms)
+✔ only WASD changes position; mouse press and pointer never trigger click-to-move (66.415917ms)
+✔ 2024 explicit weapon active attack 13 is separate from normal LMB (56.016137ms)
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+✔ LMB is basic skill 7; E toggles ONLY basic auto attack 9; mouse never walks (114.813045ms)
+✔ F 10 casts ONLY owned hero ability, 138+21 and does not fire weapon skill (71.944616ms)
+✔ RMB 11 triggers ONLY equipped active weapon skill; no active skill -> refused (59.766609ms)
+✔ left/right holds remain distinct: 114 normal, 116 active, E survives release (67.739277ms)
+✔ large world snapshot can use WebSocket 64-bit length header (49.405404ms)
+✔ truncated protobuf fixed-size fields are rejected (3.80158ms)
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+[game] login uid=1 account=networker lang=
+[GAME ROUTE] game.gameHandler.getServers uid=1 bytes=0
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=40
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME ROUTE] battle.iob.enter uid=1 bytes=19
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=8
+[GAME ROUTE] battle.iob.reEnter uid=1 bytes=16
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+[game] login uid=1 account=networker lang=
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=35
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME WS] close uid=guest
+[GAME ROUTE] battle.iob.enter uid=1 bytes=16
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+✔ real WebSocket login -> client-filtered lobby -> scene -> item frame -> reconnect snapshot (210.125228ms)
+[GAME WS] close uid=1
+[SESSION FINISH] retry on next login: PERSISTENCE_FAILED
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+[game] login uid=1 account=networkcrit lang=
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=19
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME ROUTE] battle.iob.enter uid=1 bytes=0
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+[WORLD LOAD] uid=1 phase=loginLoadingFinish
+[CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+[GAME ROUTE] battle.iob.reEnter uid=1 bytes=4
+✔ Stage41 real WebSocket carries critical numbers, private death settlement and native relive (124.830602ms)
+[GAME WS] close uid=1
+[SESSION FINISH] retry on next login: PERSISTENCE_FAILED
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+✔ 2024 contract identifies IOGameLoginRsp for enterGuide (1.339724ms)
+✔ guide handshake gives a room, accepts scene entry, persists last room and exits (82.501276ms)
+✔ reject unknown world and prevent unauthorized scene entry (55.523749ms)
+✔ read-only boot requests yield new-account empty state without changing balance or owned items (45.860963ms)
+✔ enterGuide tolerates older 2024 client without an explicit room string (39.729388ms)
+ℹ tests 354
+ℹ suites 0
+ℹ pass 354
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 6462.593593

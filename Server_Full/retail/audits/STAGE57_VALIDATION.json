@@ -1,0 +1,41 @@
+{
+  "stage": 57,
+  "version": "0.35.0-stage57-map2-returning-projectiles",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 824,
+    "passed": 824,
+    "failed": 0,
+    "newStage57": 39,
+    "updatedPriorTests": 2,
+    "nativeVMTests": 2,
+    "nativeAssetImportsVerified": 3
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.35.0-stage57-map2-returning-projectiles",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "returningSkillIDs": [
+      3032,
+      3186,
+      3250,
+      6197011,
+      6197021,
+      6197031,
+      6197041,
+      6197501
+    ],
+    "scheduledActiveSkills": 14,
+    "windowsClientRendered": false
+  }
+}

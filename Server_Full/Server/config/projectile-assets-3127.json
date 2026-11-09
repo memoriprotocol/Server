@@ -1,0 +1,1132 @@
+{
+  "35": {
+    "skillType": 35,
+    "name": "missileTurretAttack",
+    "missile": "arena/skills/missile_turret_attack/prefab/missile"
+  },
+  "36": {
+    "skillType": 100,
+    "name": "fireTurret",
+    "missile": "arena/skills/fire_turret/prefab/missile"
+  },
+  "37": {
+    "skillType": 101,
+    "name": "iceTurret",
+    "missile": "arena/skills/ice_turret/prefab/missile"
+  },
+  "51": {
+    "skillType": 810,
+    "name": "PVPTurretAttack",
+    "missile": "arena/skills/pvp_turret_attack/prefab/missile"
+  },
+  "1001": {
+    "skillType": 420,
+    "name": "windGuard",
+    "missile": "arena/skills/wind_guard/prefab/missile"
+  },
+  "1012": {
+    "skillType": 589,
+    "name": "goldRingSkill",
+    "missile": "arena/skills/gold_ring_skill/prefab/missile"
+  },
+  "1020": {
+    "skillType": 20,
+    "name": "trackBomb",
+    "missile": "arena/skills/track_bomb/prefab/missile"
+  },
+  "2043": {
+    "skillType": 215,
+    "name": "huohuli",
+    "missile": "arena/skills/huohuli/prefab/missile"
+  },
+  "2044": {
+    "skillType": 82,
+    "name": "fengxi",
+    "missile": "arena/skills/fengxi/prefab/missile"
+  },
+  "2045": {
+    "skillType": 83,
+    "name": "kuangfengluanwu",
+    "missile": "arena/skills/kuangfengluanwu/prefab/missile"
+  },
+  "2052": {
+    "skillType": 210,
+    "name": "wenzi",
+    "missile": "arena/skills/wenzi/prefab/missile"
+  },
+  "2057": {
+    "skillType": 96,
+    "name": "penguinAttack",
+    "missile": "arena/skills/penguin_attack/prefab/missile"
+  },
+  "2058": {
+    "skillType": 216,
+    "name": "huobianfu",
+    "missile": "arena/skills/huobianfu/prefab/missile"
+  },
+  "2059": {
+    "skillType": 211,
+    "name": "zhizhu",
+    "missile": "arena/skills/zhizhu/prefab/missile"
+  },
+  "2060": {
+    "skillType": 213,
+    "name": "mifeng",
+    "missile": "arena/skills/mifeng/prefab/missile"
+  },
+  "2061": {
+    "skillType": 212,
+    "name": "maotouying",
+    "missile": "arena/skills/maotouying/prefab/missile"
+  },
+  "2063": {
+    "skillType": 97,
+    "name": "squirrelAttack",
+    "missile": "arena/skills/squirrel_attack/prefab/missile"
+  },
+  "2066": {
+    "skillType": 207,
+    "name": "bingyuanlang",
+    "missile": "arena/skills/bingyuanlang/prefab/missile"
+  },
+  "2070": {
+    "skillType": 209,
+    "name": "xiezi",
+    "missile": "arena/skills/xiezi/prefab/missile"
+  },
+  "2076": {
+    "skillType": 107,
+    "name": "radishAttack",
+    "missile": "arena/skills/radish_attack/prefab/missile"
+  },
+  "2083": {
+    "skillType": 217,
+    "name": "cangying",
+    "missile": "arena/skills/cangying/prefab/missile"
+  },
+  "2098": {
+    "skillType": 132,
+    "name": "barrageRain",
+    "missile": "arena/skills/barrage_rain/prefab/missile"
+  },
+  "2101": {
+    "skillType": 208,
+    "name": "xuehu",
+    "missile": "arena/skills/xuehu/prefab/missile"
+  },
+  "2115": {
+    "skillType": 214,
+    "name": "heimao",
+    "missile": "arena/skills/heimao/prefab/missile"
+  },
+  "2222": {
+    "skillType": 211,
+    "name": "zhizhu",
+    "missile": "arena/skills/zhizhu/prefab/missile"
+  },
+  "2223": {
+    "skillType": 218,
+    "name": "devilattack1",
+    "missile": "arena/skills/devilattack1/prefab/missile"
+  },
+  "2224": {
+    "skillType": 219,
+    "name": "devilattack2",
+    "missile": "arena/skills/devilattack2/prefab/missile"
+  },
+  "2225": {
+    "skillType": 363,
+    "name": "devilattack3",
+    "missile": "arena/skills/devilattack3/prefab/missile"
+  },
+  "2230": {
+    "skillType": 77,
+    "name": "fireFan",
+    "missile": "arena/skills/fire_fan/prefab/missile"
+  },
+  "2234": {
+    "skillType": 329,
+    "name": "batSucking",
+    "missile": "arena/skills/bat_sucking/prefab/missile"
+  },
+  "2242": {
+    "skillType": 349,
+    "name": "soldierArrow2",
+    "missile": "arena/skills/soldier_arrow2/prefab/missile"
+  },
+  "2244": {
+    "skillType": 350,
+    "name": "soldierArrow3",
+    "missile": "arena/skills/soldier_arrow3/prefab/missile"
+  },
+  "2261": {
+    "skillType": 213,
+    "name": "mifeng",
+    "missile": "arena/skills/mifeng/prefab/missile"
+  },
+  "2262": {
+    "skillType": 213,
+    "name": "mifeng",
+    "missile": "arena/skills/mifeng/prefab/missile"
+  },
+  "2271": {
+    "skillType": 430,
+    "name": "barrageRain2",
+    "missile": "arena/skills/barrage_rain2/prefab/missile"
+  },
+  "2272": {
+    "skillType": 431,
+    "name": "barrageRain3",
+    "missile": "arena/skills/barrage_rain3/prefab/missile"
+  },
+  "2273": {
+    "skillType": 432,
+    "name": "windBlade",
+    "missile": "arena/skills/wind_blade/prefab/missile"
+  },
+  "2291": {
+    "skillType": 463,
+    "name": "chiyanluan",
+    "missile": "arena/skills/chiyanluan/prefab/missile"
+  },
+  "2321": {
+    "skillType": 519,
+    "name": "wellMonsterSkill3",
+    "missile": "arena/skills/well_monster_skill3/prefab/missile"
+  },
+  "2322": {
+    "skillType": 521,
+    "name": "jitanMonsterSkill1",
+    "missile": "arena/skills/jitan_monster_skill1/prefab/missile"
+  },
+  "2330": {
+    "skillType": 523,
+    "name": "wenziSkill1",
+    "missile": "arena/skills/wenzi_skill1/prefab/missile"
+  },
+  "2333": {
+    "skillType": 525,
+    "name": "chouchouni",
+    "missile": "arena/skills/chouchouni/prefab/missile"
+  },
+  "2335": {
+    "skillType": 530,
+    "name": "captureNet",
+    "missile": "arena/skills/capture_net/prefab/missile"
+  },
+  "2346": {
+    "skillType": 573,
+    "name": "snakelJet",
+    "missile": "arena/skills/snakel_jet/prefab/missile"
+  },
+  "2351": {
+    "skillType": 565,
+    "name": "cactusSkill1",
+    "missile": "arena/skills/cactus_skill1/prefab/missile"
+  },
+  "2369": {
+    "skillType": 598,
+    "name": "bubbleRotation",
+    "missile": "arena/skills/bubble_rotation/prefab/missile"
+  },
+  "2906": {
+    "skillType": 629,
+    "name": "capybaraIce",
+    "missile": "arena/skills/capybara_ice/prefab/missile"
+  },
+  "2907": {
+    "skillType": 627,
+    "name": "capybaraPhy",
+    "missile": "arena/skills/capybara_phy/prefab/missile"
+  },
+  "2908": {
+    "skillType": 628,
+    "name": "capybaraFire",
+    "missile": "arena/skills/capybara_fire/prefab/missile"
+  },
+  "2912": {
+    "skillType": 632,
+    "name": "electricRayAck",
+    "missile": "arena/skills/electric_ray_ack/prefab/missile"
+  },
+  "2926": {
+    "skillType": 660,
+    "name": "archmageAttack",
+    "missile": "arena/skills/archmage_attack/prefab/missile"
+  },
+  "2929": {
+    "skillType": 350,
+    "name": "soldierArrow3",
+    "missile": "arena/skills/soldier_arrow3/prefab/missile"
+  },
+  "2963": {
+    "skillType": 757,
+    "name": "mifengIce",
+    "missile": "arena/skills/mifeng_ice/prefab/missile"
+  },
+  "2964": {
+    "skillType": 758,
+    "name": "beeShootSkill",
+    "missile": "arena/skills/bee_shoot_skill/prefab/missile"
+  },
+  "2974": {
+    "skillType": 789,
+    "name": "jiaoziAttack",
+    "missile": "arena/skills/jiaozi_attack/prefab/missile"
+  },
+  "2980": {
+    "skillType": 809,
+    "name": "carrotBall",
+    "missile": "arena/skills/carrot_ball/prefab/missile"
+  },
+  "2983": {
+    "skillType": 97,
+    "name": "squirrelAttack",
+    "missile": "arena/skills/squirrel_attack/prefab/missile"
+  },
+  "2984": {
+    "skillType": 96,
+    "name": "penguinAttack",
+    "missile": "arena/skills/penguin_attack/prefab/missile"
+  },
+  "3002": {
+    "skillType": 71,
+    "name": "handgun",
+    "missile": "arena/skills/handgun/prefab/missile"
+  },
+  "3006": {
+    "skillType": 77,
+    "name": "fireFan",
+    "missile": "arena/skills/fire_fan/prefab/missile"
+  },
+  "3008": {
+    "skillType": 79,
+    "name": "feijian",
+    "missile": "arena/skills/feijian/prefab/missile"
+  },
+  "3018": {
+    "skillType": 86,
+    "name": "hook",
+    "missile": "arena/skills/hook/prefab/missile"
+  },
+  "3024": {
+    "skillType": 88,
+    "name": "darts",
+    "missile": "arena/skills/darts/prefab/missile"
+  },
+  "3027": {
+    "skillType": 83,
+    "name": "kuangfengluanwu",
+    "missile": "arena/skills/kuangfengluanwu/prefab/missile"
+  },
+  "3029": {
+    "skillType": 94,
+    "name": "coldArrow",
+    "missile": "arena/skills/cold_arrow/prefab/missile"
+  },
+  "3032": {
+    "skillType": 156,
+    "name": "boomerang2",
+    "missile": "arena/skills/boomerang2/prefab/missile"
+  },
+  "3033": {
+    "skillType": 98,
+    "name": "iceSticks",
+    "missile": "arena/skills/ice_sticks/prefab/missile"
+  },
+  "3034": {
+    "skillType": 99,
+    "name": "deathWand",
+    "missile": "arena/skills/death_wand/prefab/missile"
+  },
+  "3037": {
+    "skillType": 109,
+    "name": "poseidonsRage",
+    "missile": "arena/skills/poseidons_rage/prefab/missile"
+  },
+  "3043": {
+    "skillType": 95,
+    "name": "iceDarts",
+    "missile": "arena/skills/ice_darts/prefab/missile"
+  },
+  "3072": {
+    "skillType": 115,
+    "name": "fireArrow",
+    "missile": "arena/skills/fire_arrow/prefab/missile"
+  },
+  "3074": {
+    "skillType": 116,
+    "name": "cobraArrow",
+    "missile": "arena/skills/cobra_arrow/prefab/missile"
+  },
+  "3079": {
+    "skillType": 94,
+    "name": "coldArrow",
+    "missile": "arena/skills/cold_arrow/prefab/missile"
+  },
+  "3080": {
+    "skillType": 94,
+    "name": "coldArrow",
+    "missile": "arena/skills/cold_arrow/prefab/missile"
+  },
+  "3081": {
+    "skillType": 94,
+    "name": "coldArrow",
+    "missile": "arena/skills/cold_arrow/prefab/missile"
+  },
+  "3086": {
+    "skillType": 117,
+    "name": "thunderGap",
+    "missile": "arena/skills/thunder_gap/prefab/missile"
+  },
+  "3089": {
+    "skillType": 105,
+    "name": "laserGun",
+    "missile": "arena/skills/laser_gun/prefab/missile"
+  },
+  "3091": {
+    "skillType": 114,
+    "name": "storageLaserGun",
+    "missile": "arena/skills/storage_laser_gun/prefab/missile"
+  },
+  "3098": {
+    "skillType": 77,
+    "name": "fireFan",
+    "missile": "arena/skills/fire_fan/prefab/missile"
+  },
+  "3102": {
+    "skillType": 140,
+    "name": "meiDuShaAttack",
+    "missile": "arena/skills/mei_du_sha_attack/prefab/missile"
+  },
+  "3103": {
+    "skillType": 142,
+    "name": "avatarsAttack",
+    "missile": "arena/skills/avatars_attack/prefab/missile"
+  },
+  "3104": {
+    "skillType": 145,
+    "name": "charge",
+    "missile": "arena/skills/charge/prefab/missile"
+  },
+  "3107": {
+    "skillType": 144,
+    "name": "meteoriteAttack",
+    "missile": "arena/skills/meteorite_attack/prefab/missile"
+  },
+  "3119": {
+    "skillType": 357,
+    "name": "emeraldSticks",
+    "missile": "arena/skills/emerald_sticks/prefab/missile"
+  },
+  "3121": {
+    "skillType": 304,
+    "name": "poisonGong",
+    "missile": "arena/skills/poison_gong/prefab/missile"
+  },
+  "3127": {
+    "skillType": 358,
+    "name": "stormSticks",
+    "missile": "arena/skills/storm_sticks/prefab/missile"
+  },
+  "3128": {
+    "skillType": 77,
+    "name": "fireFan",
+    "missile": "arena/skills/fire_fan/prefab/missile"
+  },
+  "3129": {
+    "skillType": 99,
+    "name": "deathWand",
+    "missile": "arena/skills/death_wand/prefab/missile"
+  },
+  "3130": {
+    "skillType": 98,
+    "name": "iceSticks",
+    "missile": "arena/skills/ice_sticks/prefab/missile"
+  },
+  "3139": {
+    "skillType": 99,
+    "name": "deathWand",
+    "missile": "arena/skills/death_wand/prefab/missile"
+  },
+  "3142": {
+    "skillType": 303,
+    "name": "apollogunAttack",
+    "missile": "arena/skills/apollogun_attack/prefab/missile"
+  },
+  "3144": {
+    "skillType": 305,
+    "name": "arrowsUnison",
+    "missile": "arena/skills/arrows_unison/prefab/missile"
+  },
+  "3147": {
+    "skillType": 82,
+    "name": "fengxi",
+    "missile": "arena/skills/fengxi/prefab/missile"
+  },
+  "3148": {
+    "skillType": 155,
+    "name": "guowangzhijian",
+    "missile": "arena/skills/guowangzhijian/prefab/missile"
+  },
+  "3149": {
+    "skillType": 156,
+    "name": "boomerang2",
+    "missile": "arena/skills/boomerang2/prefab/missile"
+  },
+  "3150": {
+    "skillType": 86,
+    "name": "hook",
+    "missile": "arena/skills/hook/prefab/missile"
+  },
+  "3153": {
+    "skillType": 319,
+    "name": "kuwu",
+    "missile": "arena/skills/kuwu/prefab/missile"
+  },
+  "3158": {
+    "skillType": 162,
+    "name": "imprisonStaff",
+    "missile": "arena/skills/imprison_staff/prefab/missile"
+  },
+  "3159": {
+    "skillType": 157,
+    "name": "jiyanzhigong",
+    "missile": "arena/skills/jiyanzhigong/prefab/missile"
+  },
+  "3162": {
+    "skillType": 160,
+    "name": "lightningBall",
+    "missile": "arena/skills/lightning_ball/prefab/missile"
+  },
+  "3164": {
+    "skillType": 323,
+    "name": "icegong",
+    "missile": "arena/skills/icegong/prefab/missile"
+  },
+  "3165": {
+    "skillType": 88,
+    "name": "darts",
+    "missile": "arena/skills/darts/prefab/missile"
+  },
+  "3166": {
+    "skillType": 322,
+    "name": "feifu",
+    "missile": "arena/skills/feifu/prefab/missile"
+  },
+  "3167": {
+    "skillType": 98,
+    "name": "iceSticks",
+    "missile": "arena/skills/ice_sticks/prefab/missile"
+  },
+  "3172": {
+    "skillType": 361,
+    "name": "imprisonSticks",
+    "missile": "arena/skills/imprison_sticks/prefab/missile"
+  },
+  "3173": {
+    "skillType": 339,
+    "name": "firegong",
+    "missile": "arena/skills/firegong/prefab/missile"
+  },
+  "3174": {
+    "skillType": 335,
+    "name": "poisongong",
+    "missile": "arena/skills/poisongong/prefab/missile"
+  },
+  "3176": {
+    "skillType": 362,
+    "name": "thunderboltSticks",
+    "missile": "arena/skills/thunderbolt_sticks/prefab/missile"
+  },
+  "3177": {
+    "skillType": 360,
+    "name": "destroySticks",
+    "missile": "arena/skills/destroy_sticks/prefab/missile"
+  },
+  "3180": {
+    "skillType": 359,
+    "name": "poisonSticks",
+    "missile": "arena/skills/poison_sticks/prefab/missile"
+  },
+  "3181": {
+    "skillType": 321,
+    "name": "gugong",
+    "missile": "arena/skills/gugong/prefab/missile"
+  },
+  "3182": {
+    "skillType": 95,
+    "name": "iceDarts",
+    "missile": "arena/skills/ice_darts/prefab/missile"
+  },
+  "3183": {
+    "skillType": 159,
+    "name": "gugong2",
+    "missile": "arena/skills/gugong2/prefab/missile"
+  },
+  "3186": {
+    "skillType": 164,
+    "name": "boomerang3",
+    "missile": "arena/skills/boomerang3/prefab/missile"
+  },
+  "3189": {
+    "skillType": 379,
+    "name": "hurricane",
+    "missile": "arena/skills/hurricane/prefab/missile"
+  },
+  "3190": {
+    "skillType": 378,
+    "name": "hurricaneAttack",
+    "missile": "arena/skills/hurricane_attack/prefab/missile"
+  },
+  "3191": {
+    "skillType": 384,
+    "name": "artillery",
+    "missile": "arena/skills/artillery/prefab/missile"
+  },
+  "3192": {
+    "skillType": 385,
+    "name": "shelling",
+    "missile": "arena/skills/shelling/prefab/missile"
+  },
+  "3203": {
+    "skillType": 407,
+    "name": "windAttack",
+    "missile": "arena/skills/wind_attack/prefab/missile"
+  },
+  "3205": {
+    "skillType": 409,
+    "name": "windpassive",
+    "missile": "arena/skills/windpassive/prefab/missile"
+  },
+  "3206": {
+    "skillType": 416,
+    "name": "cureAttack",
+    "missile": "arena/skills/cure_attack/prefab/missile"
+  },
+  "3233": {
+    "skillType": 474,
+    "name": "firekinfeSkill",
+    "missile": "arena/skills/firekinfe_skill/prefab/missile"
+  },
+  "3234": {
+    "skillType": 475,
+    "name": "firekinfePassive",
+    "missile": "arena/skills/firekinfe_passive/prefab/missile"
+  },
+  "3243": {
+    "skillType": 527,
+    "name": "witchStaffAttack",
+    "missile": "arena/skills/witch_staff_attack/prefab/missile"
+  },
+  "3245": {
+    "skillType": 537,
+    "name": "thunderAttack",
+    "missile": "arena/skills/thunder_attack/prefab/missile"
+  },
+  "3246": {
+    "skillType": 538,
+    "name": "thunderSkill",
+    "missile": "arena/skills/thunder_skill/prefab/missile"
+  },
+  "3248": {
+    "skillType": 540,
+    "name": "cureStaffAttack",
+    "missile": "arena/skills/cure_staff_attack/prefab/missile"
+  },
+  "3250": {
+    "skillType": 542,
+    "name": "poisonDartAttack",
+    "missile": "arena/skills/poison_dart_attack/prefab/missile"
+  },
+  "3253": {
+    "skillType": 547,
+    "name": "sleepDartAttack",
+    "missile": "arena/skills/sleep_dart_attack/prefab/missile"
+  },
+  "3254": {
+    "skillType": 548,
+    "name": "sleepDartSkill",
+    "missile": "arena/skills/sleep_dart_skill/prefab/missile"
+  },
+  "3256": {
+    "skillType": 551,
+    "name": "snipeAttack",
+    "missile": "arena/skills/snipe_attack/prefab/missile"
+  },
+  "3257": {
+    "skillType": 552,
+    "name": "snipeSkill",
+    "missile": "arena/skills/snipe_skill/prefab/missile"
+  },
+  "3265": {
+    "skillType": 586,
+    "name": "hourglassAttack",
+    "missile": "arena/skills/hourglass_attack/prefab/missile"
+  },
+  "3269": {
+    "skillType": 603,
+    "name": "magicWandAttack",
+    "missile": "arena/skills/magic_wand_attack/prefab/missile"
+  },
+  "3273": {
+    "skillType": 649,
+    "name": "cureWand",
+    "missile": "arena/skills/cure_wand/prefab/missile"
+  },
+  "3275": {
+    "skillType": 653,
+    "name": "iceBookAttack",
+    "missile": "arena/skills/ice_book_attack/prefab/missile"
+  },
+  "3285": {
+    "skillType": 677,
+    "name": "thunderDartAttack",
+    "missile": "arena/skills/thunder_dart_attack/prefab/missile"
+  },
+  "3294": {
+    "skillType": 723,
+    "name": "elementStaffAttack",
+    "missile": "arena/skills/element_staff_attack/prefab/missile"
+  },
+  "3304": {
+    "skillType": 745,
+    "name": "plutoDartAttack",
+    "missile": "arena/skills/pluto_dart_attack/prefab/missile"
+  },
+  "3322": {
+    "skillType": 804,
+    "name": "iceScrollAttack",
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile"
+  },
+  "4008": {
+    "skillType": 96,
+    "name": "penguinAttack",
+    "missile": "arena/skills/penguin_attack/prefab/missile"
+  },
+  "6001": {
+    "skillType": 83,
+    "name": "kuangfengluanwu",
+    "missile": "arena/skills/kuangfengluanwu/prefab/missile"
+  },
+  "6010": {
+    "skillType": 341,
+    "name": "dryads2",
+    "missile": "arena/skills/dryads2/prefab/missile"
+  },
+  "6028": {
+    "skillType": 492,
+    "name": "dryadsPassive3",
+    "missile": "arena/skills/dryads_passive3/prefab/missile"
+  },
+  "6034": {
+    "skillType": 681,
+    "name": "armoredManAttack1",
+    "missile": "arena/skills/armored_man_attack1/prefab/missile"
+  },
+  "6181011": {
+    "skillType": 407,
+    "name": "windAttack",
+    "missile": "arena/skills/wind_attack/prefab/missile"
+  },
+  "6181013": {
+    "skillType": 409,
+    "name": "windpassive",
+    "missile": "arena/skills/windpassive/prefab/missile"
+  },
+  "6181021": {
+    "skillType": 407,
+    "name": "windAttack",
+    "missile": "arena/skills/wind_attack/prefab/missile"
+  },
+  "6181023": {
+    "skillType": 409,
+    "name": "windpassive",
+    "missile": "arena/skills/windpassive/prefab/missile"
+  },
+  "6181031": {
+    "skillType": 407,
+    "name": "windAttack",
+    "missile": "arena/skills/wind_attack/prefab/missile"
+  },
+  "6181033": {
+    "skillType": 409,
+    "name": "windpassive",
+    "missile": "arena/skills/windpassive/prefab/missile"
+  },
+  "6181041": {
+    "skillType": 407,
+    "name": "windAttack",
+    "missile": "arena/skills/wind_attack/prefab/missile"
+  },
+  "6181043": {
+    "skillType": 409,
+    "name": "windpassive",
+    "missile": "arena/skills/windpassive/prefab/missile"
+  },
+  "6181501": {
+    "skillType": 407,
+    "name": "windAttack",
+    "missile": "arena/skills/wind_attack/prefab/missile"
+  },
+  "6181503": {
+    "skillType": 662,
+    "name": "windpassive2",
+    "missile": "arena/skills/windpassive2/prefab/missile"
+  },
+  "6182011": {
+    "skillType": 416,
+    "name": "cureAttack",
+    "missile": "arena/skills/cure_attack/prefab/missile"
+  },
+  "6182021": {
+    "skillType": 416,
+    "name": "cureAttack",
+    "missile": "arena/skills/cure_attack/prefab/missile"
+  },
+  "6182031": {
+    "skillType": 416,
+    "name": "cureAttack",
+    "missile": "arena/skills/cure_attack/prefab/missile"
+  },
+  "6182041": {
+    "skillType": 416,
+    "name": "cureAttack",
+    "missile": "arena/skills/cure_attack/prefab/missile"
+  },
+  "6191012": {
+    "skillType": 474,
+    "name": "firekinfeSkill",
+    "missile": "arena/skills/firekinfe_skill/prefab/missile"
+  },
+  "6191013": {
+    "skillType": 475,
+    "name": "firekinfePassive",
+    "missile": "arena/skills/firekinfe_passive/prefab/missile"
+  },
+  "6191022": {
+    "skillType": 474,
+    "name": "firekinfeSkill",
+    "missile": "arena/skills/firekinfe_skill/prefab/missile"
+  },
+  "6191023": {
+    "skillType": 475,
+    "name": "firekinfePassive",
+    "missile": "arena/skills/firekinfe_passive/prefab/missile"
+  },
+  "6191032": {
+    "skillType": 474,
+    "name": "firekinfeSkill",
+    "missile": "arena/skills/firekinfe_skill/prefab/missile"
+  },
+  "6191033": {
+    "skillType": 475,
+    "name": "firekinfePassive",
+    "missile": "arena/skills/firekinfe_passive/prefab/missile"
+  },
+  "6191042": {
+    "skillType": 474,
+    "name": "firekinfeSkill",
+    "missile": "arena/skills/firekinfe_skill/prefab/missile"
+  },
+  "6191043": {
+    "skillType": 475,
+    "name": "firekinfePassive",
+    "missile": "arena/skills/firekinfe_passive/prefab/missile"
+  },
+  "6194011": {
+    "skillType": 527,
+    "name": "witchStaffAttack",
+    "missile": "arena/skills/witch_staff_attack/prefab/missile"
+  },
+  "6194021": {
+    "skillType": 527,
+    "name": "witchStaffAttack",
+    "missile": "arena/skills/witch_staff_attack/prefab/missile"
+  },
+  "6194031": {
+    "skillType": 527,
+    "name": "witchStaffAttack",
+    "missile": "arena/skills/witch_staff_attack/prefab/missile"
+  },
+  "6194041": {
+    "skillType": 527,
+    "name": "witchStaffAttack",
+    "missile": "arena/skills/witch_staff_attack/prefab/missile"
+  },
+  "6195011": {
+    "skillType": 537,
+    "name": "thunderAttack",
+    "missile": "arena/skills/thunder_attack/prefab/missile"
+  },
+  "6195012": {
+    "skillType": 538,
+    "name": "thunderSkill",
+    "missile": "arena/skills/thunder_skill/prefab/missile"
+  },
+  "6195021": {
+    "skillType": 537,
+    "name": "thunderAttack",
+    "missile": "arena/skills/thunder_attack/prefab/missile"
+  },
+  "6195022": {
+    "skillType": 538,
+    "name": "thunderSkill",
+    "missile": "arena/skills/thunder_skill/prefab/missile"
+  },
+  "6195031": {
+    "skillType": 537,
+    "name": "thunderAttack",
+    "missile": "arena/skills/thunder_attack/prefab/missile"
+  },
+  "6195032": {
+    "skillType": 538,
+    "name": "thunderSkill",
+    "missile": "arena/skills/thunder_skill/prefab/missile"
+  },
+  "6195041": {
+    "skillType": 537,
+    "name": "thunderAttack",
+    "missile": "arena/skills/thunder_attack/prefab/missile"
+  },
+  "6195042": {
+    "skillType": 538,
+    "name": "thunderSkill",
+    "missile": "arena/skills/thunder_skill/prefab/missile"
+  },
+  "6195501": {
+    "skillType": 537,
+    "name": "thunderAttack",
+    "missile": "arena/skills/thunder_attack/prefab/missile"
+  },
+  "6195502": {
+    "skillType": 538,
+    "name": "thunderSkill",
+    "missile": "arena/skills/thunder_skill/prefab/missile"
+  },
+  "6197011": {
+    "skillType": 542,
+    "name": "poisonDartAttack",
+    "missile": "arena/skills/poison_dart_attack/prefab/missile"
+  },
+  "6197021": {
+    "skillType": 542,
+    "name": "poisonDartAttack",
+    "missile": "arena/skills/poison_dart_attack/prefab/missile"
+  },
+  "6197031": {
+    "skillType": 542,
+    "name": "poisonDartAttack",
+    "missile": "arena/skills/poison_dart_attack/prefab/missile"
+  },
+  "6197041": {
+    "skillType": 542,
+    "name": "poisonDartAttack",
+    "missile": "arena/skills/poison_dart_attack/prefab/missile"
+  },
+  "6197501": {
+    "skillType": 542,
+    "name": "poisonDartAttack",
+    "missile": "arena/skills/poison_dart_attack/prefab/missile"
+  },
+  "6198011": {
+    "skillType": 547,
+    "name": "sleepDartAttack",
+    "missile": "arena/skills/sleep_dart_attack/prefab/missile"
+  },
+  "6198012": {
+    "skillType": 548,
+    "name": "sleepDartSkill",
+    "missile": "arena/skills/sleep_dart_skill/prefab/missile"
+  },
+  "6198021": {
+    "skillType": 547,
+    "name": "sleepDartAttack",
+    "missile": "arena/skills/sleep_dart_attack/prefab/missile"
+  },
+  "6198022": {
+    "skillType": 548,
+    "name": "sleepDartSkill",
+    "missile": "arena/skills/sleep_dart_skill/prefab/missile"
+  },
+  "6198031": {
+    "skillType": 547,
+    "name": "sleepDartAttack",
+    "missile": "arena/skills/sleep_dart_attack/prefab/missile"
+  },
+  "6198032": {
+    "skillType": 548,
+    "name": "sleepDartSkill",
+    "missile": "arena/skills/sleep_dart_skill/prefab/missile"
+  },
+  "6198041": {
+    "skillType": 547,
+    "name": "sleepDartAttack",
+    "missile": "arena/skills/sleep_dart_attack/prefab/missile"
+  },
+  "6198042": {
+    "skillType": 548,
+    "name": "sleepDartSkill",
+    "missile": "arena/skills/sleep_dart_skill/prefab/missile"
+  },
+  "6199011": {
+    "skillType": 551,
+    "name": "snipeAttack",
+    "missile": "arena/skills/snipe_attack/prefab/missile"
+  },
+  "6199012": {
+    "skillType": 552,
+    "name": "snipeSkill",
+    "missile": "arena/skills/snipe_skill/prefab/missile"
+  },
+  "6199021": {
+    "skillType": 551,
+    "name": "snipeAttack",
+    "missile": "arena/skills/snipe_attack/prefab/missile"
+  },
+  "6199022": {
+    "skillType": 552,
+    "name": "snipeSkill",
+    "missile": "arena/skills/snipe_skill/prefab/missile"
+  },
+  "6199031": {
+    "skillType": 551,
+    "name": "snipeAttack",
+    "missile": "arena/skills/snipe_attack/prefab/missile"
+  },
+  "6199032": {
+    "skillType": 552,
+    "name": "snipeSkill",
+    "missile": "arena/skills/snipe_skill/prefab/missile"
+  },
+  "6199041": {
+    "skillType": 551,
+    "name": "snipeAttack",
+    "missile": "arena/skills/snipe_attack/prefab/missile"
+  },
+  "6199042": {
+    "skillType": 552,
+    "name": "snipeSkill",
+    "missile": "arena/skills/snipe_skill/prefab/missile"
+  },
+  "6203011": {
+    "skillType": 586,
+    "name": "hourglassAttack",
+    "missile": "arena/skills/hourglass_attack/prefab/missile"
+  },
+  "6203021": {
+    "skillType": 586,
+    "name": "hourglassAttack",
+    "missile": "arena/skills/hourglass_attack/prefab/missile"
+  },
+  "6203031": {
+    "skillType": 586,
+    "name": "hourglassAttack",
+    "missile": "arena/skills/hourglass_attack/prefab/missile"
+  },
+  "6203041": {
+    "skillType": 586,
+    "name": "hourglassAttack",
+    "missile": "arena/skills/hourglass_attack/prefab/missile"
+  },
+  "6204011": {
+    "skillType": 653,
+    "name": "iceBookAttack",
+    "missile": "arena/skills/ice_book_attack/prefab/missile"
+  },
+  "6204021": {
+    "skillType": 653,
+    "name": "iceBookAttack",
+    "missile": "arena/skills/ice_book_attack/prefab/missile"
+  },
+  "6204031": {
+    "skillType": 653,
+    "name": "iceBookAttack",
+    "missile": "arena/skills/ice_book_attack/prefab/missile"
+  },
+  "6204041": {
+    "skillType": 653,
+    "name": "iceBookAttack",
+    "missile": "arena/skills/ice_book_attack/prefab/missile"
+  },
+  "6205011": {
+    "skillType": 603,
+    "name": "magicWandAttack",
+    "missile": "arena/skills/magic_wand_attack/prefab/missile"
+  },
+  "6205021": {
+    "skillType": 603,
+    "name": "magicWandAttack",
+    "missile": "arena/skills/magic_wand_attack/prefab/missile"
+  },
+  "6205031": {
+    "skillType": 603,
+    "name": "magicWandAttack",
+    "missile": "arena/skills/magic_wand_attack/prefab/missile"
+  },
+  "6205041": {
+    "skillType": 603,
+    "name": "magicWandAttack",
+    "missile": "arena/skills/magic_wand_attack/prefab/missile"
+  },
+  "6217011": {
+    "skillType": 723,
+    "name": "elementStaffAttack",
+    "missile": "arena/skills/element_staff_attack/prefab/missile"
+  },
+  "6217021": {
+    "skillType": 723,
+    "name": "elementStaffAttack",
+    "missile": "arena/skills/element_staff_attack/prefab/missile"
+  },
+  "6217031": {
+    "skillType": 723,
+    "name": "elementStaffAttack",
+    "missile": "arena/skills/element_staff_attack/prefab/missile"
+  },
+  "6217041": {
+    "skillType": 723,
+    "name": "elementStaffAttack",
+    "missile": "arena/skills/element_staff_attack/prefab/missile"
+  },
+  "6222011": {
+    "skillType": 804,
+    "name": "iceScrollAttack",
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile"
+  },
+  "6222021": {
+    "skillType": 804,
+    "name": "iceScrollAttack",
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile"
+  },
+  "6222031": {
+    "skillType": 804,
+    "name": "iceScrollAttack",
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile"
+  },
+  "6222041": {
+    "skillType": 804,
+    "name": "iceScrollAttack",
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile"
+  },
+  "6223011": {
+    "skillType": 745,
+    "name": "plutoDartAttack",
+    "missile": "arena/skills/pluto_dart_attack/prefab/missile"
+  },
+  "6223021": {
+    "skillType": 745,
+    "name": "plutoDartAttack",
+    "missile": "arena/skills/pluto_dart_attack/prefab/missile"
+  },
+  "6223031": {
+    "skillType": 745,
+    "name": "plutoDartAttack",
+    "missile": "arena/skills/pluto_dart_attack/prefab/missile"
+  },
+  "6223041": {
+    "skillType": 745,
+    "name": "plutoDartAttack",
+    "missile": "arena/skills/pluto_dart_attack/prefab/missile"
+  }
+}

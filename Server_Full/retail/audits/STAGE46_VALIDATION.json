@@ -1,0 +1,79 @@
+{
+  "stage": 46,
+  "version": "0.24.0-stage46-native-rmb-collections",
+  "client": "3.12.7",
+  "fullTests": {
+    "tests": 389,
+    "pass": 389,
+    "fail": 0
+  },
+  "newStage46Tests": 35,
+  "nativeClientConsumerTests": [
+    "Original CCInputCtrlComp.onMouseDown generates native cannonRotateTo + useSkill packets and creates a server projectile.",
+    "Original LoginNetwork.updateDraw applies non-Sparta hero and pet data."
+  ],
+  "allNativeWeaponSkill2IDsAccepted": 226,
+  "newNativeVfxFamilies": 11,
+  "newNativeVfxSkillIDs": 40,
+  "verifiedVfxPrefabs": 28,
+  "wallsRestoredToStage44": true,
+  "dropLifetimeMs": 40000,
+  "dropLifetimeTiming": "Authoritative removal at the first server tick at/after createdAt+40000. Expired drops are never pickable or re-snapshotted. Packet retries handle synchronous send failures; no client-render ACK exists.",
+  "collectionDestinations": [
+    "heroProgress",
+    "ownedHeroes",
+    "pets",
+    "ownedSkins",
+    "mountList"
+  ],
+  "heroSkillUnlockCombatLevel": 10,
+  "nativeClientIndexModified": false,
+  "website": {
+    "changedThisStage": false,
+    "cumulativePatchFiles": [
+      {
+        "path": "Website_Full/lib/user-ingame-page.js",
+        "sha256": "150871fef2d94fd9783634cd0be5d03f2c36c83f3273fa8163ca8ff544bf4715"
+      },
+      {
+        "path": "Website_Full/public/admin-console.js",
+        "sha256": "413d021d17a5732916602bbbb65de26cb50f485d1045f6115c2a821d5cbea172"
+      },
+      {
+        "path": "Website_Full/public/admin-mail.js",
+        "sha256": "83b1e4ed039bdc3e4246346c46d83d3c10467f4e57bfec0495c126dee3ee80eb"
+      },
+      {
+        "path": "Website_Full/public/shop-assets/items.json",
+        "sha256": "8ac51d0857584c59aa1057b5c882bae1411b30d407ff455493015ec1d4cc5bc9"
+      },
+      {
+        "path": "Website_Full/public/user-ingame.js",
+        "sha256": "98c4e621069ac160636c2661c793c234556cb17f7712ab935de95725f3581cc0"
+      },
+      {
+        "path": "Website_Full/public/user-mounts.js",
+        "sha256": "df427e4c2fc36bd3f8759e6d76af0568e92793be5308e205e9aca3c12cf5e97f"
+      },
+      {
+        "path": "Website_Full/tests/admin-mail-browser.test.js",
+        "sha256": "4f0fc2f8561813fd9079793fd55cafe02c0494f00f3e03a36c7683b1cb00973f"
+      },
+      {
+        "path": "Website_Full/tests/mail-browser-harness.js",
+        "sha256": "8755c97367a4f28e0932ddcfc5e0943e8943787a700f68fbc93a7e0b634ffc84"
+      }
+    ],
+    "verification": "Byte-identical to Stage44; its prior 38/38 website suite retained."
+  },
+  "smoke": "Booted real server with isolated empty data dir; /status returns Stage46/client3.12.7.",
+  "historicalTestsUpdated": "Skill scenarios run at level10 under new explicit requirement; restored Stage44 wall behavior and destructible native pillars replace superseded Stage45 tests. Assertions retained.",
+  "limitations": [
+    "Windows/Cocos rendering has not been run. Resource/schema/protocol checks are not rendered-image verification.",
+    "The 40 native VFX variants do not cover all weapon visual families or complete special stages/charges. Some target-size, timing and special gameplay formulas remain local reconstruction.",
+    "Hero summons/transformations and many compound passive mechanics remain incomplete.",
+    "City interactive decoration scene_placements.json has not been recovered; removed wrong nine props are not restored.",
+    "FriendController.showTips/getScene client lifecycle error is tracked and not patched in Index.",
+    "Other unresolved Stage42–45 gameplay, events/pass dates, pet/mount abilities and original coefficients remain."
+  ]
+}

@@ -1,0 +1,28 @@
+﻿cid,name,modelPrefabPaths,appearancePaths,placedInstances,placementNames,originalRoleConfirmed
+401,Не установлено по доступным файлам,arena/npc/401/npc1 | arena/npc/401/npc,arena/npc/401/LD_sr_001 | arena/npc/401/NPC_01 | arena/npc/401/npc1 | arena/npc/401/npc,0,,false
+402,Не установлено по доступным файлам,arena/npc/402/npc-0,arena/npc/402/npc-0,0,,false
+403,Охранник north 1,arena/npc/403/npc2 | arena/npc/403/npc,arena/npc/403/npc2 | arena/npc/403/NPC_02_a | arena/npc/403/weapon_paper | arena/npc/403/npc,12,Охранник north 1 | Охранник north 2 | Охранник south 1 | Охранник south 2 | Охранник west 1 | Охранник west 2 | Охранник east 1 | Охранник east 2 | Охранник безопасной зоны center-001 | Охранник безопасной зоны center-002 | Охранник безопасной зоны center-003 | Охранник безопасной зоны center-004,false
+404,Не установлено по доступным файлам,arena/npc/404/npc,arena/npc/404/NPC_02_b | arena/npc/404/npc | arena/npc/404/recipe,0,,false
+405,Склад,arena/npc/405/npc,arena/npc/405/resource_chest | arena/npc/405/NPC_02_c | arena/npc/405/npc,1,Склад,false
+406,Не установлено по доступным файлам,arena/npc/406/npc6 | arena/npc/406/npc,arena/npc/406/npc6 | arena/npc/406/shopkeeper | arena/npc/406/npc,0,,false
+407,Не установлено по доступным файлам,arena/npc/407/npc | arena/npc/407/npc5,arena/npc/407/npc | arena/npc/407/npc5,0,,false
+408,The Carrier,arena/npc/408/npc | arena/npc/408/npc4 | arena/npc/408/npc8,arena/npc/408/npc | arena/npc/408/npc4 | arena/npc/408/npc8,1,The Carrier,false
+409,Не установлено по доступным файлам,arena/npc/409/npc4 | arena/npc/409/npc | arena/npc/409/npc9,arena/npc/409/npc4 | arena/npc/409/npc | arena/npc/409/npc9,0,,false
+410,Не установлено по доступным файлам,arena/npc/410/npc4 | arena/npc/410/npc10 | arena/npc/410/npc,arena/npc/410/npc4 | arena/npc/410/npc10 | arena/npc/410/npc,0,,false
+411,Смена героя,arena/npc/411/npc11 | arena/npc/411/npc4 | arena/npc/411/npc,arena/npc/411/npc11 | arena/npc/411/npc4 | arena/npc/411/npc,1,Смена героя,false
+412,Не установлено по доступным файлам,arena/npc/412/npc | arena/npc/412/npc12,arena/npc/412/npc | arena/npc/412/npc12,0,,false
+414,Sage Merlin,arena/npc/414/npc12 | arena/npc/414/npc | arena/npc/414/npc4,arena/npc/414/ui_main_npcchat_bg | arena/npc/414/npc12 | arena/npc/414/ui_main_npc_gift | arena/npc/414/npc | arena/npc/414/LD_zz_001 | arena/npc/414/npc4,1,Sage Merlin,false
+415,Blacksmith Carter,arena/npc/415/npc | arena/npc/415/npc12,arena/npc/415/npc | arena/npc/415/ui_main_npcchat_bg2 | arena/npc/415/ui_main_dialog_space | arena/npc/415/LD_tj_001 | arena/npc/415/ui_main_npc_choose | arena/npc/415/npc12,1,Blacksmith Carter,false
+419,Не установлено по доступным файлам,arena/npc/419/npc-2 | arena/npc/419/npc-3 | arena/npc/419/npc-1,arena/npc/419/npc-2 | arena/npc/419/npc-3 | arena/npc/419/npc-1,0,,false
+420,Не установлено по доступным файлам,arena/npc/420/npc-0,arena/npc/420/npc-0,0,,false
+421,Не установлено по доступным файлам,arena/npc/421/npc-0,arena/npc/421/npc-0,0,,false
+422,Почта,arena/npc/422/npc-0,arena/npc/422/npc-0 | arena/npc/422/ZC-ctxx-002-s | arena/npc/422/ui_main_npc_mail,1,Почта,false
+423,Book of Merlin,arena/npc/423/npc-0,arena/npc/423/npc-0,1,Book of Merlin,false
+424,Anvil,arena/npc/424/npc-0,arena/npc/424/npc-0,1,Anvil,false
+425,Valkyrie,arena/npc/425/npc,arena/npc/425/npc,1,Valkyrie,false
+426,God of War,arena/npc/426/npc,arena/npc/426/npc,1,God of War,false
+429,Не установлено по доступным файлам,arena/npc/429/npc,arena/npc/429/npc | arena/npc/429/NPC019,0,,false
+430,Не установлено по доступным файлам,arena/npc/430/npc,arena/npc/430/npc,0,,false
+431,Не установлено по доступным файлам,arena/npc/431/npc,arena/npc/431/NPC03 | arena/npc/431/npc,0,,false
+432,Не установлено по доступным файлам,arena/npc/432/npc-0,arena/npc/432/NPC022 | arena/npc/432/npc-0,0,,false
+433,Не установлено по доступным файлам,arena/npc/433/npc,arena/npc/433/LD_sr_001 | arena/npc/433/npc,0,,false

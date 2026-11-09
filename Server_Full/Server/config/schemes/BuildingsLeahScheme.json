@@ -1,0 +1,274 @@
+{
+  "BuildingLeah": [
+    {
+      "ID": 312,
+      "Level": 99,
+      "Type": 2,
+      "Name": "篝火",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        4
+      ],
+      "Wood": 500,
+      "Stone": 0,
+      "Iron": 0,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_altar3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 327,
+      "Level": 99,
+      "Type": 2,
+      "Name": "土墙",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        10
+      ],
+      "Wood": 0,
+      "Stone": 500,
+      "Iron": 500,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/wall3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        90
+      ],
+      "Args": []
+    },
+    {
+      "ID": 329,
+      "Level": 99,
+      "Type": 2,
+      "Name": "尖刺",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        5
+      ],
+      "Wood": 0,
+      "Stone": 500,
+      "Iron": 500,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    },
+    {
+      "ID": 328,
+      "Level": 99,
+      "Type": 2,
+      "Name": "箭塔",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        3
+      ],
+      "Wood": 1000,
+      "Stone": 1000,
+      "Iron": 1000,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 330,
+      "Level": 99,
+      "Type": 2,
+      "Name": "农田",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        6
+      ],
+      "Wood": 500,
+      "Stone": 0,
+      "Iron": 0,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_farmland3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        4,
+        150,
+        60000
+      ]
+    },
+    {
+      "ID": 337,
+      "Level": 99,
+      "Type": 2,
+      "Name": "火塔",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        2
+      ],
+      "Wood": 1000,
+      "Stone": 1000,
+      "Iron": 1000,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower_fire/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 338,
+      "Level": 99,
+      "Type": 2,
+      "Name": "冰塔",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 1000,
+      "Stone": 1000,
+      "Iron": 1000,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower_ice/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 339,
+      "Level": 99,
+      "Type": 2,
+      "Name": "毒刺",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        5
+      ],
+      "Wood": 500,
+      "Stone": 100,
+      "Iron": 100,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike5/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    },
+    {
+      "ID": 345,
+      "Level": 99,
+      "Type": 2,
+      "Name": "弹板",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        3
+      ],
+      "Wood": 100,
+      "Stone": 100,
+      "Iron": 100,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/speed_up_board/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        120,
+        100
+      ],
+      "Args": [
+        2000,
+        1800,
+        60,
+        -1
+      ]
+    },
+    {
+      "ID": 346,
+      "Level": 99,
+      "Type": 2,
+      "Name": "兽夹",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        3
+      ],
+      "Wood": 250,
+      "Stone": 250,
+      "Iron": 250,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/banana_peel/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        150,
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 347,
+      "Level": 99,
+      "Type": 2,
+      "Name": "冰刺",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        3
+      ],
+      "Wood": 500,
+      "Stone": 100,
+      "Iron": 100,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike6/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    }
+  ]
+}

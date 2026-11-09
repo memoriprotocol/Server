@@ -1,0 +1,91 @@
+{
+  "version": "stage29-retail",
+  "purpose": "read-only analysis and reference files, not used by production server startup",
+  "moved": [
+    {
+      "oldPath": "ALL_NPCS_3127.json",
+      "newPath": "retail/npcs/ALL_NPCS_3127.json",
+      "sha256": "b4bfb49c12c4ff3d2f226ad832517758b5cfad07768e12a0e752663643ec92de"
+    },
+    {
+      "oldPath": "ALL_NPCS_3127.csv",
+      "newPath": "retail/npcs/ALL_NPCS_3127.csv",
+      "sha256": "a75ffb262f884c0e1f81de259d1ab168bf5834a8da29ddb75914d59f6fee3828"
+    },
+    {
+      "oldPath": "ALL_NPCS_PLACEMENTS_3127.csv",
+      "newPath": "retail/npcs/ALL_NPCS_PLACEMENTS_3127.csv",
+      "sha256": "d65950a0e76a3d774b2096e042f9d33071acb63ecf6c71355da8c2f9dee66116"
+    },
+    {
+      "oldPath": "COVERAGE_STAGE11_226.json",
+      "newPath": "retail/audits/COVERAGE_STAGE11_226.json",
+      "sha256": "c104582d23b31bac1ad14d26e69e9102c460cf7f1a18b6d2e99789f9b7731c3b"
+    },
+    {
+      "oldPath": "MAP2_GIFT_STAGE25_AUDIT.json",
+      "newPath": "retail/audits/MAP2_GIFT_STAGE25_AUDIT.json",
+      "sha256": "080572747cde47d99017ebaf50e3375e0ab0993181dd0591c132eecb8b8b0861"
+    },
+    {
+      "oldPath": "MAP2_STAGE26_AUDIT.json",
+      "newPath": "retail/audits/MAP2_STAGE26_AUDIT.json",
+      "sha256": "9f9eb4e785c99841d2f0a69312baef02e492b4ddf01529675fa60257cc69a925"
+    },
+    {
+      "oldPath": "STAGE27_AUDIT.json",
+      "newPath": "retail/audits/STAGE27_AUDIT.json",
+      "sha256": "2e2d4755d33193cf6823521d41aa0c53633bafa08f9d73413d00a7e7caea467a"
+    },
+    {
+      "oldPath": "STAGE28_AUDIT.json",
+      "newPath": "retail/audits/STAGE28_AUDIT.json",
+      "sha256": "545f5cb41118bbde96b38fc857fbc9d3542c08e4fd53019ecf30481fcac636b3"
+    },
+    {
+      "oldPath": "PROTO_TYPES_FROM_CLIENT_3127.json",
+      "newPath": "retail/client-reference/PROTO_TYPES_FROM_CLIENT_3127.json",
+      "sha256": "b91619f9185d7c0826b19c0349fb027d28fdd66489c3807f09a9dad118e16c5b"
+    },
+    {
+      "oldPath": "config/client-native-assets-3127.json",
+      "newPath": "retail/client-reference/client-native-assets-3127.json",
+      "sha256": "b7f011f1be9a13a9fb6c010ff0eb664cff883b6832a4760a3da7e83b9a0944d2"
+    },
+    {
+      "oldPath": "README_STAGE25_RU.txt",
+      "newPath": "retail/release-notes/README_STAGE25_RU.txt",
+      "sha256": "451e74918507d808ea5639b481632662ebd9f168828169ebd07fe6979b49482d"
+    },
+    {
+      "oldPath": "README_STAGE26_RU.txt",
+      "newPath": "retail/release-notes/README_STAGE26_RU.txt",
+      "sha256": "9913e4946a2d850e2864b90a9bf52ac47bbaffa1681b9c3dc99dc66e003b4d74"
+    },
+    {
+      "oldPath": "README_STAGE27_RU.txt",
+      "newPath": "retail/release-notes/README_STAGE27_RU.txt",
+      "sha256": "b65d2db94bb2ed528871f4aa3a9f4b42f979672cd3c0a8698105a298023f97ed"
+    },
+    {
+      "oldPath": "README_STAGE28_RU.txt",
+      "newPath": "retail/release-notes/README_STAGE28_RU.txt",
+      "sha256": "767338391dedc8c2e8bbb2b82d09160b84fdd750322f6c08ed55229affffb559"
+    }
+  ],
+  "keptAtRuntimePaths": [
+    "server.js",
+    "lib/",
+    "config/schemes/",
+    "config/world-content-3127.json",
+    "config/map2-native-npcs-3127.json",
+    "config/city-main-3127.json",
+    "config/map2-verified-prefabs-3127.json",
+    "CLIENT_CONTRACT_3127.json",
+    "CLIENT_ENUMS_3127.json",
+    "CLIENT_ROUTES_3127.json",
+    "tests/",
+    "tools/"
+  ],
+  "note": "Existing Stage28 reference files moved; active configurations and runtime contract data are never moved."
+}

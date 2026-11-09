@@ -1,0 +1,126 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage71/AnimManager.ts",
+      "sha256": "c8a69f5bd3f22287c25f279bae99fca5366e98aef4964aca69132f8434ff1398",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/BuffCfg.ts",
+      "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCBodyAnimComp.ts",
+      "sha256": "a8ef2249b64ed4a516ce6fbb13393d310d98548aed9b234100506c7abe0a8824",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCBodyAnimComp2.ts",
+      "sha256": "86d6623d82353942229fd9b4f05d1bdcc93ac1c95c77cbffa80c363e1ba500ec",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/CCPetComp.ts",
+      "sha256": "3eb6c3a060974464f8800cfac620e099d81ca870999974ea4ae512c963e65353",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage71/WeaponManager.ts",
+      "sha256": "f63a77a43e420423633676a5fd2b9faca5c480f7bca919b0c7cf3a678da1d589",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "rodImports": [
+    {
+      "rodModel": 619200,
+      "index": 45574,
+      "path": "arena/player/weapons/619200/left/619200",
+      "pack": "493d60c2-0e3f-4623-946f-9ecc1eeccdfe",
+      "importSHA256": "27e8aadf8e64c3a7cefd10cf97a9233488c12f4dbb67fd6c7fa9773df3fb56cd",
+      "nativeBytesDeclared": 54539,
+      "nativeCRC32Declared": 234800490,
+      "nativeZipVolume": 4,
+      "nativeBytesRead": false,
+      "nativeSHA256": null,
+      "animationTimelinesDecoded": false
+    },
+    {
+      "rodModel": 619201,
+      "index": 45751,
+      "path": "arena/player/weapons/619201/left/619201",
+      "pack": "4c49c75f-eb82-4080-b1b3-aade836f4418",
+      "importSHA256": "3db1af503294d969b064a90cfe54fd8048f5d0c455fbac91274f70e977ada2c4",
+      "nativeBytesDeclared": 56864,
+      "nativeCRC32Declared": 2341090391,
+      "nativeZipVolume": 4,
+      "nativeBytesRead": false,
+      "nativeSHA256": null,
+      "animationTimelinesDecoded": false
+    },
+    {
+      "rodModel": 619202,
+      "index": 49813,
+      "path": "arena/player/weapons/619202/left/619202",
+      "pack": "97abe663-2b03-4055-895c-f763e62b8345",
+      "importSHA256": "aaf5956ebcaed9a79f0cfef9bb9ec9b8a622716a5e230a0cd037eb0fb0e683c4",
+      "nativeBytesDeclared": 69108,
+      "nativeCRC32Declared": 3130881579,
+      "nativeZipVolume": 7,
+      "nativeBytesRead": false,
+      "nativeSHA256": null,
+      "animationTimelinesDecoded": false
+    }
+  ],
+  "descriptions": {
+    "sources": [
+      {
+        "language": "en",
+        "sha256": "614aeacd2a35a243aa15c3be4632ab032631ab85c365e88620ad2536c1949ceb"
+      },
+      {
+        "language": "zh",
+        "sha256": "583812f0968b98e41e26e377c27427a7076b939847d120bd87b67171ba845b1e"
+      }
+    ],
+    "fragments": [
+      {
+        "language": "en",
+        "key": "shop/shopItem/name/500001/desc",
+        "verbatimFragment": "shop/shopItem/name/500001/desc\",\"Winter Fishing Rod: Fishing Efficiency +20%\""
+      },
+      {
+        "language": "en",
+        "key": "shop/shopItem/name/500002/desc",
+        "verbatimFragment": "shop/shopItem/name/500002/desc\",\"Bamboo Fishing Rod: Fishing Efficiency +20%\""
+      },
+      {
+        "language": "en",
+        "key": "fishing/rod/fishingRod_0",
+        "verbatimFragment": "fishing/rod/fishingRod_0\",\"Common Fishing Rod\""
+      },
+      {
+        "language": "zh",
+        "key": "shop/shopItem/name/500001/desc",
+        "verbatimFragment": "shop/shopItem/name/500001/desc\",\"冰雪渔歌: 钓鱼效率+20%\""
+      },
+      {
+        "language": "zh",
+        "key": "shop/shopItem/name/500002/desc",
+        "verbatimFragment": "shop/shopItem/name/500002/desc\",'清风竹影:\\x20钓鱼效率+20%'"
+      },
+      {
+        "language": "zh",
+        "key": "fishing/rod/fishingRod_0",
+        "verbatimFragment": "fishing/rod/fishingRod_0\",'普通钓鱼竿'"
+      }
+    ]
+  },
+  "rawNativeAnimationBinaryHashesVerified": false,
+  "windowsClientRendered": false
+}

@@ -1,0 +1,323 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> heroland-3127-independent-server@0.19.0-stage41-critical-life-native-forms test:stage41
+> node --test Server/tests/stage41-*.test.js Server/tests/stage40-*.test.js Server/tests/stage39-*.test.js Server/tests/stage32-swim-npc-mail-monsters.test.js Server/tests/stage33-map2-mob-visuals-npc420.test.js Server/tests/stage38-west-guard-direction.test.js Server/tests/inventory-stage7.test.js Server/tests/stage27-admin-world.test.js Server/tests/stage6.test.js Server/tests/world-network-stage7.test.js
+
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=47
+[WORLD LOAD] uid=1 phase=loginLoadingFinish
+[CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=8
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=3
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=25
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=6
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=4
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=8
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=2 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=1
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[WORLD] snapshot uid=1 map=2 players=2 entities=2 push=rm
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=2 entities=2 push=rm
+[WORLD] assigned uid=2 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=2 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=99 players=1 entities=1 push=rm
+✔ loading completion restores native XP privately, including totals above signed int32 (395.954441ms)
+✔ lobby IDs pass the literal 2024 EnterPanel battle prefix filter (2.607679ms)
+✔ serialized guide avatar satisfies unconditional pet/draw reads in CCDigger components (343.265017ms)
+✔ ground pickup uses actual item config ID in its client event, survives restart, and cannot repeat (219.041374ms)
+✔ forged sender and UUID cannot spend another account item; invalid quantities do not mutate (193.250457ms)
+✔ public pickup transfers ownership once, enforces reserve and radius, and keeps private bag events private (195.673135ms)
+✔ full destination bag rejects entire pickup without losing ground item (202.146811ms)
+✔ disk failure rolls back both inventory and ground mutation before any successful push (239.734197ms)
+✔ tutorial bag is isolated from persistent profile and other tutorial sessions (199.046036ms)
+✔ quick slots swap without duplication, selection emits wire-compatible weapon and clears after drop (157.809585ms)
+✔ equipment replacement has one item per body slot, changes direct stats and persists through re-entry (267.20382ms)
+✔ malformed command payload is rejected, unknown use effect does not consume an item (356.159218ms)
+✔ room switch sends one destroy/exit; repeated enter does not announce a duplicate player (169.053165ms)
+✔ re-enter snapshot restores ground entities and excludes peers who have not loaded the scene (163.593924ms)
+✔ legacy item shape is mapped without overwriting stored data; ambiguous duplicates fail explicitly (1.979581ms)
+✔ admin grant is bounded, persists real item cfg and rejects full bags without partial grants (114.038657ms)
+✔ lobby bag move and reorder persist without requiring a fake world (91.626777ms)
+✔ lobby drop has no ground and fails without deleting an owned item (112.898003ms)
+✔ equipment query selects same-room entity and refuses unrelated player or unselected world (181.782506ms)
+✔ all nine website player editors return native catalogs and real account UID (37.854922ms)
+✔ admin grants persist, deny missing rights and revision updates are idempotent (41.241353ms)
+✔ website exact guild edit/activate/equip/deactivate payloads operate on persistent guild (27.993919ms)
+✔ shop editor creates product, native buy charges diamonds, respects stock and restarts (94.606446ms)
+✔ mail delivery is live, attachments claim once, fixed mail revises and recalls (40.915671ms)
+✔ native event controls use native pass reset schema and survive restart (16.257059ms)
+✔ map2 production and local static spawns verify against native entity schema (123.889222ms)
+✔ water mask preserves dry lake island, land animals cannot cross water and crocs can (1.654131ms)
+✔ player water enter and exit produces real native swimming event (0.950038ms)
+✔ world AOI is gated on loading and mob/resource death rewards only once (46.413842ms)
+✔ native well restores 50% HP and statue picks native buffs with cooldown (40.566439ms)
+✔ AI tick emits valid native movement and delayed attack events (65.483362ms)
+✔ all website catalogs, mail tabs and shop list produce complete data (65.163718ms)
+✔ mob death grants native XP once and failed shop stock commit restores the wallet (58.147574ms)
+✔ native guild creation, list and own membership round-trip without losing member data (24.237333ms)
+✔ 3.12 water transitions drive native BuffScheme inWater=181 and exit removes it (5.481082ms)
+✔ each guard uses real 3.12 creature group4 id and monster component; mail remains 422 (2.417159ms)
+✔ all ordinary mobs load at entry while existing boss spawn protocol stays unchanged (72.118859ms)
+✔ bosses stay identical to verified Stage30 baseline (96.000819ms)
+✔ God of War replaces only Officer 412 with native Map6 entrance NPC420; remains at operator position (13.007423ms)
+✔ each ordinary Map2 creature has prefab_path in first wire snapshot; no other creature changed (57.368221ms)
+✔ boss templates and complete wire serialization IDENTICAL to Stage30/Stage32 (16.132825ms)
+✔ Stage38: 3 west guards face opposite previous direction with 3001, all other guard angles unchanged (25.98146ms)
+✔ every map2 mob/boss activates only its own skill IDs with exact independent cooldowns (37.313574ms)
+✔ windup delays release, cast happens once, and backswing prevents movement/new cast (0.934834ms)
+✔ safe zone entry, scene replacement, disconnect and actor death cancel the pending cast (18.600833ms)
+✔ respawn does not retain cast state or cooldowns from the previous life (0.554488ms)
+✔ special skills are not silently converted to a damaging melee attack (0.511353ms)
+✔ environment tick sends native skill packets only after spawn and delays contact damage (47.813999ms)
+✔ all trees and wells have dry footprints outside boss arenas and protected city (74.450606ms)
+✔ well spacing is enforced for every pair; room creation and respawn homes use corrected positions (33.330142ms)
+✔ full water footprint is checked even when center is dry (0.993537ms)
+✔ boss spawn polygons and their edges exclude trees and wells (4.806262ms)
+✔ entire client-exported mine arena bounds are clear including corners far from the spawn (0.916022ms)
+✔ base damage uses the client tooltip formula and support HP percentages (19.446253ms)
+✔ boss sector hits outside legacy 220 radius, misses behind, and respects city protection (22.530956ms)
+✔ healing and shield are distinct ally effects; shield absorbs and expires without healing (24.074903ms)
+✔ attack and critical buffs change server properties, refresh without stacking, and revert (11.652437ms)
+✔ tauren summons four real level40 mobs with their own skills, lifetime, and no reward farming (15.571727ms)
+✔ golem fan uses twelve native energy entities, advances them, and destroys expired missiles (17.073238ms)
+✔ projectile return is two swept legs, each target hit once per leg even across a delayed tick (13.604479ms)
+✔ acid volley supplies the exact client user-data contract, lands before damage, and expires pools (7.685483ms)
+✔ dash and burrow end events clean effects; an old life cannot damage after respawn (8.270496ms)
+✔ poison and confusion use native IDs and timed server state, not only client icons (2.256852ms)
+✔ every emitted effect event and entity passes the 3.12 protobuf codec (60.980882ms)
+✔ native mushroom illusion hides its owner, creates three native clones and reveals on real-clone death (1.814568ms)
+✔ illusion duration and a late observer restore native hide/reveal state (11.696232ms)
+✔ gas has native radius, deals area damage for eight seconds and is removed at expiry (1.602655ms)
+✔ hurricane uses the verified native prefab and swept projectile collision (5.353055ms)
+✔ native flower keeps client level, HP and lifetime without fabricated skills or rewards (1.519022ms)
+✔ environment sends transient spawns before their movement and removes effects after source death (18.606583ms)
+[REWARD PUSH] committed; delivery failed: SOCKET_CLOSED
+[REWARD PUSH] committed; delivery failed: SOCKET_CLOSED
+[NOTICE DELIVERY] uid=2 SOCKET_CLOSED
+✔ all Map2 actors have resolvable client drop graphs; missing exact rows are explicitly marked (83.079065ms)
+✔ independent nested draws preserve repeated groups and use exact client quantities (1.12518ms)
+✔ monster kill grants XP, crosses several levels, updates real stats and persists once (71.001308ms)
+✔ death save failure rolls back XP, drops, kill and HP; retry keeps the same loot roll (16.89723ms)
+✔ team XP is conserved, personal XP stays with killer, distant and other-room peers are excluded (46.82994ms)
+✔ boss death and respawn use the 3.12 envelopes, are sent once per life, and stay in their room (12.774123ms)
+✔ rainbow/mythic boss-loot notice fires only after a committed pickup, not on drop or failure (33.477584ms)
+✔ actual environment respawn timer warns once, restores the boss and emits native createBoss once (31.353415ms)
+✔ XP is conserved at every level boundary and totals above int32 use the unsigned native event (71.619892ms)
+✔ category drops respect client Weight and exclude zero-weight universal jewels (1.62805ms)
+✔ a socket delivery failure after saving never grants the same kill twice (9.049386ms)
+✔ rare manual drops and ordinary boss items do not trigger valuable-loot announcements (9.61868ms)
+✔ one disconnected player cannot suppress boss announcements to other room members (22.835004ms)
+[PLAYER DEATH SAVE] PERSISTENCE_FAILED
+[WORLD LOAD] uid=2 phase=first-client-frame afterMs=0
+[WORLD LOAD] uid=2 phase=loginLoadingFinish
+[CITY WORLD] uid=2 map=2 stage=client-loading-finished planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=7 render=UNVERIFIED
+[WORLD] assigned uid=2 level=main map=2 mode=0 room=local-main#1#1
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=2 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=2 map=2 players=1 entities=2 push=rm
+[WORLD LOAD] uid=2 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[WORLD] snapshot uid=2 map=2 players=1 entities=1 push=rm
+✔ native critical rate uses percent boundaries, clamps chance and honors canCrit (21.66544ms)
+✔ critical multiplier comes from actual stats; fixed DOT never rerolls or multiplies (7.231006ms)
+✔ real equipment crit/critHarm bonuses affect the calculation (1.051545ms)
+✔ hero basic strike applies critical damage and sends native critical hit and number types (19.029517ms)
+✔ monster critical uses the same rolled result for HP, hit effect and floating number (4.15951ms)
+✔ fully absorbed critical displays shield absorption instead of an HP critical zero (6.011665ms)
+✔ partial shield shows absorption separately and critical only for actual HP lost (8.558882ms)
+✔ poison ticks retain native poison type even when source has guaranteed crit (1.386969ms)
+✔ lethal hit leaves a dead body and sends death publicly, settlement only to its owner (19.892971ms)
+✔ settlement converts only XP earned in this segment, using main/rookie constants (5.630038ms)
+✔ death persistence failure leaves HP, shield, buffs and account state intact before retry (22.086704ms)
+✔ continue keeps ceil(half level), charges quoted coins once and uses native spawn/protection (100.573923ms)
+✔ insufficient coins, continuation cap, forged UID and invalid mode fail without mutation (18.250925ms)
+✔ respawn save failure preserves the death, XP, money and position for retry (12.438762ms)
+✔ dead players cannot move, attack, pick up, drink or rotate; heartbeat/load still work (21.189808ms)
+✔ reconnect and world reselection restore death instead of healing or granting settlement twice (65.570421ms)
+✔ protection blocks damage outside town, expires, and does not accumulate buffs (13.614027ms)
+✔ native resource collection does not become a critical strike (3.0794ms)
+✔ all emitted life and combat envelopes verify against original 3.12 schemas (2.305785ms)
+✔ real mob XP, loot gold and kill counters feed the persisted battle segment exactly once (25.134668ms)
+✔ finish converts an alive segment once; finishing an already settled death never pays twice (6.653568ms)
+✔ reconnect retains the original protection deadline instead of extending or losing it (6.915002ms)
+✔ account title XP is separate from hero XP and high unsigned hero XP never wraps in PlayerInfo (2.788112ms)
+✔ leaving view uses native leave reason; a killed monster uses dead reason after its death event (6.059351ms)
+✔ hero critical absorbed by a monster shield does not emit a fake critical zero (1.179946ms)
+✔ all original Map2 mob levels select their exact native form, not a forced first form (12.811487ms)
+✔ room creation and timed respawn preserve the selected native variant (9.67226ms)
+✔ all four original boss packets and IDs retain the exact fixture bytes (8.542919ms)
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[WORLD] assigned uid=1 level=guide map=99 mode=9 room=local-tutorial#1#1
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=0
+[CITY WORLD] uid=1 map=99 stage=scene-enter planned=0 npc=0 wall=0 bridge=0 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=0 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=99 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+✔ all mapped request and response types exist in the actual 2024 decoder (14.933626ms)
+✔ all startup reads decode, mail has data.mails and balances stay unchanged (157.968383ms)
+✔ rank error fallback cannot place UTF-8 text into an integer field (0.376593ms)
+✔ main and rookie lists match account mode and nomination is separate (2.40021ms)
+✔ guide uses map99, identity-bound player and rm entityCreated, re-enter does not reset (101.241874ms)
+✔ battle heartbeat is a real reply and aggregates into the same five minute window (73.018501ms)
+✔ skip tutorial persists and sends toMain; a fresh main session uses map2 and formal mode (201.573886ms)
+✔ lobby profile region matches filterLang and saved player inventory round trips (145.217211ms)
+✔ movement emits decoded entity positions; forged far move cannot teleport avatar (73.272512ms)
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+[game] login uid=1 account=networker lang=
+[GAME ROUTE] game.gameHandler.getServers uid=1 bytes=0
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=40
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME ROUTE] battle.iob.enter uid=1 bytes=19
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=16
+[GAME ROUTE] battle.iob.reEnter uid=1 bytes=16
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+[game] login uid=1 account=networker lang=
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=35
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME WS] close uid=guest
+[GAME ROUTE] battle.iob.enter uid=1 bytes=16
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+✔ real WebSocket login -> client-filtered lobby -> scene -> item frame -> reconnect snapshot (637.822259ms)
+[GAME WS] close uid=1
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+[game] login uid=1 account=networkcrit lang=
+[GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=19
+[WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main#1#1
+[GAME ROUTE] battle.iob.enter uid=1 bytes=0
+[WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+[CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+[WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+[WORLD LOAD] uid=1 phase=first-client-frame afterMs=3
+[WORLD LOAD] uid=1 phase=loginLoadingFinish
+[CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+[GAME ROUTE] battle.iob.reEnter uid=1 bytes=4
+✔ Stage41 real WebSocket carries critical numbers, private death settlement and native relive (236.5239ms)
+[GAME WS] close uid=1
+ℹ tests 122
+ℹ suites 0
+ℹ pass 122
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 4521.380913

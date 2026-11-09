@@ -1,0 +1,6200 @@
+{
+  "stage": 69,
+  "version": "0.47.0-stage69-relic-archive",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionController.ts",
+      "sha256": "de3be90d64b197cddc383bd5511f389ccaa40df2ef4c814c8d8e4da474b116b5",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionModel.ts",
+      "sha256": "609636344d5f956b999beca2f62d47c59a153ed1276ca3ec5928d223659dff19",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionNetwork.ts",
+      "sha256": "543c05a91c29a6df298b96336cb915eab48708748e264d407a80b81683af4c5f",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionStar.ts",
+      "sha256": "d9f571b45074945bf5fdde5cbdc94ea5a7a9cd4901cbe86baca641ed81687151",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionStarManager.ts",
+      "sha256": "2403a243a13bc21399c80987cd06745fe8aa6a70d789332613cb94333b4648de",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionTask.ts",
+      "sha256": "b3625743b3a8ad7bfd436d3ddcf0d7e56b2afa16f730d17944ba4816e23d4c29",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionTaskManager.ts",
+      "sha256": "a38588e7818bb5a8126ac0346a7a71ae717e78648d33dbc08c720a6626f172c3",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionView.ts",
+      "sha256": "c4dc6b884e5e8e282a51d65f4df95d3ba3ff55407c61017851733ab9c2d5d8e9",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/Collections.ts",
+      "sha256": "ef41e9854b384705b9df400995d8c5e731a6debc88c8ca9bf7e939b095e1add1",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionsManager.ts",
+      "sha256": "d4251e92c46b89e8eb8cb9bddb45d4c48e02fe5aef4a7af74c539bf2a59f7981",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "schemes": {
+    "Collections": {
+      "sha256": "87a061e53b142c9eac573b88032d36eea72cc22339adff087cb626527d2ff49b",
+      "rows": [
+        {
+          "ID": 1,
+          "Name": "孽火之源",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29001,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_01/spriteFrame",
+          "IsShow": true,
+          "Number": "627"
+        },
+        {
+          "ID": 2,
+          "Name": "冰冻的牙齿",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29002,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_02/spriteFrame",
+          "IsShow": true,
+          "Number": "275"
+        },
+        {
+          "ID": 3,
+          "Name": "硕大的冻干脚掌",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29003,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_03/spriteFrame",
+          "IsShow": true,
+          "Number": "276"
+        },
+        {
+          "ID": 4,
+          "Name": "引路人雕塑",
+          "IsStar": true,
+          "Quality": 4,
+          "PiecesID": 29004,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_04/spriteFrame",
+          "IsShow": true,
+          "Number": "009"
+        },
+        {
+          "ID": 5,
+          "Name": "紧握的双手",
+          "IsStar": true,
+          "Quality": 4,
+          "PiecesID": 29005,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_05/spriteFrame",
+          "IsShow": true,
+          "Number": "425"
+        },
+        {
+          "ID": 6,
+          "Name": "冥界打工仔",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29006,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_06/spriteFrame",
+          "IsShow": true,
+          "Number": "309"
+        },
+        {
+          "ID": 7,
+          "Name": "编制者牌爽身粉",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29007,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_07/spriteFrame",
+          "IsShow": true,
+          "Number": "321"
+        },
+        {
+          "ID": 8,
+          "Name": "腐化的光辉之刃",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29008,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_08/spriteFrame",
+          "IsShow": true,
+          "Number": "104"
+        },
+        {
+          "ID": 9,
+          "Name": "圣甲虫的壳",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29009,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_09/spriteFrame",
+          "IsShow": true,
+          "Number": "105"
+        },
+        {
+          "ID": 10,
+          "Name": "仙人掌盆栽",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29010,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_10/spriteFrame",
+          "IsShow": true,
+          "Number": "106"
+        },
+        {
+          "ID": 12,
+          "Name": "恩比卢卢的假眼",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29012,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_12/spriteFrame",
+          "IsShow": true,
+          "Number": "108"
+        },
+        {
+          "ID": 13,
+          "Name": "灰烬拾者",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29013,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_13/spriteFrame",
+          "IsShow": true,
+          "Number": "901"
+        },
+        {
+          "ID": 15,
+          "Name": "大蝙蝠",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29015,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_15/spriteFrame",
+          "IsShow": true,
+          "Number": "903"
+        },
+        {
+          "ID": 16,
+          "Name": "大逃杀杀人",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29016,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_16/spriteFrame",
+          "IsShow": true,
+          "Number": "904"
+        },
+        {
+          "ID": 17,
+          "Name": "大章鱼",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29017,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_17/spriteFrame",
+          "IsShow": true,
+          "Number": "905"
+        },
+        {
+          "ID": 18,
+          "Name": "珊瑚",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29018,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_18/spriteFrame",
+          "IsShow": true,
+          "Number": "906"
+        },
+        {
+          "ID": 19,
+          "Name": "大蜥蜴",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29019,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_19/spriteFrame",
+          "IsShow": true,
+          "Number": "907"
+        },
+        {
+          "ID": 20,
+          "Name": "莉娅",
+          "IsStar": true,
+          "Quality": 5,
+          "PiecesID": 29020,
+          "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_20/spriteFrame",
+          "IsShow": true,
+          "Number": "908"
+        }
+      ]
+    },
+    "CollectionStar": {
+      "sha256": "203e385afad07a788650efa437d34316bb726d88451ba893425ba0744e1f57ec",
+      "rows": [
+        {
+          "ID": 1,
+          "CollectionID": 1,
+          "Star": 1,
+          "ItemID": 29001,
+          "ItemNums": 1,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 2
+            },
+            {
+              "percent": 1
+            }
+          ],
+          "dropID": 61,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 2,
+          "CollectionID": 1,
+          "Star": 2,
+          "ItemID": 29001,
+          "ItemNums": 2,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 2
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 70,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 3,
+          "CollectionID": 1,
+          "Star": 3,
+          "ItemID": 29001,
+          "ItemNums": 4,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 2
+            },
+            {
+              "percent": 3
+            }
+          ],
+          "dropID": 62,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 4,
+          "CollectionID": 1,
+          "Star": 4,
+          "ItemID": 29001,
+          "ItemNums": 8,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 2
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 66,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 5,
+          "CollectionID": 1,
+          "Star": 5,
+          "ItemID": 29001,
+          "ItemNums": 16,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 2
+            },
+            {
+              "percent": 5
+            }
+          ],
+          "dropID": 63,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 6,
+          "CollectionID": 2,
+          "Star": 1,
+          "ItemID": 29002,
+          "ItemNums": 1,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 1
+            }
+          ],
+          "dropID": 69,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 7,
+          "CollectionID": 2,
+          "Star": 2,
+          "ItemID": 29002,
+          "ItemNums": 2,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 64,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 8,
+          "CollectionID": 2,
+          "Star": 3,
+          "ItemID": 29002,
+          "ItemNums": 4,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 3
+            }
+          ],
+          "dropID": 67,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 9,
+          "CollectionID": 2,
+          "Star": 4,
+          "ItemID": 29002,
+          "ItemNums": 8,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 65,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 10,
+          "CollectionID": 2,
+          "Star": 5,
+          "ItemID": 29002,
+          "ItemNums": 16,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 5
+            }
+          ],
+          "dropID": 68,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 11,
+          "CollectionID": 3,
+          "Star": 1,
+          "ItemID": 29003,
+          "ItemNums": 1,
+          "EffectType": 2,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 1
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 12,
+          "CollectionID": 3,
+          "Star": 2,
+          "ItemID": 29003,
+          "ItemNums": 2,
+          "EffectType": 2,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 13,
+          "CollectionID": 3,
+          "Star": 3,
+          "ItemID": 29003,
+          "ItemNums": 4,
+          "EffectType": 2,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 14,
+          "CollectionID": 3,
+          "Star": 4,
+          "ItemID": 29003,
+          "ItemNums": 8,
+          "EffectType": 2,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 15,
+          "CollectionID": 3,
+          "Star": 5,
+          "ItemID": 29003,
+          "ItemNums": 16,
+          "EffectType": 2,
+          "Args": [
+            {
+              "attr": 5
+            },
+            {
+              "percent": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 16,
+          "CollectionID": 4,
+          "Star": 1,
+          "ItemID": 29004,
+          "ItemNums": 1,
+          "EffectType": 3,
+          "Args": [
+            {
+              "percent": 10
+            },
+            {
+              "itemID": 109
+            },
+            {
+              "num": 233
+            },
+            {
+              "num": 233
+            },
+            {
+              "num": 233
+            },
+            {
+              "num": 233
+            },
+            {
+              "num": 233
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 17,
+          "CollectionID": 4,
+          "Star": 2,
+          "ItemID": 29004,
+          "ItemNums": 2,
+          "EffectType": 3,
+          "Args": [
+            {
+              "percent": 6
+            },
+            {
+              "itemID": 109
+            },
+            {
+              "num": 486
+            },
+            {
+              "num": 486
+            },
+            {
+              "num": 486
+            },
+            {
+              "num": 486
+            },
+            {
+              "num": 486
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 18,
+          "CollectionID": 4,
+          "Star": 3,
+          "ItemID": 29004,
+          "ItemNums": 4,
+          "EffectType": 3,
+          "Args": [
+            {
+              "percent": 5
+            },
+            {
+              "itemID": 109
+            },
+            {
+              "num": 666
+            },
+            {
+              "num": 666
+            },
+            {
+              "num": 666
+            },
+            {
+              "num": 666
+            },
+            {
+              "num": 666
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 19,
+          "CollectionID": 4,
+          "Star": 4,
+          "ItemID": 29004,
+          "ItemNums": 8,
+          "EffectType": 3,
+          "Args": [
+            {
+              "percent": 4
+            },
+            {
+              "itemID": 109
+            },
+            {
+              "num": 888
+            },
+            {
+              "num": 888
+            },
+            {
+              "num": 888
+            },
+            {
+              "num": 888
+            },
+            {
+              "num": 888
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 20,
+          "CollectionID": 5,
+          "Star": 1,
+          "ItemID": 29005,
+          "ItemNums": 1,
+          "EffectType": 4,
+          "Args": [
+            {
+              "percent": 1
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 21,
+          "CollectionID": 5,
+          "Star": 2,
+          "ItemID": 29005,
+          "ItemNums": 2,
+          "EffectType": 4,
+          "Args": [
+            {
+              "percent": 1.5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 22,
+          "CollectionID": 5,
+          "Star": 3,
+          "ItemID": 29005,
+          "ItemNums": 4,
+          "EffectType": 4,
+          "Args": [
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 23,
+          "CollectionID": 5,
+          "Star": 4,
+          "ItemID": 29005,
+          "ItemNums": 8,
+          "EffectType": 4,
+          "Args": [
+            {
+              "percent": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 24,
+          "CollectionID": 6,
+          "Star": 1,
+          "ItemID": 29006,
+          "ItemNums": 1,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 4
+            },
+            {
+              "percent": 1
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 25,
+          "CollectionID": 6,
+          "Star": 2,
+          "ItemID": 29006,
+          "ItemNums": 2,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 4
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 26,
+          "CollectionID": 6,
+          "Star": 3,
+          "ItemID": 29006,
+          "ItemNums": 4,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 4
+            },
+            {
+              "percent": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 27,
+          "CollectionID": 6,
+          "Star": 4,
+          "ItemID": 29006,
+          "ItemNums": 8,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 4
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 28,
+          "CollectionID": 6,
+          "Star": 5,
+          "ItemID": 29006,
+          "ItemNums": 16,
+          "EffectType": 1,
+          "Args": [
+            {
+              "attr": 4
+            },
+            {
+              "percent": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 29,
+          "CollectionID": 7,
+          "Star": 1,
+          "ItemID": 29007,
+          "ItemNums": 1,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1321
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 30,
+          "CollectionID": 7,
+          "Star": 2,
+          "ItemID": 29007,
+          "ItemNums": 2,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1321
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 31,
+          "CollectionID": 7,
+          "Star": 3,
+          "ItemID": 29007,
+          "ItemNums": 4,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1321
+            },
+            {
+              "percent": 6
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 32,
+          "CollectionID": 7,
+          "Star": 4,
+          "ItemID": 29007,
+          "ItemNums": 8,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1321
+            },
+            {
+              "percent": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 33,
+          "CollectionID": 7,
+          "Star": 5,
+          "ItemID": 29007,
+          "ItemNums": 16,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1321
+            },
+            {
+              "percent": 10
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 34,
+          "CollectionID": 8,
+          "Star": 1,
+          "ItemID": 29008,
+          "ItemNums": 1,
+          "EffectType": 6,
+          "Args": [
+            {
+              "mapID": 4
+            },
+            {
+              "percent": 1
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 35,
+          "CollectionID": 8,
+          "Star": 2,
+          "ItemID": 29008,
+          "ItemNums": 2,
+          "EffectType": 6,
+          "Args": [
+            {
+              "mapID": 4
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 36,
+          "CollectionID": 8,
+          "Star": 3,
+          "ItemID": 29008,
+          "ItemNums": 4,
+          "EffectType": 6,
+          "Args": [
+            {
+              "mapID": 4
+            },
+            {
+              "percent": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 37,
+          "CollectionID": 8,
+          "Star": 4,
+          "ItemID": 29008,
+          "ItemNums": 8,
+          "EffectType": 6,
+          "Args": [
+            {
+              "mapID": 4
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 38,
+          "CollectionID": 8,
+          "Star": 5,
+          "ItemID": 29008,
+          "ItemNums": 16,
+          "EffectType": 6,
+          "Args": [
+            {
+              "mapID": 4
+            },
+            {
+              "percent": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 39,
+          "CollectionID": 9,
+          "Star": 1,
+          "ItemID": 29009,
+          "ItemNums": 1,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1322
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 40,
+          "CollectionID": 9,
+          "Star": 2,
+          "ItemID": 29009,
+          "ItemNums": 2,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1322
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 41,
+          "CollectionID": 9,
+          "Star": 3,
+          "ItemID": 29009,
+          "ItemNums": 4,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1322
+            },
+            {
+              "percent": 6
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 42,
+          "CollectionID": 9,
+          "Star": 4,
+          "ItemID": 29009,
+          "ItemNums": 8,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1322
+            },
+            {
+              "percent": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 43,
+          "CollectionID": 9,
+          "Star": 5,
+          "ItemID": 29009,
+          "ItemNums": 16,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1322
+            },
+            {
+              "percent": 10
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 44,
+          "CollectionID": 10,
+          "Star": 1,
+          "ItemID": 29010,
+          "ItemNums": 1,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1323
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 45,
+          "CollectionID": 10,
+          "Star": 2,
+          "ItemID": 29010,
+          "ItemNums": 2,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1323
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 46,
+          "CollectionID": 10,
+          "Star": 3,
+          "ItemID": 29010,
+          "ItemNums": 4,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1323
+            },
+            {
+              "percent": 6
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 47,
+          "CollectionID": 10,
+          "Star": 4,
+          "ItemID": 29010,
+          "ItemNums": 8,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1323
+            },
+            {
+              "percent": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 48,
+          "CollectionID": 10,
+          "Star": 5,
+          "ItemID": 29010,
+          "ItemNums": 16,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1323
+            },
+            {
+              "percent": 10
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 54,
+          "CollectionID": 12,
+          "Star": 1,
+          "ItemID": 29012,
+          "ItemNums": 1,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1324
+            },
+            {
+              "percent": 2
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 55,
+          "CollectionID": 12,
+          "Star": 2,
+          "ItemID": 29012,
+          "ItemNums": 2,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1324
+            },
+            {
+              "percent": 4
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 56,
+          "CollectionID": 12,
+          "Star": 3,
+          "ItemID": 29012,
+          "ItemNums": 4,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1324
+            },
+            {
+              "percent": 6
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 57,
+          "CollectionID": 12,
+          "Star": 4,
+          "ItemID": 29012,
+          "ItemNums": 8,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1324
+            },
+            {
+              "percent": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 58,
+          "CollectionID": 12,
+          "Star": 5,
+          "ItemID": 29012,
+          "ItemNums": 16,
+          "EffectType": 5,
+          "Args": [
+            {
+              "monsterID": 1324
+            },
+            {
+              "percent": 10
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 59,
+          "CollectionID": 13,
+          "Star": 1,
+          "ItemID": 29013,
+          "ItemNums": 1,
+          "EffectType": 8,
+          "Args": [
+            {
+              "gameMode": 3
+            },
+            {
+              "percent": 50
+            },
+            {
+              "itemID": 13
+            },
+            {
+              "num": 100
+            },
+            {
+              "mapID": 9
+            }
+          ],
+          "dropID": 889,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 60,
+          "CollectionID": 13,
+          "Star": 2,
+          "ItemID": 29013,
+          "ItemNums": 3,
+          "EffectType": 8,
+          "Args": [
+            {
+              "gameMode": 3
+            },
+            {
+              "percent": 60
+            },
+            {
+              "itemID": 13
+            },
+            {
+              "num": 200
+            },
+            {
+              "mapID": 9
+            }
+          ],
+          "dropID": 890,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 61,
+          "CollectionID": 13,
+          "Star": 3,
+          "ItemID": 29013,
+          "ItemNums": 5,
+          "EffectType": 8,
+          "Args": [
+            {
+              "gameMode": 3
+            },
+            {
+              "percent": 70
+            },
+            {
+              "itemID": 13
+            },
+            {
+              "num": 400
+            },
+            {
+              "mapID": 9
+            }
+          ],
+          "dropID": 891,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 62,
+          "CollectionID": 13,
+          "Star": 4,
+          "ItemID": 29013,
+          "ItemNums": 7,
+          "EffectType": 8,
+          "Args": [
+            {
+              "gameMode": 3
+            },
+            {
+              "percent": 80
+            },
+            {
+              "itemID": 13
+            },
+            {
+              "num": 600
+            },
+            {
+              "item2ID": 320607
+            },
+            {
+              "num2": 1
+            },
+            {
+              "mapID": 9
+            }
+          ],
+          "dropID": 892,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 63,
+          "CollectionID": 13,
+          "Star": 5,
+          "ItemID": 29013,
+          "ItemNums": 9,
+          "EffectType": 8,
+          "Args": [
+            {
+              "gameMode": 3
+            },
+            {
+              "percent": 90
+            },
+            {
+              "itemID": 13
+            },
+            {
+              "num": 1000
+            },
+            {
+              "item2ID": 320607
+            },
+            {
+              "num2": 1
+            },
+            {
+              "mapID": 9
+            }
+          ],
+          "dropID": 893,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 64,
+          "CollectionID": 14,
+          "Star": 1,
+          "ItemID": 29014,
+          "ItemNums": 1,
+          "EffectType": 9,
+          "Args": [
+            {
+              "itemID": 320601
+            },
+            {
+              "num": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 65,
+          "CollectionID": 14,
+          "Star": 2,
+          "ItemID": 29014,
+          "ItemNums": 3,
+          "EffectType": 9,
+          "Args": [
+            {
+              "itemID": 320602
+            },
+            {
+              "num": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 66,
+          "CollectionID": 14,
+          "Star": 3,
+          "ItemID": 29014,
+          "ItemNums": 5,
+          "EffectType": 9,
+          "Args": [
+            {
+              "itemID": 320603
+            },
+            {
+              "num": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 67,
+          "CollectionID": 14,
+          "Star": 4,
+          "ItemID": 29014,
+          "ItemNums": 7,
+          "EffectType": 9,
+          "Args": [
+            {
+              "itemID": 320604
+            },
+            {
+              "num": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 10,
+          "dropID2": 0
+        },
+        {
+          "ID": 68,
+          "CollectionID": 14,
+          "Star": 5,
+          "ItemID": 29014,
+          "ItemNums": 9,
+          "EffectType": 9,
+          "Args": [
+            {
+              "itemID": 320605
+            },
+            {
+              "num": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 10,
+          "dropID2": 0
+        },
+        {
+          "ID": 69,
+          "CollectionID": 15,
+          "Star": 1,
+          "ItemID": 29015,
+          "ItemNums": 1,
+          "EffectType": 11,
+          "Args": [
+            {
+              "percent": 50
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 70,
+          "CollectionID": 15,
+          "Star": 2,
+          "ItemID": 29015,
+          "ItemNums": 3,
+          "EffectType": 11,
+          "Args": [
+            {
+              "percent": 100
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 71,
+          "CollectionID": 15,
+          "Star": 3,
+          "ItemID": 29015,
+          "ItemNums": 5,
+          "EffectType": 11,
+          "Args": [
+            {
+              "percent": 150
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 72,
+          "CollectionID": 15,
+          "Star": 4,
+          "ItemID": 29015,
+          "ItemNums": 7,
+          "EffectType": 11,
+          "Args": [
+            {
+              "percent": 200
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620900
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 73,
+          "CollectionID": 15,
+          "Star": 5,
+          "ItemID": 29015,
+          "ItemNums": 9,
+          "EffectType": 11,
+          "Args": [
+            {
+              "percent": 300
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620900
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 74,
+          "CollectionID": 16,
+          "Star": 1,
+          "ItemID": 29016,
+          "ItemNums": 1,
+          "EffectType": 13,
+          "Args": [
+            {
+              "percent": 1
+            },
+            {
+              "gameMode": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 75,
+          "CollectionID": 16,
+          "Star": 2,
+          "ItemID": 29016,
+          "ItemNums": 2,
+          "EffectType": 13,
+          "Args": [
+            {
+              "percent": 2
+            },
+            {
+              "gameMode": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 76,
+          "CollectionID": 16,
+          "Star": 3,
+          "ItemID": 29016,
+          "ItemNums": 5,
+          "EffectType": 13,
+          "Args": [
+            {
+              "percent": 3
+            },
+            {
+              "gameMode": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 77,
+          "CollectionID": 16,
+          "Star": 4,
+          "ItemID": 29016,
+          "ItemNums": 10,
+          "EffectType": 13,
+          "Args": [
+            {
+              "percent": 4
+            },
+            {
+              "gameMode": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 78,
+          "CollectionID": 16,
+          "Star": 5,
+          "ItemID": 29016,
+          "ItemNums": 20,
+          "EffectType": 13,
+          "Args": [
+            {
+              "percent": 5
+            },
+            {
+              "gameMode": 3
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 79,
+          "CollectionID": 17,
+          "Star": 1,
+          "ItemID": 29017,
+          "ItemNums": 1,
+          "EffectType": 12,
+          "Args": [
+            {
+              "percent": 50
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 80,
+          "CollectionID": 17,
+          "Star": 2,
+          "ItemID": 29017,
+          "ItemNums": 3,
+          "EffectType": 12,
+          "Args": [
+            {
+              "percent": 100
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 81,
+          "CollectionID": 17,
+          "Star": 3,
+          "ItemID": 29017,
+          "ItemNums": 5,
+          "EffectType": 12,
+          "Args": [
+            {
+              "percent": 150
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620400
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 82,
+          "CollectionID": 17,
+          "Star": 4,
+          "ItemID": 29017,
+          "ItemNums": 7,
+          "EffectType": 12,
+          "Args": [
+            {
+              "percent": 200
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620400
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 83,
+          "CollectionID": 17,
+          "Star": 5,
+          "ItemID": 29017,
+          "ItemNums": 9,
+          "EffectType": 12,
+          "Args": [
+            {
+              "percent": 300
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620400
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 84,
+          "CollectionID": 18,
+          "Star": 1,
+          "ItemID": 29018,
+          "ItemNums": 1,
+          "EffectType": 15,
+          "Args": [
+            {
+              "percent": 1
+            },
+            {
+              "mapID": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 85,
+          "CollectionID": 18,
+          "Star": 2,
+          "ItemID": 29018,
+          "ItemNums": 2,
+          "EffectType": 15,
+          "Args": [
+            {
+              "percent": 2
+            },
+            {
+              "mapID": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 86,
+          "CollectionID": 18,
+          "Star": 3,
+          "ItemID": 29018,
+          "ItemNums": 3,
+          "EffectType": 15,
+          "Args": [
+            {
+              "percent": 3
+            },
+            {
+              "mapID": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 87,
+          "CollectionID": 18,
+          "Star": 4,
+          "ItemID": 29018,
+          "ItemNums": 4,
+          "EffectType": 15,
+          "Args": [
+            {
+              "percent": 4
+            },
+            {
+              "mapID": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 88,
+          "CollectionID": 18,
+          "Star": 5,
+          "ItemID": 29018,
+          "ItemNums": 5,
+          "EffectType": 15,
+          "Args": [
+            {
+              "percent": 5
+            },
+            {
+              "mapID": 8
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 89,
+          "CollectionID": 19,
+          "Star": 1,
+          "ItemID": 29019,
+          "ItemNums": 1,
+          "EffectType": 14,
+          "Args": [
+            {
+              "percent": 50
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 90,
+          "CollectionID": 19,
+          "Star": 2,
+          "ItemID": 29019,
+          "ItemNums": 3,
+          "EffectType": 14,
+          "Args": [
+            {
+              "percent": 100
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 91,
+          "CollectionID": 19,
+          "Star": 3,
+          "ItemID": 29019,
+          "ItemNums": 5,
+          "EffectType": 14,
+          "Args": [
+            {
+              "percent": 150
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 92,
+          "CollectionID": 19,
+          "Star": 4,
+          "ItemID": 29019,
+          "ItemNums": 7,
+          "EffectType": 14,
+          "Args": [
+            {
+              "percent": 200
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620600
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 93,
+          "CollectionID": 19,
+          "Star": 5,
+          "ItemID": 29019,
+          "ItemNums": 9,
+          "EffectType": 14,
+          "Args": [
+            {
+              "percent": 300
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620600
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 94,
+          "CollectionID": 20,
+          "Star": 1,
+          "ItemID": 29020,
+          "ItemNums": 1,
+          "EffectType": 16,
+          "Args": [
+            {
+              "percent": 3
+            },
+            {
+              "gameMode": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 95,
+          "CollectionID": 20,
+          "Star": 2,
+          "ItemID": 29020,
+          "ItemNums": 5,
+          "EffectType": 16,
+          "Args": [
+            {
+              "percent": 6
+            },
+            {
+              "gameMode": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 96,
+          "CollectionID": 20,
+          "Star": 3,
+          "ItemID": 29020,
+          "ItemNums": 5,
+          "EffectType": 16,
+          "Args": [
+            {
+              "percent": 9
+            },
+            {
+              "gameMode": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 0,
+          "dropID2": 0
+        },
+        {
+          "ID": 97,
+          "CollectionID": 20,
+          "Star": 4,
+          "ItemID": 29020,
+          "ItemNums": 5,
+          "EffectType": 16,
+          "Args": [
+            {
+              "percent": 12
+            },
+            {
+              "gameMode": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620700
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        },
+        {
+          "ID": 98,
+          "CollectionID": 20,
+          "Star": 5,
+          "ItemID": 29020,
+          "ItemNums": 5,
+          "EffectType": 16,
+          "Args": [
+            {
+              "percent": 15
+            },
+            {
+              "gameMode": 5
+            }
+          ],
+          "dropID": 0,
+          "EffectType2": 9,
+          "Args2": [
+            {
+              "itemID": 620700
+            },
+            {
+              "num": 1
+            }
+          ],
+          "dropID2": 0
+        }
+      ]
+    },
+    "CollectionTask": {
+      "sha256": "e8f8d7a75e293cd3bd07a10b14aae742a5afebf7a53cddcd3d186dff013d6d5b",
+      "rows": [
+        {
+          "ID": 1,
+          "RewardID": [
+            29001
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 1,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1320
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 2,
+          "RewardID": [
+            29001
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 1,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1320
+            }
+          ]
+        },
+        {
+          "ID": 3,
+          "RewardID": [
+            29001
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 1,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1320
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 4,
+          "RewardID": [
+            29001
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 1,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1320
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "ID": 5,
+          "RewardID": [
+            29001
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 1,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1320
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "ID": 6,
+          "RewardID": [
+            29002
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 2,
+          "TargetNum": 1,
+          "CollectionID": 2,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 8,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 7,
+          "RewardID": [
+            29002
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 2,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1313
+            }
+          ]
+        },
+        {
+          "ID": 8,
+          "RewardID": [
+            29002
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 2,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 9,
+          "RewardID": [
+            29002
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 2,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "ID": 10,
+          "RewardID": [
+            29002
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 2,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 5,
+              "opType": 5,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "ID": 11,
+          "RewardID": [
+            29003
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 2,
+          "TargetNum": 1,
+          "CollectionID": 3,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 8,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 12,
+          "RewardID": [
+            29003
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 3,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1314
+            }
+          ]
+        },
+        {
+          "ID": 13,
+          "RewardID": [
+            29003
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 3,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 14,
+          "RewardID": [
+            29003
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 3,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "ID": 15,
+          "RewardID": [
+            29003
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 3,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 6,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 5,
+              "opType": 5,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "ID": 16,
+          "RewardID": [
+            29004
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 4,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 4,
+              "opType": 5,
+              "value": 4
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 500
+            }
+          ]
+        },
+        {
+          "ID": 17,
+          "RewardID": [
+            29004
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 4,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 4,
+              "opType": 5,
+              "value": 5
+            },
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 18,
+          "RewardID": [
+            29004
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 4,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 4,
+              "opType": 5,
+              "value": 6
+            },
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1313
+            },
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1314
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "ID": 19,
+          "RewardID": [
+            29004
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 4,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 4,
+              "opType": 5,
+              "value": 7
+            },
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1320
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "ID": 20,
+          "RewardID": [
+            29005
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 3,
+          "TargetNum": 20,
+          "CollectionID": 5,
+          "CollectionStar": 0
+        },
+        {
+          "ID": 21,
+          "RewardID": [
+            29005
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 2,
+          "TargetNum": 500,
+          "CollectionID": 5,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 7,
+              "opType": 4,
+              "value": 1
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 2
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 3
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 5
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 22,
+          "RewardID": [
+            29005
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 50,
+          "CollectionID": 5,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 7,
+              "opType": 4,
+              "value": 1
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 2
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 3
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 5
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 23,
+          "RewardID": [
+            29005
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 5,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 7,
+              "opType": 4,
+              "value": 1
+            },
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 2
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 3
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 5
+            },
+            {
+              "condType": 16,
+              "opType": 6,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 24,
+          "RewardID": [
+            29006
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 6,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 25,
+          "RewardID": [
+            29006
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 6,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            }
+          ]
+        },
+        {
+          "ID": 26,
+          "RewardID": [
+            29006
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 6,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 27,
+          "RewardID": [
+            29006
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 6,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "ID": 28,
+          "RewardID": [
+            29006
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 6,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1308
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "ID": 29,
+          "RewardID": [
+            29007
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 7,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1321
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 30,
+          "RewardID": [
+            29007
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 7,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1321
+            }
+          ]
+        },
+        {
+          "ID": 31,
+          "RewardID": [
+            29007
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 7,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1321
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 32,
+          "RewardID": [
+            29007
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 4,
+          "TargetNum": 1,
+          "CollectionID": 7,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 619700
+            }
+          ]
+        },
+        {
+          "ID": 33,
+          "RewardID": [
+            29007
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 7,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1321
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "ID": 34,
+          "RewardID": [
+            29008
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 4,
+          "TargetNum": 2000000,
+          "CollectionID": 8,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 4
+            }
+          ]
+        },
+        {
+          "ID": 35,
+          "RewardID": [
+            29008
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 2,
+          "TargetNum": 500,
+          "CollectionID": 8,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 8,
+              "opType": 1,
+              "value": 1277
+            }
+          ],
+          "CondArg1": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 8,
+              "opType": 1,
+              "value": 1278
+            }
+          ]
+        },
+        {
+          "ID": 36,
+          "RewardID": [
+            29008
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 2,
+          "TargetNum": 50,
+          "CollectionID": 8,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 8,
+              "opType": 1,
+              "value": 1272
+            }
+          ],
+          "CondArg1": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 8,
+              "opType": 1,
+              "value": 1276
+            }
+          ]
+        },
+        {
+          "ID": 37,
+          "RewardID": [
+            29008
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 4,
+          "TargetNum": 1,
+          "CollectionID": 8,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 619800
+            }
+          ],
+          "CondArg1": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            },
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 619700
+            }
+          ]
+        },
+        {
+          "ID": 38,
+          "RewardID": [
+            29008
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 10,
+          "CollectionID": 8,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 4
+            }
+          ]
+        },
+        {
+          "ID": 39,
+          "RewardID": [
+            29009
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 9,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1322
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 40,
+          "RewardID": [
+            29009
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 9,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1322
+            }
+          ]
+        },
+        {
+          "ID": 41,
+          "RewardID": [
+            29009
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 9,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1322
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 42,
+          "RewardID": [
+            29009
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 4,
+          "TargetNum": 1,
+          "CollectionID": 9,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 620000
+            }
+          ]
+        },
+        {
+          "ID": 43,
+          "RewardID": [
+            29009
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 9,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1322
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "ID": 44,
+          "RewardID": [
+            29010
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 10,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1323
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 45,
+          "RewardID": [
+            29010
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 10,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1323
+            }
+          ]
+        },
+        {
+          "ID": 46,
+          "RewardID": [
+            29010
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 10,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1323
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 47,
+          "RewardID": [
+            29010
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 4,
+          "TargetNum": 1,
+          "CollectionID": 10,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 620200
+            }
+          ]
+        },
+        {
+          "ID": 48,
+          "RewardID": [
+            29010
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 10,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1323
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "ID": 54,
+          "RewardID": [
+            29012
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 12,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1324
+            },
+            {
+              "condType": 3,
+              "opType": 5,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "ID": 55,
+          "RewardID": [
+            29012
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 5,
+          "CollectionID": 12,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1324
+            }
+          ]
+        },
+        {
+          "ID": 56,
+          "RewardID": [
+            29012
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 12,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1324
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "ID": 57,
+          "RewardID": [
+            29012
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 4,
+          "TargetNum": 1,
+          "CollectionID": 12,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 9,
+              "opType": 1,
+              "value": 620100
+            }
+          ]
+        },
+        {
+          "ID": 58,
+          "RewardID": [
+            29012
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 12,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1324
+            },
+            {
+              "condType": 2,
+              "opType": 5,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "ID": 59,
+          "RewardID": [
+            29013
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 6,
+          "TargetNum": 1,
+          "CollectionID": 13,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 13,
+              "opType": 4,
+              "value": 50
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 60,
+          "RewardID": [
+            29013
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 6,
+          "TargetNum": 1,
+          "CollectionID": 13,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 13,
+              "opType": 4,
+              "value": 60
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 61,
+          "RewardID": [
+            29013
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 6,
+          "TargetNum": 1,
+          "CollectionID": 13,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 13,
+              "opType": 4,
+              "value": 70
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 62,
+          "RewardID": [
+            29013
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 6,
+          "TargetNum": 1,
+          "CollectionID": 13,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 13,
+              "opType": 4,
+              "value": 85
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 63,
+          "RewardID": [
+            29013
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 6,
+          "TargetNum": 1,
+          "CollectionID": 13,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 13,
+              "opType": 4,
+              "value": 100
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 9
+            }
+          ]
+        },
+        {
+          "ID": 64,
+          "RewardID": [
+            29014
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 7,
+          "TargetNum": 10,
+          "CollectionID": 14,
+          "CollectionStar": 0
+        },
+        {
+          "ID": 65,
+          "RewardID": [
+            29014
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 7,
+          "TargetNum": 10,
+          "CollectionID": 14,
+          "CollectionStar": 1
+        },
+        {
+          "ID": 66,
+          "RewardID": [
+            29014
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 7,
+          "TargetNum": 10,
+          "CollectionID": 14,
+          "CollectionStar": 2
+        },
+        {
+          "ID": 67,
+          "RewardID": [
+            29014
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 7,
+          "TargetNum": 10,
+          "CollectionID": 14,
+          "CollectionStar": 3
+        },
+        {
+          "ID": 68,
+          "RewardID": [
+            29014
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 7,
+          "TargetNum": 10,
+          "CollectionID": 14,
+          "CollectionStar": 4
+        },
+        {
+          "ID": 69,
+          "RewardID": [
+            29015
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 15,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1325
+            },
+            {
+              "condType": 14,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 70,
+          "RewardID": [
+            29015
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 15,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1325
+            },
+            {
+              "condType": 14,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 71,
+          "RewardID": [
+            29015
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 15,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1325
+            },
+            {
+              "condType": 14,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 72,
+          "RewardID": [
+            29015
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 15,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1325
+            },
+            {
+              "condType": 14,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 73,
+          "RewardID": [
+            29015
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 15,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1325
+            },
+            {
+              "condType": 14,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 74,
+          "RewardID": [
+            29016
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 8,
+          "TargetNum": 1,
+          "CollectionID": 16,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 3
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "ID": 75,
+          "RewardID": [
+            29016
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 8,
+          "TargetNum": 10,
+          "CollectionID": 16,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 3
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "ID": 76,
+          "RewardID": [
+            29016
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 8,
+          "TargetNum": 10,
+          "CollectionID": 16,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 3
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "ID": 77,
+          "RewardID": [
+            29016
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 8,
+          "TargetNum": 10,
+          "CollectionID": 16,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 3
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "ID": 78,
+          "RewardID": [
+            29016
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 8,
+          "TargetNum": 10,
+          "CollectionID": 16,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 3
+            },
+            {
+              "condType": 10,
+              "opType": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "ID": 79,
+          "RewardID": [
+            29017
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 17,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1326
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 80,
+          "RewardID": [
+            29017
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 17,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1326
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 81,
+          "RewardID": [
+            29017
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 17,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1326
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 82,
+          "RewardID": [
+            29017
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 17,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1326
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 83,
+          "RewardID": [
+            29017
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 17,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1326
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 84,
+          "RewardID": [
+            29018
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 9,
+          "TargetNum": 20,
+          "CollectionID": 18,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 17,
+              "opType": 1,
+              "value": 11017
+            }
+          ]
+        },
+        {
+          "ID": 85,
+          "RewardID": [
+            29018
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 9,
+          "TargetNum": 50,
+          "CollectionID": 18,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 17,
+              "opType": 1,
+              "value": 11017
+            }
+          ]
+        },
+        {
+          "ID": 86,
+          "RewardID": [
+            29018
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 9,
+          "TargetNum": 100,
+          "CollectionID": 18,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 17,
+              "opType": 1,
+              "value": 11017
+            }
+          ]
+        },
+        {
+          "ID": 87,
+          "RewardID": [
+            29018
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 9,
+          "TargetNum": 100,
+          "CollectionID": 18,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 17,
+              "opType": 1,
+              "value": 11017
+            }
+          ]
+        },
+        {
+          "ID": 88,
+          "RewardID": [
+            29018
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 9,
+          "TargetNum": 100,
+          "CollectionID": 18,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 17,
+              "opType": 1,
+              "value": 11017
+            }
+          ]
+        },
+        {
+          "ID": 89,
+          "RewardID": [
+            29019
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 19,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1327
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 90,
+          "RewardID": [
+            29019
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 19,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1327
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 91,
+          "RewardID": [
+            29019
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 19,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1327
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 92,
+          "RewardID": [
+            29019
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 19,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1327
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 93,
+          "RewardID": [
+            29019
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 1,
+          "TargetNum": 1,
+          "CollectionID": 19,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 1,
+              "opType": 1,
+              "value": 1327
+            },
+            {
+              "condType": 15,
+              "opType": 1,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "ID": 94,
+          "RewardID": [
+            29020
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 10,
+          "TargetNum": 1,
+          "CollectionID": 20,
+          "CollectionStar": 0,
+          "CondArg": [
+            {
+              "condType": 18,
+              "opType": 1,
+              "value": 5
+            },
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "ID": 95,
+          "RewardID": [
+            29020
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 10,
+          "TargetNum": 1,
+          "CollectionID": 20,
+          "CollectionStar": 1,
+          "CondArg": [
+            {
+              "condType": 18,
+              "opType": 1,
+              "value": 10
+            },
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "ID": 96,
+          "RewardID": [
+            29020
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 10,
+          "TargetNum": 1,
+          "CollectionID": 20,
+          "CollectionStar": 2,
+          "CondArg": [
+            {
+              "condType": 18,
+              "opType": 1,
+              "value": 15
+            },
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "ID": 97,
+          "RewardID": [
+            29020
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 10,
+          "TargetNum": 1,
+          "CollectionID": 20,
+          "CollectionStar": 3,
+          "CondArg": [
+            {
+              "condType": 18,
+              "opType": 1,
+              "value": 20
+            },
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "ID": 98,
+          "RewardID": [
+            29020
+          ],
+          "RewardNum": [
+            1
+          ],
+          "TriggerEvent": 10,
+          "TargetNum": 1,
+          "CollectionID": 20,
+          "CollectionStar": 4,
+          "CondArg": [
+            {
+              "condType": 18,
+              "opType": 1,
+              "value": 25
+            },
+            {
+              "condType": 16,
+              "opType": 1,
+              "value": 5
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "collections": [
+    {
+      "id": 1,
+      "nativeName": "孽火之源",
+      "piecesID": 29001,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 1,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 2,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 3,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 4,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 5,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nativeName": "冰冻的牙齿",
+      "piecesID": 29002,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 6,
+          "star": 0,
+          "trigger": 2,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 7,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 8,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 9,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 10,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nativeName": "硕大的冻干脚掌",
+      "piecesID": 29003,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 2,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 2,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 2,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 2,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 2,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 11,
+          "star": 0,
+          "trigger": 2,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 12,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 13,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 14,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 15,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nativeName": "引路人雕塑",
+      "piecesID": 29004,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 3,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 3,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 3,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 3,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 16,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 17,
+          "star": 1,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 18,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 19,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nativeName": "紧握的双手",
+      "piecesID": 29005,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 4,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 4,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 4,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 4,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 20,
+          "star": 0,
+          "trigger": 3,
+          "target": 20,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 21,
+          "star": 1,
+          "trigger": 2,
+          "target": 500,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 22,
+          "star": 2,
+          "trigger": 1,
+          "target": 50,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 23,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nativeName": "冥界打工仔",
+      "piecesID": 29006,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 1,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 24,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 25,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 26,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 27,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 28,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nativeName": "编制者牌爽身粉",
+      "piecesID": 29007,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 29,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 30,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 31,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 32,
+          "star": 3,
+          "trigger": 4,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 33,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nativeName": "腐化的光辉之刃",
+      "piecesID": 29008,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 6,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 6,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 6,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 6,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 6,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 34,
+          "star": 0,
+          "trigger": 4,
+          "target": 2000000,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 35,
+          "star": 1,
+          "trigger": 2,
+          "target": 500,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 36,
+          "star": 2,
+          "trigger": 2,
+          "target": 50,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 37,
+          "star": 3,
+          "trigger": 4,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 38,
+          "star": 4,
+          "trigger": 1,
+          "target": 10,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nativeName": "圣甲虫的壳",
+      "piecesID": 29009,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 39,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 40,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 41,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 42,
+          "star": 3,
+          "trigger": 4,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 43,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nativeName": "仙人掌盆栽",
+      "piecesID": 29010,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 44,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 45,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 46,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 47,
+          "star": 3,
+          "trigger": 4,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 48,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nativeName": "恩比卢卢的假眼",
+      "piecesID": 29012,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 8,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 16,
+          "effects": [
+            {
+              "type": 5,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 54,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 55,
+          "star": 1,
+          "trigger": 1,
+          "target": 5,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 56,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 57,
+          "star": 3,
+          "trigger": 4,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        },
+        {
+          "id": 58,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "PARTIAL_LIVE_SOURCE_AND_CONDITIONS"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nativeName": "灰烬拾者",
+      "piecesID": 29013,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 8,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 3,
+          "effects": [
+            {
+              "type": 8,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 8,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 7,
+          "effects": [
+            {
+              "type": 8,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 9,
+          "effects": [
+            {
+              "type": 8,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 59,
+          "star": 0,
+          "trigger": 6,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 60,
+          "star": 1,
+          "trigger": 6,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 61,
+          "star": 2,
+          "trigger": 6,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 62,
+          "star": 3,
+          "trigger": 6,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 63,
+          "star": 4,
+          "trigger": 6,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nativeName": "大蝙蝠",
+      "piecesID": 29015,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 11,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 3,
+          "effects": [
+            {
+              "type": 11,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 11,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 7,
+          "effects": [
+            {
+              "type": 11,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 9,
+          "effects": [
+            {
+              "type": 11,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 69,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 70,
+          "star": 1,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 71,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 72,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 73,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "nativeName": "大逃杀杀人",
+      "piecesID": 29016,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 13,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 13,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 13,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 10,
+          "effects": [
+            {
+              "type": 13,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 20,
+          "effects": [
+            {
+              "type": 13,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 74,
+          "star": 0,
+          "trigger": 8,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 75,
+          "star": 1,
+          "trigger": 8,
+          "target": 10,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 76,
+          "star": 2,
+          "trigger": 8,
+          "target": 10,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 77,
+          "star": 3,
+          "trigger": 8,
+          "target": 10,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 78,
+          "star": 4,
+          "trigger": 8,
+          "target": 10,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nativeName": "大章鱼",
+      "piecesID": 29017,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 12,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 3,
+          "effects": [
+            {
+              "type": 12,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 12,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 7,
+          "effects": [
+            {
+              "type": 12,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 9,
+          "effects": [
+            {
+              "type": 12,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 79,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 80,
+          "star": 1,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 81,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 82,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 83,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nativeName": "珊瑚",
+      "piecesID": 29018,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 15,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 2,
+          "effects": [
+            {
+              "type": 15,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 3,
+          "effects": [
+            {
+              "type": 15,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 4,
+          "effects": [
+            {
+              "type": 15,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 15,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 84,
+          "star": 0,
+          "trigger": 9,
+          "target": 20,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 85,
+          "star": 1,
+          "trigger": 9,
+          "target": 50,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 86,
+          "star": 2,
+          "trigger": 9,
+          "target": 100,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 87,
+          "star": 3,
+          "trigger": 9,
+          "target": 100,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 88,
+          "star": 4,
+          "trigger": 9,
+          "target": 100,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nativeName": "大蜥蜴",
+      "piecesID": 29019,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 14,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 3,
+          "effects": [
+            {
+              "type": 14,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 14,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 7,
+          "effects": [
+            {
+              "type": 14,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 9,
+          "effects": [
+            {
+              "type": 14,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 89,
+          "star": 0,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 90,
+          "star": 1,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 91,
+          "star": 2,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 92,
+          "star": 3,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 93,
+          "star": 4,
+          "trigger": 1,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "nativeName": "莉娅",
+      "piecesID": 29020,
+      "stars": [
+        {
+          "star": 1,
+          "cost": 1,
+          "effects": [
+            {
+              "type": 16,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 2,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 16,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 3,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 16,
+              "status": "UNIMPLEMENTED"
+            }
+          ]
+        },
+        {
+          "star": 4,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 16,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        },
+        {
+          "star": 5,
+          "cost": 5,
+          "effects": [
+            {
+              "type": 16,
+              "status": "UNIMPLEMENTED"
+            },
+            {
+              "type": 9,
+              "status": "WIRED_NATIVE_PARAMETERS_LOCAL_SERVER_POLICY"
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "id": 94,
+          "star": 0,
+          "trigger": 10,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 95,
+          "star": 1,
+          "trigger": 10,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 96,
+          "star": 2,
+          "trigger": 10,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 97,
+          "star": 3,
+          "trigger": 10,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        },
+        {
+          "id": 98,
+          "star": 4,
+          "trigger": 10,
+          "target": 1,
+          "status": "BLOCKED_MISSING_AUTHORITATIVE_SOURCE_OR_CONDITION"
+        }
+      ]
+    }
+  ],
+  "routes": {
+    "loadCollection": "native18-entry durable archive",
+    "upLevelCollection": "native costs/maxima and explicit effect9 one-time reward mail",
+    "collectionGetReward": "1106 explicit unfinished daily event; no fake success"
+  },
+  "pushes": {
+    "updateItemsPush": "absolute item totals; original CollectionNetwork consumes them",
+    "updateTaskPush": "native task IDs/progress/safe JSON info"
+  },
+  "wiredEffects": [
+    1,
+    2,
+    5,
+    6,
+    9,
+    15
+  ],
+  "localPolicies": {
+    "taskRewards": "one native RewardID/RewardNum set per TargetNum; repeating increment goals reset display to remainder; friend snapshot rewards once per star",
+    "probability": "one1..10000 roll per record, shared by its applicable tasks, <=native threshold; kill rolls cached across persistence retry",
+    "timedKill": "seconds since first server-observed damaging encounter; clears when gradual recovery reaches full HP or on respawn",
+    "lastBoss": "previous final-blow boss in same map/room and world startedAt; interval in seconds",
+    "friendTeam": "mutual unblocked friends among nearby alive XP-eligible party members",
+    "killCredit": "final-blow owner only; bosses emit killBoss and killMonster events",
+    "elementAndMapDamage": "current-star percentages added within relic family, multiplied with prior damage pipeline",
+    "relicDefence": "current-star matching element/creature percentages added, cap90%; applied before shields after existing support reduction",
+    "stamina": "native map8 flat+args.percent; bilingual native18 text has no percent unit; added to base staminaRecover and talent flat add",
+    "sync": "private loaded-archive recipients; retry both absolute snapshots after partial failure, <=1/sec",
+    "unknownConditions": "missing context always fails; ambiguous double-boss condition not approximated",
+    "inactiveDefinitions": "5 table rows for absent collection14 retained, never exposed or force-enabled",
+    "starRewardMail": "effect9 attaches native item/count to a durable player mail in the same commit; local690000000 ID namespace with collision check, English generic title/sender, no expiry until retail duration established; existing mailOp handles claim once, native updateMail retry"
+  },
+  "remaining": [
+    "remaining relic effects3/4/8/11/12/13/14/16",
+    "purpose/application of nonzero CollectionStar.dropID is not established; no invented upgrade bonus from that field",
+    "finishGame/weaponEnhance/killPlayer/entityInteractive/passATest sources and missing conditions",
+    "getitem only actual ground pickup and owner earned kill XP; other acquisition paths need audit",
+    "native daily reward13/Map9 completion and day boundary policy",
+    "boss locations and full AI mechanics outside current restoration",
+    "all previous issues remain unless explicitly closed"
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

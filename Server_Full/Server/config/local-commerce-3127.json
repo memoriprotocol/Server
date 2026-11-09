@@ -1,0 +1,1649 @@
+{
+  "source": "2024 client schemes (ItemScheme, HeroScheme, ShardsScheme, PetContent, PetShardsScheme) and LOCAL nonoriginal shop prices / draw weights",
+  "currency": "local-account-coin",
+  "shopOffers": [
+    {
+      "id": 19001,
+      "itemId": 601000,
+      "count": 1,
+      "price": 20,
+      "shopType": -1,
+      "costId": 109,
+      "source": "Stage19 legacy / not listed"
+    },
+    {
+      "id": 19002,
+      "itemId": 611000,
+      "count": 1,
+      "price": 50,
+      "shopType": -1,
+      "costId": 109,
+      "source": "Stage19 legacy / not listed"
+    },
+    {
+      "id": 19003,
+      "itemId": 610800,
+      "count": 1,
+      "price": 35,
+      "shopType": -1,
+      "costId": 109,
+      "source": "Stage19 legacy / not listed"
+    },
+    {
+      "id": 19004,
+      "itemId": 612900,
+      "count": 1,
+      "price": 50,
+      "shopType": -1,
+      "costId": 109,
+      "source": "Stage19 legacy / not listed"
+    },
+    {
+      "id": 19005,
+      "itemId": 5,
+      "count": 20,
+      "price": 10,
+      "shopType": -1,
+      "costId": 109,
+      "source": "Stage19 legacy / not listed"
+    },
+    {
+      "id": 19006,
+      "itemId": 8,
+      "count": 15,
+      "price": 25,
+      "shopType": -1,
+      "costId": 109,
+      "source": "Stage19 legacy / not listed"
+    },
+    {
+      "id": 20027202,
+      "itemId": 27202,
+      "count": 1,
+      "price": 399,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 202,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 399,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027301,
+      "itemId": 27301,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 301,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027502,
+      "itemId": 27502,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 502,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027602,
+      "itemId": 27602,
+      "count": 1,
+      "price": 399,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 602,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 399,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027902,
+      "itemId": 27902,
+      "count": 1,
+      "price": 99,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 902,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 99,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20271002,
+      "itemId": 271002,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1002,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20271502,
+      "itemId": 271502,
+      "count": 1,
+      "price": 99,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1502,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 99,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20271702,
+      "itemId": 271702,
+      "count": 1,
+      "price": 399,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1702,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 399,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20272002,
+      "itemId": 272002,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2002,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027102,
+      "itemId": 27102,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 102,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027402,
+      "itemId": 27402,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 402,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20271102,
+      "itemId": 271102,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1102,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20271202,
+      "itemId": 271202,
+      "count": 1,
+      "price": 399,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1202,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 399,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20271902,
+      "itemId": 271902,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1902,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027303,
+      "itemId": 27303,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 303,
+      "source": "SkinScheme",
+      "giftable": true,
+      "grantType": "skin",
+      "presentPrice": 699,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 20027702,
+      "itemId": 27702,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 702,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271302,
+      "itemId": 271302,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1302,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272203,
+      "itemId": 272203,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2203,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027805,
+      "itemId": 27805,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 805,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027503,
+      "itemId": 27503,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 503,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027903,
+      "itemId": 27903,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 903,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272303,
+      "itemId": 272303,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2303,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272102,
+      "itemId": 272102,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2102,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272003,
+      "itemId": 272003,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2003,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271503,
+      "itemId": 271503,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1503,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271703,
+      "itemId": 271703,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1703,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272103,
+      "itemId": 272103,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2103,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272305,
+      "itemId": 272305,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2305,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272402,
+      "itemId": 272402,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2402,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271203,
+      "itemId": 271203,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1203,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272104,
+      "itemId": 272104,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2104,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271103,
+      "itemId": 271103,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1103,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271504,
+      "itemId": 271504,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1504,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027604,
+      "itemId": 27604,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 604,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272205,
+      "itemId": 272205,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2205,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272502,
+      "itemId": 272502,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2502,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271003,
+      "itemId": 271003,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1003,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027703,
+      "itemId": 27703,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 703,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271303,
+      "itemId": 271303,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1303,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272207,
+      "itemId": 272207,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2207,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027203,
+      "itemId": 27203,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 203,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272603,
+      "itemId": 272603,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2603,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271505,
+      "itemId": 271505,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1505,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271704,
+      "itemId": 271704,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1704,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027104,
+      "itemId": 27104,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 104,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271304,
+      "itemId": 271304,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1304,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272702,
+      "itemId": 272702,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2702,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027403,
+      "itemId": 27403,
+      "count": 1,
+      "price": 399,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 403,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027204,
+      "itemId": 27204,
+      "count": 1,
+      "price": 99,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 204,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272105,
+      "itemId": 272105,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2105,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271705,
+      "itemId": 271705,
+      "count": 1,
+      "price": 1299,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1705,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027105,
+      "itemId": 27105,
+      "count": 1,
+      "price": 1299,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 105,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272106,
+      "itemId": 272106,
+      "count": 1,
+      "price": 1299,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2106,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20271204,
+      "itemId": 271204,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 1204,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20292802,
+      "itemId": 292802,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2802,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20292703,
+      "itemId": 292703,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2703,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20292503,
+      "itemId": 292503,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2503,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20292004,
+      "itemId": 292004,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2004,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20272307,
+      "itemId": 272307,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2307,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20027904,
+      "itemId": 27904,
+      "count": 1,
+      "price": 699,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 904,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20292902,
+      "itemId": 292902,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2902,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 20292704,
+      "itemId": 292704,
+      "count": 1,
+      "price": 999,
+      "costId": 111,
+      "shopType": 1,
+      "skinId": 2704,
+      "source": "SkinScheme"
+    },
+    {
+      "id": 22000300,
+      "itemId": 320401,
+      "count": 1,
+      "price": 100,
+      "costId": 109,
+      "shopType": 3,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000301,
+      "itemId": 320402,
+      "count": 1,
+      "price": 100,
+      "costId": 109,
+      "shopType": 3,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000302,
+      "itemId": 320403,
+      "count": 1,
+      "price": 100,
+      "costId": 109,
+      "shopType": 3,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000400,
+      "itemId": 37000002,
+      "count": 1,
+      "price": 150,
+      "costId": 109,
+      "shopType": 4,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000401,
+      "itemId": 37000003,
+      "count": 1,
+      "price": 120,
+      "costId": 109,
+      "shopType": 4,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000402,
+      "itemId": 37000009,
+      "count": 1,
+      "price": 180,
+      "costId": 109,
+      "shopType": 4,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000500,
+      "itemId": 42000001,
+      "count": 1,
+      "price": 175,
+      "costId": 109,
+      "shopType": 5,
+      "source": "local-price; ItemScheme ID",
+      "giftable": true,
+      "grantType": "mount",
+      "presentPrice": 250,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 22000501,
+      "itemId": 42000002,
+      "count": 1,
+      "price": 210,
+      "costId": 109,
+      "shopType": 5,
+      "source": "local-price; ItemScheme ID",
+      "giftable": true,
+      "grantType": "mount",
+      "presentPrice": 280,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 22000502,
+      "itemId": 42000003,
+      "count": 1,
+      "price": 190,
+      "costId": 109,
+      "shopType": 5,
+      "source": "local-price; ItemScheme ID",
+      "giftable": true,
+      "grantType": "mount",
+      "presentPrice": 350,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 22000503,
+      "itemId": 42000004,
+      "count": 1,
+      "price": 220,
+      "costId": 109,
+      "shopType": 5,
+      "source": "local-price; ItemScheme ID",
+      "giftable": true,
+      "grantType": "mount",
+      "presentPrice": 300,
+      "presentRefundPrice": 0
+    },
+    {
+      "id": 22000800,
+      "itemId": 37000002,
+      "count": 1,
+      "price": 150,
+      "costId": 109,
+      "shopType": 8,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000801,
+      "itemId": 37000003,
+      "count": 1,
+      "price": 120,
+      "costId": 109,
+      "shopType": 8,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000900,
+      "itemId": 12,
+      "count": 1,
+      "price": 60,
+      "costId": 109,
+      "shopType": 9,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000901,
+      "itemId": 15,
+      "count": 1,
+      "price": 150,
+      "costId": 109,
+      "shopType": 9,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 22000902,
+      "itemId": 17,
+      "count": 1,
+      "price": 90,
+      "costId": 109,
+      "shopType": 9,
+      "source": "local-price; ItemScheme ID"
+    },
+    {
+      "id": 220000,
+      "itemId": 80032001,
+      "count": 1,
+      "price": 50,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220001,
+      "itemId": 80033001,
+      "count": 1,
+      "price": 50,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220002,
+      "itemId": 80034001,
+      "count": 1,
+      "price": 75,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220003,
+      "itemId": 80035001,
+      "count": 1,
+      "price": 90,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220004,
+      "itemId": 80036001,
+      "count": 1,
+      "price": 125,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220005,
+      "itemId": 80037001,
+      "count": 1,
+      "price": 45,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220006,
+      "itemId": 80038001,
+      "count": 1,
+      "price": 85,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220007,
+      "itemId": 500001,
+      "count": 1,
+      "price": 180,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220008,
+      "itemId": 500002,
+      "count": 1,
+      "price": 180,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220009,
+      "itemId": 43000001,
+      "count": 1,
+      "price": 250,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220010,
+      "itemId": 5800001,
+      "count": 1,
+      "price": 50,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 220011,
+      "itemId": 5800002,
+      "count": 1,
+      "price": 75,
+      "costId": 109,
+      "shopType": 2,
+      "source": "native-2024-ItemScheme / LOCAL PRICE"
+    },
+    {
+      "id": 227000,
+      "itemId": 80032001,
+      "count": 1,
+      "price": 80,
+      "costId": 109,
+      "shopType": 7,
+      "source": "2024 ItemScheme recruit ticket / LOCAL PRICE"
+    },
+    {
+      "id": 227001,
+      "itemId": 80033001,
+      "count": 1,
+      "price": 100,
+      "costId": 109,
+      "shopType": 7,
+      "source": "2024 ItemScheme recruit ticket / LOCAL PRICE"
+    },
+    {
+      "id": 227002,
+      "itemId": 40000001,
+      "count": 1,
+      "price": 120,
+      "costId": 109,
+      "shopType": 7,
+      "source": "2024 ItemScheme recruit ticket / LOCAL PRICE"
+    },
+    {
+      "id": 227003,
+      "itemId": 41000001,
+      "count": 1,
+      "price": 140,
+      "costId": 109,
+      "shopType": 7,
+      "source": "2024 ItemScheme recruit ticket / LOCAL PRICE"
+    },
+    {
+      "id": 228001,
+      "itemId": 37000002,
+      "count": 1,
+      "price": 120,
+      "costId": 109,
+      "shopType": 8,
+      "source": "GiftScheme native crate / local price"
+    },
+    {
+      "id": 24000000,
+      "itemId": 300100,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000001,
+      "itemId": 300200,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000002,
+      "itemId": 300300,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000003,
+      "itemId": 300400,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000004,
+      "itemId": 300500,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000005,
+      "itemId": 300600,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000006,
+      "itemId": 300700,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000007,
+      "itemId": 300800,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000008,
+      "itemId": 300900,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000009,
+      "itemId": 301000,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000010,
+      "itemId": 301100,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000011,
+      "itemId": 301200,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000012,
+      "itemId": 301300,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000013,
+      "itemId": 301500,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000014,
+      "itemId": 301700,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000015,
+      "itemId": 301900,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000016,
+      "itemId": 302000,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000017,
+      "itemId": 302100,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000018,
+      "itemId": 302200,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000019,
+      "itemId": 302300,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000020,
+      "itemId": 302400,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000021,
+      "itemId": 302500,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000022,
+      "itemId": 302600,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000023,
+      "itemId": 302700,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000024,
+      "itemId": 302800,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 24000025,
+      "itemId": 302900,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "hero 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "hero"
+    },
+    {
+      "id": 25000000,
+      "itemId": 120100,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000001,
+      "itemId": 120200,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000002,
+      "itemId": 120500,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000003,
+      "itemId": 121500,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000004,
+      "itemId": 121600,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000005,
+      "itemId": 121700,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000006,
+      "itemId": 121800,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000007,
+      "itemId": 121900,
+      "count": 1,
+      "price": 40,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000008,
+      "itemId": 122100,
+      "count": 1,
+      "price": 40,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000009,
+      "itemId": 122200,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000010,
+      "itemId": 122900,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000011,
+      "itemId": 123000,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000012,
+      "itemId": 123100,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000013,
+      "itemId": 123500,
+      "count": 1,
+      "price": 50,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000014,
+      "itemId": 123600,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000015,
+      "itemId": 123700,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000016,
+      "itemId": 123800,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000017,
+      "itemId": 123900,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000018,
+      "itemId": 124000,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000019,
+      "itemId": 124100,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000020,
+      "itemId": 124200,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    },
+    {
+      "id": 25000021,
+      "itemId": 124300,
+      "count": 1,
+      "price": 60,
+      "shopType": 7,
+      "costId": 109,
+      "source": "pet 2024 ShardsScheme/PetShardsScheme, LOCAL PRICE",
+      "fragmentClass": "pet"
+    }
+  ],
+  "traderWheelLocalPrizes": [
+    {
+      "position": 1,
+      "itemId": 5,
+      "count": 30
+    },
+    {
+      "position": 2,
+      "itemId": 610400,
+      "count": 1
+    },
+    {
+      "position": 3,
+      "itemId": 8,
+      "count": 20
+    },
+    {
+      "position": 4,
+      "itemId": 611000,
+      "count": 1
+    },
+    {
+      "position": 5,
+      "itemId": 6,
+      "count": 35
+    },
+    {
+      "position": 6,
+      "itemId": 610200,
+      "count": 1
+    },
+    {
+      "position": 7,
+      "itemId": 7,
+      "count": 30
+    },
+    {
+      "position": 8,
+      "itemId": 610800,
+      "count": 1
+    },
+    {
+      "position": 9,
+      "itemId": 11,
+      "count": 20
+    },
+    {
+      "position": 10,
+      "itemId": 612900,
+      "count": 1
+    }
+  ],
+  "hallDraw": {
+    "price": 50,
+    "allowedTyp": [
+      1
+    ],
+    "allowedDrawType": [
+      1
+    ]
+  },
+  "weaponDraw": {
+    "price": 75,
+    "allowedDrawType": [
+      1
+    ],
+    "weaponIds": [
+      601000,
+      611000,
+      610800,
+      612900
+    ]
+  },
+  "draw2024Local": {
+    "allowedHeroTyp": [
+      0
+    ],
+    "allowedPetTyp": [
+      1
+    ],
+    "allowedDrawTypes": [
+      0,
+      1,
+      2
+    ],
+    "freeDailyHero": 1,
+    "freeDailyPet": 1,
+    "paidCoinPerSingle": 50,
+    "heroPool": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "petPool": [
+      1404,
+      1427,
+      1403,
+      1410,
+      1420
+    ],
+    "source": "3.12.7 StoreModel.DrawType + ConstantsScheme + DropGroup 3001/3002",
+    "counts": [
+      1,
+      10,
+      50
+    ],
+    "heroCosts": [
+      1000,
+      9000,
+      45000
+    ],
+    "petCosts": [
+      500,
+      4500,
+      22500
+    ]
+  }
+}

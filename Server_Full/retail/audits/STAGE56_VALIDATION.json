@@ -1,0 +1,32 @@
+{
+  "stage": 56,
+  "version": "0.34.0-stage56-map2-primary-windup",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 785,
+    "passed": 785,
+    "failed": 0,
+    "newStage56": 32,
+    "updatedPriorExpectations": 8,
+    "nativeVMTests": 2,
+    "nativeAssetImportsVerified": 42
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.34.0-stage56-map2-primary-windup",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "timedPrimaryWeapons": 98,
+    "primaryTimingStatus": "NATIVE_CASTPOINT_FOR98_VARIANTS_LOCAL_SCHEDULING_POLICY",
+    "windowsClientRendered": false
+  }
+}

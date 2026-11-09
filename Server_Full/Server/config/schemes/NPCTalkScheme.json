@@ -1,0 +1,263 @@
+{
+  "NPCTalk": [
+    {
+      "ID": 1,
+      "GroupID": 0,
+      "NpcId": 414,
+      "Content": "task/talk/1_1",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 2,
+      "GroupID": 0,
+      "NpcId": 414,
+      "Content": "task/talk/1_2",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 3,
+      "GroupID": 0,
+      "NpcId": 414,
+      "Content": "task/talk/1_3",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 4,
+      "GroupID": 1,
+      "NpcId": 414,
+      "Content": "task/talk/1_1",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 5,
+      "GroupID": 1,
+      "NpcId": 414,
+      "Content": "task/talk/1_2",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 6,
+      "GroupID": 1,
+      "NpcId": 414,
+      "Content": "task/talk/1_3",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 7,
+      "GroupID": 2,
+      "NpcId": 414,
+      "Content": "task/talk/2_1",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 8,
+      "GroupID": 2,
+      "NpcId": 414,
+      "Content": "task/talk/2_2",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 9,
+      "GroupID": 3,
+      "NpcId": 414,
+      "Content": "task/talk/3_1",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 10,
+      "GroupID": 3,
+      "NpcId": 414,
+      "Content": "task/talk/3_2",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 11,
+      "GroupID": 4,
+      "NpcId": 408,
+      "Content": "task/talk/4_1",
+      "IconPath": "ui_main_meilin_npc_02"
+    },
+    {
+      "ID": 12,
+      "GroupID": 4,
+      "NpcId": 408,
+      "Content": "task/talk/4_2",
+      "IconPath": "ui_main_meilin_npc_02"
+    },
+    {
+      "ID": 13,
+      "GroupID": 5,
+      "NpcId": 414,
+      "Content": "task/talk/5_1",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 14,
+      "GroupID": 5,
+      "NpcId": 414,
+      "Content": "task/talk/5_2",
+      "IconPath": "ui_main_meilin_npc_01"
+    },
+    {
+      "ID": 15,
+      "GroupID": 101,
+      "NpcId": 0,
+      "Content": "trigger/tips/1_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 16,
+      "GroupID": 101,
+      "NpcId": 0,
+      "Content": "trigger/tips/1_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 17,
+      "GroupID": 102,
+      "NpcId": 0,
+      "Content": "trigger/tips/2_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 18,
+      "GroupID": 102,
+      "NpcId": 0,
+      "Content": "trigger/tips/2_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 19,
+      "GroupID": 103,
+      "NpcId": 0,
+      "Content": "trigger/tips/3_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 20,
+      "GroupID": 103,
+      "NpcId": 0,
+      "Content": "trigger/tips/3_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 21,
+      "GroupID": 103,
+      "NpcId": 0,
+      "Content": "trigger/tips/3_3",
+      "IconPath": ""
+    },
+    {
+      "ID": 22,
+      "GroupID": 104,
+      "NpcId": 0,
+      "Content": "trigger/tips/4_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 23,
+      "GroupID": 104,
+      "NpcId": 0,
+      "Content": "trigger/tips/4_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 24,
+      "GroupID": 105,
+      "NpcId": 0,
+      "Content": "trigger/tips/5_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 25,
+      "GroupID": 105,
+      "NpcId": 0,
+      "Content": "trigger/tips/5_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 26,
+      "GroupID": 105,
+      "NpcId": 0,
+      "Content": "trigger/tips/5_3",
+      "IconPath": ""
+    },
+    {
+      "ID": 27,
+      "GroupID": 106,
+      "NpcId": 0,
+      "Content": "trigger/tips/6_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 28,
+      "GroupID": 106,
+      "NpcId": 0,
+      "Content": "trigger/tips/6_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 29,
+      "GroupID": 106,
+      "NpcId": 0,
+      "Content": "trigger/tips/6_3",
+      "IconPath": ""
+    },
+    {
+      "ID": 30,
+      "GroupID": 107,
+      "NpcId": 0,
+      "Content": "trigger/tips/7_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 31,
+      "GroupID": 107,
+      "NpcId": 0,
+      "Content": "trigger/tips/7_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 32,
+      "GroupID": 108,
+      "NpcId": 0,
+      "Content": "trigger/tips/8_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 33,
+      "GroupID": 108,
+      "NpcId": 0,
+      "Content": "trigger/tips/8_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 34,
+      "GroupID": 109,
+      "NpcId": 0,
+      "Content": "trigger/tips/9_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 35,
+      "GroupID": 109,
+      "NpcId": 0,
+      "Content": "trigger/tips/9_2",
+      "IconPath": ""
+    },
+    {
+      "ID": 36,
+      "GroupID": 110,
+      "NpcId": 0,
+      "Content": "trigger/tips/10_1",
+      "IconPath": ""
+    },
+    {
+      "ID": 37,
+      "GroupID": 110,
+      "NpcId": 0,
+      "Content": "trigger/tips/10_2",
+      "IconPath": ""
+    }
+  ]
+}

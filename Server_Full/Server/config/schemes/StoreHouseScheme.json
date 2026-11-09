@@ -1,0 +1,324 @@
+{
+  "StoreHouse": [
+    {
+      "ID": 1,
+      "CapID": 1,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 2,
+      "CapID": 2,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 3,
+      "CapID": 3,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 4,
+      "CapID": 4,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 5,
+      "CapID": 5,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 6,
+      "CapID": 6,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 7,
+      "CapID": 7,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 8,
+      "CapID": 8,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 9,
+      "CapID": 9,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 10,
+      "CapID": 10,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 11,
+      "CapID": 11,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 12,
+      "CapID": 12,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 13,
+      "CapID": 13,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 14,
+      "CapID": 14,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 15,
+      "CapID": 15,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 16,
+      "CapID": 16,
+      "UnlockPrice": 0
+    },
+    {
+      "ID": 17,
+      "CapID": 17,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 18,
+      "CapID": 18,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 19,
+      "CapID": 19,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 20,
+      "CapID": 20,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 21,
+      "CapID": 21,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 22,
+      "CapID": 22,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 23,
+      "CapID": 23,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 24,
+      "CapID": 24,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 25,
+      "CapID": 25,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 26,
+      "CapID": 26,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 27,
+      "CapID": 27,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 28,
+      "CapID": 28,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 29,
+      "CapID": 29,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 30,
+      "CapID": 30,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 31,
+      "CapID": 31,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 32,
+      "CapID": 32,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 33,
+      "CapID": 33,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 34,
+      "CapID": 34,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 35,
+      "CapID": 35,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 36,
+      "CapID": 36,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 37,
+      "CapID": 37,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 38,
+      "CapID": 38,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 39,
+      "CapID": 39,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 40,
+      "CapID": 40,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 41,
+      "CapID": 41,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 42,
+      "CapID": 42,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 43,
+      "CapID": 43,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 44,
+      "CapID": 44,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 45,
+      "CapID": 45,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 46,
+      "CapID": 46,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 47,
+      "CapID": 47,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 48,
+      "CapID": 48,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 49,
+      "CapID": 49,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 50,
+      "CapID": 50,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 51,
+      "CapID": 51,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 52,
+      "CapID": 52,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 53,
+      "CapID": 53,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 54,
+      "CapID": 54,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 55,
+      "CapID": 55,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 56,
+      "CapID": 56,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 57,
+      "CapID": 57,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 58,
+      "CapID": 58,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 59,
+      "CapID": 59,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 60,
+      "CapID": 60,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 61,
+      "CapID": 61,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 62,
+      "CapID": 62,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 63,
+      "CapID": 63,
+      "UnlockPrice": 1
+    },
+    {
+      "ID": 64,
+      "CapID": 64,
+      "UnlockPrice": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Feats": [
+    {
+      "ID": 1,
+      "FeatsNum": 1000,
+      "RewardsCoin": 100
+    },
+    {
+      "ID": 2,
+      "FeatsNum": 2000,
+      "RewardsCoin": 200
+    },
+    {
+      "ID": 3,
+      "FeatsNum": 4000,
+      "RewardsCoin": 300
+    },
+    {
+      "ID": 4,
+      "FeatsNum": 7000,
+      "RewardsCoin": 500
+    },
+    {
+      "ID": 5,
+      "FeatsNum": 11000,
+      "RewardsCoin": 700
+    },
+    {
+      "ID": 6,
+      "FeatsNum": 16000,
+      "RewardsCoin": 1000
+    },
+    {
+      "ID": 7,
+      "FeatsNum": 22000,
+      "RewardsCoin": 1500
+    },
+    {
+      "ID": 8,
+      "FeatsNum": 29000,
+      "RewardsCoin": 2000
+    },
+    {
+      "ID": 9,
+      "FeatsNum": 37000,
+      "RewardsCoin": 2500
+    },
+    {
+      "ID": 10,
+      "FeatsNum": 46000,
+      "RewardsCoin": 3200
+    },
+    {
+      "ID": 11,
+      "FeatsNum": 56000,
+      "RewardsCoin": 4000
+    },
+    {
+      "ID": 12,
+      "FeatsNum": 66000,
+      "RewardsCoin": 5000
+    },
+    {
+      "ID": 13,
+      "FeatsNum": 76000,
+      "RewardsCoin": 6000
+    },
+    {
+      "ID": 14,
+      "FeatsNum": 86000,
+      "RewardsCoin": 7000
+    },
+    {
+      "ID": 15,
+      "FeatsNum": 96000,
+      "RewardsCoin": 8000
+    },
+    {
+      "ID": 16,
+      "FeatsNum": 106000,
+      "RewardsCoin": 9000
+    },
+    {
+      "ID": 17,
+      "FeatsNum": 116000,
+      "RewardsCoin": 10000
+    },
+    {
+      "ID": 18,
+      "FeatsNum": 126000,
+      "RewardsCoin": 11000
+    },
+    {
+      "ID": 19,
+      "FeatsNum": 136000,
+      "RewardsCoin": 12000
+    },
+    {
+      "ID": 20,
+      "FeatsNum": 146000,
+      "RewardsCoin": 13000
+    }
+  ]
+}

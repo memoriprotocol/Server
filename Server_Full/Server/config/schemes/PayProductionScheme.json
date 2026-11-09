@@ -1,0 +1,10 @@
+{
+  "PayProduction": [
+    {
+      "ProductionId": "10000",
+      "Amount": 10,
+      "ItemId": 1000,
+      "Num": 100
+    }
+  ]
+}

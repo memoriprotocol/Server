@@ -1,0 +1,112 @@
+{
+  "GuildBadge": [
+    {
+      "ID": 1,
+      "ConditionType": 0,
+      "TargetArgs": 0,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_01/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top1/spriteFrame",
+      "Color": "#DF9C27"
+    },
+    {
+      "ID": 2,
+      "ConditionType": 1,
+      "TargetArgs": 0,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_02/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top2/spriteFrame",
+      "Color": "#DF9C27"
+    },
+    {
+      "ID": 3,
+      "ConditionType": 1,
+      "TargetArgs": 0,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_03/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top3/spriteFrame",
+      "Color": "#DF9C27"
+    },
+    {
+      "ID": 4,
+      "ConditionType": 1,
+      "TargetArgs": 0,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_04/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top4/spriteFrame",
+      "Color": "#DF9C27"
+    },
+    {
+      "ID": 5,
+      "ConditionType": 1,
+      "TargetArgs": 0,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_05/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top5/spriteFrame",
+      "Color": "#DF9C27"
+    },
+    {
+      "ID": 6,
+      "ConditionType": 3,
+      "TargetArgs": 1,
+      "time": 604800,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_06/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top6/spriteFrame",
+      "Color": "#FFE13E"
+    },
+    {
+      "ID": 7,
+      "ConditionType": 3,
+      "TargetArgs": 2,
+      "time": 604800,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_07/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top7/spriteFrame",
+      "Color": "#1FFFF6"
+    },
+    {
+      "ID": 8,
+      "ConditionType": 3,
+      "TargetArgs": 3,
+      "time": 604800,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_08/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top8/spriteFrame",
+      "Color": "#FF844d"
+    },
+    {
+      "ID": 9,
+      "ConditionType": 2,
+      "TargetArgs": 10,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_09/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top9/spriteFrame",
+      "Color": "#FF769D"
+    },
+    {
+      "ID": 10,
+      "ConditionType": 4,
+      "TargetArgs": 1,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_10/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top10/spriteFrame",
+      "Color": "#FF4800"
+    },
+    {
+      "ID": 11,
+      "ConditionType": 4,
+      "TargetArgs": 2,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_11/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top11/spriteFrame",
+      "Color": "#FF743E"
+    },
+    {
+      "ID": 12,
+      "ConditionType": 4,
+      "TargetArgs": 3,
+      "time": 0,
+      "HeadIcon": "game/guild/head/ui_guild_icon_avatar_12/spriteFrame",
+      "BadgeIcon": "game/guild/badge/ui_guild_icon_top12/spriteFrame",
+      "Color": "#70FAF5"
+    }
+  ]
+}

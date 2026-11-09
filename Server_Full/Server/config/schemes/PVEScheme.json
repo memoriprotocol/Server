@@ -1,0 +1,247 @@
+{
+  "PVE": [
+    {
+      "mapId": 13,
+      "star": 1,
+      "limitLv": 100,
+      "creaturesID": [
+        1328,
+        1333
+      ],
+      "creaturesLevel": [
+        130,
+        130
+      ],
+      "dropList": [
+        622400,
+        812206,
+        812306,
+        621700,
+        811806,
+        811906
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 3600,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 14,
+      "star": 1,
+      "limitLv": 100,
+      "creaturesID": [
+        130801
+      ],
+      "creaturesLevel": [
+        115
+      ],
+      "dropList": [
+        617800,
+        807606,
+        807706,
+        808206,
+        808306
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 1800,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 14,
+      "star": 2,
+      "limitLv": 100,
+      "creaturesID": [
+        130802
+      ],
+      "creaturesLevel": [
+        120
+      ],
+      "dropList": [
+        812006,
+        812106,
+        617800,
+        807606,
+        807706,
+        808206,
+        808306
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 1800,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 14,
+      "star": 3,
+      "limitLv": 100,
+      "creaturesID": [
+        130803
+      ],
+      "creaturesLevel": [
+        125
+      ],
+      "dropList": [
+        622300,
+        812006,
+        812106,
+        617800,
+        807606,
+        807706,
+        808206,
+        808306
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 1800,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 15,
+      "star": 1,
+      "limitLv": 100,
+      "creaturesID": [
+        1313
+      ],
+      "creaturesLevel": [
+        115
+      ],
+      "dropList": [
+        618300,
+        618400,
+        808406,
+        808506,
+        808606,
+        808706
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 1800,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 16,
+      "star": 1,
+      "limitLv": 100,
+      "creaturesID": [
+        1320
+      ],
+      "creaturesLevel": [
+        115
+      ],
+      "dropList": [
+        619100,
+        809206,
+        809306,
+        809406,
+        809506
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 1800,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 16,
+      "star": 2,
+      "limitLv": 100,
+      "creaturesID": [
+        132002
+      ],
+      "creaturesLevel": [
+        120
+      ],
+      "dropList": [
+        812406,
+        812506,
+        619100,
+        809206,
+        809306,
+        809406,
+        809506
+      ],
+      "TargetArgs": [],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 1800,
+      "winLeftTime": 15,
+      "resetTime": 1800,
+      "resetPrice": 100
+    },
+    {
+      "mapId": 5,
+      "star": 1,
+      "limitLv": 80,
+      "creaturesID": [
+        1309,
+        1316,
+        1317,
+        1318,
+        1319
+      ],
+      "creaturesLevel": [
+        115,
+        115,
+        115,
+        115,
+        115
+      ],
+      "dropList": [
+        622600,
+        617400,
+        618500,
+        618600,
+        618700,
+        618800
+      ],
+      "TargetArgs": [
+        "617400|807206|807306|807406|807506|808806|808906|809006|809106",
+        "618500|807206|807306|807406|807506|808806|808906|809006|809106",
+        "618600|807206|807306|807406|807506|808806|808906|809006|809106",
+        "618700|807206|807306|807406|807506|808806|808906|809006|809106",
+        "618800|807206|807306|807406|807506|808806|808906|809006|809106",
+        "618800|807206|807306|807406|807506|808806|808906|809006|809106"
+      ],
+      "playerNum": [
+        1,
+        4
+      ],
+      "exitLeftTime": 3600,
+      "winLeftTime": 15,
+      "resetTime": 300,
+      "resetPrice": 10
+    }
+  ]
+}

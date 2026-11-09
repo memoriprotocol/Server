@@ -1,0 +1,86 @@
+{
+  "stage": 80,
+  "version": "0.54.4-stage80-werewolf-native-passive",
+  "client": "3.12.7 2024-02-22",
+  "scope": "Hero22 Werewolf native form + 3-star buff-conditional lifesteal",
+  "clientIndexModified": false,
+  "windowsRenderingVerified": false,
+  "testsPassed": 2110,
+  "testsTotal": 2110,
+  "newTests": 25,
+  "previousTestsPassed": 2085,
+  "oldFilesUntouchedCount": 1169,
+  "oldFilesModified": [
+    "Server_Full/Server/lib/combat-input-3127.js",
+    "Server_Full/Server/lib/hero-vfx-3127.js",
+    "Server_Full/Server/lib/player-skills-3127.js",
+    "Server_Full/package.json"
+  ],
+  "oldFilesMissing": [],
+  "evidence": {
+    "nativeFactory": "CCSkillFactory -> CCWereWolf",
+    "skillTypes": [
+      481,
+      482,
+      483
+    ],
+    "skinPairs": [
+      [
+        2201,
+        2202
+      ],
+      [
+        2203,
+        2204
+      ],
+      [
+        2205,
+        2206
+      ],
+      [
+        2207,
+        2208
+      ]
+    ],
+    "buffs": [
+      410,
+      411,
+      412,
+      413
+    ],
+    "skillArgs": {
+      "hpArgs": [
+        30,
+        35,
+        40
+      ],
+      "speedArgs": [
+        200,
+        300,
+        400
+      ],
+      "thirdStarHealRate": 20
+    },
+    "nativeBuffDurationsMs": {
+      "412": 4000,
+      "413": 3000
+    }
+  },
+  "modelLimitations": [
+    "original retail damage/HP conversion formula unavailable",
+    "BuffScheme413 args [5] differs from SkillScheme healRate 20",
+    "Windows Cocos VFX not independently rendered",
+    "other heroes and passive IDs incomplete"
+  ],
+  "changedSHA256": {
+    "Server_Full/Server/lib/werewolf-3127.js": "029d4b0cd94623d8fbf6e990f51ad9f291d73afd7268900de5971fa31e8cd8ae",
+    "Server_Full/Server/lib/player-skills-3127.js": "599e2f2fac583db331506432ebcbbff0a27d4c00ef85f57848a1fc19eacb846f",
+    "Server_Full/Server/lib/combat-input-3127.js": "26d158c1af5ed987aae2d9dd74adf65675ae56abb470911c0fd66cd356ffafc0",
+    "Server_Full/Server/lib/hero-vfx-3127.js": "124003eaf22b46401887b6724b43f0120afa203f5c3746ffa3a845cb586e3e95",
+    "Server_Full/Server/tests/stage80-werewolf-native-passive.test.js": "c369a5ad0ddfd536a636c578a719e9e7d828c681898a9c571510af84e2259d6c",
+    "Server_Full/package.json": "f506d5907381c0af7c8f78b4113f26a23a4ca896cb9fce56bd688018753c41a4",
+    "README_STAGE80_RU.txt": "e5595d2d6fb51daf28fe1e723abd49bf99f0ad9b73625e6a75df16de9c7ec17b",
+    "ISSUES_STAGE80_RU.txt": "3936e80eb0c51b821690892c6294457f52e7c6e2fd01ba9d78124ec321ae2258",
+    "SKILL_COVERAGE_STAGE80_RU.txt": "60ce98795f1f8f037920a64a9eb39b03b905744b49465f17cf9665e4b4fbcd0b"
+  }
+}

@@ -1,0 +1,6604 @@
+{
+  "LevelExp": [
+    {
+      "level": 1,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 2,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 3,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 4,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 5,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 6,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 7,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 8,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 9,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 10,
+      "levelUpExp": 150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 11,
+      "levelUpExp": 180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 12,
+      "levelUpExp": 180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 13,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 14,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 15,
+      "levelUpExp": 240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 16,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 17,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 18,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 19,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 20,
+      "levelUpExp": 330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 21,
+      "levelUpExp": 390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 22,
+      "levelUpExp": 420,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 23,
+      "levelUpExp": 450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 24,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 25,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 26,
+      "levelUpExp": 510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 27,
+      "levelUpExp": 540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 28,
+      "levelUpExp": 570,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 29,
+      "levelUpExp": 570,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 30,
+      "levelUpExp": 600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 31,
+      "levelUpExp": 750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 32,
+      "levelUpExp": 780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 33,
+      "levelUpExp": 810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 34,
+      "levelUpExp": 840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 35,
+      "levelUpExp": 870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 36,
+      "levelUpExp": 900,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 37,
+      "levelUpExp": 930,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 38,
+      "levelUpExp": 960,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 39,
+      "levelUpExp": 990,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 40,
+      "levelUpExp": 1020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 41,
+      "levelUpExp": 1260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 42,
+      "levelUpExp": 1290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 43,
+      "levelUpExp": 1350,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 44,
+      "levelUpExp": 1380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 45,
+      "levelUpExp": 1410,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 46,
+      "levelUpExp": 1470,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 47,
+      "levelUpExp": 1500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 48,
+      "levelUpExp": 1560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 49,
+      "levelUpExp": 1590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 50,
+      "levelUpExp": 1620,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 51,
+      "levelUpExp": 2460,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 52,
+      "levelUpExp": 2550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 53,
+      "levelUpExp": 2610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 54,
+      "levelUpExp": 2670,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 55,
+      "levelUpExp": 2760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 56,
+      "levelUpExp": 2820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 57,
+      "levelUpExp": 2880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 58,
+      "levelUpExp": 2970,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 59,
+      "levelUpExp": 3030,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 60,
+      "levelUpExp": 3090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 61,
+      "levelUpExp": 4770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 62,
+      "levelUpExp": 4890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 63,
+      "levelUpExp": 5010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 64,
+      "levelUpExp": 5130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 65,
+      "levelUpExp": 5250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 66,
+      "levelUpExp": 5370,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 67,
+      "levelUpExp": 5490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 68,
+      "levelUpExp": 5610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 69,
+      "levelUpExp": 5760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 70,
+      "levelUpExp": 5880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 71,
+      "levelUpExp": 9180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 72,
+      "levelUpExp": 9390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 73,
+      "levelUpExp": 9600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 74,
+      "levelUpExp": 9810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 75,
+      "levelUpExp": 10020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 76,
+      "levelUpExp": 10230,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 77,
+      "levelUpExp": 10440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 78,
+      "levelUpExp": 10680,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 79,
+      "levelUpExp": 10890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 80,
+      "levelUpExp": 11100,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 81,
+      "levelUpExp": 17580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 82,
+      "levelUpExp": 17940,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 83,
+      "levelUpExp": 18300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 84,
+      "levelUpExp": 18690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 85,
+      "levelUpExp": 19080,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 86,
+      "levelUpExp": 19440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 87,
+      "levelUpExp": 19830,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 88,
+      "levelUpExp": 20220,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 89,
+      "levelUpExp": 20610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 90,
+      "levelUpExp": 21000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 91,
+      "levelUpExp": 33600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 92,
+      "levelUpExp": 34290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 93,
+      "levelUpExp": 34950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 94,
+      "levelUpExp": 35640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 95,
+      "levelUpExp": 36300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 96,
+      "levelUpExp": 37020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 97,
+      "levelUpExp": 37710,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 98,
+      "levelUpExp": 38400,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 99,
+      "levelUpExp": 39120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 100,
+      "levelUpExp": 39840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 101,
+      "levelUpExp": 64320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 102,
+      "levelUpExp": 65520,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 103,
+      "levelUpExp": 66750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 104,
+      "levelUpExp": 67980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 105,
+      "levelUpExp": 69240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 106,
+      "levelUpExp": 112380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 107,
+      "levelUpExp": 114510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 108,
+      "levelUpExp": 116640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 109,
+      "levelUpExp": 118830,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 110,
+      "levelUpExp": 121020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 111,
+      "levelUpExp": 197340,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 112,
+      "levelUpExp": 201090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 113,
+      "levelUpExp": 204870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 114,
+      "levelUpExp": 208710,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 115,
+      "levelUpExp": 212580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 116,
+      "levelUpExp": 348210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 117,
+      "levelUpExp": 354840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 118,
+      "levelUpExp": 361530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 119,
+      "levelUpExp": 368310,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 120,
+      "levelUpExp": 375150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 121,
+      "levelUpExp": 617190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 122,
+      "levelUpExp": 628980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 123,
+      "levelUpExp": 640890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 124,
+      "levelUpExp": 652950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 125,
+      "levelUpExp": 665130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 126,
+      "levelUpExp": 1098750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 127,
+      "levelUpExp": 1119780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 128,
+      "levelUpExp": 1141050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 129,
+      "levelUpExp": 1162560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 130,
+      "levelUpExp": 1184310,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 131,
+      "levelUpExp": 1964190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 132,
+      "levelUpExp": 2001870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 133,
+      "levelUpExp": 2040000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 134,
+      "levelUpExp": 2078580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 135,
+      "levelUpExp": 2117580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 136,
+      "levelUpExp": 3525360,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 137,
+      "levelUpExp": 3593160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 138,
+      "levelUpExp": 3661740,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 139,
+      "levelUpExp": 3731130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 140,
+      "levelUpExp": 3801330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 141,
+      "levelUpExp": 6351750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 142,
+      "levelUpExp": 6474090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 143,
+      "levelUpExp": 6597930,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 144,
+      "levelUpExp": 6723270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 145,
+      "levelUpExp": 6850050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 146,
+      "levelUpExp": 11486520,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 147,
+      "levelUpExp": 11708160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 148,
+      "levelUpExp": 11932560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 149,
+      "levelUpExp": 12159690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 150,
+      "levelUpExp": 12389550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 151,
+      "levelUpExp": 34429530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 152,
+      "levelUpExp": 35118090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 153,
+      "levelUpExp": 35815770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 154,
+      "levelUpExp": 36522660,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 155,
+      "levelUpExp": 37238760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 156,
+      "levelUpExp": 37964160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 157,
+      "levelUpExp": 38698950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 158,
+      "levelUpExp": 39443130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 159,
+      "levelUpExp": 40196790,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 160,
+      "levelUpExp": 40960020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 161,
+      "levelUpExp": 41732820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 162,
+      "levelUpExp": 42515280,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 163,
+      "levelUpExp": 43307490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 164,
+      "levelUpExp": 44109450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 165,
+      "levelUpExp": 44921250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 166,
+      "levelUpExp": 45742980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 167,
+      "levelUpExp": 46574640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 168,
+      "levelUpExp": 47416320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 169,
+      "levelUpExp": 48268110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 170,
+      "levelUpExp": 49130010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 171,
+      "levelUpExp": 50002110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 172,
+      "levelUpExp": 50884500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 173,
+      "levelUpExp": 51777180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 174,
+      "levelUpExp": 52680240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 175,
+      "levelUpExp": 53593770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 176,
+      "levelUpExp": 54517770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 177,
+      "levelUpExp": 55452330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 178,
+      "levelUpExp": 56397540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 179,
+      "levelUpExp": 57353400,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 180,
+      "levelUpExp": 58320000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 181,
+      "levelUpExp": 59297430,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 182,
+      "levelUpExp": 60285690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 183,
+      "levelUpExp": 61284870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 184,
+      "levelUpExp": 62295060,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 185,
+      "levelUpExp": 63316260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 186,
+      "levelUpExp": 64348560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 187,
+      "levelUpExp": 65392050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 188,
+      "levelUpExp": 66446730,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 189,
+      "levelUpExp": 67512690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 190,
+      "levelUpExp": 68590020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 191,
+      "levelUpExp": 69678720,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 192,
+      "levelUpExp": 70778880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 193,
+      "levelUpExp": 71890590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 194,
+      "levelUpExp": 73013850,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 195,
+      "levelUpExp": 74148750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 196,
+      "levelUpExp": 75295380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 197,
+      "levelUpExp": 76453740,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 198,
+      "levelUpExp": 77623920,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 199,
+      "levelUpExp": 78806010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 200,
+      "levelUpExp": 80000010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        0,
+        2
+      ]
+    },
+    {
+      "level": 1,
+      "levelUpExp": 15,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 2,
+      "levelUpExp": 15,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 3,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 4,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 5,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 6,
+      "levelUpExp": 45,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 7,
+      "levelUpExp": 45,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 8,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 9,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 10,
+      "levelUpExp": 75,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 11,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 12,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 13,
+      "levelUpExp": 105,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 14,
+      "levelUpExp": 105,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 15,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 16,
+      "levelUpExp": 135,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 17,
+      "levelUpExp": 135,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 18,
+      "levelUpExp": 150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 19,
+      "levelUpExp": 150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 20,
+      "levelUpExp": 165,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 21,
+      "levelUpExp": 195,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 22,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 23,
+      "levelUpExp": 225,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 24,
+      "levelUpExp": 240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 25,
+      "levelUpExp": 240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 26,
+      "levelUpExp": 255,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 27,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 28,
+      "levelUpExp": 285,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 29,
+      "levelUpExp": 285,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 30,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 31,
+      "levelUpExp": 375,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 32,
+      "levelUpExp": 390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 33,
+      "levelUpExp": 405,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 34,
+      "levelUpExp": 420,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 35,
+      "levelUpExp": 435,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 36,
+      "levelUpExp": 450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 37,
+      "levelUpExp": 465,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 38,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 39,
+      "levelUpExp": 495,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 40,
+      "levelUpExp": 510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 41,
+      "levelUpExp": 630,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 42,
+      "levelUpExp": 645,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 43,
+      "levelUpExp": 675,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 44,
+      "levelUpExp": 690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 45,
+      "levelUpExp": 705,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 46,
+      "levelUpExp": 735,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 47,
+      "levelUpExp": 750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 48,
+      "levelUpExp": 780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 49,
+      "levelUpExp": 795,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 50,
+      "levelUpExp": 810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 51,
+      "levelUpExp": 1230,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 52,
+      "levelUpExp": 1275,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 53,
+      "levelUpExp": 1305,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 54,
+      "levelUpExp": 1335,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 55,
+      "levelUpExp": 1380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 56,
+      "levelUpExp": 1410,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 57,
+      "levelUpExp": 1440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 58,
+      "levelUpExp": 1485,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 59,
+      "levelUpExp": 1515,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 60,
+      "levelUpExp": 1545,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 61,
+      "levelUpExp": 2385,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 62,
+      "levelUpExp": 2445,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 63,
+      "levelUpExp": 2505,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 64,
+      "levelUpExp": 2565,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 65,
+      "levelUpExp": 2625,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 66,
+      "levelUpExp": 2685,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 67,
+      "levelUpExp": 2745,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 68,
+      "levelUpExp": 2805,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 69,
+      "levelUpExp": 2880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 70,
+      "levelUpExp": 2940,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 71,
+      "levelUpExp": 4590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 72,
+      "levelUpExp": 4695,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 73,
+      "levelUpExp": 4800,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 74,
+      "levelUpExp": 4905,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 75,
+      "levelUpExp": 5010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 76,
+      "levelUpExp": 5115,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 77,
+      "levelUpExp": 5220,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 78,
+      "levelUpExp": 5340,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 79,
+      "levelUpExp": 5445,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 80,
+      "levelUpExp": 5550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 81,
+      "levelUpExp": 8790,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 82,
+      "levelUpExp": 8970,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 83,
+      "levelUpExp": 9150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 84,
+      "levelUpExp": 9345,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 85,
+      "levelUpExp": 9540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 86,
+      "levelUpExp": 9720,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 87,
+      "levelUpExp": 9915,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 88,
+      "levelUpExp": 10110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 89,
+      "levelUpExp": 10305,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 90,
+      "levelUpExp": 10500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 91,
+      "levelUpExp": 16800,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 92,
+      "levelUpExp": 17145,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 93,
+      "levelUpExp": 17475,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 94,
+      "levelUpExp": 17820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 95,
+      "levelUpExp": 18150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 96,
+      "levelUpExp": 18510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 97,
+      "levelUpExp": 18855,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 98,
+      "levelUpExp": 19200,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 99,
+      "levelUpExp": 19560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 100,
+      "levelUpExp": 19920,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 101,
+      "levelUpExp": 32160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 102,
+      "levelUpExp": 32760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 103,
+      "levelUpExp": 33375,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 104,
+      "levelUpExp": 33990,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 105,
+      "levelUpExp": 34620,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 106,
+      "levelUpExp": 56190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 107,
+      "levelUpExp": 57255,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 108,
+      "levelUpExp": 58320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 109,
+      "levelUpExp": 59415,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 110,
+      "levelUpExp": 60510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 111,
+      "levelUpExp": 98670,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 112,
+      "levelUpExp": 100545,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 113,
+      "levelUpExp": 102435,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 114,
+      "levelUpExp": 104355,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 115,
+      "levelUpExp": 106290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 116,
+      "levelUpExp": 174105,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 117,
+      "levelUpExp": 177420,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 118,
+      "levelUpExp": 180765,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 119,
+      "levelUpExp": 184155,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 120,
+      "levelUpExp": 187575,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 121,
+      "levelUpExp": 308595,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 122,
+      "levelUpExp": 314490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 123,
+      "levelUpExp": 320445,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 124,
+      "levelUpExp": 326475,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 125,
+      "levelUpExp": 332565,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 126,
+      "levelUpExp": 549375,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 127,
+      "levelUpExp": 559890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 128,
+      "levelUpExp": 570525,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 129,
+      "levelUpExp": 581280,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 130,
+      "levelUpExp": 592155,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 131,
+      "levelUpExp": 982095,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 132,
+      "levelUpExp": 1000935,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 133,
+      "levelUpExp": 1020000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 134,
+      "levelUpExp": 1039290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 135,
+      "levelUpExp": 1058790,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 136,
+      "levelUpExp": 1762680,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 137,
+      "levelUpExp": 1796580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 138,
+      "levelUpExp": 1830870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 139,
+      "levelUpExp": 1865565,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 140,
+      "levelUpExp": 1900665,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 141,
+      "levelUpExp": 3175875,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 142,
+      "levelUpExp": 3237045,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 143,
+      "levelUpExp": 3298965,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 144,
+      "levelUpExp": 3361635,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 145,
+      "levelUpExp": 3425025,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 146,
+      "levelUpExp": 5743260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 147,
+      "levelUpExp": 5854080,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 148,
+      "levelUpExp": 5966280,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 149,
+      "levelUpExp": 6079845,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 150,
+      "levelUpExp": 6194775,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 151,
+      "levelUpExp": 17214765,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 152,
+      "levelUpExp": 17559045,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 153,
+      "levelUpExp": 17907885,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 154,
+      "levelUpExp": 18261330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 155,
+      "levelUpExp": 18619380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 156,
+      "levelUpExp": 18982080,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 157,
+      "levelUpExp": 19349475,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 158,
+      "levelUpExp": 19721565,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 159,
+      "levelUpExp": 20098395,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 160,
+      "levelUpExp": 20480010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 161,
+      "levelUpExp": 20866410,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 162,
+      "levelUpExp": 21257640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 163,
+      "levelUpExp": 21653745,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 164,
+      "levelUpExp": 22054725,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 165,
+      "levelUpExp": 22460625,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 166,
+      "levelUpExp": 22871490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 167,
+      "levelUpExp": 23287320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 168,
+      "levelUpExp": 23708160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 169,
+      "levelUpExp": 24134055,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 170,
+      "levelUpExp": 24565005,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 171,
+      "levelUpExp": 25001055,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 172,
+      "levelUpExp": 25442250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 173,
+      "levelUpExp": 25888590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 174,
+      "levelUpExp": 26340120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 175,
+      "levelUpExp": 26796885,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 176,
+      "levelUpExp": 27258885,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 177,
+      "levelUpExp": 27726165,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 178,
+      "levelUpExp": 28198770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 179,
+      "levelUpExp": 28676700,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 180,
+      "levelUpExp": 29160000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 181,
+      "levelUpExp": 29648715,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 182,
+      "levelUpExp": 30142845,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 183,
+      "levelUpExp": 30642435,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 184,
+      "levelUpExp": 31147530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 185,
+      "levelUpExp": 31658130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 186,
+      "levelUpExp": 32174280,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 187,
+      "levelUpExp": 32696025,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 188,
+      "levelUpExp": 33223365,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 189,
+      "levelUpExp": 33756345,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 190,
+      "levelUpExp": 34295010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 191,
+      "levelUpExp": 34839360,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 192,
+      "levelUpExp": 35389440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 193,
+      "levelUpExp": 35945295,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 194,
+      "levelUpExp": 36506925,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 195,
+      "levelUpExp": 37074375,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 196,
+      "levelUpExp": 37647690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 197,
+      "levelUpExp": 38226870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 198,
+      "levelUpExp": 38811960,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 199,
+      "levelUpExp": 39403005,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 200,
+      "levelUpExp": 40000005,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        3
+      ]
+    },
+    {
+      "level": 1,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 2,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 3,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 4,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 5,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 6,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 7,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 8,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 9,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 10,
+      "levelUpExp": 150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 11,
+      "levelUpExp": 180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 12,
+      "levelUpExp": 180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 13,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 14,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 15,
+      "levelUpExp": 240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 16,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 17,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 18,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 19,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 20,
+      "levelUpExp": 330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 21,
+      "levelUpExp": 390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 22,
+      "levelUpExp": 420,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 23,
+      "levelUpExp": 450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 24,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 25,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 26,
+      "levelUpExp": 510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 27,
+      "levelUpExp": 540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 28,
+      "levelUpExp": 570,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 29,
+      "levelUpExp": 570,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 30,
+      "levelUpExp": 600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 31,
+      "levelUpExp": 750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 32,
+      "levelUpExp": 780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 33,
+      "levelUpExp": 810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 34,
+      "levelUpExp": 840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 35,
+      "levelUpExp": 870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 36,
+      "levelUpExp": 900,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 37,
+      "levelUpExp": 930,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 38,
+      "levelUpExp": 960,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 39,
+      "levelUpExp": 990,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 40,
+      "levelUpExp": 1020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 41,
+      "levelUpExp": 1260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 42,
+      "levelUpExp": 1290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 43,
+      "levelUpExp": 1350,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 44,
+      "levelUpExp": 1380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 45,
+      "levelUpExp": 1410,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 46,
+      "levelUpExp": 1470,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 47,
+      "levelUpExp": 1500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 48,
+      "levelUpExp": 1560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 49,
+      "levelUpExp": 1590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 50,
+      "levelUpExp": 1620,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 51,
+      "levelUpExp": 2460,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 52,
+      "levelUpExp": 2550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 53,
+      "levelUpExp": 2610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 54,
+      "levelUpExp": 2670,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 55,
+      "levelUpExp": 2760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 56,
+      "levelUpExp": 2820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 57,
+      "levelUpExp": 2880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 58,
+      "levelUpExp": 2970,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 59,
+      "levelUpExp": 3030,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 60,
+      "levelUpExp": 3090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 61,
+      "levelUpExp": 4770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 62,
+      "levelUpExp": 4890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 63,
+      "levelUpExp": 5010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 64,
+      "levelUpExp": 5130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 65,
+      "levelUpExp": 5250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 66,
+      "levelUpExp": 5370,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 67,
+      "levelUpExp": 5490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 68,
+      "levelUpExp": 5610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 69,
+      "levelUpExp": 5760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 70,
+      "levelUpExp": 5880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 71,
+      "levelUpExp": 9180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 72,
+      "levelUpExp": 9390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 73,
+      "levelUpExp": 9600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 74,
+      "levelUpExp": 9810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 75,
+      "levelUpExp": 10020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 76,
+      "levelUpExp": 10230,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 77,
+      "levelUpExp": 10440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 78,
+      "levelUpExp": 10680,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 79,
+      "levelUpExp": 10890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 80,
+      "levelUpExp": 11100,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 81,
+      "levelUpExp": 17580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 82,
+      "levelUpExp": 17940,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 83,
+      "levelUpExp": 18300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 84,
+      "levelUpExp": 18690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 85,
+      "levelUpExp": 19080,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 86,
+      "levelUpExp": 19440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 87,
+      "levelUpExp": 19830,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 88,
+      "levelUpExp": 20220,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 89,
+      "levelUpExp": 20610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 90,
+      "levelUpExp": 21000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 91,
+      "levelUpExp": 33600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 92,
+      "levelUpExp": 34290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 93,
+      "levelUpExp": 34950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 94,
+      "levelUpExp": 35640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 95,
+      "levelUpExp": 36300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 96,
+      "levelUpExp": 37020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 97,
+      "levelUpExp": 37710,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 98,
+      "levelUpExp": 38400,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 99,
+      "levelUpExp": 39120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 100,
+      "levelUpExp": 39840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 101,
+      "levelUpExp": 64320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 102,
+      "levelUpExp": 65520,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 103,
+      "levelUpExp": 66750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 104,
+      "levelUpExp": 67980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 105,
+      "levelUpExp": 69240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 106,
+      "levelUpExp": 112380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 107,
+      "levelUpExp": 114510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 108,
+      "levelUpExp": 116640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 109,
+      "levelUpExp": 118830,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 110,
+      "levelUpExp": 121020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 111,
+      "levelUpExp": 197340,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 112,
+      "levelUpExp": 201090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 113,
+      "levelUpExp": 204870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 114,
+      "levelUpExp": 208710,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 115,
+      "levelUpExp": 212580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 116,
+      "levelUpExp": 348210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 117,
+      "levelUpExp": 354840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 118,
+      "levelUpExp": 361530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 119,
+      "levelUpExp": 368310,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 120,
+      "levelUpExp": 375150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 121,
+      "levelUpExp": 617190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 122,
+      "levelUpExp": 628980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 123,
+      "levelUpExp": 640890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 124,
+      "levelUpExp": 652950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 125,
+      "levelUpExp": 665130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 126,
+      "levelUpExp": 1098750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 127,
+      "levelUpExp": 1119780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 128,
+      "levelUpExp": 1141050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 129,
+      "levelUpExp": 1162560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 130,
+      "levelUpExp": 1184310,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 131,
+      "levelUpExp": 1964190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 132,
+      "levelUpExp": 2001870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 133,
+      "levelUpExp": 2040000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 134,
+      "levelUpExp": 2078580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 135,
+      "levelUpExp": 2117580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 136,
+      "levelUpExp": 3525360,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 137,
+      "levelUpExp": 3593160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 138,
+      "levelUpExp": 3661740,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 139,
+      "levelUpExp": 3731130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 140,
+      "levelUpExp": 3801330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 141,
+      "levelUpExp": 6351750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 142,
+      "levelUpExp": 6474090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 143,
+      "levelUpExp": 6597930,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 144,
+      "levelUpExp": 6723270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 145,
+      "levelUpExp": 6850050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 146,
+      "levelUpExp": 11486520,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 147,
+      "levelUpExp": 11708160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 148,
+      "levelUpExp": 11932560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 149,
+      "levelUpExp": 12159690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 150,
+      "levelUpExp": 12389550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 151,
+      "levelUpExp": 34429530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 152,
+      "levelUpExp": 35118090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 153,
+      "levelUpExp": 35815770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 154,
+      "levelUpExp": 36522660,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 155,
+      "levelUpExp": 37238760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 156,
+      "levelUpExp": 37964160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 157,
+      "levelUpExp": 38698950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 158,
+      "levelUpExp": 39443130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 159,
+      "levelUpExp": 40196790,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 160,
+      "levelUpExp": 40960020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 161,
+      "levelUpExp": 41732820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 162,
+      "levelUpExp": 42515280,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 163,
+      "levelUpExp": 43307490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 164,
+      "levelUpExp": 44109450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 165,
+      "levelUpExp": 44921250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 166,
+      "levelUpExp": 45742980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 167,
+      "levelUpExp": 46574640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 168,
+      "levelUpExp": 47416320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 169,
+      "levelUpExp": 48268110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 170,
+      "levelUpExp": 49130010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 171,
+      "levelUpExp": 50002110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 172,
+      "levelUpExp": 50884500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 173,
+      "levelUpExp": 51777180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 174,
+      "levelUpExp": 52680240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 175,
+      "levelUpExp": 53593770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 176,
+      "levelUpExp": 54517770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 177,
+      "levelUpExp": 55452330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 178,
+      "levelUpExp": 56397540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 179,
+      "levelUpExp": 57353400,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 180,
+      "levelUpExp": 58320000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 181,
+      "levelUpExp": 59297430,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 182,
+      "levelUpExp": 60285690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 183,
+      "levelUpExp": 61284870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 184,
+      "levelUpExp": 62295060,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 185,
+      "levelUpExp": 63316260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 186,
+      "levelUpExp": 64348560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 187,
+      "levelUpExp": 65392050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 188,
+      "levelUpExp": 66446730,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 189,
+      "levelUpExp": 67512690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 190,
+      "levelUpExp": 68590020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 191,
+      "levelUpExp": 69678720,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 192,
+      "levelUpExp": 70778880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 193,
+      "levelUpExp": 71890590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 194,
+      "levelUpExp": 73013850,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 195,
+      "levelUpExp": 74148750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 196,
+      "levelUpExp": 75295380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 197,
+      "levelUpExp": 76453740,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 198,
+      "levelUpExp": 77623920,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 199,
+      "levelUpExp": 78806010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 200,
+      "levelUpExp": 80000010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        5
+      ]
+    },
+    {
+      "level": 1,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 2,
+      "levelUpExp": 30,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 3,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 4,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 5,
+      "levelUpExp": 60,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 6,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 7,
+      "levelUpExp": 90,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 8,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 9,
+      "levelUpExp": 120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 10,
+      "levelUpExp": 150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 11,
+      "levelUpExp": 180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 12,
+      "levelUpExp": 180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 13,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 14,
+      "levelUpExp": 210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 15,
+      "levelUpExp": 240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 16,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 17,
+      "levelUpExp": 270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 18,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 19,
+      "levelUpExp": 300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 20,
+      "levelUpExp": 330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 21,
+      "levelUpExp": 390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 22,
+      "levelUpExp": 420,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 23,
+      "levelUpExp": 450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 24,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 25,
+      "levelUpExp": 480,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 26,
+      "levelUpExp": 510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 27,
+      "levelUpExp": 540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 28,
+      "levelUpExp": 570,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 29,
+      "levelUpExp": 570,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 30,
+      "levelUpExp": 600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 31,
+      "levelUpExp": 750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 32,
+      "levelUpExp": 780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 33,
+      "levelUpExp": 810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 34,
+      "levelUpExp": 840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 35,
+      "levelUpExp": 870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 36,
+      "levelUpExp": 900,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 37,
+      "levelUpExp": 930,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 38,
+      "levelUpExp": 960,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 39,
+      "levelUpExp": 990,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 40,
+      "levelUpExp": 1020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 41,
+      "levelUpExp": 1260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 42,
+      "levelUpExp": 1290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 43,
+      "levelUpExp": 1350,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 44,
+      "levelUpExp": 1380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 45,
+      "levelUpExp": 1410,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 46,
+      "levelUpExp": 1470,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 47,
+      "levelUpExp": 1500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 48,
+      "levelUpExp": 1560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 49,
+      "levelUpExp": 1590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 50,
+      "levelUpExp": 1620,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 51,
+      "levelUpExp": 2460,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 52,
+      "levelUpExp": 2550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 53,
+      "levelUpExp": 2610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 54,
+      "levelUpExp": 2670,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 55,
+      "levelUpExp": 2760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 56,
+      "levelUpExp": 2820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 57,
+      "levelUpExp": 2880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 58,
+      "levelUpExp": 2970,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 59,
+      "levelUpExp": 3030,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 60,
+      "levelUpExp": 3090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 61,
+      "levelUpExp": 4770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 62,
+      "levelUpExp": 4890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 63,
+      "levelUpExp": 5010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 64,
+      "levelUpExp": 5130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 65,
+      "levelUpExp": 5250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 66,
+      "levelUpExp": 5370,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 67,
+      "levelUpExp": 5490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 68,
+      "levelUpExp": 5610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 69,
+      "levelUpExp": 5760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 70,
+      "levelUpExp": 5880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 71,
+      "levelUpExp": 9180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 72,
+      "levelUpExp": 9390,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 73,
+      "levelUpExp": 9600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 74,
+      "levelUpExp": 9810,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 75,
+      "levelUpExp": 10020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 76,
+      "levelUpExp": 10230,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 77,
+      "levelUpExp": 10440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 78,
+      "levelUpExp": 10680,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 79,
+      "levelUpExp": 10890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 80,
+      "levelUpExp": 11100,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 81,
+      "levelUpExp": 17580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 82,
+      "levelUpExp": 17940,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 83,
+      "levelUpExp": 18300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 84,
+      "levelUpExp": 18690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 85,
+      "levelUpExp": 19080,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 86,
+      "levelUpExp": 19440,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 87,
+      "levelUpExp": 19830,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 88,
+      "levelUpExp": 20220,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 89,
+      "levelUpExp": 20610,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 90,
+      "levelUpExp": 21000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 91,
+      "levelUpExp": 33600,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 92,
+      "levelUpExp": 34290,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 93,
+      "levelUpExp": 34950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 94,
+      "levelUpExp": 35640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 95,
+      "levelUpExp": 36300,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 96,
+      "levelUpExp": 37020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 97,
+      "levelUpExp": 37710,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 98,
+      "levelUpExp": 38400,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 99,
+      "levelUpExp": 39120,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 100,
+      "levelUpExp": 39840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 101,
+      "levelUpExp": 64320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 102,
+      "levelUpExp": 65520,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 103,
+      "levelUpExp": 66750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 104,
+      "levelUpExp": 67980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 105,
+      "levelUpExp": 69240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 106,
+      "levelUpExp": 112380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 107,
+      "levelUpExp": 114510,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 108,
+      "levelUpExp": 116640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 109,
+      "levelUpExp": 118830,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 110,
+      "levelUpExp": 121020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 111,
+      "levelUpExp": 197340,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 112,
+      "levelUpExp": 201090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 113,
+      "levelUpExp": 204870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 114,
+      "levelUpExp": 208710,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 115,
+      "levelUpExp": 212580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 116,
+      "levelUpExp": 348210,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 117,
+      "levelUpExp": 354840,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 118,
+      "levelUpExp": 361530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 119,
+      "levelUpExp": 368310,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 120,
+      "levelUpExp": 375150,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 121,
+      "levelUpExp": 617190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 122,
+      "levelUpExp": 628980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 123,
+      "levelUpExp": 640890,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 124,
+      "levelUpExp": 652950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 125,
+      "levelUpExp": 665130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 126,
+      "levelUpExp": 1098750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 127,
+      "levelUpExp": 1119780,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 128,
+      "levelUpExp": 1141050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 129,
+      "levelUpExp": 1162560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 130,
+      "levelUpExp": 1184310,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 131,
+      "levelUpExp": 1964190,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 132,
+      "levelUpExp": 2001870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 133,
+      "levelUpExp": 2040000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 134,
+      "levelUpExp": 2078580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 135,
+      "levelUpExp": 2117580,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 136,
+      "levelUpExp": 3525360,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 137,
+      "levelUpExp": 3593160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 138,
+      "levelUpExp": 3661740,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 139,
+      "levelUpExp": 3731130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 140,
+      "levelUpExp": 3801330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 141,
+      "levelUpExp": 6351750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 142,
+      "levelUpExp": 6474090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 143,
+      "levelUpExp": 6597930,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 144,
+      "levelUpExp": 6723270,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 145,
+      "levelUpExp": 6850050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 146,
+      "levelUpExp": 11486520,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 147,
+      "levelUpExp": 11708160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 148,
+      "levelUpExp": 11932560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 149,
+      "levelUpExp": 12159690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 150,
+      "levelUpExp": 12389550,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 151,
+      "levelUpExp": 34429530,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 152,
+      "levelUpExp": 35118090,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 153,
+      "levelUpExp": 35815770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 154,
+      "levelUpExp": 36522660,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 155,
+      "levelUpExp": 37238760,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 156,
+      "levelUpExp": 37964160,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 157,
+      "levelUpExp": 38698950,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 158,
+      "levelUpExp": 39443130,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 159,
+      "levelUpExp": 40196790,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 160,
+      "levelUpExp": 40960020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 161,
+      "levelUpExp": 41732820,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 162,
+      "levelUpExp": 42515280,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 163,
+      "levelUpExp": 43307490,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 164,
+      "levelUpExp": 44109450,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 165,
+      "levelUpExp": 44921250,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 166,
+      "levelUpExp": 45742980,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 167,
+      "levelUpExp": 46574640,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 168,
+      "levelUpExp": 47416320,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 169,
+      "levelUpExp": 48268110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 170,
+      "levelUpExp": 49130010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 171,
+      "levelUpExp": 50002110,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 172,
+      "levelUpExp": 50884500,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 173,
+      "levelUpExp": 51777180,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 174,
+      "levelUpExp": 52680240,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 175,
+      "levelUpExp": 53593770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 176,
+      "levelUpExp": 54517770,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 177,
+      "levelUpExp": 55452330,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 178,
+      "levelUpExp": 56397540,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 179,
+      "levelUpExp": 57353400,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 180,
+      "levelUpExp": 58320000,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 181,
+      "levelUpExp": 59297430,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 182,
+      "levelUpExp": 60285690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 183,
+      "levelUpExp": 61284870,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 184,
+      "levelUpExp": 62295060,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 185,
+      "levelUpExp": 63316260,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 186,
+      "levelUpExp": 64348560,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 187,
+      "levelUpExp": 65392050,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 188,
+      "levelUpExp": 66446730,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 189,
+      "levelUpExp": 67512690,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 190,
+      "levelUpExp": 68590020,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 191,
+      "levelUpExp": 69678720,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 192,
+      "levelUpExp": 70778880,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 193,
+      "levelUpExp": 71890590,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 194,
+      "levelUpExp": 73013850,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 195,
+      "levelUpExp": 74148750,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 196,
+      "levelUpExp": 75295380,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 197,
+      "levelUpExp": 76453740,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 198,
+      "levelUpExp": 77623920,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 199,
+      "levelUpExp": 78806010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    },
+    {
+      "level": 200,
+      "levelUpExp": 80000010,
+      "UpgradeRewards": 0,
+      "GameMode": [
+        6
+      ]
+    }
+  ]
+}

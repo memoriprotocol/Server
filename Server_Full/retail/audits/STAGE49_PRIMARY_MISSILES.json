@@ -1,0 +1,548 @@
+[
+  {
+    "skillID": 3102,
+    "skillType": 140,
+    "weaponIDs": [
+      609900
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1050,
+    "missile": "arena/skills/mei_du_sha_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3129,
+    "skillType": 99,
+    "weaponIDs": [
+      613400
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1300,
+    "missile": "arena/skills/death_wand/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3139,
+    "skillType": 99,
+    "weaponIDs": [
+      614500
+    ],
+    "originalSkillRange": 3,
+    "speed": 1800,
+    "maxDistance": 1050,
+    "missile": "arena/skills/death_wand/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3190,
+    "skillType": 378,
+    "weaponIDs": [
+      617300
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1050,
+    "missile": "arena/skills/hurricane_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3191,
+    "skillType": 384,
+    "weaponIDs": [
+      617700
+    ],
+    "originalSkillRange": 2,
+    "speed": 4000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/artillery/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3206,
+    "skillType": 416,
+    "weaponIDs": [
+      618200
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/cure_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3243,
+    "skillType": 527,
+    "weaponIDs": [
+      619400
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/witch_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3248,
+    "skillType": 540,
+    "weaponIDs": [
+      619600
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/cure_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3265,
+    "skillType": 586,
+    "weaponIDs": [
+      620300
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/hourglass_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3269,
+    "skillType": 603,
+    "weaponIDs": [
+      620500
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/magic_wand_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3273,
+    "skillType": 649,
+    "weaponIDs": [
+      621300
+    ],
+    "originalSkillRange": 3,
+    "speed": 1800,
+    "maxDistance": 1050,
+    "missile": "arena/skills/cure_wand/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3275,
+    "skillType": 653,
+    "weaponIDs": [
+      620400
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_book_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3294,
+    "skillType": 723,
+    "weaponIDs": [
+      621700
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/element_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 3322,
+    "skillType": 804,
+    "weaponIDs": [
+      622200
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6182011,
+    "skillType": 416,
+    "weaponIDs": [
+      618201
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/cure_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6182021,
+    "skillType": 416,
+    "weaponIDs": [
+      618202
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/cure_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6182031,
+    "skillType": 416,
+    "weaponIDs": [
+      618203
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/cure_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6182041,
+    "skillType": 416,
+    "weaponIDs": [
+      618204
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/cure_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6194011,
+    "skillType": 527,
+    "weaponIDs": [
+      619401
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/witch_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6194021,
+    "skillType": 527,
+    "weaponIDs": [
+      619402
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/witch_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6194031,
+    "skillType": 527,
+    "weaponIDs": [
+      619403
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/witch_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6194041,
+    "skillType": 527,
+    "weaponIDs": [
+      619404
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/witch_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6203011,
+    "skillType": 586,
+    "weaponIDs": [
+      620301
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/hourglass_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6203021,
+    "skillType": 586,
+    "weaponIDs": [
+      620302
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/hourglass_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6203031,
+    "skillType": 586,
+    "weaponIDs": [
+      620303
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/hourglass_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6203041,
+    "skillType": 586,
+    "weaponIDs": [
+      620304
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/hourglass_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6205011,
+    "skillType": 603,
+    "weaponIDs": [
+      620501
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/magic_wand_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6205021,
+    "skillType": 603,
+    "weaponIDs": [
+      620502
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/magic_wand_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6205031,
+    "skillType": 603,
+    "weaponIDs": [
+      620503
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/magic_wand_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6205041,
+    "skillType": 603,
+    "weaponIDs": [
+      620504
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/magic_wand_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6204011,
+    "skillType": 653,
+    "weaponIDs": [
+      620401
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_book_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6204021,
+    "skillType": 653,
+    "weaponIDs": [
+      620402
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_book_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6204031,
+    "skillType": 653,
+    "weaponIDs": [
+      620403
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_book_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6204041,
+    "skillType": 653,
+    "weaponIDs": [
+      620404
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_book_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6217011,
+    "skillType": 723,
+    "weaponIDs": [
+      621701
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/element_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6217021,
+    "skillType": 723,
+    "weaponIDs": [
+      621702
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/element_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6217031,
+    "skillType": 723,
+    "weaponIDs": [
+      621703
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/element_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6217041,
+    "skillType": 723,
+    "weaponIDs": [
+      621704
+    ],
+    "originalSkillRange": 3,
+    "speed": 4000,
+    "maxDistance": 1500,
+    "missile": "arena/skills/element_staff_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6222011,
+    "skillType": 804,
+    "weaponIDs": [
+      622201
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6222021,
+    "skillType": 804,
+    "weaponIDs": [
+      622202
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6222031,
+    "skillType": 804,
+    "weaponIDs": [
+      622203
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  },
+  {
+    "skillID": 6222041,
+    "skillType": 804,
+    "weaponIDs": [
+      622204
+    ],
+    "originalSkillRange": 3,
+    "speed": 3000,
+    "maxDistance": 1800,
+    "missile": "arena/skills/ice_scroll_attack/prefab/missile",
+    "visualRendered": false,
+    "extraWeaponMechanicsComplete": false
+  }
+]

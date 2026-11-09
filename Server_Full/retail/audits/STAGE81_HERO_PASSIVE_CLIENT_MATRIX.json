@@ -1,0 +1,1191 @@
+{
+  "client": "3.12.7 (2024-02-22)",
+  "source": "HeroScheme, SkillScheme (original client extracted schemas)",
+  "note": "Audit only; listing passive IDs does not indicate implemented effects. No unverified effects added.",
+  "heroes": [
+    {
+      "heroID": 1,
+      "name": "斯巴达",
+      "skillIDs": [
+        6013
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6013,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6013,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6013,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 2,
+      "name": "修女",
+      "skillIDs": [
+        6006
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6006,
+          "star": 1,
+          "buffIDs": [
+            404
+          ],
+          "rawArgs": [
+            "propValue:50"
+          ]
+        },
+        {
+          "skillID": 6006,
+          "star": 2,
+          "buffIDs": [
+            404
+          ],
+          "rawArgs": [
+            "propValue:50"
+          ]
+        },
+        {
+          "skillID": 6006,
+          "star": 3,
+          "buffIDs": [
+            404
+          ],
+          "rawArgs": [
+            "propValue:50"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 3,
+      "name": "吸血鬼",
+      "skillIDs": [
+        6003
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6003,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6003,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6003,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 4,
+      "name": "魔法师",
+      "skillIDs": [
+        6004
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6004,
+          "star": 1,
+          "buffIDs": [
+            237,
+            654
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,reduceCD:6"
+          ]
+        },
+        {
+          "skillID": 6004,
+          "star": 2,
+          "buffIDs": [
+            237,
+            654
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,reduceCD:12"
+          ]
+        },
+        {
+          "skillID": 6004,
+          "star": 3,
+          "buffIDs": [
+            237,
+            654
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,reduceCD:20"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 5,
+      "name": "亡灵术士",
+      "skillIDs": [
+        6007
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 6,
+      "name": "圣骑士",
+      "skillIDs": [
+        6005
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6005,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6005,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6005,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 7,
+      "name": "木乃伊",
+      "skillIDs": [
+        6009,
+        6023
+      ],
+      "explicitPassiveSkillIDs": [
+        6023
+      ],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6009,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6009,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6009,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 8,
+      "name": "德鲁伊",
+      "skillIDs": [
+        6008
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6008,
+          "star": 1,
+          "buffIDs": [
+            237,
+            655
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:95"
+          ]
+        },
+        {
+          "skillID": 6008,
+          "star": 2,
+          "buffIDs": [
+            237,
+            655
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:90"
+          ]
+        },
+        {
+          "skillID": 6008,
+          "star": 3,
+          "buffIDs": [
+            237,
+            655
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:85"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 9,
+      "name": "树人",
+      "skillIDs": [
+        6010,
+        6028
+      ],
+      "explicitPassiveSkillIDs": [
+        6028
+      ],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6010,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6010,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6010,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 10,
+      "name": "国王",
+      "skillIDs": [
+        6011
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 11,
+      "name": "女巫",
+      "skillIDs": [
+        6012
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6012,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6012,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6012,
+          "star": 3,
+          "buffIDs": [
+            237,
+            401
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,attribute:4,atkAgrs:10"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 12,
+      "name": "忍者",
+      "skillIDs": [
+        6014
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6014,
+          "star": 1,
+          "buffIDs": [
+            237,
+            752
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,heroSkillCD:30,weaponSkillCD:30"
+          ]
+        },
+        {
+          "skillID": 6014,
+          "star": 2,
+          "buffIDs": [
+            237,
+            752
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,heroSkillCD:50,weaponSkillCD:50"
+          ]
+        },
+        {
+          "skillID": 6014,
+          "star": 3,
+          "buffIDs": [
+            237,
+            752
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,heroSkillCD:70,weaponSkillCD:70"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 13,
+      "name": "吟游诗人",
+      "skillIDs": [
+        6015,
+        6032
+      ],
+      "explicitPassiveSkillIDs": [
+        6032
+      ],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6015,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6015,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6015,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 15,
+      "name": "兔耳游侠",
+      "skillIDs": [
+        6017
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6017,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6017,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6017,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 17,
+      "name": "厨娘",
+      "skillIDs": [
+        6019
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6019,
+          "star": 1,
+          "buffIDs": [
+            237,
+            255
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "propValue:10000"
+          ]
+        },
+        {
+          "skillID": 6019,
+          "star": 2,
+          "buffIDs": [
+            237,
+            255
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "propValue:10000"
+          ]
+        },
+        {
+          "skillID": 6019,
+          "star": 3,
+          "buffIDs": [
+            237,
+            255
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "propValue:10000"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 19,
+      "name": "史莱姆",
+      "skillIDs": [
+        6020,
+        6021
+      ],
+      "explicitPassiveSkillIDs": [
+        6021
+      ],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6020,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6020,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6020,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6021,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6021,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6021,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 20,
+      "name": "小恶魔",
+      "skillIDs": [
+        6022
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6022,
+          "star": 1,
+          "buffIDs": [
+            237,
+            480
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hunt:5"
+          ]
+        },
+        {
+          "skillID": 6022,
+          "star": 2,
+          "buffIDs": [
+            237,
+            480
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hunt:10"
+          ]
+        },
+        {
+          "skillID": 6022,
+          "star": 3,
+          "buffIDs": [
+            237,
+            480
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hunt:15"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 21,
+      "name": "炸弹人",
+      "skillIDs": [
+        6024,
+        6025
+      ],
+      "explicitPassiveSkillIDs": [
+        6025
+      ],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6024,
+          "star": 1,
+          "buffIDs": [
+            237,
+            355
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1"
+          ]
+        },
+        {
+          "skillID": 6024,
+          "star": 2,
+          "buffIDs": [
+            237,
+            343,
+            355
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:3",
+            "duration:-1"
+          ]
+        },
+        {
+          "skillID": 6024,
+          "star": 3,
+          "buffIDs": [
+            237,
+            343,
+            355
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:6",
+            "duration:-1"
+          ]
+        },
+        {
+          "skillID": 6025,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6025,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6025,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 22,
+      "name": "狼人",
+      "skillIDs": [
+        6026
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6026,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6026,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6026,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 23,
+      "name": "咕咕",
+      "skillIDs": [
+        6029
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6029,
+          "star": 1,
+          "buffIDs": [
+            237,
+            457
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hunt:5,dist:100"
+          ]
+        },
+        {
+          "skillID": 6029,
+          "star": 2,
+          "buffIDs": [
+            237,
+            457
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hunt:10,dist:150"
+          ]
+        },
+        {
+          "skillID": 6029,
+          "star": 3,
+          "buffIDs": [
+            237,
+            457
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hunt:15,dist:200"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 24,
+      "name": "仓鼠",
+      "skillIDs": [
+        6030
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6030,
+          "star": 1,
+          "buffIDs": [
+            237,
+            536
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:3"
+          ]
+        },
+        {
+          "skillID": 6030,
+          "star": 2,
+          "buffIDs": [
+            237,
+            536
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:6"
+          ]
+        },
+        {
+          "skillID": 6030,
+          "star": 3,
+          "buffIDs": [
+            237,
+            536
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:10"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 25,
+      "name": "剑客",
+      "skillIDs": [
+        6031
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6031,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6031,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6031,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 26,
+      "name": "工程师",
+      "skillIDs": [
+        6033
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6033,
+          "star": 1,
+          "buffIDs": [
+            237,
+            673
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:3"
+          ]
+        },
+        {
+          "skillID": 6033,
+          "star": 2,
+          "buffIDs": [
+            237,
+            673
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:6"
+          ]
+        },
+        {
+          "skillID": 6033,
+          "star": 3,
+          "buffIDs": [
+            237,
+            673
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,propValue:10"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 27,
+      "name": "维京战士",
+      "skillIDs": [
+        6039
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6039,
+          "star": 1,
+          "buffIDs": [
+            237,
+            724
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,incrHurt:1,incrDefense:2,maxStack:15,hpArgs:4"
+          ]
+        },
+        {
+          "skillID": 6039,
+          "star": 2,
+          "buffIDs": [
+            237,
+            724
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,incrHurt:1,incrDefense:2,maxStack:15,hpArgs:4"
+          ]
+        },
+        {
+          "skillID": 6039,
+          "star": 3,
+          "buffIDs": [
+            237,
+            724
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,incrHurt:1,incrDefense:2,maxStack:15,hpArgs:4"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 28,
+      "name": "龙太子",
+      "skillIDs": [
+        6040,
+        6041
+      ],
+      "explicitPassiveSkillIDs": [
+        6041
+      ],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6040,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6040,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6040,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6041,
+          "star": 1,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6041,
+          "star": 2,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        },
+        {
+          "skillID": 6041,
+          "star": 3,
+          "buffIDs": [
+            237
+          ],
+          "rawArgs": [
+            "propValue:0"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    },
+    {
+      "heroID": 29,
+      "name": "花仙子",
+      "skillIDs": [
+        6042
+      ],
+      "explicitPassiveSkillIDs": [],
+      "initSelfBuffBySkillAndLevel": [
+        {
+          "skillID": 6042,
+          "star": 1,
+          "buffIDs": [
+            237,
+            819
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hpArgs:1"
+          ]
+        },
+        {
+          "skillID": 6042,
+          "star": 2,
+          "buffIDs": [
+            237,
+            819
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hpArgs:1.5"
+          ]
+        },
+        {
+          "skillID": 6042,
+          "star": 3,
+          "buffIDs": [
+            237,
+            819
+          ],
+          "rawArgs": [
+            "propValue:0",
+            "duration:-1,hpArgs:2"
+          ]
+        }
+      ],
+      "fullyRetailVerified": false
+    }
+  ]
+}

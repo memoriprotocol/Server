@@ -1,0 +1,1088 @@
+{
+  "stage": 58,
+  "nativeSources": [
+    "WeaponScheme level1 skill",
+    "SkillScheme normalAttack69/castPointTime/effectSize/skillRange",
+    "original CCSkillComp onCastPoint/doCastPoint and onCast/doCast executed in VM"
+  ],
+  "profiles": [
+    {
+      "weaponID": 612200,
+      "skillID": 3051,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        350,
+        60
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 613900,
+      "skillID": 3063,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 612900,
+      "skillID": 3070,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 611600,
+      "skillID": 3067,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 612800,
+      "skillID": 3057,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        720,
+        120
+      ],
+      "maxDistance": 300,
+      "staminaCost": 2.0
+    },
+    {
+      "weaponID": 612300,
+      "skillID": 3065,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 611500,
+      "skillID": 3151,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 612400,
+      "skillID": 3075,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 613700,
+      "skillID": 3132,
+      "castPointTime": 350,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 614000,
+      "skillID": 3134,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        460,
+        240
+      ],
+      "maxDistance": 300,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 614300,
+      "skillID": 3137,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        440,
+        70
+      ],
+      "maxDistance": 450,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 613800,
+      "skillID": 3133,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        350,
+        60
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 612600,
+      "skillID": 3124,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 2.0
+    },
+    {
+      "weaponID": 611300,
+      "skillID": 3141,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        360,
+        70
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 610200,
+      "skillID": 3042,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 350,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 610900,
+      "skillID": 3120,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 610700,
+      "skillID": 3040,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 610500,
+      "skillID": 3113,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 611400,
+      "skillID": 3122,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 300,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 611900,
+      "skillID": 3123,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 2.0
+    },
+    {
+      "weaponID": 613000,
+      "skillID": 3126,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 614200,
+      "skillID": 3136,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 614400,
+      "skillID": 3138,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        440,
+        70
+      ],
+      "maxDistance": 450,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 612500,
+      "skillID": 3036,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 8.0
+    },
+    {
+      "weaponID": 611700,
+      "skillID": 3041,
+      "castPointTime": 200,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 611800,
+      "skillID": 3015,
+      "castPointTime": 250,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 450,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 610600,
+      "skillID": 3145,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 612000,
+      "skillID": 3108,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 400,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 610100,
+      "skillID": 3100,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 9.0
+    },
+    {
+      "weaponID": 609800,
+      "skillID": 3101,
+      "castPointTime": 350,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 610300,
+      "skillID": 3117,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 300,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 610400,
+      "skillID": 3118,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 300,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 613600,
+      "skillID": 3131,
+      "castPointTime": 350,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 609700,
+      "skillID": 3038,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 612700,
+      "skillID": 3125,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 2.0
+    },
+    {
+      "weaponID": 614100,
+      "skillID": 3135,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 614800,
+      "skillID": 3140,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 615000,
+      "skillID": 3154,
+      "castPointTime": 350,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 615100,
+      "skillID": 3041,
+      "castPointTime": 200,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 10.0
+    },
+    {
+      "weaponID": 615300,
+      "skillID": 3155,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 615200,
+      "skillID": 3156,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        440,
+        70
+      ],
+      "maxDistance": 450,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 615800,
+      "skillID": 3168,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        380,
+        60
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 615900,
+      "skillID": 3169,
+      "castPointTime": 400,
+      "skillRange": 1,
+      "effectSize": [
+        800,
+        170
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 616000,
+      "skillID": 3170,
+      "castPointTime": 350,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 616100,
+      "skillID": 3171,
+      "castPointTime": 450,
+      "skillRange": 3,
+      "effectSize": [
+        500,
+        100
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 616500,
+      "skillID": 3175,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 616800,
+      "skillID": 3178,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 616900,
+      "skillID": 3179,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        420,
+        90
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617400,
+      "skillID": 3188,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 617401,
+      "skillID": 6174011,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 617402,
+      "skillID": 6174021,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 617404,
+      "skillID": 6174041,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 617500,
+      "skillID": 3193,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        180
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617600,
+      "skillID": 3195,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        380,
+        100
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617800,
+      "skillID": 3197,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 400,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617801,
+      "skillID": 6178011,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 400,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617802,
+      "skillID": 6178021,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 400,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617803,
+      "skillID": 6178031,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 400,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 617804,
+      "skillID": 6178041,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 400,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618000,
+      "skillID": 3201,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618500,
+      "skillID": 3215,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 618501,
+      "skillID": 6185011,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 618502,
+      "skillID": 6185021,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 618503,
+      "skillID": 6185031,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 618504,
+      "skillID": 6185041,
+      "castPointTime": 100,
+      "skillRange": 3,
+      "effectSize": [
+        400,
+        80
+      ],
+      "maxDistance": 250,
+      "staminaCost": 6.0
+    },
+    {
+      "weaponID": 618600,
+      "skillID": 3218,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618601,
+      "skillID": 6186011,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618602,
+      "skillID": 6186021,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618603,
+      "skillID": 6186031,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618604,
+      "skillID": 6186041,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        550,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618800,
+      "skillID": 3225,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        180
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618801,
+      "skillID": 6188011,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        180
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618802,
+      "skillID": 6188021,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        180
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618803,
+      "skillID": 6188031,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        180
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 618804,
+      "skillID": 6188041,
+      "castPointTime": 500,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        180
+      ],
+      "maxDistance": 1800,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 619100,
+      "skillID": 3232,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 619101,
+      "skillID": 6191011,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 619102,
+      "skillID": 6191021,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        450,
+        150
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 619000,
+      "skillID": 3235,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        1000,
+        30
+      ],
+      "maxDistance": 1000,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 619001,
+      "skillID": 6190011,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        1000,
+        30
+      ],
+      "maxDistance": 1000,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 619002,
+      "skillID": 6190021,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        1000,
+        30
+      ],
+      "maxDistance": 1000,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 619003,
+      "skillID": 6190031,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        1000,
+        30
+      ],
+      "maxDistance": 1000,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 619004,
+      "skillID": 6190041,
+      "castPointTime": 150,
+      "skillRange": 3,
+      "effectSize": [
+        1000,
+        30
+      ],
+      "maxDistance": 1000,
+      "staminaCost": 5.0
+    },
+    {
+      "weaponID": 620100,
+      "skillID": 3267,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 620101,
+      "skillID": 6201011,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 620102,
+      "skillID": 6201021,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 620103,
+      "skillID": 6201031,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    },
+    {
+      "weaponID": 620104,
+      "skillID": 6201041,
+      "castPointTime": 350,
+      "skillRange": 1,
+      "effectSize": [
+        520,
+        220
+      ],
+      "maxDistance": 300,
+      "staminaCost": 4.0
+    }
+  ],
+  "localPolicies": {
+    "scope": "Map2 player equipped primary only; normalAttack69, shape1/3, num1, castPoint>0, no missile asset",
+    "contactTime": "first observed world tick at or after release; current cursor and actor position, current target sector, current combat properties",
+    "geometry": "existing conservative circle target footprint and rectangle/cone resolution; effectSize determines reach for these shapes; at most32 targets; overlapping radius+25 remains hittable; exact retail hitbox/shape rules not proven",
+    "staminaCooldown": "charged once on acceptance, existing cooldown curve unchanged; no refund after cancellation",
+    "capacity": "16 pending melee jobs; independent from live missile64 limit",
+    "deadline": "native release +1000ms; accepted swings survive button release, cancel when weapon ID/UUID/hero/room/map/world/entity/scene/life/safe/control/channel/confusion is invalid",
+    "retries": "250ms after damage settlement failure, warning at most5000ms; freeze initial contact identities and angle; mark successful contacts once; skip removed/dead/replaced/hidden/protected contacts",
+    "retryDamage": "uses current actor/target combat properties at actual successful settlement; a sampled contact can settle after target moves; source still must remain valid",
+    "events": "native useSkill and skillCastPoint on acceptance; skillCast once on release; existing beHurt/subHP/crit/OnHit/XP/drop path per successful contact; skillStop on completion/cancellation",
+    "lifecycle": "existing primary.reset also clears melee jobs on portal/death; scene swap initializes empty jobs"
+  },
+  "openMechanics": [
+    "special normalAttack passives/distanceDamFac/extra selfBuffArgs not completed by timing change",
+    "other primary types including609/422/425/770 and special3285 remain outside this scheduler",
+    "active skills/hero windups/attack-speed animation scaling and exact retail timing/geometry remain partial",
+    "terrain line-of-sight not newly introduced for melee; previous geometry policy remains",
+    "general reliable delivery of all attack VFX/events not restored; reward retry prevents reapplying successful contact, not a durable event queue",
+    "Windows client rendering not tested"
+  ],
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

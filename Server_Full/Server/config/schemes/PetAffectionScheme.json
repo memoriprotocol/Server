@@ -1,0 +1,25 @@
+{
+  "PetAffection": [
+    {
+      "level": 0,
+      "level0UpExp": 1,
+      "level1UpExp": 10,
+      "level2UpExp": 10,
+      "level3UpExp": 20
+    },
+    {
+      "level": 1,
+      "level0UpExp": 2,
+      "level1UpExp": 25,
+      "level2UpExp": 25,
+      "level3UpExp": 50
+    },
+    {
+      "level": 2,
+      "level0UpExp": 3,
+      "level1UpExp": 40,
+      "level2UpExp": 40,
+      "level3UpExp": 100
+    }
+  ]
+}

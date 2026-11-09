@@ -1,0 +1,80 @@
+{
+  "Pass": [
+    {
+      "ID": 1,
+      "startTime": 1704038401,
+      "endTime": 1706716799,
+      "startShow": 1704038400,
+      "endShow": 1706802900,
+      "maxLevel": 120,
+      "expLevel": 2000,
+      "mediumPrice": 888,
+      "highPrice": 1688,
+      "weekExpLimit": [
+        30000,
+        30000,
+        30000,
+        30000,
+        30000
+      ],
+      "showItemID": 271304,
+      "expPrice": 50,
+      "mediumItemID": [
+        500001,
+        281007
+      ],
+      "mediumItemNum": [
+        1,
+        1
+      ],
+      "checkInExp": 2500,
+      "highItemID": [
+        291009
+      ],
+      "highItemNum": [
+        1
+      ],
+      "giftExp": 60000,
+      "buffID": 715,
+      "rebateDesc": 1000
+    },
+    {
+      "ID": 2,
+      "startTime": 1706803200,
+      "endTime": 1709222100,
+      "startShow": 1706802901,
+      "endShow": 1711900500,
+      "maxLevel": 120,
+      "expLevel": 2000,
+      "mediumPrice": 888,
+      "highPrice": 1688,
+      "weekExpLimit": [
+        30000,
+        30000,
+        30000,
+        30000,
+        30000
+      ],
+      "showItemID": 272307,
+      "expPrice": 50,
+      "mediumItemID": [
+        500002,
+        281014
+      ],
+      "mediumItemNum": [
+        1,
+        1
+      ],
+      "checkInExp": 2500,
+      "highItemID": [
+        291013
+      ],
+      "highItemNum": [
+        1
+      ],
+      "giftExp": 60000,
+      "buffID": 715,
+      "rebateDesc": 1888
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[STAGE61] Native pass refresh loop fixed; weekly XP, atomic event rewards, live task updates and coin-spend progress; full 1:1 unfinished; Stage44 walls preserved
+[WORLD CONTENT] map=2 {"mob":289,"boss":4,"tree":160,"stone":100,"ore":80,"well":24,"statue":8,"chest":104} waterCells=857 render=UNVERIFIED
+[GAME WS] upgrade from 127.0.0.1 path=/
+[GAME WS] connected
+[GAME WS] handshake
+[GAME WS] handshake ack uid=guest
+[GAME ROUTE] connector.entryHandler.login uid=guest bytes=27
+[game] login uid=1 account=smoke-actor lang=
+[GAME ROUTE] game.passHandler.passInfo uid=1 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=1 bytes=0
+[GAME ROUTE] game.passHandler.getPassAward uid=1 bytes=0
+[PASS] game.passHandler.getPassAward PASS_REWARD_UNAVAILABLE
+[GAME ROUTE] game.activityHandler.loadActivity uid=1 bytes=0
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=1 bytes=5
+[GAME ROUTE] game.activityHandler.getActivityAwards uid=1 bytes=5
+[ACTIVITY] game.activityHandler.getActivityAwards ACTIVITY_REWARD_UNAVAILABLE
+{"status":"PASS","version":"0.39.0-stage61-pass-reward-cycle","authHTTP":true,"gameHTTP":true,"websiteHTTP":true,"passCycleRealWebSocket":{"authenticated":true,"nativeReadReplyWithoutReset":true,"automaticWeeklyXPAndTaskPush":true,"rewardPersisted":true,"repeatedClaimRejected":true,"sevenDayRewardPersisted":true},"isolatedPaymentTestMode":{"realHTTPWebsiteToAuthenticatedGameCallback":true,"missingSecretRejected":true,"openingDoesNotGrant":true,"creditPersisted":true,"repeatDoesNotDoubleCredit":true,"reconciliationUsesCurrentBalance":true},"maps":19,"clientOpenMaps":17,"frozenArmorVariants":6,"livePaymentProviderCharged":false,"windowsClientRendered":false}

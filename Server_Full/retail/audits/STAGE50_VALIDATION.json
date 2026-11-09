@@ -1,0 +1,41 @@
+{
+  "stage": 50,
+  "version": "0.28.0-stage50-map2-battle-pets",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "fullRestorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 535,
+    "passed": 535,
+    "failed": 0,
+    "newStage50": 43,
+    "nativePrefabImportsVerified": 74,
+    "nativeVMSources": [
+      "CCPetMountComp.getPetResPath",
+      "CCPetComp.summonPet/recycelPet",
+      "CCPetComp.allPets callback",
+      "CCBodyPetAnimComp.playAction"
+    ]
+  },
+  "preservation": {
+    "wallsStage44ByteIdentical": true,
+    "fiveCenteredPortalsUnchanged": true,
+    "cityCodeUnchanged": true,
+    "websiteClientPatchUnchanged": true,
+    "otherMapImplementationsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "version": "0.28.0-stage50-map2-battle-pets",
+    "petCIDs": 22,
+    "pactSkills": [
+      2292,
+      2348,
+      2362,
+      2975
+    ],
+    "windowsClientRendered": false
+  }
+}

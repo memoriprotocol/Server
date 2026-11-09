@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "version": "0.55.0-stage84-level-up-dan-records",
+  "transport": "real HTTP + authenticated WebSocket, original 3.12.7 protobuf frames",
+  "naturalFishingIntervalMS": 12000,
+  "firstCatchXP": 200,
+  "firstCatchLevel": 5,
+  "saleXP": 100000,
+  "danResult": 100200,
+  "danRanks": 12,
+  "flags": {
+    "nativeFishingCatch": true,
+    "nativeExchangeCommand89": true,
+    "visibleUpgradeLevel": true,
+    "duplicateSaleRejected": true,
+    "nativeMineRecords": true,
+    "globalRanking": true,
+    "stage83HallReentryPreserved": true,
+    "noExtraToMain": true,
+    "freshActorLevelOne": true,
+    "windowsRenderedClient": false
+  },
+  "elapsedMS": 12270
+}

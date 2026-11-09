@@ -1,0 +1,30 @@
+[
+  {
+    "path": "arena/skills/arrows_unison/prefab/missile",
+    "index": 41728,
+    "pack": "111e7d31-0abc-4cd9-addd-50055504cb0f",
+    "sha256": "328bd77ba83ee7e8f1e22c8b9ab2163726d1c5a6cc34547b163cc69e6dedbe95",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/hurricane/prefab/missile",
+    "index": 54274,
+    "pack": "e8d0a16a-c307-43cd-b81a-88a50757c91f",
+    "sha256": "f7a9937c28842ea97042038fc12f0cd8cc2247eac95caf2bcf2ccfb477db6450",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/sleep_dart_skill/prefab/missile",
+    "index": 17759,
+    "pack": "0a290d630",
+    "sha256": "3ea9d979cbfea91387f0916983cc9aa714f9d5ec12c9959de9cc16922542f2ed",
+    "crcVerified": true
+  },
+  {
+    "path": "arena/skills/thunder_skill/prefab/missile",
+    "index": 17432,
+    "pack": "0ad152d3e",
+    "sha256": "d505fd98db2225f60cbe177f31f8c3fe4cff72f53ece975df0d6013c198989ad",
+    "crcVerified": true
+  }
+]

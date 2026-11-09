@@ -1,0 +1,7 @@
+{
+  "schema": "heroland.stage36.map2-city-decoration-empty",
+  "mapId": 2,
+  "description": "The nine temporary Stage35 decorative props were deleted at operator request. No new props will spawn until individually selected and re-enabled by the operator. City walls, bridges, and NPCs are in separate config files.",
+  "enabled": false,
+  "objects": []
+}

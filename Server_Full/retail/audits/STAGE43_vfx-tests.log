@@ -1,0 +1,30 @@
+✔ peace AI ignores an unprovoked player, retaliates after a hit, then loses expired hate (19.283955ms)
+✔ boss acquires within SeekRange and returns outside GuardRange (2.642227ms)
+✔ unseen creatures cannot acquire players (1.520966ms)
+✔ returning monster resets only on arrival and clears its target (1.209642ms)
+✔ native sleep state is applied and a hit wakes the creature (1.530059ms)
+✔ wizard F damages cursor ground and repeats at hitCd (6.765251ms)
+✔ Nun heals over time and caps HP (1.838841ms)
+✔ paladin creates and expires a real shield (1.728075ms)
+✔ RMB damage consumes native stamina once and respects cooldown (4.639123ms)
+✔ protobuf-default skill angle preserves the cursor at close overlap (2.447367ms)
+✔ native enemy stun expires cleanly (1.476871ms)
+✔ death stops outgoing skill jobs (1.901533ms)
+✔ verified native VFX imports exclude missing vampire layers and obsolete Sparta entity (2.895654ms)
+✔ wizard creates native snowstorm at cursor then removes it (24.5625ms)
+✔ Sparta uses skin-aware buffs 586/705 and removes them (3.37572ms)
+✔ vampire channel blocks attacks and aim while native VFX and damage ticks run (10.625039ms)
+✔ bard follows caster, heals, and appears in room snapshots (2.786811ms)
+✔ paladin shields allies from caster HP with native caster skin (2.435728ms)
+✔ Nun uses native skillCast without duplicate VFX entity (1.26913ms)
+✔ unknown skins never substitute later-version VFX entities (1.263682ms)
+✔ death clears scene VFX and channel immunity for room peers (3.626382ms)
+✔ leaving destroys VFX and excludes it from future snapshots (2.048692ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 366.320256

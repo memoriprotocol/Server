@@ -1,0 +1,162 @@
+[
+  {
+    "path": "ISSUES_STAGE73_RU.txt",
+    "change": "added",
+    "sha256": "3a106399da3733e3f146a826955184add47dba7dc88974eddc6bfb91c42610ae"
+  },
+  {
+    "path": "README_STAGE73_RU.txt",
+    "change": "added",
+    "sha256": "26f0fc3a14e328a056d9ec9f5a636ffc49d7ee8ff8c818ce384d9669916ebcb5"
+  },
+  {
+    "path": "Server_Full/README_STAGE73_RU.txt",
+    "change": "added",
+    "sha256": "26f0fc3a14e328a056d9ec9f5a636ffc49d7ee8ff8c818ce384d9669916ebcb5"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "7d7e1b6a5827e714b2354afad26356a02fae5920135e20229bc9d95ab8492ba0"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-passives-3127.js",
+    "change": "modified",
+    "sha256": "01f6cd435f590a415f0ce3a449a1cb2513bed1346d65dfc538ef282c4d06844e"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "d18fad8d3bd542c54829051690b670eacf28c685878957d0179a06a6dccc5b68"
+  },
+  {
+    "path": "Server_Full/Server/lib/mob-control-3127.js",
+    "change": "modified",
+    "sha256": "85f4d9e02e4698fa4b2f261ef798486268ebbff40af2cea4dccef82e4ad0cc37"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "ef28637027a264847b1068d7553c3a45fe2ffb0eec73f4a7addd2c12aca3b849"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "modified",
+    "sha256": "a589cbaec06ab01f8a577b3993079c6dc5fdf2dbe9c896ef17b813042b1820ec"
+  },
+  {
+    "path": "Server_Full/Server/lib/treant-3127.js",
+    "change": "added",
+    "sha256": "a4c111e55cdd74045aa0e896b3fbda8a7e5ae9d3eb37aff625114b2f16d88c1d"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage73-native.js",
+    "change": "added",
+    "sha256": "7c6a299844447a21a9f0a992490315cfd8ba96aa26b46a72ac9bf8e8f6d9884e"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage73-native-treant.test.js",
+    "change": "added",
+    "sha256": "c162cc12fd077a1695312773226787bb318d28856aa0ae98b54ce6d83921230d"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage73-treant.test.js",
+    "change": "added",
+    "sha256": "a02e879b211901e23eb6913f98bd1f7d7c512744d257c13804c18583eb12a460"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "b56edb273c7faa33db8b8dc17d0a6feb74693fe312c8e33835d3ee5f77fbb502"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "007de24e287fc41e5926f0aa80b4ed6207e4d75231da0a6daa5635c8c3466945"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "ed28b8b2c939843b2463b14c61a6e0a8d7a7cb52f9dc2960dbdc6243f11aa2b7"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_SMOKE.log",
+    "change": "added",
+    "sha256": "516073b98fa570ad462fbd3e9f251181ce35ff68f671f215e4c9d02d36f743aa"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_TESTS.log",
+    "change": "added",
+    "sha256": "0066e7a320e7e99d8911c98ebaa9cc5d7cdeae0e41b4f112d90717dd6cef9151"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_TREANT.json",
+    "change": "added",
+    "sha256": "b566bca65f60a46cdef696fa029f8e68f78428e46c74d8dc19243e9f3150c904"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_VALIDATION.json",
+    "change": "added",
+    "sha256": "e9649e6fc75dcd4ff885d7375d7aeccc3a407f367ba8ae2ee46b176278a7663c"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE73_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/CCAsyncBulletEntity.ts",
+    "change": "added",
+    "sha256": "6cb08bb1d333166dae1a44d91741c75746d55e14ab96b5c5d6255f1c6def319b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/CCDryads.ts",
+    "change": "added",
+    "sha256": "5e410b0c93fa45eccceb23df5256e11833d2892363228e56baeda2add2e79be3"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/CCScaleBulletEntity.ts",
+    "change": "added",
+    "sha256": "66c203916eb15b4b7ca20ebc28506d4578b09b704ce2041699617e4376f1feba"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/PathUtil.ts",
+    "change": "added",
+    "sha256": "070d900a72f4109b06ebe3e0e7b5d198ceba750ba15ac398f1883929515a2fb8"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/SkillCfg.ts",
+    "change": "added",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/SkillResUtil.ts",
+    "change": "added",
+    "sha256": "cff319dbf840e6cd30a5b3c1ca1efa9b4b81cb6ee1fe7b5c883dd8b16c9c5987"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/SkillSchemeManager.ts",
+    "change": "added",
+    "sha256": "8fd246c9a652b6dff5e35a1d86f6541bf9d271bd3584164ca1fcc0ec423f14e1"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/native-descriptions.json",
+    "change": "added",
+    "sha256": "2e8979661642a020604ea086aa3d552914d812ae49500b92701669b1880343dc"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage73/treant-assets.json",
+    "change": "added",
+    "sha256": "428adfba04350831d15d215a0c8df78dfd20e0e0807f352406409445a7765682"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "5ea92aa67aa36e5553bb82c438bfcffe024d0ef61c7692182174600e44842f9c"
+  }
+]

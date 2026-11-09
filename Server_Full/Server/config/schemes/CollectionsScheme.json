@@ -1,0 +1,184 @@
+{
+  "Collection": [
+    {
+      "ID": 1,
+      "Name": "孽火之源",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29001,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_01/spriteFrame",
+      "IsShow": true,
+      "Number": "627"
+    },
+    {
+      "ID": 2,
+      "Name": "冰冻的牙齿",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29002,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_02/spriteFrame",
+      "IsShow": true,
+      "Number": "275"
+    },
+    {
+      "ID": 3,
+      "Name": "硕大的冻干脚掌",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29003,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_03/spriteFrame",
+      "IsShow": true,
+      "Number": "276"
+    },
+    {
+      "ID": 4,
+      "Name": "引路人雕塑",
+      "IsStar": true,
+      "Quality": 4,
+      "PiecesID": 29004,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_04/spriteFrame",
+      "IsShow": true,
+      "Number": "009"
+    },
+    {
+      "ID": 5,
+      "Name": "紧握的双手",
+      "IsStar": true,
+      "Quality": 4,
+      "PiecesID": 29005,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_05/spriteFrame",
+      "IsShow": true,
+      "Number": "425"
+    },
+    {
+      "ID": 6,
+      "Name": "冥界打工仔",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29006,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_06/spriteFrame",
+      "IsShow": true,
+      "Number": "309"
+    },
+    {
+      "ID": 7,
+      "Name": "编制者牌爽身粉",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29007,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_07/spriteFrame",
+      "IsShow": true,
+      "Number": "321"
+    },
+    {
+      "ID": 8,
+      "Name": "腐化的光辉之刃",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29008,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_08/spriteFrame",
+      "IsShow": true,
+      "Number": "104"
+    },
+    {
+      "ID": 9,
+      "Name": "圣甲虫的壳",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29009,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_09/spriteFrame",
+      "IsShow": true,
+      "Number": "105"
+    },
+    {
+      "ID": 10,
+      "Name": "仙人掌盆栽",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29010,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_10/spriteFrame",
+      "IsShow": true,
+      "Number": "106"
+    },
+    {
+      "ID": 12,
+      "Name": "恩比卢卢的假眼",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29012,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_12/spriteFrame",
+      "IsShow": true,
+      "Number": "108"
+    },
+    {
+      "ID": 13,
+      "Name": "灰烬拾者",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29013,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_13/spriteFrame",
+      "IsShow": true,
+      "Number": "901"
+    },
+    {
+      "ID": 15,
+      "Name": "大蝙蝠",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29015,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_15/spriteFrame",
+      "IsShow": true,
+      "Number": "903"
+    },
+    {
+      "ID": 16,
+      "Name": "大逃杀杀人",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29016,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_16/spriteFrame",
+      "IsShow": true,
+      "Number": "904"
+    },
+    {
+      "ID": 17,
+      "Name": "大章鱼",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29017,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_17/spriteFrame",
+      "IsShow": true,
+      "Number": "905"
+    },
+    {
+      "ID": 18,
+      "Name": "珊瑚",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29018,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_18/spriteFrame",
+      "IsShow": true,
+      "Number": "906"
+    },
+    {
+      "ID": 19,
+      "Name": "大蜥蜴",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29019,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_19/spriteFrame",
+      "IsShow": true,
+      "Number": "907"
+    },
+    {
+      "ID": 20,
+      "Name": "莉娅",
+      "IsStar": true,
+      "Quality": 5,
+      "PiecesID": 29020,
+      "Icon": "arena/ui/layers/collection/icon/ui_collection_icon_20/spriteFrame",
+      "IsShow": true,
+      "Number": "908"
+    }
+  ]
+}

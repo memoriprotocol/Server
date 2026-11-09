@@ -1,0 +1,125 @@
+{
+  "path": "arena/npc/415/npc",
+  "index": 15001,
+  "pack": "0798e67ba",
+  "sha256": "c3cc8e39713b8c31fbdc25ceadc7205bde981f7af63a500641a59394dc949102",
+  "bytes": 12120,
+  "crcVerified": true,
+  "colliderCandidates": [
+    {
+      "type": "cc.PolygonCollider2D",
+      "fields": {
+        "_sensor": true,
+        "node": -20,
+        "__prefab": [
+          0,
+          "6bhUI92btE4JI4B5qJT8A0"
+        ],
+        "_points": [
+          [
+            [
+              0,
+              -453.5,
+              251.2
+            ],
+            [
+              0,
+              -319.9,
+              614.7
+            ],
+            [
+              0,
+              307.4,
+              636.5
+            ],
+            [
+              0,
+              428.7,
+              440.5
+            ],
+            [
+              0,
+              438.5,
+              175.3
+            ],
+            [
+              0,
+              225.9,
+              148.1
+            ],
+            [
+              0,
+              172.4,
+              1.4
+            ],
+            [
+              0,
+              -125.6,
+              -1.2
+            ],
+            [
+              0,
+              -278.3,
+              181.3
+            ]
+          ],
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "type": "cc.CapsuleCollider",
+      "fields": {
+        "_radius": 80,
+        "_cylinderHeight": 150,
+        "node": -59,
+        "__prefab": [
+          0,
+          "21+RW4sxBCcZCy6A6MDaxS"
+        ]
+      }
+    },
+    {
+      "type": "cc.BoxCollider",
+      "fields": {
+        "node": -60,
+        "__prefab": [
+          0,
+          "2cKGxTaFBKEpWA6F5xnBrs"
+        ],
+        "_center": [
+          1,
+          5,
+          415,
+          0
+        ],
+        "_size": [
+          1,
+          500,
+          200,
+          1
+        ]
+      }
+    },
+    {
+      "type": "cc.CircleCollider2D",
+      "fields": {
+        "_sensor": true,
+        "_radius": 600,
+        "node": -81,
+        "__prefab": [
+          0,
+          "a88hB1DaxAh7Qf2jU04a/t"
+        ]
+      }
+    }
+  ]
+}

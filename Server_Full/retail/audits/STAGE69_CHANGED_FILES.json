@@ -1,0 +1,187 @@
+[
+  {
+    "path": "ISSUES_STAGE69_RU.txt",
+    "change": "added",
+    "sha256": "a6ce07a88db31bc81eaa8b45c12e97a0b5f5bf142ac9b43e69328f06a35799e2"
+  },
+  {
+    "path": "README_STAGE69_RU.txt",
+    "change": "added",
+    "sha256": "2c1eb8af394a5804901b4f73856227f8cccee9e690da2a378456818321d0a84f"
+  },
+  {
+    "path": "Server_Full/README_STAGE69_RU.txt",
+    "change": "added",
+    "sha256": "2c1eb8af394a5804901b4f73856227f8cccee9e690da2a378456818321d0a84f"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "change": "modified",
+    "sha256": "09dd04206315a873a1e0d187824d13eb54f33603b76375b9b6469350e0458ee3"
+  },
+  {
+    "path": "Server_Full/Server/lib/admin-catalog-3127.js",
+    "change": "modified",
+    "sha256": "1d382a5cfc199f13ade6359edf64654e44b8cd2986b064ffc92edf833cae9bc9"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "change": "modified",
+    "sha256": "c6d6781395a9600bd76c89ea8488fb40a5ce67920dce6cb53f4159040919243f"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "change": "modified",
+    "sha256": "9f8da4591a29084846e8c17dde61ece6a0bb693003e1b4314710c1e7c270334f"
+  },
+  {
+    "path": "Server_Full/Server/lib/inventory.js",
+    "change": "modified",
+    "sha256": "d20429b724c20a177aeb2fe7133c2155028891be84f43d3b8171b27c1985f530"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "change": "modified",
+    "sha256": "3e24d071961b9f1db383697f5b638cfb63b37c66d7ed3d88e99479841ce0f46d"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-recovery-3127.js",
+    "change": "modified",
+    "sha256": "3afcbb8da06609d386b4b0aa5937327a76527652aea993c581e2d8f289b745ea"
+  },
+  {
+    "path": "Server_Full/Server/lib/progression-3127.js",
+    "change": "modified",
+    "sha256": "f93865be138d1813469b8a206f8a0d5796a67d4a49e5f9af3bc0b1905012a9d2"
+  },
+  {
+    "path": "Server_Full/Server/lib/relics-3127.js",
+    "change": "added",
+    "sha256": "3656584cbdb2ff5fbcdef0b95b0ffec7d0c81cd10512e346494fc7351d6d45e8"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "modified",
+    "sha256": "33fd9b4ff5659d539e79f03238704195be26febf411ee8b504660a232db9cbd1"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "2a4e9cd752705f6744d2540286d5b7c66c3c0f77d816075772d3ba7a90a1e897"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage69-native.js",
+    "change": "added",
+    "sha256": "f21fb29c5e1a814a77b858e73be8abf64cec27476fb58d6ec581ec9798467cca"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage69-native-collection.test.js",
+    "change": "added",
+    "sha256": "e362fe88696a2b666a8256b22cf84f4a448d8760c5bb407746b857dfae6b80e3"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage69-relic-archive.test.js",
+    "change": "added",
+    "sha256": "3ab94b8ce099a93ea0e1af902b0f94bc3235159372020dc5168a50842e3d53ba"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "30d2ccbef21efaa3f01cc6d03296e9d7c463a718ca078c999bf8d60fb4ade0ff"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "40aa64775d233c51e81d8027ae2e286a09ebd5e2463d0c0d73e7735858bfc50b"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_RELIC_ARCHIVE.json",
+    "change": "added",
+    "sha256": "844b8eb277f83815fa94c73dba5a8b0c8164624add68d63f66b981576928a1c3"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "d27f240bc0cd91d983ddfdc8ba16dbd78bd2ac75d0abe2a154fedfe52855b2c1"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_SMOKE.log",
+    "change": "added",
+    "sha256": "1f055cb5370dd3b3b8ccfde77b13f78274b0e819dae4b1f8acbf14b7e956e8e7"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_TESTS.log",
+    "change": "added",
+    "sha256": "77c1968b07b6b76346b11210315d27d2a9d51b5038e1d0c8352fb7680ed6908f"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_VALIDATION.json",
+    "change": "added",
+    "sha256": "74d494a3dcd5504aabd59bb2252fcbe224c515ab100d529f5b170427dedb4259"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE69_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionController.ts",
+    "change": "added",
+    "sha256": "de3be90d64b197cddc383bd5511f389ccaa40df2ef4c814c8d8e4da474b116b5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionModel.ts",
+    "change": "added",
+    "sha256": "609636344d5f956b999beca2f62d47c59a153ed1276ca3ec5928d223659dff19"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionNetwork.ts",
+    "change": "added",
+    "sha256": "543c05a91c29a6df298b96336cb915eab48708748e264d407a80b81683af4c5f"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionStar.ts",
+    "change": "added",
+    "sha256": "d9f571b45074945bf5fdde5cbdc94ea5a7a9cd4901cbe86baca641ed81687151"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionStarManager.ts",
+    "change": "added",
+    "sha256": "2403a243a13bc21399c80987cd06745fe8aa6a70d789332613cb94333b4648de"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionTask.ts",
+    "change": "added",
+    "sha256": "b3625743b3a8ad7bfd436d3ddcf0d7e56b2afa16f730d17944ba4816e23d4c29"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionTaskManager.ts",
+    "change": "added",
+    "sha256": "a38588e7818bb5a8126ac0346a7a71ae717e78648d33dbc08c720a6626f172c3"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionView.ts",
+    "change": "added",
+    "sha256": "c4dc6b884e5e8e282a51d65f4df95d3ba3ff55407c61017851733ab9c2d5d8e9"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/Collections.ts",
+    "change": "added",
+    "sha256": "ef41e9854b384705b9df400995d8c5e731a6debc88c8ca9bf7e939b095e1add1"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/CollectionsManager.ts",
+    "change": "added",
+    "sha256": "d4251e92c46b89e8eb8cb9bddb45d4c48e02fe5aef4a7af74c539bf2a59f7981"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage69/native-descriptions.json",
+    "change": "added",
+    "sha256": "3c1f43aaf44b750c6aed66107cc4d6abc459b0b8374087e0add774221f2308ba"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "88acd221c084911d706154f39e9690bd7dfc8d30fc689445935f8acd6a8bb6fd"
+  }
+]

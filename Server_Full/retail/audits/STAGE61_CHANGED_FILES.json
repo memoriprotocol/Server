@@ -1,0 +1,152 @@
+[
+  {
+    "path": "ISSUES_STAGE61_RU.txt",
+    "change": "added",
+    "sha256": "079362bf894fec8889f29c503bc1efbc1c6272a49e2cb9e931e9435d86dcdcd3"
+  },
+  {
+    "path": "PASS_TASKS_STAGE61_RU.txt",
+    "change": "added",
+    "sha256": "010e8fee1bd60bb8dae53390cc0d083823190ecac13c4036fd9064fbaf61fbef"
+  },
+  {
+    "path": "README_STAGE61_RU.txt",
+    "change": "added",
+    "sha256": "557c37532f01335dc4eb5cc96ef5a30c14b90314f19864310a1fc0fb2325f71c"
+  },
+  {
+    "path": "Server_Full/README_STAGE61_RU.txt",
+    "change": "added",
+    "sha256": "557c37532f01335dc4eb5cc96ef5a30c14b90314f19864310a1fc0fb2325f71c"
+  },
+  {
+    "path": "Server_Full/Server/lib/activities-3127.js",
+    "change": "modified",
+    "sha256": "506da311741973f94339c48226d3e556c97686921189e9a4ecc204eb37713643"
+  },
+  {
+    "path": "Server_Full/Server/lib/collection-3127.js",
+    "change": "modified",
+    "sha256": "ba7c433ab246a912b07d8c55f80b54cbe4bff11751b9947a8a5f290fcde19dc0"
+  },
+  {
+    "path": "Server_Full/Server/lib/commerce-3127.js",
+    "change": "modified",
+    "sha256": "fa13acd901d22d2610728238db14a4e32172e61ea95e1d1c6ee2b0fa670900bd"
+  },
+  {
+    "path": "Server_Full/Server/lib/event-settlement-3127.js",
+    "change": "added",
+    "sha256": "2361a3bf5f020d7a3167ff4abd14a24553a31c3f8ef90b961262c54f4d869767"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "change": "modified",
+    "sha256": "05cab29fe22b2eda4ca6513705f5d50cb73a5f5334f9bc9e6864fad6ac7c2951"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-switch-3127.js",
+    "change": "modified",
+    "sha256": "f638a952948f5656bfde1eff1345beb567a7453fe0c6d698a8ab548dd90ad5f8"
+  },
+  {
+    "path": "Server_Full/Server/lib/pass-restoration-3127.js",
+    "change": "added",
+    "sha256": "90dc317f88b4a0f97aea61c9a03de976cb0ebd1858b5f0677ba73ecebb226cac"
+  },
+  {
+    "path": "Server_Full/Server/lib/passes-3127.js",
+    "change": "modified",
+    "sha256": "87d28896f6df602e0b1150fc126d278574cfa7ef28fa41d3dea36552c474edcf"
+  },
+  {
+    "path": "Server_Full/Server/lib/talents-3127.js",
+    "change": "modified",
+    "sha256": "69ed10beaf626e0c8363ab867d0a66a1361bc092c442600471a75917ebfc45df"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage42-restoration.test.js",
+    "change": "modified",
+    "sha256": "e36ec3e6d48f7a426f55846637d51e9412dc8ced414f79f5a5109f91c1b49dfe"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage61-pass-cycle.test.js",
+    "change": "added",
+    "sha256": "7fdeabf4c4aeaae6063237fb22f9d5a1b26f9843c5c10b14443276ffa2e506a2"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "0030c8521b31f4f6afdad33a889d23f7ceaccd50bca964d90bb16cff6224903d"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "bb60e1c7650fa303389e8b35388e70f14af6177db227fa6d9750eb1bdf521624"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_PASS_REWARD_CYCLE.json",
+    "change": "added",
+    "sha256": "b5b543cfbc7acda5028beffa52a0c8238e4af4eb6e8eeab2c80b6f1ef9c4db44"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_SMOKE.log",
+    "change": "added",
+    "sha256": "b646c7c1d559cdb9a8521192c4ef2ea0751da4ed59ec79b38052cefb5e5ce95b"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_TASK_COVERAGE.json",
+    "change": "added",
+    "sha256": "fbceae211d44254ef8ca1d13eda7368096fca55452d228c2564ababc6e7f2437"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_TESTS.log",
+    "change": "added",
+    "sha256": "71e47ad2bc3681187c862de6ee41eaa570a19f9d0d9716045ca395379c0933d3"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_VALIDATION.json",
+    "change": "added",
+    "sha256": "eb7581e94fe16af3b0eedbde88878d8577ef7caf0999f085a89720f9616b6d95"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE61_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/ChallengeItemView.ts",
+    "change": "added",
+    "sha256": "20e6f1cdbf669298e8e821b057341fa31035fe0b97a31a2e45c0352ea394af4d"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassTask.ts",
+    "change": "added",
+    "sha256": "1e9b627ac30cc84505dec860f1c675093ab6dbe6fb2800586b41ec6f491d6d7a"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassportsController.ts",
+    "change": "added",
+    "sha256": "35299a5d90da3a7f3f63e85cb6ab2c6c0a4c6eefe0654e9d0e0ec28b53ebee33"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassportsNetwork.ts",
+    "change": "added",
+    "sha256": "6e291f5b83455e0a217ccd1d0d70a8d438ffa33960cb13c968a4ffca27231a9a"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/PassportsTaskView.ts",
+    "change": "added",
+    "sha256": "f2a29fd6ec165e62a1236c50b2997f80bdfe4d0d99b89e1363aa20ab305eb5fe"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage61/TaskItemView.ts",
+    "change": "added",
+    "sha256": "ea16353e7bbccdb3e8d4aade76992209992263fe60566b2d904ea0392e2b749e"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "baad476d807c75ff3e5b9d67f8d0359a39be6f21833beae50edb45cc29e6fcb2"
+  }
+]

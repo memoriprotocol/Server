@@ -1,0 +1,345 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage76/CCBodySummonsAnimComp.ts",
+      "sha256": "d6bb36fe6d53901614abc4df449fb703ffa2fbc3a12eae708a36ab592e9403c3",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage76/CCKingSummons.ts",
+      "sha256": "e2775c4312adfd57762141746455680c2f9acb899f1e68283f02f5f4935f6020",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage76/CCSummons.ts",
+      "sha256": "7df557cfc5dcdd3b853047174bc17c53ccaf2f88c765ace18bd970bb5a17c944",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage76/SkillSchemeManager.ts",
+      "sha256": "8fd246c9a652b6dff5e35a1d86f6541bf9d271bd3584164ca1fcc0ec423f14e1",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "arena/heroskill/301000_skill_tx/prefab/301000_skill_tx_a01",
+      "index": 12227,
+      "pack": "05ae879ed",
+      "importSHA256": "2b1ad7e479a95d7019cc46f54250b800369e2d652cfa569b0f23aa479d556edb",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/301000_skill_tx/prefab/301000_skill_tx_a02",
+      "index": 47532,
+      "pack": "6d624005-a9b4-4dbb-ac58-f834116e48e9",
+      "importSHA256": "7b28f0f5de4582e738ad6ce30101769c19f85279d0a79e1550efd58762e5fa1b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/301000_skill_tx_1002/prefab/301000_skill_tx_a01",
+      "index": 48861,
+      "pack": "861bdd3b-c718-416c-bf56-271b322fc88e",
+      "importSHA256": "a664b7e636285c915124dcd2216f538b0856b5adc3e49b12c4dc49e42b5369c8",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/301000_skill_tx_1002/prefab/301000_skill_tx_a02",
+      "index": 46252,
+      "pack": "55535c1f-29dd-4f37-976d-2805b68c5cc9",
+      "importSHA256": "7b28f0f5de4582e738ad6ce30101769c19f85279d0a79e1550efd58762e5fa1b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/301000_skill_tx_1003/prefab/301000_skill_tx_a01",
+      "index": 15065,
+      "pack": "07c9bf658",
+      "importSHA256": "3f17ec41733dcef455822806ad5784c0a220cd6f5d89b0388e236341176fd02c",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/301000_skill_tx_1003/prefab/301000_skill_tx_a02",
+      "index": 33681,
+      "pack": "0efbed169",
+      "importSHA256": "a5e6e415ee1f800dd2cf2a88472a6226b6400b45c9190081f58a20c1814c9d77",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/wanglingshushi/prefab/demon_fire",
+      "index": 26262,
+      "pack": "07c023a01",
+      "importSHA256": "4995d3c48f8dd6bfb84443fa2a0350cda47046e3d4226e19650fcd3419876664",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2001/summon",
+      "index": 20384,
+      "pack": "0fd4d2582",
+      "importSHA256": "8002adefe089eafad4e51432377f07a6f876c9bbe55f8404db9aba7daa236eb1",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2001/summon_502",
+      "index": 27088,
+      "pack": "0172c1633",
+      "importSHA256": "6106588deb6754deaf7f3ba51ee252ca95689307a7c5f903614aad481dfc66ac",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2001/summon_503",
+      "index": 25870,
+      "pack": "0ce34ce44",
+      "importSHA256": "9d448afde67235311eed0518234363f3a907320f86fa83e98a61c007710e89fd",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2002/summon",
+      "index": 32414,
+      "pack": "0a27ab67b",
+      "importSHA256": "2ceb07981beded6be3cace4dacaa2a13a812c1581b5adf63d362dfce21fdec38",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2002/summon_502",
+      "index": 7980,
+      "pack": "08e3d0a92",
+      "importSHA256": "81c1d54f0eb363cd53d7b240c58330e5abb0fd4cee69ed862d9359c962630976",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2002/summon_503",
+      "index": 36983,
+      "pack": "038085a55",
+      "importSHA256": "7480031bfec3e0657e312a86400fcbcca13c2e8546bb1d9cc779985da57d62c9",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2003/summon",
+      "index": 39578,
+      "pack": "06fc7711a",
+      "importSHA256": "674dbb7e7819e671a85fce943de5308dd8ca8bc2e119089a710e5432c50d0639",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2003/summon_502",
+      "index": 26319,
+      "pack": "05e1764bc",
+      "importSHA256": "259a2f8fa81ccfa417e4e2e78ddd05e559c3f69dc9bf4ad9931fc5caca4974ba",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2003/summon_503",
+      "index": 33556,
+      "pack": "0323b4922",
+      "importSHA256": "12275728dbcc9a446e9c254e645cfc12738ba294b9aae079e26ec276e51adb02",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2004/summon",
+      "index": 19433,
+      "pack": "044ce0a72",
+      "importSHA256": "a422712d73b30298a295eb56d643f94b2556a8944e59904278e1f3ea473d9bb1",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2004/summon_1002",
+      "index": 18659,
+      "pack": "0121b6fda",
+      "importSHA256": "6368ce89d0bcd6b380c67cb1b1097628ef7c2085fd1d56b157d850e409970da5",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2004/summon_1003",
+      "index": 15539,
+      "pack": "0abe792af",
+      "importSHA256": "3d83c3c95d40e2cbd05c42188a044de1986198f0bcf93303062775bba81717a7",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2005/summon",
+      "index": 46956,
+      "pack": "62d17c3a-a845-4d38-ad36-4774fe8b85ad",
+      "importSHA256": "e27cfaa4f5a0f6e2feaadb329c93dab7080bef807784badefab2346d2696b427",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2005/summon_1002",
+      "index": 53782,
+      "pack": "df7bffc3-70f0-4764-b231-b9cf196bd874",
+      "importSHA256": "ce86b5eecab2bce01b3addc7ab7a6e02e6018cfef2b8823860dbe27e63c16a88",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2005/summon_1003",
+      "index": 47092,
+      "pack": "65c56f06-b2ed-4696-8eca-7ead3445dea0",
+      "importSHA256": "f9f26f0880eedb509b562c848754827f5a4ad2ae17a0a0d72f6236b66881b7c6",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2006/summon",
+      "index": 24671,
+      "pack": "087f31d50",
+      "importSHA256": "b1c2ff8b0859e2a94739b95239f34da344129c08509dbd19e2a949835f22edd6",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2006/summon_1002",
+      "index": 27305,
+      "pack": "063a41098",
+      "importSHA256": "cfa7d87524b893d4ba6e31d79ca5556d962d7f132ef8f1d7956c41c2b8e21103",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2006/summon_1003",
+      "index": 30821,
+      "pack": "0326413a3",
+      "importSHA256": "1b543ab86e97b942512793dd770fddc113fc35d8b0e6e4621eef4c1acaa79296",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2007/summon",
+      "index": 11241,
+      "pack": "0a4261666",
+      "importSHA256": "c9ba944be8aa3128ea9482e30d155ffdb77e2fc7a55fea599f8e2430c5461b47",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2007/summon_1002",
+      "index": 17359,
+      "pack": "0341a4eb6",
+      "importSHA256": "4632c654cf93cf281f79a021b8c4e190a8fe87deed31eb82ec47d56e624fd6e3",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2007/summon_1003",
+      "index": 2852,
+      "pack": "019ed8066",
+      "importSHA256": "13b22a9282069514b6e50e3e84e1fdbbd9d0379a05db0330ffdd7b76f8ef2141",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2008/summon",
+      "index": 25957,
+      "pack": "0c3b63da9",
+      "importSHA256": "c0b83baf43296b62cf9965108d8032482d7beb105b169c1de5679e7aa3325599",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2008/summon_1002",
+      "index": 38942,
+      "pack": "0c4c3301f",
+      "importSHA256": "dd21c32c22ca3f6b1f661ece56ca85d155a337e93de85d8a8457a67f95c413d3",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena_3d/summons/2008/summon_1003",
+      "index": 9981,
+      "pack": "09e67c738",
+      "importSHA256": "c265efb32094e42fba9c5df4cc909671f34b0e99acf754665d2b91a4eed89694",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    }
+  ],
+  "descriptions": [
+    {
+      "language": "en",
+      "key": "hero/skill/6007/1",
+      "verbatimFragment": "'hero/skill/6007/1',\"Necromancer summons an Imp to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6007/2",
+      "verbatimFragment": "\"hero/skill/6007/2\",\"Necromancer summons a Felfiend with [Lifesteal] to fight for him until being slayed. It takes ${cfg.args.shareDMG}% of DMG Taken for its master. Its stats grow as Necromancer levels up\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6007/3",
+      "verbatimFragment": "'hero/skill/6007/3','Necromancer\\x20summons\\x20an\\x20Overfiend\\x20with\\x20[Lifesteal]\\x20and\\x20[Immune\\x20to\\x20Control]\\x20to\\x20fight\\x20for\\x20him\\x20until\\x20being\\x20slayed.\\x20It\\x20takes\\x20${cfg.args.shareDMG}%\\x20of\\x20DMG\\x20Taken\\x20for\\x20its\\x20master.\\x20Its\\x20stats\\x20grow\\x20as\\x20Necromancer\\x20levels\\x20up'"
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6011/1",
+      "verbatimFragment": "'hero/skill/6011/1',\"King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds. Royal legion's stats grow as King levels up.\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6011/2",
+      "verbatimFragment": "\"hero/skill/6011/2\",\"King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. Royal legion's stats grow as King levels up.\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6011/3",
+      "verbatimFragment": "\"hero/skill/6011/3\",\"King calls the royal legion, summoning ${cfg.args.Number} Royal Guards and ${cfg.args.Number1} Royal Archers. Royal legion exists for ${cfg.args.duration/1000} seconds, and they recover ${cfg.args.healRate}% HP per sec when out of combat. King gains ${cfg.args.defence}% DMG Reduction for each soldier on the field. Royal legion's stats grow as King levels up.\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6007/1",
+      "verbatimFragment": "\"hero/skill/6007/1\",\"亡灵术士从地狱召唤一只小型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6007/2",
+      "verbatimFragment": "'hero/skill/6007/2',\"亡灵术士从地狱召唤一只中型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔获得攻击吸血，持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6007/3",
+      "verbatimFragment": "\"hero/skill/6007/3\",\"亡灵术士从地狱召唤一只大型恶魔协助攻击，并帮英雄承担${cfg.args.shareDMG}%所受伤害，恶魔获得控制免疫及攻击吸血，持续存在直至死亡。（恶魔的等级与亡灵术士的等级相关）\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6011/1",
+      "verbatimFragment": "\"hero/skill/6011/1\",'国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒（皇家军团的等级与国王的等级相关）'"
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6011/2",
+      "verbatimFragment": "\"hero/skill/6011/2\",\"国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒。脱战时皇家军团每秒恢复${cfg.args.healRate}%血量。（皇家军团的等级与国王的等级相关）\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6011/3",
+      "verbatimFragment": "\"hero/skill/6011/3\",\"国王呼叫皇家军团，召唤${cfg.args.Number}名皇家近卫和${cfg.args.Number1}名皇家弓手，皇家军团存在${cfg.args.duration/1000}秒。脱战时皇家军团每秒恢复${cfg.args.healRate}%血量。每有一名士兵在场上时，国王获得${cfg.args.defence}%减伤。（皇家军团的等级与国王的等级相关）\""
+    }
+  ],
+  "nativeVM": [
+    "24 original CCBodySummonsAnimComp.initMonsterNode CID/skin cases",
+    "original callback reproduces star0 undefined-skillType error and consumes star3 for native2225 skill2/fire/stand",
+    "8 original skill callbacks with native SkillSchemeManager.getSkill levels1/2/3",
+    "9 original CCKingSummons spawn-effect skin/star cases",
+    "CCSummons native skinID/playerID consumer",
+    "12 original EN/ZH description fragments"
+  ],
+  "rawTimelinesDecoded": false
+}

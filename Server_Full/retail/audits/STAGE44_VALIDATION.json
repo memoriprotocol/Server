@@ -1,0 +1,64 @@
+{
+  "stage": 44,
+  "fullRestoration1to1": false,
+  "clientRenderVerified": false,
+  "client": "3.12.7",
+  "newTests": {
+    "tests": 21,
+    "pass": 21,
+    "fail": 0,
+    "includedIn": "focusedTests"
+  },
+  "allServerTests": {
+    "tests": 340,
+    "pass": 323,
+    "fail": 17
+  },
+  "focusedTests": {
+    "tests": 79,
+    "pass": 79,
+    "fail": 0
+  },
+  "previousTargetedTests": {
+    "tests": 122,
+    "pass": 122,
+    "fail": 0
+  },
+  "websiteTests": {
+    "tests": 38,
+    "pass": 38,
+    "fail": 0
+  },
+  "legacyFailures": [
+    "stage17 exposes manual central-city wall ring and bridges only on main map2",
+    "stage17 keeps original 2024 safe rectangles and adds central gates",
+    "geometry closes wall edges but four cardinal 1600-wide exits stay open for movement",
+    "stage17 no longer quarantines city entirely; old off flag still disables objects",
+    "native map2 still preserves 5 safe rectangles and now adds manual perimeter objects",
+    "catalog documents client assets; Stage17 uses only assets available in this client",
+    "NPC roster includes all 27 native 2024 NPC TypeGroup=5 IDs",
+    "NPC are never spawned on guide map; opt-in mode isolates them from city walls",
+    "legacy safe mode can disable all NPCs without disabling five real safe zones",
+    "Cocos asset catalog certifies 27 NPC and 12 wall/bridge paths as native 2024 Prefabs",
+    "full city: NPC first, walls and bridges later; Cocos protobuf serialization succeeds",
+    "city visibility is configured in normal and previous recommended bat launchers",
+    "world protobuf snapshots include city only when requested; movement still unchanged",
+    "actual battle.iob.enter queues 39 visuals, and gameplay frame + loadingFinished sends first genuine NPC",
+    "Map2 visual catalogue counts 27 NPC, 8 walls, 4 bridges correctly",
+    "plain node server defaults to 27 NPC 8 wall 4 bridge visual candidates",
+    "stage30: clean outer root and internal runtime/retail"
+  ],
+  "nativeTablesCompared": 119,
+  "nativeTablesDifferent": 0,
+  "nativeMountSkinPlans": 5,
+  "nativeMountSkinPlansVerified": 5,
+  "collectionRewardsAtomic": true,
+  "legacyBagShardsMigrationIdempotent": true,
+  "nativeClientIndexModified": false,
+  "limitations": [
+    "Overflow conversion is a local 1-to-1 item112 policy; native 3.12 coefficient is unconfirmed (later server hero reference uses 2).",
+    "Paid addHero unlocks, all mount attribute effects/special abilities, riding pets and complete pet combat/deployment remain incomplete.",
+    "Previous event/pass date, city layout, AI scheduling, composite skills, talent and fishing limits remain documented in Stage43/42.",
+    "Native import verification and schema tests do not constitute Windows/Cocos rendering verification."
+  ]
+}

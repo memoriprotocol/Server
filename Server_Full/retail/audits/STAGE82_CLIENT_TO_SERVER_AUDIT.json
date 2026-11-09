@@ -1,0 +1,73 @@
+{
+  "stage": 82,
+  "baseStage": 81,
+  "client": "HeroLand 3.12.7 / 2024-02-22",
+  "originalClientIndexMainSHA256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "originalClientSkillSchemeSHA256": "972d7e91844a2bc088e85358009f0c23ba8c1dcbac5f704e9f2bdb0c1b849ccd",
+  "serverSkillSchemeSHA256": "12865f69e7bb96b93030d7d4ffc0cbd9f41daceafa310b2ea0fee277420a5f1e",
+  "sourceModules": {
+    "CCSlim.ts": "1dd2e23c4127c5a73b0ac880ae2418b1cc17b69f5f3bb9adceada7e2499d02c6",
+    "CCSlimPassive.ts": "749cbffa1e82f5f7d045a814382e3badbe9e0366d27a283608a3b0c0dd4af5c7",
+    "CCSlimComp.ts": "f66574ac09296c478182b9fee5e9f2499cd1fed8942a711e1176162c33f631e0"
+  },
+  "originalIndexEdited": false,
+  "heroPassivesFullyRestored": false,
+  "testing": {
+    "passed": 2216,
+    "total": 2216,
+    "previous": 2117,
+    "stage82": 99,
+    "windowsClientVisualVerified": false
+  },
+  "verifiedNativeBindings": {
+    "slime": {
+      "heroID": 19,
+      "active": 6020,
+      "passive": 6021,
+      "buff": 273,
+      "acidMucusEntityType": 1045,
+      "stars": [
+        {
+          "star": 1,
+          "activeSkillType": 397,
+          "passiveSkillType": 400,
+          "gooRadius": 450
+        },
+        {
+          "star": 2,
+          "activeSkillType": 398,
+          "passiveSkillType": 401,
+          "gooRadius": 550
+        },
+        {
+          "star": 3,
+          "activeSkillType": 399,
+          "passiveSkillType": 402,
+          "gooRadius": 700
+        }
+      ]
+    },
+    "ninja": {
+      "heroID": 12,
+      "skillID": 6014,
+      "initSelfBuff": 752,
+      "heroSkillCD": [
+        30,
+        50,
+        70
+      ],
+      "weaponSkillCD": [
+        30,
+        50,
+        70
+      ]
+    }
+  },
+  "reconstructionsNotRetailVerified": [
+    "slime transformTo entity-id selection",
+    "slime disguise expiry duration",
+    "Slime PvP collision cadence",
+    "combat semantics of initSelfBuff for 26 heroes"
+  ],
+  "originalSkillSchemeContentMatchesServer": true
+}

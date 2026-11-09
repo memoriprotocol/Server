@@ -1,0 +1,568 @@
+TAP version 13
+# Subtest: Devil star1 native F creates warning meteor, lands at1500ms, and uses native status IDs
+ok 1 - Devil star1 native F creates warning meteor, lands at1500ms, and uses native status IDs
+  ---
+  duration_ms: 54.203383
+  type: 'test'
+  ...
+# Subtest: Devil star2 native F creates warning meteor, lands at1500ms, and uses native status IDs
+ok 2 - Devil star2 native F creates warning meteor, lands at1500ms, and uses native status IDs
+  ---
+  duration_ms: 4.347781
+  type: 'test'
+  ...
+# Subtest: Devil star3 native F creates warning meteor, lands at1500ms, and uses native status IDs
+ok 3 - Devil star3 native F creates warning meteor, lands at1500ms, and uses native status IDs
+  ---
+  duration_ms: 3.618292
+  type: 'test'
+  ...
+# Subtest: meteor samples latest cursor on release and keeps its selected landing point afterward
+ok 4 - meteor samples latest cursor on release and keeps its selected landing point afterward
+  ---
+  duration_ms: 3.077437
+  type: 'test'
+  ...
+# Subtest: native burn inflicts four noncritical fire pulses and never recursively applies on-hit statuses
+ok 5 - native burn inflicts four noncritical fire pulses and never recursively applies on-hit statuses
+  ---
+  duration_ms: 5.127135
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source death
+ok 6 - launched meteor cannot impact after source death
+  ---
+  duration_ms: 2.296871
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source hero
+ok 7 - launched meteor cannot impact after source hero
+  ---
+  duration_ms: 1.748876
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source skin
+ok 8 - launched meteor cannot impact after source skin
+  ---
+  duration_ms: 1.895405
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source star
+ok 9 - launched meteor cannot impact after source star
+  ---
+  duration_ms: 2.094976
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source actor
+ok 10 - launched meteor cannot impact after source actor
+  ---
+  duration_ms: 2.097931
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source world
+ok 11 - launched meteor cannot impact after source world
+  ---
+  duration_ms: 1.878721
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source room
+ok 12 - launched meteor cannot impact after source room
+  ---
+  duration_ms: 1.950469
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source map
+ok 13 - launched meteor cannot impact after source map
+  ---
+  duration_ms: 1.322263
+  type: 'test'
+  ...
+# Subtest: launched meteor cannot impact after source life
+ok 14 - launched meteor cannot impact after source life
+  ---
+  duration_ms: 1.588683
+  type: 'test'
+  ...
+# Subtest: burn is removed when caster changes hero in the same actor/world
+ok 15 - burn is removed when caster changes hero in the same actor/world
+  ---
+  duration_ms: 1.856757
+  type: 'test'
+  ...
+# Subtest: meteor damage retry after persistence failure cannot repeat a committed contact
+ok 16 - meteor damage retry after persistence failure cannot repeat a committed contact
+  ---
+  duration_ms: 7.725741
+  type: 'test'
+  ...
+# Subtest: Wyvern star1 cloud attacks only closest enemy per native onceTime and follows caster
+ok 17 - Wyvern star1 cloud attacks only closest enemy per native onceTime and follows caster
+  ---
+  duration_ms: 62.909381
+  type: 'test'
+  ...
+# Subtest: Wyvern star2 cloud attacks only closest enemy per native onceTime and follows caster
+ok 18 - Wyvern star2 cloud attacks only closest enemy per native onceTime and follows caster
+  ---
+  duration_ms: 3.496288
+  type: 'test'
+  ...
+# Subtest: Wyvern star3 cloud attacks only closest enemy per native onceTime and follows caster
+ok 19 - Wyvern star3 cloud attacks only closest enemy per native onceTime and follows caster
+  ---
+  duration_ms: 2.973811
+  type: 'test'
+  ...
+# Subtest: Wyvern retargets a new closest living enemy instead of retaining the old target forever
+ok 20 - Wyvern retargets a new closest living enemy instead of retaining the old target forever
+  ---
+  duration_ms: 3.303367
+  type: 'test'
+  ...
+# Subtest: Wyvern thirty-second cloud gives thirty pulses and removes all cloud/bolt entities
+ok 21 - Wyvern thirty-second cloud gives thirty pulses and removes all cloud/bolt entities
+  ---
+  duration_ms: 7.521834
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on death
+ok 22 - Wyvern cloud stops and removes native objects on death
+  ---
+  duration_ms: 1.638579
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on hero
+ok 23 - Wyvern cloud stops and removes native objects on hero
+  ---
+  duration_ms: 1.243844
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on star
+ok 24 - Wyvern cloud stops and removes native objects on star
+  ---
+  duration_ms: 0.993997
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on skin
+ok 25 - Wyvern cloud stops and removes native objects on skin
+  ---
+  duration_ms: 1.031875
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on actor
+ok 26 - Wyvern cloud stops and removes native objects on actor
+  ---
+  duration_ms: 1.212778
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on world
+ok 27 - Wyvern cloud stops and removes native objects on world
+  ---
+  duration_ms: 0.814457
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on room
+ok 28 - Wyvern cloud stops and removes native objects on room
+  ---
+  duration_ms: 0.741738
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on map
+ok 29 - Wyvern cloud stops and removes native objects on map
+  ---
+  duration_ms: 0.799725
+  type: 'test'
+  ...
+# Subtest: Wyvern cloud stops and removes native objects on life
+ok 30 - Wyvern cloud stops and removes native objects on life
+  ---
+  duration_ms: 0.65741
+  type: 'test'
+  ...
+# Subtest: entire native roster has all three star definitions and extracted original active descriptions
+ok 31 - entire native roster has all three star definitions and extracted original active descriptions
+  ---
+  duration_ms: 2.86735
+  type: 'test'
+  ...
+# Subtest: Gadgeteer star1 bonus is committed exactly once only for mob/boss XP
+ok 32 - Gadgeteer star1 bonus is committed exactly once only for mob/boss XP
+  ---
+  duration_ms: 33.928673
+  type: 'test'
+  ...
+# Subtest: Gadgeteer star2 bonus is committed exactly once only for mob/boss XP
+ok 33 - Gadgeteer star2 bonus is committed exactly once only for mob/boss XP
+  ---
+  duration_ms: 3.52386
+  type: 'test'
+  ...
+# Subtest: Gadgeteer star3 bonus is committed exactly once only for mob/boss XP
+ok 34 - Gadgeteer star3 bonus is committed exactly once only for mob/boss XP
+  ---
+  duration_ms: 8.396903
+  type: 'test'
+  ...
+# Subtest: failed Gadgeteer kill persistence rolls back increased XP and result receipt
+ok 35 - failed Gadgeteer kill persistence rolls back increased XP and result receipt
+  ---
+  duration_ms: 2.973962
+  type: 'test'
+  ...
+# Subtest: Devil star1 gets actual fire DMG bonus without doubling native fire RES
+ok 36 - Devil star1 gets actual fire DMG bonus without doubling native fire RES
+  ---
+  duration_ms: 2.187576
+  type: 'test'
+  ...
+# Subtest: Devil star2 gets actual fire DMG bonus without doubling native fire RES
+ok 37 - Devil star2 gets actual fire DMG bonus without doubling native fire RES
+  ---
+  duration_ms: 1.223163
+  type: 'test'
+  ...
+# Subtest: Devil star3 gets actual fire DMG bonus without doubling native fire RES
+ok 38 - Devil star3 gets actual fire DMG bonus without doubling native fire RES
+  ---
+  duration_ms: 1.048941
+  type: 'test'
+  ...
+# Subtest: Bomber star1 reduces weapon cooldown from native init buff343
+ok 39 - Bomber star1 reduces weapon cooldown from native init buff343
+  ---
+  duration_ms: 0.839044
+  type: 'test'
+  ...
+# Subtest: Bomber star2 reduces weapon cooldown from native init buff343
+ok 40 - Bomber star2 reduces weapon cooldown from native init buff343
+  ---
+  duration_ms: 0.951724
+  type: 'test'
+  ...
+# Subtest: Bomber star3 reduces weapon cooldown from native init buff343
+ok 41 - Bomber star3 reduces weapon cooldown from native init buff343
+  ---
+  duration_ms: 0.984033
+  type: 'test'
+  ...
+# Subtest: Fairy star1 heals at one-second intervals, clamped to max HP
+ok 42 - Fairy star1 heals at one-second intervals, clamped to max HP
+  ---
+  duration_ms: 2.61481
+  type: 'test'
+  ...
+# Subtest: Fairy star2 heals at one-second intervals, clamped to max HP
+ok 43 - Fairy star2 heals at one-second intervals, clamped to max HP
+  ---
+  duration_ms: 1.018725
+  type: 'test'
+  ...
+# Subtest: Fairy star3 heals at one-second intervals, clamped to max HP
+ok 44 - Fairy star3 heals at one-second intervals, clamped to max HP
+  ---
+  duration_ms: 1.265567
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after dead
+ok 45 - Fairy regeneration cannot apply an old timer after dead
+  ---
+  duration_ms: 0.622027
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after hero
+ok 46 - Fairy regeneration cannot apply an old timer after hero
+  ---
+  duration_ms: 0.57061
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after star
+ok 47 - Fairy regeneration cannot apply an old timer after star
+  ---
+  duration_ms: 0.501927
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after skin
+ok 48 - Fairy regeneration cannot apply an old timer after skin
+  ---
+  duration_ms: 0.659363
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after actor
+ok 49 - Fairy regeneration cannot apply an old timer after actor
+  ---
+  duration_ms: 0.645031
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after world
+ok 50 - Fairy regeneration cannot apply an old timer after world
+  ---
+  duration_ms: 0.55075
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after room
+ok 51 - Fairy regeneration cannot apply an old timer after room
+  ---
+  duration_ms: 0.51736
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after map
+ok 52 - Fairy regeneration cannot apply an old timer after map
+  ---
+  duration_ms: 0.480193
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after life
+ok 53 - Fairy regeneration cannot apply an old timer after life
+  ---
+  duration_ms: 0.628297
+  type: 'test'
+  ...
+# Subtest: Fairy regeneration cannot apply an old timer after level
+ok 54 - Fairy regeneration cannot apply an old timer after level
+  ---
+  duration_ms: 0.627275
+  type: 'test'
+  ...
+# Subtest: Viking passive uses native four-percent threshold at HP1000
+ok 55 - Viking passive uses native four-percent threshold at HP1000
+  ---
+  duration_ms: 0.721257
+  type: 'test'
+  ...
+# Subtest: Viking passive uses native four-percent threshold at HP961
+ok 56 - Viking passive uses native four-percent threshold at HP961
+  ---
+  duration_ms: 0.521075
+  type: 'test'
+  ...
+# Subtest: Viking passive uses native four-percent threshold at HP960
+ok 57 - Viking passive uses native four-percent threshold at HP960
+  ---
+  duration_ms: 0.563229
+  type: 'test'
+  ...
+# Subtest: Viking passive uses native four-percent threshold at HP401
+ok 58 - Viking passive uses native four-percent threshold at HP401
+  ---
+  duration_ms: 0.763531
+  type: 'test'
+  ...
+# Subtest: Viking passive uses native four-percent threshold at HP400
+ok 59 - Viking passive uses native four-percent threshold at HP400
+  ---
+  duration_ms: 0.835068
+  type: 'test'
+  ...
+# Subtest: Viking passive uses native four-percent threshold at HP1
+ok 60 - Viking passive uses native four-percent threshold at HP1
+  ---
+  duration_ms: 0.758723
+  type: 'test'
+  ...
+# Subtest: Viking reduction participates in real incoming monster damage before HP and shield subtraction
+ok 61 - Viking reduction participates in real incoming monster damage before HP and shield subtraction
+  ---
+  duration_ms: 5.644134
+  type: 'test'
+  ...
+# Subtest: hero 20 passive gameplay effects remain locked below ordinary level10
+ok 62 - hero 20 passive gameplay effects remain locked below ordinary level10
+  ---
+  duration_ms: 0.738693
+  type: 'test'
+  ...
+# Subtest: hero 21 passive gameplay effects remain locked below ordinary level10
+ok 63 - hero 21 passive gameplay effects remain locked below ordinary level10
+  ---
+  duration_ms: 0.77326
+  type: 'test'
+  ...
+# Subtest: hero 26 passive gameplay effects remain locked below ordinary level10
+ok 64 - hero 26 passive gameplay effects remain locked below ordinary level10
+  ---
+  duration_ms: 0.682989
+  type: 'test'
+  ...
+# Subtest: hero 27 passive gameplay effects remain locked below ordinary level10
+ok 65 - hero 27 passive gameplay effects remain locked below ordinary level10
+  ---
+  duration_ms: 0.553954
+  type: 'test'
+  ...
+# Subtest: hero 29 passive gameplay effects remain locked below ordinary level10
+ok 66 - hero 29 passive gameplay effects remain locked below ordinary level10
+  ---
+  duration_ms: 0.531561
+  type: 'test'
+  ...
+# Subtest: Devil bonus becomes effective on the same real XP9-to10 transition, without another refresh or reentry
+ok 67 - Devil bonus becomes effective on the same real XP9-to10 transition, without another refresh or reentry
+  ---
+  duration_ms: 4.092176
+  type: 'test'
+  ...
+# Subtest: Hamster native maxHP passive starts on the real XP9-to10 transition without compounding
+ok 68 - Hamster native maxHP passive starts on the real XP9-to10 transition without compounding
+  ---
+  duration_ms: 2.113054
+  type: 'test'
+  ...
+# Subtest: shared hero stat recomputation never mutates the unmodified base or compounds temporary speed on any of26 heroes
+ok 69 - shared hero stat recomputation never mutates the unmodified base or compounds temporary speed on any of26 heroes
+  ---
+  duration_ms: 4.031584
+  type: 'test'
+  ...
+# Subtest: original meteor handler consumes server duration/radius/skin/createTick and selects original prefabs: star1
+ok 70 - original meteor handler consumes server duration/radius/skin/createTick and selects original prefabs: star1
+  ---
+  duration_ms: 4.139039
+  type: 'test'
+  ...
+# Subtest: original meteor handler consumes server duration/radius/skin/createTick and selects original prefabs: star2
+ok 71 - original meteor handler consumes server duration/radius/skin/createTick and selects original prefabs: star2
+  ---
+  duration_ms: 1.12011
+  type: 'test'
+  ...
+# Subtest: original meteor handler consumes server duration/radius/skin/createTick and selects original prefabs: star3
+ok 72 - original meteor handler consumes server duration/radius/skin/createTick and selects original prefabs: star3
+  ---
+  duration_ms: 1.235874
+  type: 'test'
+  ...
+# Subtest: original Wyvern cloud handler chooses native effectType 0
+ok 73 - original Wyvern cloud handler chooses native effectType 0
+  ---
+  duration_ms: 1.06655
+  type: 'test'
+  ...
+# Subtest: original Wyvern cloud handler chooses native effectType 1
+ok 74 - original Wyvern cloud handler chooses native effectType 1
+  ---
+  duration_ms: 0.918568
+  type: 'test'
+  ...
+# Subtest: native hero descriptions explicitly distinguish true remaining gaps from restored passive pieces
+ok 75 - native hero descriptions explicitly distinguish true remaining gaps from restored passive pieces
+  ---
+  duration_ms: 0.285468
+  type: 'test'
+  ...
+# Subtest: Rabbit star1 has native max speed, dodge and visual buffs for four seconds
+ok 76 - Rabbit star1 has native max speed, dodge and visual buffs for four seconds
+  ---
+  duration_ms: 50.507023
+  type: 'test'
+  ...
+# Subtest: Rabbit star2 has native max speed, dodge and visual buffs for four seconds
+ok 77 - Rabbit star2 has native max speed, dodge and visual buffs for four seconds
+  ---
+  duration_ms: 10.006007
+  type: 'test'
+  ...
+# Subtest: Rabbit star3 has native max speed, dodge and visual buffs for four seconds
+ok 78 - Rabbit star3 has native max speed, dodge and visual buffs for four seconds
+  ---
+  duration_ms: 3.740015
+  type: 'test'
+  ...
+# Subtest: Rabbit star1 pulse damage is absent on star1 and ticked around the current caster on star2/3
+ok 79 - Rabbit star1 pulse damage is absent on star1 and ticked around the current caster on star2/3
+  ---
+  duration_ms: 3.231169
+  type: 'test'
+  ...
+# Subtest: Rabbit star2 pulse damage is absent on star1 and ticked around the current caster on star2/3
+ok 80 - Rabbit star2 pulse damage is absent on star1 and ticked around the current caster on star2/3
+  ---
+  duration_ms: 10.414853
+  type: 'test'
+  ...
+# Subtest: Rabbit star3 pulse damage is absent on star1 and ticked around the current caster on star2/3
+ok 81 - Rabbit star3 pulse damage is absent on star1 and ticked around the current caster on star2/3
+  ---
+  duration_ms: 2.750895
+  type: 'test'
+  ...
+# Subtest: Rabbit keeps the native two charges, rejects a third cast, and restores a charge after90000ms
+ok 82 - Rabbit keeps the native two charges, rejects a third cast, and restores a charge after90000ms
+  ---
+  duration_ms: 2.232764
+  type: 'test'
+  ...
+# Subtest: Rabbit third-star permanent speed growth comes once from PropLevels, not another passive addition
+ok 83 - Rabbit third-star permanent speed growth comes once from PropLevels, not another passive addition
+  ---
+  duration_ms: 0.803251
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after dead
+ok 84 - Rabbit aura discards stale effects after dead
+  ---
+  duration_ms: 2.270791
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after hero
+ok 85 - Rabbit aura discards stale effects after hero
+  ---
+  duration_ms: 1.558769
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after star
+ok 86 - Rabbit aura discards stale effects after star
+  ---
+  duration_ms: 1.231425
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after skin
+ok 87 - Rabbit aura discards stale effects after skin
+  ---
+  duration_ms: 1.037733
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after world
+ok 88 - Rabbit aura discards stale effects after world
+  ---
+  duration_ms: 1.093568
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after actor
+ok 89 - Rabbit aura discards stale effects after actor
+  ---
+  duration_ms: 0.888509
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after room
+ok 90 - Rabbit aura discards stale effects after room
+  ---
+  duration_ms: 1.14848
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after map
+ok 91 - Rabbit aura discards stale effects after map
+  ---
+  duration_ms: 1.136542
+  type: 'test'
+  ...
+# Subtest: Rabbit aura discards stale effects after life
+ok 92 - Rabbit aura discards stale effects after life
+  ---
+  duration_ms: 0.897882
+  type: 'test'
+  ...
+# Subtest: native cooldown sync is correct for all26 heroes at all3 stars before first cast
+ok 93 - native cooldown sync is correct for all26 heroes at all3 stars before first cast
+  ---
+  duration_ms: 5.292185
+  type: 'test'
+  ...
+1..93
+# tests 93
+# suites 0
+# pass 93
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 446.673907

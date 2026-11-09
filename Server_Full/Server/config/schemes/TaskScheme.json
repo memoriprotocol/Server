@@ -1,0 +1,2868 @@
+{
+  "Task": [
+    {
+      "ID": 1,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 10
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        300
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 2,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 20
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        660
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 3,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 30
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        1200
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 4,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 40
+        }
+      ],
+      "RewardID": [],
+      "RewardNum": [],
+      "dropID": 57,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 5,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 50
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        2040
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 60
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        3240
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 7,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 70
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        6180
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 8,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 75
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        11760
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 9,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 80
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        16650
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 10,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 85
+        }
+      ],
+      "RewardID": [],
+      "RewardNum": [],
+      "dropID": 37,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 11,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 90
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        31500
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 12,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 100
+        }
+      ],
+      "RewardID": [],
+      "RewardNum": [],
+      "dropID": 60,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 21,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 5
+        },
+        {
+          "num": 5000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        2500
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 22,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 5
+        },
+        {
+          "num": 10000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        5000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 23,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 5
+        },
+        {
+          "num": 20000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        10000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 31,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 7
+        },
+        {
+          "num": 5000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        2500
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 32,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 7
+        },
+        {
+          "num": 10000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        5000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 33,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 7
+        },
+        {
+          "num": 20000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        10000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 41,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 8
+        },
+        {
+          "num": 5000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        2500
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 42,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 8
+        },
+        {
+          "num": 10000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        5000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 43,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 8
+        },
+        {
+          "num": 20000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        10000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 51,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        300
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 52,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "num": 20
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        10000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 53,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "num": 40
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        20000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 54,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "num": 80
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        60000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 55,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "num": 100
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        100000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 61,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        15000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 62,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 2
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        25000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 71,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        30000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 72,
+      "PreTask": [],
+      "Category": 0,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 2
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        50000
+      ],
+      "dropID": 0,
+      "Title": "",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 1100,
+      "PreTask": [],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 1,
+      "TargetArgs": [
+        {
+          "cid": 414
+        },
+        {
+          "talkGroupID": 1
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/1100/title",
+      "Tips": "",
+      "Desc": "task/1100/desc",
+      "Condition": "task/1100/condition",
+      "IconPath": "ui_main_meilin_02",
+      "isDelete": true
+    },
+    {
+      "ID": 1200,
+      "PreTask": [],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 5
+        },
+        {
+          "num": 1500
+        }
+      ],
+      "RewardID": [
+        4,
+        803301
+      ],
+      "RewardNum": [
+        300,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/1200/title",
+      "Tips": "task/1200/tips",
+      "Desc": "task/1200/desc",
+      "Condition": "task/1200/condition",
+      "IconPath": "ui_main_meilin_26",
+      "isDelete": false
+    },
+    {
+      "ID": 1300,
+      "PreTask": [
+        1100
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 7
+        },
+        {
+          "num": 2000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        1300
+      ],
+      "dropID": 0,
+      "Title": "task/1300/title",
+      "Tips": "",
+      "Desc": "task/1300/desc",
+      "Condition": "task/1300/condition",
+      "IconPath": "ui_main_meilin_26",
+      "isDelete": true
+    },
+    {
+      "ID": 1400,
+      "PreTask": [
+        1100
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 8,
+      "TargetArgs": [
+        {
+          "itemID": 8
+        },
+        {
+          "num": 2000
+        }
+      ],
+      "RewardID": [
+        4
+      ],
+      "RewardNum": [
+        1400
+      ],
+      "dropID": 0,
+      "Title": "task/1400/title",
+      "Tips": "",
+      "Desc": "task/1400/desc",
+      "Condition": "task/1400/condition",
+      "IconPath": "ui_main_meilin_26",
+      "isDelete": true
+    },
+    {
+      "ID": 1450,
+      "PreTask": [
+        1200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 15,
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        500,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/1450/title",
+      "Tips": "task/1450/tips",
+      "Desc": "task/1450/desc",
+      "Condition": "task/1450/condition",
+      "IconPath": "ui_main_meilin_32",
+      "isDelete": false
+    },
+    {
+      "ID": 1500,
+      "PreTask": [
+        1200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "cid": 1210
+        },
+        {
+          "num": 3
+        }
+      ],
+      "RewardID": [
+        4,
+        400201
+      ],
+      "RewardNum": [
+        1000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/1500/title",
+      "Tips": "task/1500/tips",
+      "Desc": "task/1500/desc",
+      "Condition": "task/1500/condition",
+      "IconPath": "ui_main_meilin_17",
+      "isDelete": false
+    },
+    {
+      "ID": 1600,
+      "PreTask": [
+        1200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 10,
+      "TargetArgs": [
+        {
+          "num": 500
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        1000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/1600/title",
+      "Tips": "",
+      "Desc": "task/1600/desc",
+      "Condition": "task/1600/condition",
+      "IconPath": "ui_main_meilin_23",
+      "isDelete": false
+    },
+    {
+      "ID": 1700,
+      "PreTask": [
+        1500
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 5,
+      "TargetArgs": [
+        {
+          "num": 15
+        },
+        {
+          "min": 1
+        },
+        {
+          "max": 100
+        }
+      ],
+      "RewardID": [
+        4,
+        610700
+      ],
+      "RewardNum": [
+        2000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/1700/title",
+      "Tips": "",
+      "Desc": "task/1700/desc",
+      "Condition": "task/1700/condition",
+      "IconPath": "ui_main_meilin_19",
+      "isDelete": false
+    },
+    {
+      "ID": 1800,
+      "PreTask": [
+        1500,
+        1600
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 9,
+      "TargetArgs": [
+        {
+          "num": 5
+        }
+      ],
+      "RewardID": [
+        4,
+        806602
+      ],
+      "RewardNum": [
+        1500,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/1800/title",
+      "Tips": "",
+      "Desc": "task/1800/desc",
+      "Condition": "task/1800/condition",
+      "IconPath": "ui_main_meilin_22",
+      "isDelete": false
+    },
+    {
+      "ID": 1900,
+      "PreTask": [
+        1700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 50
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        3000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/1900/title",
+      "Tips": "",
+      "Desc": "task/1900/desc",
+      "Condition": "task/1900/condition",
+      "IconPath": "ui_main_meilin_24",
+      "isDelete": false
+    },
+    {
+      "ID": 2000,
+      "PreTask": [
+        1700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 3,
+      "RewardID": [
+        4,
+        400202
+      ],
+      "RewardNum": [
+        2500,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2000/title",
+      "Tips": "",
+      "Desc": "task/2000/desc",
+      "Condition": "task/2000/condition",
+      "IconPath": "ui_main_meilin_21",
+      "isDelete": false
+    },
+    {
+      "ID": 2100,
+      "PreTask": [
+        1800
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 6,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "star": 4
+        }
+      ],
+      "RewardID": [
+        4,
+        400202
+      ],
+      "RewardNum": [
+        3000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2100/title",
+      "Tips": "",
+      "Desc": "task/2100/desc",
+      "Condition": "task/2100/condition",
+      "IconPath": "ui_main_meilin_03",
+      "isDelete": false
+    },
+    {
+      "ID": 2120,
+      "PreTask": [
+        2100
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 19,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        3000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/2120/title",
+      "Tips": "task/2120/tips",
+      "Desc": "task/2120/desc",
+      "Condition": "task/2120/condition",
+      "IconPath": "ui_main_meilin_31",
+      "isDelete": false
+    },
+    {
+      "ID": 2150,
+      "PreTask": [
+        1900
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 17,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        3000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/2150/title",
+      "Tips": "task/2150/tips",
+      "Desc": "task/2150/desc",
+      "Condition": "task/2150/condition",
+      "IconPath": "ui_main_meilin_30",
+      "isDelete": false
+    },
+    {
+      "ID": 2200,
+      "PreTask": [
+        1900,
+        2100
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 1,
+      "TargetArgs": [
+        {
+          "cid": 414
+        },
+        {
+          "talkGroupID": 2
+        }
+      ],
+      "RewardID": [
+        4,
+        621300
+      ],
+      "RewardNum": [
+        3000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2200/title",
+      "Tips": "task/2200/tips",
+      "Desc": "task/2200/desc",
+      "Condition": "task/2200/condition",
+      "IconPath": "ui_main_meilin_02",
+      "isDelete": false
+    },
+    {
+      "ID": 2300,
+      "PreTask": [
+        1900
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 4,
+      "TargetArgs": [
+        {
+          "cid": 1227
+        },
+        {
+          "num": 3
+        }
+      ],
+      "RewardID": [
+        4,
+        806103
+      ],
+      "RewardNum": [
+        3500,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2300/title",
+      "Tips": "",
+      "Desc": "task/2300/desc",
+      "Condition": "task/2300/condition",
+      "IconPath": "ui_main_meilin_18",
+      "isDelete": false
+    },
+    {
+      "ID": 2320,
+      "PreTask": [
+        1900
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 23,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        1000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/2320/title",
+      "Tips": "task/2320/tips",
+      "Desc": "",
+      "Condition": "task/2320/condition",
+      "IconPath": "ui_main_meilin_43",
+      "isDelete": false
+    },
+    {
+      "ID": 2350,
+      "PreTask": [
+        2200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 18,
+      "TargetArgs": [
+        {
+          "num": 5
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        1000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/2350/title",
+      "Tips": "task/2350/tips",
+      "Desc": "task/2350/desc",
+      "Condition": "task/2350/condition",
+      "IconPath": "ui_main_meilin_28",
+      "isDelete": false
+    },
+    {
+      "ID": 2400,
+      "PreTask": [
+        2200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 2,
+      "TargetArgs": [
+        {
+          "level": 80
+        }
+      ],
+      "RewardID": [
+        4,
+        616900
+      ],
+      "RewardNum": [
+        4000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2400/title",
+      "Tips": "",
+      "Desc": "task/2400/desc",
+      "Condition": "task/2400/condition",
+      "IconPath": "ui_main_meilin_25",
+      "isDelete": false
+    },
+    {
+      "ID": 2500,
+      "PreTask": [
+        2200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 7,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "star": 4
+        }
+      ],
+      "RewardID": [
+        4,
+        400203
+      ],
+      "RewardNum": [
+        3000,
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/2500/title",
+      "Tips": "",
+      "Desc": "task/2500/desc",
+      "Condition": "task/2500/condition",
+      "IconPath": "ui_main_meilin_04",
+      "isDelete": false
+    },
+    {
+      "ID": 2550,
+      "PreTask": [
+        1600
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 16,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        3000,
+        500
+      ],
+      "dropID": 0,
+      "Title": "task/2550/title",
+      "Tips": "task/2550/tips",
+      "Desc": "task/2550/desc",
+      "Condition": "task/2550/condition",
+      "IconPath": "ui_main_meilin_29",
+      "isDelete": false
+    },
+    {
+      "ID": 2600,
+      "PreTask": [
+        2400
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 2
+        },
+        {
+          "cid": 1232
+        }
+      ],
+      "RewardID": [
+        4,
+        611200
+      ],
+      "RewardNum": [
+        5000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2600/title",
+      "Tips": "",
+      "Desc": "task/2600/desc",
+      "Condition": "task/2600/condition",
+      "IconPath": "ui_main_meilin_20",
+      "isDelete": false
+    },
+    {
+      "ID": 2700,
+      "PreTask": [
+        2400
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 6,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "star": 5
+        }
+      ],
+      "RewardID": [
+        4,
+        400204
+      ],
+      "RewardNum": [
+        3000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/2700/title",
+      "Tips": "",
+      "Desc": "task/2700/desc",
+      "Condition": "task/2700/condition",
+      "IconPath": "ui_main_meilin_05",
+      "isDelete": false
+    },
+    {
+      "ID": 2800,
+      "PreTask": [
+        2700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1260
+        }
+      ],
+      "RewardID": [
+        4,
+        301100,
+        109
+      ],
+      "RewardNum": [
+        4000,
+        5,
+        1000
+      ],
+      "dropID": 0,
+      "Title": "task/2800/title",
+      "Tips": "",
+      "Desc": "task/2800/desc",
+      "Condition": "task/2800/condition",
+      "IconPath": "ui_main_meilin_16",
+      "isDelete": false
+    },
+    {
+      "ID": 2900,
+      "PreTask": [
+        2700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1258
+        }
+      ],
+      "RewardID": [
+        4,
+        300400,
+        109
+      ],
+      "RewardNum": [
+        4000,
+        5,
+        1000
+      ],
+      "dropID": 0,
+      "Title": "task/2900/title",
+      "Tips": "",
+      "Desc": "task/2900/desc",
+      "Condition": "task/2900/condition",
+      "IconPath": "ui_main_meilin_15",
+      "isDelete": false
+    },
+    {
+      "ID": 3000,
+      "PreTask": [
+        2600,
+        2700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 1,
+      "TargetArgs": [
+        {
+          "cid": 414
+        },
+        {
+          "talkGroupID": 3
+        }
+      ],
+      "RewardID": [
+        4,
+        300200,
+        109
+      ],
+      "RewardNum": [
+        3000,
+        5,
+        1000
+      ],
+      "dropID": 0,
+      "Title": "task/3000/title",
+      "Tips": "",
+      "Desc": "task/3000/desc",
+      "Condition": "task/3000/condition",
+      "IconPath": "ui_main_meilin_02",
+      "isDelete": false
+    },
+    {
+      "ID": 3050,
+      "PreTask": [
+        3000
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 20,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        3000,
+        1000
+      ],
+      "dropID": 0,
+      "Title": "task/3050/title",
+      "Tips": "",
+      "Desc": "task/3050/desc",
+      "Condition": "task/3050/condition",
+      "IconPath": "ui_main_meilin_33",
+      "isDelete": false
+    },
+    {
+      "ID": 3100,
+      "PreTask": [
+        3000
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 11,
+      "RewardID": [
+        4,
+        619600
+      ],
+      "RewardNum": [
+        3000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/3100/title",
+      "Tips": "task/3100/tips",
+      "Desc": "task/3100/desc",
+      "Condition": "task/3100/condition",
+      "IconPath": "ui_main_meilin_14",
+      "isDelete": false
+    },
+    {
+      "ID": 3200,
+      "PreTask": [
+        3000
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1307
+        }
+      ],
+      "RewardID": [
+        4,
+        400204
+      ],
+      "RewardNum": [
+        5000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/3200/title",
+      "Tips": "task/3200/tips",
+      "Desc": "task/3200/desc",
+      "Condition": "task/3200/condition",
+      "IconPath": "ui_main_meilin_10",
+      "isDelete": false
+    },
+    {
+      "ID": 3300,
+      "PreTask": [
+        3000
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1305
+        }
+      ],
+      "RewardID": [
+        4,
+        400204
+      ],
+      "RewardNum": [
+        5000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/3300/title",
+      "Tips": "",
+      "Desc": "task/3300/desc",
+      "Condition": "task/3300/condition",
+      "IconPath": "ui_main_meilin_13",
+      "isDelete": false
+    },
+    {
+      "ID": 3400,
+      "PreTask": [
+        3200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 7,
+      "TargetArgs": [
+        {
+          "num": 4
+        },
+        {
+          "star": 5
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        7000,
+        2000
+      ],
+      "dropID": 0,
+      "Title": "task/3400/title",
+      "Tips": "",
+      "Desc": "task/3400/desc",
+      "Condition": "task/3400/condition",
+      "IconPath": "ui_main_meilin_07",
+      "isDelete": true
+    },
+    {
+      "ID": 3500,
+      "PreTask": [
+        3200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1306
+        }
+      ],
+      "RewardID": [
+        4,
+        400204
+      ],
+      "RewardNum": [
+        5000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/3500/title",
+      "Tips": "",
+      "Desc": "task/3500/desc",
+      "Condition": "task/3500/condition",
+      "IconPath": "ui_main_meilin_11",
+      "isDelete": false
+    },
+    {
+      "ID": 3600,
+      "PreTask": [
+        3300
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1302
+        }
+      ],
+      "RewardID": [
+        4,
+        400204
+      ],
+      "RewardNum": [
+        5000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/3600/title",
+      "Tips": "",
+      "Desc": "task/3600/desc",
+      "Condition": "task/3600/condition",
+      "IconPath": "ui_main_meilin_09",
+      "isDelete": false
+    },
+    {
+      "ID": 3700,
+      "PreTask": [
+        3500,
+        3600
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 1,
+      "TargetArgs": [
+        {
+          "cid": 408
+        },
+        {
+          "talkGroupID": 4
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        5000,
+        1000
+      ],
+      "dropID": 0,
+      "Title": "task/3700/title",
+      "Tips": "",
+      "Desc": "task/3700/desc",
+      "Condition": "task/3700/condition",
+      "IconPath": "ui_main_meilin_01",
+      "isDelete": false
+    },
+    {
+      "ID": 4300,
+      "PreTask": [
+        3700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 21,
+      "TargetArgs": [
+        {
+          "mapID": 18
+        }
+      ],
+      "RewardID": [
+        617700
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/4300/title",
+      "Tips": "task/4300/tips",
+      "Desc": "",
+      "Condition": "task/4300/condition",
+      "IconPath": "ui_main_meilin_44",
+      "isDelete": false
+    },
+    {
+      "ID": 4400,
+      "PreTask": [
+        4300
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1329
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        10000,
+        1500
+      ],
+      "dropID": 0,
+      "Title": "task/4400/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/4400/condition",
+      "IconPath": "ui_main_meilin_38",
+      "isDelete": false
+    },
+    {
+      "ID": 4500,
+      "PreTask": [
+        4300
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1330
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        10000,
+        1500
+      ],
+      "dropID": 0,
+      "Title": "task/4500/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/4500/condition",
+      "IconPath": "ui_main_meilin_40",
+      "isDelete": false
+    },
+    {
+      "ID": 4600,
+      "PreTask": [
+        4300
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1331
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        10000,
+        1500
+      ],
+      "dropID": 0,
+      "Title": "task/4600/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/4600/condition",
+      "IconPath": "ui_main_meilin_41",
+      "isDelete": false
+    },
+    {
+      "ID": 4700,
+      "PreTask": [
+        4400,
+        4500,
+        4600
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1332
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        20000,
+        3000
+      ],
+      "dropID": 0,
+      "Title": "task/4700/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/4700/condition",
+      "IconPath": "ui_main_meilin_39",
+      "isDelete": false
+    },
+    {
+      "ID": 4800,
+      "PreTask": [
+        3700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 21,
+      "TargetArgs": [
+        {
+          "mapID": 5
+        }
+      ],
+      "RewardID": [
+        80035001
+      ],
+      "RewardNum": [
+        5
+      ],
+      "dropID": 0,
+      "Title": "task/4800/title",
+      "Tips": "task/4800/tips",
+      "Desc": "",
+      "Condition": "task/4800/condition",
+      "IconPath": "ui_main_meilin_42",
+      "isDelete": false
+    },
+    {
+      "ID": 4900,
+      "PreTask": [
+        4800
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1309
+        }
+      ],
+      "RewardID": [
+        80035001
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/4900/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/4900/condition",
+      "IconPath": "ui_main_meilin_12",
+      "isDelete": false
+    },
+    {
+      "ID": 5000,
+      "PreTask": [
+        4900
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1316
+        }
+      ],
+      "RewardID": [
+        80035001
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/5000/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/5000/condition",
+      "IconPath": "ui_main_meilin_34",
+      "isDelete": false
+    },
+    {
+      "ID": 5100,
+      "PreTask": [
+        5000
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1317
+        }
+      ],
+      "RewardID": [
+        80035001
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/5100/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/5100/condition",
+      "IconPath": "ui_main_meilin_36",
+      "isDelete": false
+    },
+    {
+      "ID": 5200,
+      "PreTask": [
+        5100
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1318
+        }
+      ],
+      "RewardID": [
+        80035001
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/5200/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/5200/condition",
+      "IconPath": "ui_main_meilin_35",
+      "isDelete": false
+    },
+    {
+      "ID": 5300,
+      "PreTask": [
+        5200
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1319
+        }
+      ],
+      "RewardID": [
+        320605
+      ],
+      "RewardNum": [
+        10
+      ],
+      "dropID": 0,
+      "Title": "task/5300/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "task/5300/condition",
+      "IconPath": "ui_main_meilin_37",
+      "isDelete": false
+    },
+    {
+      "ID": 3800,
+      "PreTask": [
+        3700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 13,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "cid": 1309
+        }
+      ],
+      "RewardID": [
+        4,
+        807406
+      ],
+      "RewardNum": [
+        10000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/3800/title",
+      "Tips": "",
+      "Desc": "task/3800/desc",
+      "Condition": "task/3800/condition",
+      "IconPath": "ui_main_meilin_12",
+      "isDelete": true
+    },
+    {
+      "ID": 4000,
+      "PreTask": [
+        3700
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 6,
+      "TargetArgs": [
+        {
+          "num": 1
+        },
+        {
+          "star": 6
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        10000,
+        3000
+      ],
+      "dropID": 0,
+      "Title": "task/3900/title",
+      "Tips": "",
+      "Desc": "task/3900/desc",
+      "Condition": "task/3900/condition",
+      "IconPath": "ui_main_meilin_06",
+      "isDelete": true
+    },
+    {
+      "ID": 4100,
+      "PreTask": [
+        4000
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 7,
+      "TargetArgs": [
+        {
+          "num": 4
+        },
+        {
+          "star": 6
+        }
+      ],
+      "RewardID": [
+        4,
+        109
+      ],
+      "RewardNum": [
+        10000,
+        3000
+      ],
+      "dropID": 0,
+      "Title": "task/4000/title",
+      "Tips": "",
+      "Desc": "task/4000/desc",
+      "Condition": "task/4000/condition",
+      "IconPath": "ui_main_meilin_08",
+      "isDelete": true
+    },
+    {
+      "ID": 4200,
+      "PreTask": [
+        3800,
+        4100
+      ],
+      "Category": 1,
+      "IsDailyUpdates": [],
+      "TaskType": 1,
+      "TargetArgs": [
+        {
+          "cid": 414
+        },
+        {
+          "talkGroupID": 5
+        }
+      ],
+      "RewardID": [
+        4,
+        619500
+      ],
+      "RewardNum": [
+        20000,
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/4100/title",
+      "Tips": "",
+      "Desc": "task/4100/desc",
+      "Condition": "task/4100/condition",
+      "IconPath": "ui_main_meilin_02",
+      "isDelete": true
+    },
+    {
+      "ID": 6001,
+      "PreTask": [],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6001/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6002,
+      "PreTask": [
+        6001
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 3
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6002/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6003,
+      "PreTask": [
+        6002
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 10
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6003/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6004,
+      "PreTask": [
+        6003
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 15
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6004/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6005,
+      "PreTask": [
+        6004
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 14,
+      "TargetArgs": [
+        {
+          "num": 20
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/6005/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6101,
+      "PreTask": [],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 18,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6101/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6102,
+      "PreTask": [
+        6101
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 18,
+      "TargetArgs": [
+        {
+          "num": 5
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6102/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6103,
+      "PreTask": [
+        6102
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 18,
+      "TargetArgs": [
+        {
+          "num": 10
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6103/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6104,
+      "PreTask": [
+        6103
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 18,
+      "TargetArgs": [
+        {
+          "num": 30
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6104/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6105,
+      "PreTask": [
+        6104
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 18,
+      "TargetArgs": [
+        {
+          "num": 75
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/6105/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6201,
+      "PreTask": [],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 26,
+      "TargetArgs": [
+        {
+          "num": 10000
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6201/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6202,
+      "PreTask": [
+        6201
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 26,
+      "TargetArgs": [
+        {
+          "num": 50000
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6202/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6203,
+      "PreTask": [
+        6202
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 26,
+      "TargetArgs": [
+        {
+          "num": 100000
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6203/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6204,
+      "PreTask": [
+        6203
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 26,
+      "TargetArgs": [
+        {
+          "num": 150000
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6204/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6205,
+      "PreTask": [
+        6204
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 26,
+      "TargetArgs": [
+        {
+          "num": 200000
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/6205/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6301,
+      "PreTask": [],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 27,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6301/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6302,
+      "PreTask": [
+        6301
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 27,
+      "TargetArgs": [
+        {
+          "num": 2
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6302/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6303,
+      "PreTask": [
+        6302
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 27,
+      "TargetArgs": [
+        {
+          "num": 3
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6303/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6304,
+      "PreTask": [
+        6303
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 27,
+      "TargetArgs": [
+        {
+          "num": 5
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6304/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6305,
+      "PreTask": [
+        6304
+      ],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 27,
+      "TargetArgs": [
+        {
+          "num": 10
+        }
+      ],
+      "RewardID": [
+        5800006
+      ],
+      "RewardNum": [
+        2
+      ],
+      "dropID": 0,
+      "Title": "task/6305/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    },
+    {
+      "ID": 6401,
+      "PreTask": [],
+      "Category": 2,
+      "IsDailyUpdates": [
+        1
+      ],
+      "TaskType": 25,
+      "TargetArgs": [
+        {
+          "num": 1
+        }
+      ],
+      "RewardID": [
+        5800005
+      ],
+      "RewardNum": [
+        1
+      ],
+      "dropID": 0,
+      "Title": "task/6401/title",
+      "Tips": "",
+      "Desc": "",
+      "Condition": "",
+      "IconPath": "",
+      "isDelete": false
+    }
+  ]
+}

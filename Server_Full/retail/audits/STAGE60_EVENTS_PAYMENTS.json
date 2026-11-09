@@ -1,0 +1,48 @@
+{
+  "payment": {
+    "scope": "existing six StoreScheme Type1/ItemID111 diamond topups only; prices and rewards unchanged",
+    "fixedWebsitePaths": [
+      "test-complete marked-paid order now calls game delivery",
+      "admin mark-paid calls delivery",
+      "already-paid Stripe session paths call delivery",
+      "game checkout status polling independent of Stripe/test/paid-page conditions"
+    ],
+    "authority": "website remains provider verifier; authenticated loopback x-local-web-secret callback matching durable game order required. Opening overlay or renderer authorization never grants.",
+    "gameDelivery": "durable receipt+currency commit unchanged; notification failures retried in memory each1000ms; duplicate callback sends CURRENT balance rather than stale order.balanceAfter; never re-credits",
+    "recovery": "website status polling retries delivery for an already-paid order; webhook retry and repeated confirmation idempotent; no new offline autonomous reconciliation worker. Reopen payment page/status or provider retry when callback was unavailable.",
+    "testEvidence": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "liveProviderTransactionTested": false,
+    "limits": [
+      "non-diamond goods/new payment SKUs/first-buy promotional entitlements not added",
+      "notification queue is not durable; currency/receipt are durable, login reads saved balance",
+      "existing payment tokens expire; long-expired paid orders need authenticated operational reconciliation, no bypass added",
+      "website patch requires existing complete Website_Full and matching private server/site secrets"
+    ]
+  },
+  "passes": {
+    "problem": "forced server season still End in native cached2024 PassManager dates",
+    "fix": "custom localEvents catalog before native pass/activity request and on admin toggle; standalone addon patches only four date fields in loaded native PassManager through original reload",
+    "windows": "forced active pass gets sliding native-duration window anchored to override; original native values restored when off; one active pass chosen",
+    "nativeProof": "actual original PassManager.reload/getNowShowingPass and PassportsModel.getSeasonState executed in VM; oldEnd -> forcedInProgress -> offEnd",
+    "limits": [
+      "requires updated Client_Payment_Addon",
+      "live Windows UI, reward animations and paid tiers not exercised end-to-end",
+      "other pass tasks/shop/rewards use prior reconstructed backend, not newly certified1:1"
+    ]
+  },
+  "activities": {
+    "sevenDay": "forced enabled native10001 remains accessible after old personal30day window; claimed prizes/history retained, no automatic reset/double claim; ActivityPush type2 active1/cancel2",
+    "toggleDelivery": "one disconnected recipient does not abort durable change/audit or other recipients",
+    "notRestored": "Activity types2..9 need server event parameters and mechanics; getActivitys/getActivitysRedDot remain empty for those panels. Existing controls mark needsConfiguration/implementedfalse. Do not claim all events work."
+  },
+  "client": "only appended standalone adapter in local-bootstrap.js; original Index and native factories untouched",
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

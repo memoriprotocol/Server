@@ -1,0 +1,124 @@
+{
+  "Emoji": [
+    {
+      "ID": 1,
+      "Name": "哦嘿嘿嘿",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311001,
+      "Path": "game/emoji/bq001/bq001",
+      "ImgPath": "game/emoji_img/ui_social_face_bq001/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 3,
+      "Name": "问号",
+      "EmojiType": [
+        1
+      ],
+      "TargetArgs": [],
+      "ItemID": 311003,
+      "Path": "game/emoji/bq003/bq003",
+      "ImgPath": "game/emoji_img/ui_social_face_bq003/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 4,
+      "Name": "错亿",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311004,
+      "Path": "game/emoji/bq004/bq004",
+      "ImgPath": "game/emoji_img/ui_social_face_bq004/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 5,
+      "Name": "新年快乐",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311005,
+      "Path": "game/emoji/bq005/bq005",
+      "ImgPath": "game/emoji_img/ui_social_face_bq005/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 6,
+      "Name": "我先冲了！",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311006,
+      "Path": "game/emoji/bq006/bq006",
+      "ImgPath": "game/emoji_img/ui_social_face_bq006/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 7,
+      "Name": "瑟瑟发抖",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311007,
+      "Path": "game/emoji/bq007/bq007",
+      "ImgPath": "game/emoji_img/ui_social_face_bq007/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 8,
+      "Name": "完结撒花！",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311008,
+      "Path": "game/emoji/bq008/bq008",
+      "ImgPath": "game/emoji_img/ui_social_face_bq008/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 9,
+      "Name": "哎呀使不得",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311009,
+      "Path": "game/emoji/bq009/bq009",
+      "ImgPath": "game/emoji_img/ui_social_face_bq009/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 10,
+      "Name": "吃不下了",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311010,
+      "Path": "game/emoji/bq010/bq010",
+      "ImgPath": "game/emoji_img/ui_social_face_bq010/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 11,
+      "Name": "谢谢老板",
+      "EmojiType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 311011,
+      "Path": "game/emoji/bq011/bq011",
+      "ImgPath": "game/emoji_img/ui_social_face_bq011/spriteFrame",
+      "isValid": true
+    }
+  ]
+}

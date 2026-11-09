@@ -1,0 +1,263 @@
+{
+  "SteamAchievement": [
+    {
+      "ID": 1,
+      "Name": "玩家等级",
+      "Desc": "单局游戏玩家等级达成",
+      "AchievementType": 1,
+      "TargetArgs": 100
+    },
+    {
+      "ID": 2,
+      "Name": "最佳记录",
+      "Desc": "玩家最佳十局总分达到",
+      "AchievementType": 2,
+      "TargetArgs": 500000
+    },
+    {
+      "ID": 3,
+      "Name": "最强宠物",
+      "Desc": "三星宠物数量达到",
+      "AchievementType": 3,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 4,
+      "Name": "宠物园长",
+      "Desc": "宠物数量达到",
+      "AchievementType": 4,
+      "TargetArgs": 10
+    },
+    {
+      "ID": 5,
+      "Name": "超级英雄",
+      "Desc": "三星英雄数量达到",
+      "AchievementType": 5,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 6,
+      "Name": "我为王者",
+      "Desc": "段位达到王者",
+      "AchievementType": 7,
+      "TargetArgs": 10
+    },
+    {
+      "ID": 7,
+      "Name": "驯养高手",
+      "Desc": "成功驯养宠物达到",
+      "AchievementType": 9,
+      "TargetArgs": 100
+    },
+    {
+      "ID": 8,
+      "Name": "暗箭伤人",
+      "Desc": "箭塔击杀玩家数达到",
+      "AchievementType": 13,
+      "TargetArgs": 10
+    },
+    {
+      "ID": 9,
+      "Name": "陷阱达人",
+      "Desc": "使用兽夹夹住敌人次数达到",
+      "AchievementType": 14,
+      "TargetArgs": 150
+    },
+    {
+      "ID": 10,
+      "Name": "弹弹技巧",
+      "Desc": "弹弹板使用次数达到",
+      "AchievementType": 15,
+      "TargetArgs": 150
+    },
+    {
+      "ID": 11,
+      "Name": "篝火狂欢",
+      "Desc": "篝火给宠物或自己回血次数达到",
+      "AchievementType": 16,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 12,
+      "Name": "破坏狂人",
+      "Desc": "破坏场景部件数量达到",
+      "AchievementType": 17,
+      "TargetArgs": 500
+    },
+    {
+      "ID": 13,
+      "Name": "蘑菇冒险",
+      "Desc": "使用蘑菇次数达到",
+      "AchievementType": 18,
+      "TargetArgs": 200
+    },
+    {
+      "ID": 14,
+      "Name": "看不见我",
+      "Desc": "躲进棺材次数达到",
+      "AchievementType": 19,
+      "TargetArgs": 200
+    },
+    {
+      "ID": 15,
+      "Name": "逃生大师",
+      "Desc": "藤曼挣脱次数达到",
+      "AchievementType": 20,
+      "TargetArgs": 200
+    },
+    {
+      "ID": 16,
+      "Name": "传送专家",
+      "Desc": "传送门传送次数达到",
+      "AchievementType": 21,
+      "TargetArgs": 100
+    },
+    {
+      "ID": 17,
+      "Name": "神秘石像",
+      "Desc": "石像buff获得次数达到",
+      "AchievementType": 22,
+      "TargetArgs": 150
+    },
+    {
+      "ID": 18,
+      "Name": "捕鱼达人",
+      "Desc": "钓鱼获得经验次数达到",
+      "AchievementType": 23,
+      "TargetArgs": 100
+    },
+    {
+      "ID": 19,
+      "Name": "团结就是力量",
+      "Desc": "成功加小队次数达到",
+      "AchievementType": 24,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 20,
+      "Name": "沟通技巧",
+      "Desc": "游戏内交流次数达到",
+      "AchievementType": 25,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 21,
+      "Name": "社交达人",
+      "Desc": "游戏好友数量达到",
+      "AchievementType": 26,
+      "TargetArgs": 10
+    },
+    {
+      "ID": 22,
+      "Name": "寻宝猎人",
+      "Desc": "累计开启宝箱次数达到",
+      "AchievementType": 27,
+      "TargetArgs": 1000
+    },
+    {
+      "ID": 23,
+      "Name": "第一滴血",
+      "Desc": "击杀玩家次数达到",
+      "AchievementType": 28,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 25,
+      "Name": "怪物猎人",
+      "Desc": "击杀怪物次数达到",
+      "AchievementType": 29,
+      "TargetArgs": 1000
+    },
+    {
+      "ID": 26,
+      "Name": "boss杀手",
+      "Desc": "击杀boss次数达到",
+      "AchievementType": 30,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 27,
+      "Name": "神器收藏家",
+      "Desc": "获得5阶武器数量达到",
+      "AchievementType": 31,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 28,
+      "Name": "武器大师",
+      "Desc": "获得武器数量达到",
+      "AchievementType": 32,
+      "TargetArgs": 100
+    },
+    {
+      "ID": 29,
+      "Name": "神级装备",
+      "Desc": "获得最高星级装备数量达到",
+      "AchievementType": 33,
+      "TargetArgs": 5
+    },
+    {
+      "ID": 30,
+      "Name": "套装激活",
+      "Desc": "首次组成任意星级装备套装",
+      "AchievementType": 34,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 31,
+      "Name": "职业卖家",
+      "Desc": "累计出售装备数量达到",
+      "AchievementType": 35,
+      "TargetArgs": 500
+    },
+    {
+      "ID": 32,
+      "Name": "宝石合成",
+      "Desc": "使用宝石合成装备次数达到",
+      "AchievementType": 36,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 33,
+      "Name": "装备收藏家",
+      "Desc": "获得装备数量达到",
+      "AchievementType": 37,
+      "TargetArgs": 1000
+    },
+    {
+      "ID": 34,
+      "Name": "猎杀小队",
+      "Desc": "组队击杀boss次数达到",
+      "AchievementType": 38,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 35,
+      "Name": "绝地翻盘",
+      "Desc": "剩余1%血量击杀玩家",
+      "AchievementType": 39,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 36,
+      "Name": "生死时速",
+      "Desc": "剩余1%血量击杀boss",
+      "AchievementType": 40,
+      "TargetArgs": 1
+    },
+    {
+      "ID": 37,
+      "Name": "冒险之旅",
+      "Desc": "游戏游玩局数达到",
+      "AchievementType": 41,
+      "TargetArgs": 100
+    },
+    {
+      "ID": 38,
+      "Name": "挥金如土",
+      "Desc": "游戏内累计消耗金币数",
+      "AchievementType": 42,
+      "TargetArgs": 1000000
+    }
+  ]
+}

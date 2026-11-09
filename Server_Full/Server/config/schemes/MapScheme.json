@@ -1,0 +1,317 @@
+{
+  "Map": [
+    {
+      "ID": 1,
+      "Name": "没啥用",
+      "Width": 120000,
+      "Height": 42000,
+      "CanBuild": true,
+      "CanSwitchSeason": true,
+      "AOISize": 0,
+      "Born": [
+        4180,
+        2395,
+        -28,
+        -132
+      ],
+      "deathPunish": 0,
+      "IsOpen": false
+    },
+    {
+      "ID": 2,
+      "Name": "英勇小镇",
+      "Width": 62000,
+      "Height": 62800,
+      "CanBuild": true,
+      "CanSwitchSeason": true,
+      "AOISize": 0,
+      "Born": [
+        4180,
+        2395,
+        -28,
+        -132
+      ],
+      "deathPunish": 1,
+      "IsOpen": true
+    },
+    {
+      "ID": 3,
+      "Name": "千峰雪原",
+      "Width": 62080,
+      "Height": 62848,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        1920,
+        1024,
+        -23200,
+        27725
+      ],
+      "deathPunish": 1,
+      "IsOpen": true
+    },
+    {
+      "ID": 4,
+      "Name": "暗夜森林",
+      "Width": 102000,
+      "Height": 28800,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        2048,
+        1024,
+        -19308,
+        -9900
+      ],
+      "deathPunish": 1,
+      "IsOpen": true
+    },
+    {
+      "ID": 5,
+      "Name": "魔龙巢穴",
+      "Width": 48700,
+      "Height": 55800,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        2048,
+        1536,
+        4391,
+        5454
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 6,
+      "Name": "不死之地",
+      "Width": 13000,
+      "Height": 14688,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 1,
+      "Born": [
+        1024,
+        1024,
+        -1634,
+        1645
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 7,
+      "Name": "落日荒漠",
+      "Width": 42000,
+      "Height": 42000,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        2048,
+        512,
+        -13824,
+        -1000
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 8,
+      "Name": "无尽深海",
+      "Width": 62000,
+      "Height": 62800,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        256,
+        256,
+        -17985,
+        -23960
+      ],
+      "deathPunish": 1,
+      "IsOpen": true
+    },
+    {
+      "ID": 9,
+      "Name": "灰烬圣地",
+      "Width": 62000,
+      "Height": 62800,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 10,
+      "Name": "霜月城堡",
+      "Width": 62000,
+      "Height": 62800,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 11,
+      "Name": "暂时不要",
+      "Width": 42000,
+      "Height": 37000,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 1,
+      "Born": [
+        2048,
+        2048,
+        -28,
+        -2032
+      ],
+      "deathPunish": 0,
+      "IsOpen": false
+    },
+    {
+      "ID": 12,
+      "Name": "守卫莉娅",
+      "Width": 28880,
+      "Height": 33320,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        100,
+        100,
+        0,
+        0
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 13,
+      "Name": "遗忘海域",
+      "Width": 25984,
+      "Height": 25984,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        1280,
+        1280,
+        -6840,
+        4200
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 14,
+      "Name": "旧日墓园",
+      "Width": 22200,
+      "Height": 15960,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        1024,
+        1024,
+        -8000,
+        5500
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 15,
+      "Name": "霜之领地",
+      "Width": 20280,
+      "Height": 20280,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        512,
+        512,
+        7400,
+        -7000
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 16,
+      "Name": "厄运神殿",
+      "Width": 20280,
+      "Height": 20280,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        512,
+        512,
+        7700,
+        -7300
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 17,
+      "Name": "英勇派对",
+      "Width": 108600,
+      "Height": 8400,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        512,
+        4096,
+        -52000,
+        0
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    },
+    {
+      "ID": 18,
+      "Name": "秋枫平原",
+      "Width": 51000,
+      "Height": 57000,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        4096,
+        2395,
+        -1000,
+        23250
+      ],
+      "deathPunish": 1,
+      "IsOpen": true
+    },
+    {
+      "ID": 99,
+      "Name": "新手教程",
+      "Width": 20000,
+      "Height": 11776,
+      "CanBuild": true,
+      "CanSwitchSeason": false,
+      "AOISize": 0,
+      "Born": [
+        1,
+        1,
+        -7061,
+        -1000
+      ],
+      "deathPunish": 0,
+      "IsOpen": true
+    }
+  ]
+}

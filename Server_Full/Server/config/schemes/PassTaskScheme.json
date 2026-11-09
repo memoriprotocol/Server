@@ -1,0 +1,472 @@
+{
+  "PassTask": [
+    {
+      "ID": 100001,
+      "TaskID": 1,
+      "SessionID": 1,
+      "Category": 2,
+      "TaskType": 0,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 1,
+      "RewardNum": 5000,
+      "Sort": 0
+    },
+    {
+      "ID": 100002,
+      "TaskID": 2,
+      "SessionID": 1,
+      "Category": 1,
+      "TaskType": 0,
+      "TargetArgs": {
+        "num": 15
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 100003,
+      "TaskID": 3,
+      "SessionID": 1,
+      "Category": 1,
+      "TaskType": 1,
+      "TargetArgs": {
+        "num": 100
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 100004,
+      "TaskID": 4,
+      "SessionID": 1,
+      "Category": 1,
+      "TaskType": 2,
+      "TargetArgs": {
+        "num": 200000
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 100005,
+      "TaskID": 5,
+      "SessionID": 1,
+      "Category": 1,
+      "TaskType": 3,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 100006,
+      "TaskID": 6,
+      "SessionID": 1,
+      "Category": 1,
+      "TaskType": 4,
+      "TargetArgs": {
+        "num": 20
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 100007,
+      "TaskID": 7,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 0,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 5,
+      "RewardNum": 1000,
+      "Sort": 1
+    },
+    {
+      "ID": 100008,
+      "TaskID": 8,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 1,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 10,
+      "RewardNum": 1000,
+      "Sort": 9
+    },
+    {
+      "ID": 100009,
+      "TaskID": 9,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 2,
+      "TargetArgs": {
+        "num": 10000
+      },
+      "FinishTimes": 10,
+      "RewardNum": 1000,
+      "Sort": 10
+    },
+    {
+      "ID": 100011,
+      "TaskID": 11,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 4,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 1000,
+      "Sort": 12
+    },
+    {
+      "ID": 100012,
+      "TaskID": 12,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 5,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 5,
+      "RewardNum": 1000,
+      "Sort": 13
+    },
+    {
+      "ID": 100013,
+      "TaskID": 13,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 7,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 2,
+      "RewardNum": 1000,
+      "Sort": 2
+    },
+    {
+      "ID": 100014,
+      "TaskID": 14,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 8,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 2,
+      "RewardNum": 1000,
+      "Sort": 3
+    },
+    {
+      "ID": 100015,
+      "TaskID": 15,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 9,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 2,
+      "RewardNum": 1000,
+      "Sort": 4
+    },
+    {
+      "ID": 100016,
+      "TaskID": 16,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 10,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 1000,
+      "Sort": 5
+    },
+    {
+      "ID": 100017,
+      "TaskID": 17,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 11,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 1000,
+      "Sort": 6
+    },
+    {
+      "ID": 100018,
+      "TaskID": 19,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 13,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 1,
+      "RewardNum": 5000,
+      "Sort": 7
+    },
+    {
+      "ID": 100019,
+      "TaskID": 20,
+      "SessionID": 1,
+      "Category": 3,
+      "TaskType": 14,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 1,
+      "RewardNum": 5000,
+      "Sort": 8
+    },
+    {
+      "ID": 200001,
+      "TaskID": 1,
+      "SessionID": 2,
+      "Category": 2,
+      "TaskType": 0,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 1,
+      "RewardNum": 5000,
+      "Sort": 0
+    },
+    {
+      "ID": 200002,
+      "TaskID": 2,
+      "SessionID": 2,
+      "Category": 1,
+      "TaskType": 0,
+      "TargetArgs": {
+        "num": 15
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 200003,
+      "TaskID": 3,
+      "SessionID": 2,
+      "Category": 1,
+      "TaskType": 1,
+      "TargetArgs": {
+        "num": 100
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 200004,
+      "TaskID": 4,
+      "SessionID": 2,
+      "Category": 1,
+      "TaskType": 2,
+      "TargetArgs": {
+        "num": 200000
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 200005,
+      "TaskID": 5,
+      "SessionID": 2,
+      "Category": 1,
+      "TaskType": 3,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 200006,
+      "TaskID": 6,
+      "SessionID": 2,
+      "Category": 1,
+      "TaskType": 4,
+      "TargetArgs": {
+        "num": 20
+      },
+      "FinishTimes": 1,
+      "RewardNum": 10000,
+      "Sort": 0
+    },
+    {
+      "ID": 200007,
+      "TaskID": 7,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 0,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 5,
+      "RewardNum": 1000,
+      "Sort": 1
+    },
+    {
+      "ID": 200008,
+      "TaskID": 8,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 1,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 10,
+      "RewardNum": 1000,
+      "Sort": 9
+    },
+    {
+      "ID": 200009,
+      "TaskID": 9,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 2,
+      "TargetArgs": {
+        "num": 10000
+      },
+      "FinishTimes": 10,
+      "RewardNum": 1000,
+      "Sort": 10
+    },
+    {
+      "ID": 200011,
+      "TaskID": 11,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 4,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 1000,
+      "Sort": 12
+    },
+    {
+      "ID": 200012,
+      "TaskID": 12,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 5,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 5,
+      "RewardNum": 1000,
+      "Sort": 13
+    },
+    {
+      "ID": 200013,
+      "TaskID": 13,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 7,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 2,
+      "RewardNum": 1000,
+      "Sort": 2
+    },
+    {
+      "ID": 200014,
+      "TaskID": 14,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 8,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 2,
+      "RewardNum": 1000,
+      "Sort": 3
+    },
+    {
+      "ID": 200015,
+      "TaskID": 15,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 9,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 2,
+      "RewardNum": 1000,
+      "Sort": 4
+    },
+    {
+      "ID": 200016,
+      "TaskID": 16,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 10,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 1000,
+      "Sort": 5
+    },
+    {
+      "ID": 200017,
+      "TaskID": 17,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 11,
+      "TargetArgs": {
+        "num": 5
+      },
+      "FinishTimes": 1,
+      "RewardNum": 1000,
+      "Sort": 6
+    },
+    {
+      "ID": 200018,
+      "TaskID": 19,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 13,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 1,
+      "RewardNum": 5000,
+      "Sort": 7
+    },
+    {
+      "ID": 200019,
+      "TaskID": 20,
+      "SessionID": 2,
+      "Category": 3,
+      "TaskType": 14,
+      "TargetArgs": {
+        "num": 1
+      },
+      "FinishTimes": 1,
+      "RewardNum": 5000,
+      "Sort": 8
+    }
+  ]
+}

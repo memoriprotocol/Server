@@ -1,0 +1,180 @@
+{
+  "PetShards": [
+    {
+      "ID": 120100,
+      "Star": 2,
+      "Name": "蛮猪碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 120200,
+      "Star": 2,
+      "Name": "猩猩碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 120500,
+      "Star": 2,
+      "Name": "狐狸碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 121500,
+      "Star": 2,
+      "Name": "蜜獾碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 121600,
+      "Star": 2,
+      "Name": "大猫碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 121700,
+      "Star": 2,
+      "Name": "黑猫碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 121800,
+      "Star": 2,
+      "Name": "绵羊碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 121900,
+      "Star": 2,
+      "Name": "蜜蜂碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 122100,
+      "Star": 2,
+      "Name": "犀牛碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 122200,
+      "Star": 2,
+      "Name": "鳄鱼碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 122900,
+      "Star": 2,
+      "Name": "浣熊碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123000,
+      "Star": 2,
+      "Name": "熊猫碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123100,
+      "Star": 2,
+      "Name": "黑曜龙碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123500,
+      "Star": 2,
+      "Name": "秃鹫碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123600,
+      "Star": 2,
+      "Name": "赤炎鸾碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123700,
+      "Star": 2,
+      "Name": "闪龙碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123800,
+      "Star": 2,
+      "Name": "紫牛碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 123900,
+      "Star": 2,
+      "Name": "万圣节幽灵碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 124000,
+      "Star": 2,
+      "Name": "水豚碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 124100,
+      "Star": 2,
+      "Name": "姜饼人碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 124200,
+      "Star": 2,
+      "Name": "貔貅碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    },
+    {
+      "ID": 124300,
+      "Star": 2,
+      "Name": "蒸饺碎片",
+      "Weight": 100,
+      "Describe": "集齐碎片可获得宠物或升星",
+      "Icon": "arena/ui/layers/pet/icon/1404/spriteFrame"
+    }
+  ]
+}

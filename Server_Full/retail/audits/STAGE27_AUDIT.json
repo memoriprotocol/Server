@@ -1,0 +1,62 @@
+{
+  "clientVersion": "3.12.7",
+  "targetedTests": {
+    "pass": 24,
+    "fail": 0
+  },
+  "httpIntegration": "actual Website_Full AuthClient passed",
+  "render": "UNVERIFIED",
+  "waterCells": 857,
+  "worldObjects": {
+    "mob": 289,
+    "boss": 4,
+    "tree": 160,
+    "stone": 100,
+    "ore": 80,
+    "well": 24,
+    "statue": 24
+  },
+  "knownLimitations": [
+    "17 historical city assertions remain failing in full npm test",
+    "full retail events/AI/drop/skills not reconstructed",
+    "later cosmetic categories absent in 3.12.7"
+  ],
+  "files": [
+    "Server_Full/README_STAGE27_RU.txt",
+    "Server_Full/START_SERVER.bat",
+    "Server_Full/config/city-main-3127.json",
+    "Server_Full/config/local-commerce-3127.json",
+    "Server_Full/config/map2-native-npcs-3127.json",
+    "Server_Full/config/map2-spawn-regions-3127.json",
+    "Server_Full/config/map2-verified-prefabs-3127.json",
+    "Server_Full/config/map2-water-3127.json",
+    "Server_Full/config/world-content-3127.json",
+    "Server_Full/lib/accounts.js",
+    "Server_Full/lib/actions-3127.js",
+    "Server_Full/lib/admin-3127.js",
+    "Server_Full/lib/admin-catalog-3127.js",
+    "Server_Full/lib/admin-content-3127.js",
+    "Server_Full/lib/admin-game-3127.js",
+    "Server_Full/lib/admin-gameops-schema.js",
+    "Server_Full/lib/admin-permissions.js",
+    "Server_Full/lib/city-3127.js",
+    "Server_Full/lib/commerce-3127.js",
+    "Server_Full/lib/environment-3127.js",
+    "Server_Full/lib/game.js",
+    "Server_Full/lib/inventory.js",
+    "Server_Full/lib/profile.js",
+    "Server_Full/lib/server-restart.js",
+    "Server_Full/lib/water-3127.js",
+    "Server_Full/lib/world.js",
+    "Server_Full/package.json",
+    "Server_Full/server.js",
+    "Server_Full/tests/native-gift-filter.fixture.cjs",
+    "Server_Full/tests/stage20-shop-2024-compat.test.js",
+    "Server_Full/tests/stage22-recruit-water.test.js",
+    "Server_Full/tests/stage25-map2-gift.test.js",
+    "Server_Full/tests/stage26-maincity.test.js",
+    "Server_Full/tests/stage26-restart.test.js",
+    "Server_Full/tests/stage27-admin-world.test.js",
+    "Website_Full/public/admin-shop.js"
+  ]
+}

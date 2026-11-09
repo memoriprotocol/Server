@@ -1,0 +1,832 @@
+{
+  "stage": 73,
+  "version": "0.51.0-stage73-treant-spikes-leaves",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage73/CCAsyncBulletEntity.ts",
+      "sha256": "6cb08bb1d333166dae1a44d91741c75746d55e14ab96b5c5d6255f1c6def319b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/CCDryads.ts",
+      "sha256": "5e410b0c93fa45eccceb23df5256e11833d2892363228e56baeda2add2e79be3",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/CCScaleBulletEntity.ts",
+      "sha256": "66c203916eb15b4b7ca20ebc28506d4578b09b704ce2041699617e4376f1feba",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/PathUtil.ts",
+      "sha256": "070d900a72f4109b06ebe3e0e7b5d198ceba750ba15ac398f1883929515a2fb8",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/SkillCfg.ts",
+      "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/SkillResUtil.ts",
+      "sha256": "cff319dbf840e6cd30a5b3c1ca1efa9b4b81cb6ee1fe7b5c883dd8b16c9c5987",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage73/SkillSchemeManager.ts",
+      "sha256": "8fd246c9a652b6dff5e35a1d86f6541bf9d271bd3584164ca1fcc0ec423f14e1",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "nativeSkills": [
+    {
+      "ID": 6010,
+      "level": 1,
+      "skillType": 340,
+      "name": "树人1星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 90000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 1000,
+      "maxDistance": 1600,
+      "skillSpeed": 3000,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        300
+      ],
+      "skillShape": 1,
+      "skillSize": [
+        400,
+        600
+      ],
+      "shakeId": 0,
+      "attribute": 1,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6010/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 12000,
+      "atkargs": 100,
+      "args": [
+        "damage:12000",
+        "num:1",
+        "atkArgs:100",
+        "num:2",
+        "hpArgs:10"
+      ]
+    },
+    {
+      "ID": 6010,
+      "level": 2,
+      "skillType": 341,
+      "name": "树人2星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 90000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 1000,
+      "maxDistance": 2000,
+      "skillSpeed": 4000,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        300
+      ],
+      "skillShape": 1,
+      "skillSize": [
+        400,
+        600
+      ],
+      "shakeId": 0,
+      "attribute": 1,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6010/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 15000,
+      "atkargs": 110,
+      "args": [
+        "damage:15000",
+        "num:1",
+        "duration:1500",
+        "atkArgs:110",
+        "num:2",
+        "hpArgs:10"
+      ]
+    },
+    {
+      "ID": 6010,
+      "level": 3,
+      "skillType": 342,
+      "name": "树人3星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 90000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 1000,
+      "maxDistance": 2400,
+      "skillSpeed": 4200,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        500
+      ],
+      "skillShape": 1,
+      "skillSize": [
+        400,
+        600
+      ],
+      "shakeId": 0,
+      "attribute": 1,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6010/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 18000,
+      "atkargs": 105,
+      "args": [
+        "damage:18000",
+        "num:1",
+        "duration:1500",
+        "atkArgs:105",
+        "num:2",
+        "hpArgs:10"
+      ]
+    },
+    {
+      "ID": 6028,
+      "level": 1,
+      "skillType": 490,
+      "name": "树人被动1星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 2000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 1000,
+      "maxDistance": 1500,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        1500
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        110,
+        110
+      ],
+      "shakeId": 0,
+      "attribute": 1,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": true,
+      "initSelfBuff": [],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 8,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6010/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 0,
+      "atkargs": 0,
+      "args": [
+        "damage:0",
+        "atkArgs:0",
+        "num:3",
+        "hpArgs:10",
+        "accelerationTime:1500",
+        "acceleration:1000",
+        "flyingTime:5000"
+      ]
+    },
+    {
+      "ID": 6028,
+      "level": 2,
+      "skillType": 491,
+      "name": "树人被动2星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 2000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 1000,
+      "maxDistance": 1500,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        1500
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        110,
+        110
+      ],
+      "shakeId": 0,
+      "attribute": 1,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": true,
+      "initSelfBuff": [],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 8,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6010/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 0,
+      "atkargs": 0,
+      "args": [
+        "damage:0",
+        "atkArgs:0",
+        "num:3",
+        "hpArgs:10",
+        "accelerationTime:1500",
+        "acceleration:1000",
+        "flyingTime:5000"
+      ]
+    },
+    {
+      "ID": 6028,
+      "level": 3,
+      "skillType": 492,
+      "name": "树人被动3星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 2000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 1000,
+      "maxDistance": 1500,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        1500
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        110,
+        110
+      ],
+      "shakeId": 0,
+      "attribute": 1,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": true,
+      "initSelfBuff": [],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 8,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6010/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 0,
+      "atkargs": 0,
+      "args": [
+        "damage:0",
+        "atkArgs:0",
+        "num:3",
+        "hpArgs:10",
+        "accelerationTime:1500",
+        "acceleration:1000",
+        "flyingTime:5000"
+      ]
+    }
+  ],
+  "nativeRoot": {
+    "type": 216,
+    "name": "树人捆绑",
+    "stackBehaviors": [],
+    "maxStackNum": 0,
+    "args": [],
+    "duration": 1500,
+    "isCtrl": true,
+    "isDebuff": true,
+    "canBePurify": true,
+    "controlType": [
+      1
+    ],
+    "isBanSkill": false,
+    "buffIcon": "",
+    "buffDesc": ""
+  },
+  "nativeAssets": [
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a01_new",
+      "index": 31583,
+      "pack": "072172e5a",
+      "importSHA256": "19fc690310507164d1986a41b30509aa10875146387189c4268486a580d5ea9c",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a02_new",
+      "index": 35407,
+      "pack": "0501e56d7",
+      "importSHA256": "209816c3c55f1bf2079991ceef788fc5b8994af756b1d5b5161cebea95d25726",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a03_1_new",
+      "index": 11530,
+      "pack": "08ff41e6e",
+      "importSHA256": "03ddedfa53cd0507a12b0af79d8fa327f339db355052a63560a26947d490d18f",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a03_3_new",
+      "index": 23713,
+      "pack": "080a2c65f",
+      "importSHA256": "288fe89ada67ee6a05f31c6276d38fa97c382998d9feadce02e825851cc8477b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a04_1_new",
+      "index": 8381,
+      "pack": "093fb4163",
+      "importSHA256": "038645aa91cf6fbcb8f994a821b94f0b9a184227f2b8a2e81c0d3ee9d3722a2b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a04_3_new",
+      "index": 36882,
+      "pack": "0ae5123f8",
+      "importSHA256": "2153ef91102c67eabed201a947a24c0e11ae4bed001cc1e917a296f900bef1b7",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a05_1_new",
+      "index": 29579,
+      "pack": "058d12805",
+      "importSHA256": "cc987854b9b3d113710e205a8baea5ae441a16423f0e4cbc40be16dc9a1948a9",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a05_3_new",
+      "index": 18231,
+      "pack": "08942989d",
+      "importSHA256": "3b9afdf055bfcf9a0677fbcfe30056a4533f30fcae1300369f278af7d07e8c82",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a06_1_new",
+      "index": 39947,
+      "pack": "0a7ff779b",
+      "importSHA256": "4fed501751606fdd00cfdb0e41c497baf64142a18ad0d338b898ef97f907058a",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_a06_3_new",
+      "index": 3568,
+      "pack": "05242bcde",
+      "importSHA256": "a14b0dab47b748edb6ec6b83d2b6731490582a996e2cfc4b39eec5b363b0efa4",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx/prefab/300900_skill_tx_debuff_01_new",
+      "index": 38464,
+      "pack": "06d3c5753",
+      "importSHA256": "39250297c5aa396568777202a1fb1680979122c84dab41536a2bb955b91b3153",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_903/prefab/300900_skill_tx_a01",
+      "index": 40655,
+      "pack": "08243cff7",
+      "importSHA256": "9a1f435aa3a4920d72c0bd59477757cf509881098ca7946b4e2ef5a233bdfcb4",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_903/prefab/300900_skill_tx_a02",
+      "index": 3468,
+      "pack": "0db89e4c9",
+      "importSHA256": "cb1887d7b7bd5c6baa1e6256755966eecde03cf117ed0536d21d610e7f16ce2b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_903/prefab/300900_skill_tx_a03",
+      "index": 36162,
+      "pack": "0e6140475",
+      "importSHA256": "1ece1982778042b56541ef952b4c8687b454cfef30dc97f95a4a1410834ea4da",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_903/prefab/300900_skill_tx_debuff",
+      "index": 29812,
+      "pack": "05dcd4184",
+      "importSHA256": "fbed126c3d84d64eeb887d79c6b405a84d1edb33dc5c30e8e38f8f553c93ee8e",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_904/prefab/300900_skill_tx_a01",
+      "index": 2817,
+      "pack": "06f34500-54dc-4c98-864e-604d0942aab5",
+      "importSHA256": "be861d87652560758a3461e54a0c2de7f57352165a6d00fb53abe8ad7e46f252",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_904/prefab/300900_skill_tx_a02",
+      "index": 47672,
+      "pack": "6fe4ded4-b1fc-4a16-9fa5-59a43ab0eb77",
+      "importSHA256": "ccc682846f686184dd2ace9ee3631d5fac12c57835fcb40e6aa2530548173afe",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_904/prefab/300900_skill_tx_a03",
+      "index": 45187,
+      "pack": "42c52270-f051-4b00-8500-f6d1ae3c7f3c",
+      "importSHA256": "1dba2d51cb236b1b2edf6613ceada0528a4ce58486c6fb7c83b5d8780fa0c7ce",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300900_skill_tx_904/prefab/300900_skill_tx_debuff",
+      "index": 39563,
+      "pack": "076ff70f6",
+      "importSHA256": "8c8bb532d6fcdfbce130e6e5d140443776d8370b3f9b126ff77a9d3d01aed0df",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/skills/dryads_passive1/prefab/missile",
+      "index": 20195,
+      "pack": "0ae2ebf10",
+      "importSHA256": "73b2275431119d97cfb566301153c520cb620bacd95d97457674e09c044c755c",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/skills/dryads_passive1_903/prefab/missile",
+      "index": 13021,
+      "pack": "03cbbebbd",
+      "importSHA256": "49c79d6ee3157ad40d3c10905779bd31296e444f6dda6197db6920aad5733313",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/skills/dryads_passive1_904/prefab/missile",
+      "existsInNativeCatalog": false,
+      "importSHA256": null,
+      "fallbackSkinID": 901
+    }
+  ],
+  "nativeDescriptions": [
+    {
+      "language": "en",
+      "key": "hero/skill/6010/1",
+      "verbatimFragment": "\"hero/skill/6010/1\",\"Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\\nShoots spikes outwards, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG.\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6010/2",
+      "verbatimFragment": "\"hero/skill/6010/2\",\"Passive: When casting a weapon skill, apply a healing leaf to yourself and up to 3 allies nearby, restoring HP (${cfg.args.hpArgs}% of Treant's Max HP)\\nShoots spikes outwards, with each spike dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) DMG, and applying a ${cfg.args.duration/1000}s Root effect to enemies [Root: Can’t move].\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6010/3",
+      "verbatimFragment": "\"hero/skill/6010/3\",'Passive:\\x20When\\x20casting\\x20a\\x20weapon\\x20skill,\\x20apply\\x20a\\x20healing\\x20leaf\\x20to\\x20yourself\\x20and\\x20up\\x20to\\x203\\x20allies\\x20nearby,\\x20restoring\\x20HP\\x20(${cfg.args.hpArgs}%\\x20of\\x20Treant\\x27s\\x20Max\\x20HP)\\x0aShoots\\x20spikes\\x20outwards\\x20two\\x20times,\\x20with\\x20each\\x20spike\\x20dealing\\x20${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%\\x20ATK)\\x20DMG,\\x20and\\x20applying\\x20a\\x20${cfg.args.duration/1000}s\\x20Root\\x20effect\\x20to\\x20enemies\\x20[Root:\\x20Can’t\\x20move].'"
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6010/1",
+      "verbatimFragment": "'hero/skill/6010/1',\"被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\\n向前方释放尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6010/2",
+      "verbatimFragment": "\"hero/skill/6010/2\",\"被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\\n向前方释放尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,并对敌人施加${cfg.args.duration/1000}秒的束缚状态【束缚：无法移动】\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6010/3",
+      "verbatimFragment": "'hero/skill/6010/3',\"被动：释放武器技能时，向自己和附近友方单位（最多3个）各释放一片树叶，树叶提供${cfg.args.hpArgs}%树人最大生命值的治疗效果。\\n向前方释放两次尖刺，每根尖刺造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点伤害,并对敌人施加${cfg.args.duration/1000}秒的束缚状态【束缚：无法移动】\""
+    }
+  ],
+  "nativeContract": {
+    "hero": 9,
+    "activeSkill": 6010,
+    "passiveSkill": 6028,
+    "unlockLevel": 10,
+    "activeCD": 90000,
+    "castPointTime": 200,
+    "starAttackCounts": [
+      1,
+      1,
+      2
+    ],
+    "root": "native216 imprisoned_2,1500ms at stars2/3; movement only, not a skill ban",
+    "rootVisual": "fromEntityType/fromEntitySkinID select original native normal or special debuff prefab",
+    "visual1030": "one CCDryads entity with ud.skillLv and skinID; native controller selects all4skins and3stars",
+    "nativeSecondWave": "ordinary star3 CCDryads schedules its second visual group after0.1s; special skins use their own single prefab timeline; no second1030 entity",
+    "passiveTrigger": "TriggerType.useWeaponSkillSuccess=8; cd2000ms, castpoint200ms",
+    "heal": "10% Treant maximum HP, not recipient maximum HP",
+    "leaf": "native generic type8 with skillId6028; original SkillSchemeManager defaults level1, original SkillResUtil chooses dryads_passive1 with optional skin suffix",
+    "leafParams": {
+      "speed": 1500,
+      "accelerationTime": 1500,
+      "acceleration": 1000,
+      "flyingTime": 5000
+    }
+  },
+  "localPolicies": {
+    "scope": "Map2 hero mechanics, not all locations",
+    "damage": "preserved native effectSize radius at latest cursor on release, target body radius; PvE mobs/bosses only; exact retail spike/contact geometry not recovered",
+    "cursor": "latest cursor and actor origin at release; committed point retained for second wave",
+    "interval": "two server contacts100ms apart at star3; inspired by ordinary native visual followup, retail server interval/special-skin timelines unverified",
+    "activeArgs": "native args contain num twice(1 then2); attack count comes from bilingual descriptions1/1/2, not a guessed interpretation of overwritten num",
+    "contacts": "snapshot candidates per wave, per-contact successful marker,250ms bounded retry until original castpoint+1000ms; new spawn/dead/removed/safe contacts discarded",
+    "damageSnapshot": "attack stats snapshotted at first release; native existing damage/resistance/crit/relic pipeline; not recovered full retail mitigation",
+    "leafRecipients": "self plus up to3 friendly living online heroes, English description and args.num3; Chinese description can be read as3total, exact retail total unresolved",
+    "leafOrder": "injured HP fraction then distance then UID; team membership or positive shared camp authoritative; pets/summons not included yet",
+    "leafTiming": "choose targets and snapshot caster maxHP at200ms release; straight homing steps<=100ms with native speed/acceleration and radius55; no terrain collision; exact retail flight/arrival not proven",
+    "healing": "exactly once at valid recipient arrival, capmaxHP; source/target world actor room map life binding, source hero/skin and unlock level; no redirect to a new life",
+    "queues": "4 pending active casts, <=64 pending/in-flight leaves budget,128 correction actors per recipient; native passive2000ms cooldown paid only on accepted trigger",
+    "sourceCancellation": "death, scene/loading/hero/skin/map/room/actor/life changes; safe/control/deadline cancel active; actor-life change also invalidates the root source",
+    "delivery": "normal environment visibility retries native creation; failed effect pushes queue current HP/root snapshots only,<=250ms retry; no repeated damage, kill reward or healing; old actor/room/life corrections discarded",
+    "visualCleanup": "2000ms ordinary star1/2,2100ms star3 envelope; exact native timeline finish on special skins not decoded",
+    "missingAsset904": "original catalog lacks dryads_passive1_904; only this leaf uses existing base skin901 visual; actor skin and active1030 remain904; fallback is a local compatibility decision"
+  },
+  "validation": {
+    "tests": {
+      "tests": 1762,
+      "pass": 1762,
+      "fail": 0,
+      "skipped": 0,
+      "cancelled": 0
+    },
+    "newTests": 82,
+    "oldTestsModified": 0,
+    "all12ActiveSkinStarCombinations": true,
+    "nativeVM": [
+      "CCDryads.create/playLevel1/2/3 all12combinations",
+      "SkillCfg.TriggerType",
+      "PathUtil",
+      "SkillResUtil",
+      "CCAsyncBulletEntity.transform rotateTo",
+      "SkillSchemeManager.getSkill default1"
+    ],
+    "imports": {
+      "hashedAndCRCVerified": 21,
+      "absentLeaf904": 1,
+      "rawNativeTimelinesDecoded": false
+    },
+    "websocket": {
+      "nativeTreantF": true,
+      "castPoint200": true,
+      "nativeEntity1030AndSkin901": true,
+      "star3TwoImpactsOneVisual": true,
+      "nativeRoot216": true,
+      "nativeCreateAndJoinTeam": true,
+      "weaponTriggersNative6028Leaf": true,
+      "selfHeal": true,
+      "homingAllyHeal": true,
+      "casterMaxHP10Percent": true,
+      "cleanupAndNativeTeamExit": true
+    }
+  },
+  "preservation": {
+    "wallsStage44": true,
+    "PVPBoard": true,
+    "allConfigsSchemesPlacementsUnchanged": true,
+    "websiteAddon": true,
+    "originalIndex": true,
+    "Stage72AIUnchanged": true,
+    "previous1680TestsUnchanged": true
+  },
+  "remaining": [
+    "full retail spike geometry, target count/priority, flight contact and server pulse timing are not recovered",
+    "exact total healing recipients differs in wording between English and Chinese; pets/summons support remains open",
+    "native skin904 has no own leaf prefab; base fallback is not exact retail visual parity",
+    "all remaining hero/weapon mechanics and passives, locations, Map2 Fishman/decor and other user backlog remain",
+    "real Windows/Cocos rendering and live payment provider remain unverified"
+  ],
+  "fullTreantRetailParity": false,
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

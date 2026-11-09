@@ -1,0 +1,2313 @@
+{
+  "CollectionTask": [
+    {
+      "ID": 1,
+      "RewardID": [
+        29001
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 1,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1320
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "RewardID": [
+        29001
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 1,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1320
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "RewardID": [
+        29001
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 1,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1320
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "RewardID": [
+        29001
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 1,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1320
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 90
+        }
+      ]
+    },
+    {
+      "ID": 5,
+      "RewardID": [
+        29001
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 1,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1320
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "RewardID": [
+        29002
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 2,
+      "TargetNum": 1,
+      "CollectionID": 2,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 8,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "RewardID": [
+        29002
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 2,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1313
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "RewardID": [
+        29002
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 2,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "RewardID": [
+        29002
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 2,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 90
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "RewardID": [
+        29002
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 2,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 5,
+          "opType": 5,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "RewardID": [
+        29003
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 2,
+      "TargetNum": 1,
+      "CollectionID": 3,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 8,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "RewardID": [
+        29003
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 3,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1314
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "RewardID": [
+        29003
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 3,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "RewardID": [
+        29003
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 3,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 90
+        }
+      ]
+    },
+    {
+      "ID": 15,
+      "RewardID": [
+        29003
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 3,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 6,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 5,
+          "opType": 5,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "ID": 16,
+      "RewardID": [
+        29004
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 4,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 4,
+          "opType": 5,
+          "value": 4
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 500
+        }
+      ]
+    },
+    {
+      "ID": 17,
+      "RewardID": [
+        29004
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 4,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 4,
+          "opType": 5,
+          "value": 5
+        },
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 18,
+      "RewardID": [
+        29004
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 4,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 4,
+          "opType": 5,
+          "value": 6
+        },
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1313
+        },
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1314
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 5000
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "RewardID": [
+        29004
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 4,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 4,
+          "opType": 5,
+          "value": 7
+        },
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1320
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 5000
+        }
+      ]
+    },
+    {
+      "ID": 20,
+      "RewardID": [
+        29005
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 3,
+      "TargetNum": 20,
+      "CollectionID": 5,
+      "CollectionStar": 0
+    },
+    {
+      "ID": 21,
+      "RewardID": [
+        29005
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 2,
+      "TargetNum": 500,
+      "CollectionID": 5,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 7,
+          "opType": 4,
+          "value": 1
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 2
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 3
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 5
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 22,
+      "RewardID": [
+        29005
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 50,
+      "CollectionID": 5,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 7,
+          "opType": 4,
+          "value": 1
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 2
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 3
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 5
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "RewardID": [
+        29005
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 5,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 7,
+          "opType": 4,
+          "value": 1
+        },
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 2
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 3
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 5
+        },
+        {
+          "condType": 16,
+          "opType": 6,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "RewardID": [
+        29006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 6,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "RewardID": [
+        29006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 6,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        }
+      ]
+    },
+    {
+      "ID": 26,
+      "RewardID": [
+        29006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 6,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 27,
+      "RewardID": [
+        29006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 6,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 90
+        }
+      ]
+    },
+    {
+      "ID": 28,
+      "RewardID": [
+        29006
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 6,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1308
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "ID": 29,
+      "RewardID": [
+        29007
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 7,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1321
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 30,
+      "RewardID": [
+        29007
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 7,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1321
+        }
+      ]
+    },
+    {
+      "ID": 31,
+      "RewardID": [
+        29007
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 7,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1321
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 32,
+      "RewardID": [
+        29007
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 4,
+      "TargetNum": 1,
+      "CollectionID": 7,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 619700
+        }
+      ]
+    },
+    {
+      "ID": 33,
+      "RewardID": [
+        29007
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 7,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1321
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "ID": 34,
+      "RewardID": [
+        29008
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 4,
+      "TargetNum": 2000000,
+      "CollectionID": 8,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "ID": 35,
+      "RewardID": [
+        29008
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 2,
+      "TargetNum": 500,
+      "CollectionID": 8,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 8,
+          "opType": 1,
+          "value": 1277
+        }
+      ],
+      "CondArg1": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 8,
+          "opType": 1,
+          "value": 1278
+        }
+      ]
+    },
+    {
+      "ID": 36,
+      "RewardID": [
+        29008
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 2,
+      "TargetNum": 50,
+      "CollectionID": 8,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 8,
+          "opType": 1,
+          "value": 1272
+        }
+      ],
+      "CondArg1": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 8,
+          "opType": 1,
+          "value": 1276
+        }
+      ]
+    },
+    {
+      "ID": 37,
+      "RewardID": [
+        29008
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 4,
+      "TargetNum": 1,
+      "CollectionID": 8,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 619800
+        }
+      ],
+      "CondArg1": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        },
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 619700
+        }
+      ]
+    },
+    {
+      "ID": 38,
+      "RewardID": [
+        29008
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 10,
+      "CollectionID": 8,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "ID": 39,
+      "RewardID": [
+        29009
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 9,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1322
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 40,
+      "RewardID": [
+        29009
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 9,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1322
+        }
+      ]
+    },
+    {
+      "ID": 41,
+      "RewardID": [
+        29009
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 9,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1322
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 42,
+      "RewardID": [
+        29009
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 4,
+      "TargetNum": 1,
+      "CollectionID": 9,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 620000
+        }
+      ]
+    },
+    {
+      "ID": 43,
+      "RewardID": [
+        29009
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 9,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1322
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "ID": 44,
+      "RewardID": [
+        29010
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 10,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1323
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 45,
+      "RewardID": [
+        29010
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 10,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1323
+        }
+      ]
+    },
+    {
+      "ID": 46,
+      "RewardID": [
+        29010
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 10,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1323
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 47,
+      "RewardID": [
+        29010
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 4,
+      "TargetNum": 1,
+      "CollectionID": 10,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 620200
+        }
+      ]
+    },
+    {
+      "ID": 48,
+      "RewardID": [
+        29010
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 10,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1323
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "ID": 54,
+      "RewardID": [
+        29012
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 12,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1324
+        },
+        {
+          "condType": 3,
+          "opType": 5,
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "ID": 55,
+      "RewardID": [
+        29012
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 5,
+      "CollectionID": 12,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1324
+        }
+      ]
+    },
+    {
+      "ID": 56,
+      "RewardID": [
+        29012
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 12,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1324
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "ID": 57,
+      "RewardID": [
+        29012
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 4,
+      "TargetNum": 1,
+      "CollectionID": 12,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 9,
+          "opType": 1,
+          "value": 620100
+        }
+      ]
+    },
+    {
+      "ID": 58,
+      "RewardID": [
+        29012
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 12,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1324
+        },
+        {
+          "condType": 2,
+          "opType": 5,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "ID": 59,
+      "RewardID": [
+        29013
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 6,
+      "TargetNum": 1,
+      "CollectionID": 13,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 13,
+          "opType": 4,
+          "value": 50
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 60,
+      "RewardID": [
+        29013
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 6,
+      "TargetNum": 1,
+      "CollectionID": 13,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 13,
+          "opType": 4,
+          "value": 60
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 61,
+      "RewardID": [
+        29013
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 6,
+      "TargetNum": 1,
+      "CollectionID": 13,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 13,
+          "opType": 4,
+          "value": 70
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 62,
+      "RewardID": [
+        29013
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 6,
+      "TargetNum": 1,
+      "CollectionID": 13,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 13,
+          "opType": 4,
+          "value": 85
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 63,
+      "RewardID": [
+        29013
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 6,
+      "TargetNum": 1,
+      "CollectionID": 13,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 13,
+          "opType": 4,
+          "value": 100
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "ID": 64,
+      "RewardID": [
+        29014
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 7,
+      "TargetNum": 10,
+      "CollectionID": 14,
+      "CollectionStar": 0
+    },
+    {
+      "ID": 65,
+      "RewardID": [
+        29014
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 7,
+      "TargetNum": 10,
+      "CollectionID": 14,
+      "CollectionStar": 1
+    },
+    {
+      "ID": 66,
+      "RewardID": [
+        29014
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 7,
+      "TargetNum": 10,
+      "CollectionID": 14,
+      "CollectionStar": 2
+    },
+    {
+      "ID": 67,
+      "RewardID": [
+        29014
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 7,
+      "TargetNum": 10,
+      "CollectionID": 14,
+      "CollectionStar": 3
+    },
+    {
+      "ID": 68,
+      "RewardID": [
+        29014
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 7,
+      "TargetNum": 10,
+      "CollectionID": 14,
+      "CollectionStar": 4
+    },
+    {
+      "ID": 69,
+      "RewardID": [
+        29015
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 15,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1325
+        },
+        {
+          "condType": 14,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 70,
+      "RewardID": [
+        29015
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 15,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1325
+        },
+        {
+          "condType": 14,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 71,
+      "RewardID": [
+        29015
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 15,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1325
+        },
+        {
+          "condType": 14,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 72,
+      "RewardID": [
+        29015
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 15,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1325
+        },
+        {
+          "condType": 14,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 73,
+      "RewardID": [
+        29015
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 15,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1325
+        },
+        {
+          "condType": 14,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 74,
+      "RewardID": [
+        29016
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 8,
+      "TargetNum": 1,
+      "CollectionID": 16,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 3
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "ID": 75,
+      "RewardID": [
+        29016
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 8,
+      "TargetNum": 10,
+      "CollectionID": 16,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 3
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "ID": 76,
+      "RewardID": [
+        29016
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 8,
+      "TargetNum": 10,
+      "CollectionID": 16,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 3
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "ID": 77,
+      "RewardID": [
+        29016
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 8,
+      "TargetNum": 10,
+      "CollectionID": 16,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 3
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "ID": 78,
+      "RewardID": [
+        29016
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 8,
+      "TargetNum": 10,
+      "CollectionID": 16,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 3
+        },
+        {
+          "condType": 10,
+          "opType": 1,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "ID": 79,
+      "RewardID": [
+        29017
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 17,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1326
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 80,
+      "RewardID": [
+        29017
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 17,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1326
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 81,
+      "RewardID": [
+        29017
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 17,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1326
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 82,
+      "RewardID": [
+        29017
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 17,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1326
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 83,
+      "RewardID": [
+        29017
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 17,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1326
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 84,
+      "RewardID": [
+        29018
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 9,
+      "TargetNum": 20,
+      "CollectionID": 18,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 17,
+          "opType": 1,
+          "value": 11017
+        }
+      ]
+    },
+    {
+      "ID": 85,
+      "RewardID": [
+        29018
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 9,
+      "TargetNum": 50,
+      "CollectionID": 18,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 17,
+          "opType": 1,
+          "value": 11017
+        }
+      ]
+    },
+    {
+      "ID": 86,
+      "RewardID": [
+        29018
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 9,
+      "TargetNum": 100,
+      "CollectionID": 18,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 17,
+          "opType": 1,
+          "value": 11017
+        }
+      ]
+    },
+    {
+      "ID": 87,
+      "RewardID": [
+        29018
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 9,
+      "TargetNum": 100,
+      "CollectionID": 18,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 17,
+          "opType": 1,
+          "value": 11017
+        }
+      ]
+    },
+    {
+      "ID": 88,
+      "RewardID": [
+        29018
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 9,
+      "TargetNum": 100,
+      "CollectionID": 18,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 17,
+          "opType": 1,
+          "value": 11017
+        }
+      ]
+    },
+    {
+      "ID": 89,
+      "RewardID": [
+        29019
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 19,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1327
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 90,
+      "RewardID": [
+        29019
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 19,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1327
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 91,
+      "RewardID": [
+        29019
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 19,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1327
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 92,
+      "RewardID": [
+        29019
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 19,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1327
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 93,
+      "RewardID": [
+        29019
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 1,
+      "TargetNum": 1,
+      "CollectionID": 19,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 1,
+          "opType": 1,
+          "value": 1327
+        },
+        {
+          "condType": 15,
+          "opType": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "ID": 94,
+      "RewardID": [
+        29020
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 10,
+      "TargetNum": 1,
+      "CollectionID": 20,
+      "CollectionStar": 0,
+      "CondArg": [
+        {
+          "condType": 18,
+          "opType": 1,
+          "value": 5
+        },
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "ID": 95,
+      "RewardID": [
+        29020
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 10,
+      "TargetNum": 1,
+      "CollectionID": 20,
+      "CollectionStar": 1,
+      "CondArg": [
+        {
+          "condType": 18,
+          "opType": 1,
+          "value": 10
+        },
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "ID": 96,
+      "RewardID": [
+        29020
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 10,
+      "TargetNum": 1,
+      "CollectionID": 20,
+      "CollectionStar": 2,
+      "CondArg": [
+        {
+          "condType": 18,
+          "opType": 1,
+          "value": 15
+        },
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "ID": 97,
+      "RewardID": [
+        29020
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 10,
+      "TargetNum": 1,
+      "CollectionID": 20,
+      "CollectionStar": 3,
+      "CondArg": [
+        {
+          "condType": 18,
+          "opType": 1,
+          "value": 20
+        },
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "ID": 98,
+      "RewardID": [
+        29020
+      ],
+      "RewardNum": [
+        1
+      ],
+      "TriggerEvent": 10,
+      "TargetNum": 1,
+      "CollectionID": 20,
+      "CollectionStar": 4,
+      "CondArg": [
+        {
+          "condType": 18,
+          "opType": 1,
+          "value": 25
+        },
+        {
+          "condType": 16,
+          "opType": 1,
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

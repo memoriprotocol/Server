@@ -1,0 +1,112 @@
+{
+  "Mount": [
+    {
+      "ID": 42000001,
+      "BackType": 4,
+      "AttributeType": [
+        24,
+        1
+      ],
+      "AttributeArgs": [
+        135000,
+        20000
+      ],
+      "Name": "柯基1",
+      "Mount": "mount_001",
+      "SkinScale": 1,
+      "BodyScale": 1,
+      "OffsetBody": 0,
+      "OffsetBloodBar": 100,
+      "OffsetUIBar": 100,
+      "AccessType": [
+        0
+      ],
+      "Icon": "game/mount/icon/ui_shop_mounts_01/spriteFrame",
+      "Head": "",
+      "Buffs": "",
+      "Skins": []
+    },
+    {
+      "ID": 42000002,
+      "BackType": 4,
+      "AttributeType": [
+        24,
+        54,
+        55
+      ],
+      "AttributeArgs": [
+        140000,
+        300,
+        300
+      ],
+      "Name": "驯鹿",
+      "Mount": "mount_002",
+      "SkinScale": 1,
+      "BodyScale": 1,
+      "OffsetBody": 0,
+      "OffsetBloodBar": 100,
+      "OffsetUIBar": 100,
+      "AccessType": [
+        0
+      ],
+      "Icon": "game/mount/icon/ui_shop_mounts_02/spriteFrame",
+      "Head": "",
+      "Buffs": "moveAddWalk",
+      "Skins": []
+    },
+    {
+      "ID": 42000003,
+      "BackType": 4,
+      "AttributeType": [
+        24,
+        41
+      ],
+      "AttributeArgs": [
+        140000,
+        350
+      ],
+      "Name": "龙",
+      "Mount": "mount_003",
+      "SkinScale": 1,
+      "BodyScale": 1,
+      "OffsetBody": 0,
+      "OffsetBloodBar": 100,
+      "OffsetUIBar": 100,
+      "AccessType": [
+        0
+      ],
+      "Icon": "game/mount/icon/ui_shop_mounts_03/spriteFrame",
+      "Head": "",
+      "Buffs": "loongFly|loongAddMove",
+      "Skins": []
+    },
+    {
+      "ID": 42000004,
+      "BackType": 4,
+      "AttributeType": [
+        24,
+        7
+      ],
+      "AttributeArgs": [
+        140000,
+        250
+      ],
+      "Name": "元宵",
+      "Mount": "mount_004",
+      "SkinScale": 1,
+      "BodyScale": 1,
+      "OffsetBody": 0,
+      "OffsetBloodBar": 100,
+      "OffsetUIBar": 100,
+      "AccessType": [
+        0
+      ],
+      "Icon": "game/mount/icon/ui_shop_mounts_04/spriteFrame",
+      "Head": "",
+      "Buffs": "",
+      "Skins": [
+        1
+      ]
+    }
+  ]
+}

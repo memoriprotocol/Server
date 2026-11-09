@@ -1,0 +1,44 @@
+{
+  "stage": 59,
+  "version": "0.37.0-stage59-map2-wintertide",
+  "scope": "MAP2_AND_GENERAL_MECHANICS",
+  "tests": {
+    "tests": 955,
+    "pass": 955,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage59": 46,
+    "updatedPriorTests": 0,
+    "originalClientVMTests": 5,
+    "nativePrefabImportsCRCVerified": 1
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "stage58AggroAndRecoveryUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.37.0-stage59-map2-wintertide",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "wintertideVariants": 6,
+    "meleeVariants": 88,
+    "rangedVariants": 98,
+    "activeProjectileSkills": 14,
+    "returningSkills": 8,
+    "monsterRecovery": {
+      "maxHPPercent": 10,
+      "intervalMs": 1000,
+      "status": "LOCAL_POLICY_NOT_VERIFIED_RETAIL_RATE",
+      "note": "Gradual Map2 mob/boss recovery after target loss. Native Buff70 args8 has no verified binding to this transition."
+    },
+    "windowsClientRendered": false
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

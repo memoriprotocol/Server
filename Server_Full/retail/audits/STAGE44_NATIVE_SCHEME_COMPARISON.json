@@ -1,0 +1,723 @@
+{
+  "client": "3.12.7",
+  "source": "Original assets/schemes cc.TextAsset base64 payloads, ZIP CRC verified during extraction.",
+  "decoded": 119,
+  "matchingServer": 119,
+  "differentServer": [],
+  "tables": [
+    {
+      "name": "Level2CoinScheme",
+      "importFile": "829c308d-0104-4aca-b649-d436a6acaa50.json",
+      "importSHA256": "afd1343241f9e848e68798746400a11b8bb4856bb127eb6a7b8ecc5157602bf9",
+      "sameAsServer": true
+    },
+    {
+      "name": "MonsterContent",
+      "importFile": "784a29de-fe7e-43a6-942e-1553767f0954.json",
+      "importSHA256": "56f612b96ef2ff8bbe2978cb3dfccc1e3aefb77187c1b7355e7f797c99fbc3bf",
+      "sameAsServer": true
+    },
+    {
+      "name": "SandboxScheme",
+      "importFile": "1205f1e9-8fb0-4480-876f-4504cf132f0e.json",
+      "importSHA256": "5896d5fb9e7477714ef16c1e18b0a072666fb0044ec8886c5fbb8bcde908a168",
+      "sameAsServer": true
+    },
+    {
+      "name": "welfareAwardScheme",
+      "importFile": "a91badcd-e649-4c37-9a3b-ece32742c179.json",
+      "importSHA256": "609f52a38d187f25bcb1a1084a33210fb4b69c144c339acc70f876592eee5b9f",
+      "sameAsServer": true
+    },
+    {
+      "name": "TraderDrawDropScheme",
+      "importFile": "76dfff57-ecda-459c-a2fd-d2642b133ab5.json",
+      "importSHA256": "1c05aed5559c71ea30eb563483fff98ca070c459768a95db9c9fae8ca96b0116",
+      "sameAsServer": true
+    },
+    {
+      "name": "TDMonsterDamageScheme",
+      "importFile": "ce0baf97-8c2c-4670-ab1f-056e281693d3.json",
+      "importSHA256": "9888c94310f57467ca13a9c3d68a590d87518e1df52329755295eb994213bc05",
+      "sameAsServer": true
+    },
+    {
+      "name": "SuitScheme",
+      "importFile": "4b34003f-720c-4d0f-af85-5990f93bf8c9.json",
+      "importSHA256": "905f4eb51856246a6ed3f76dc7fda1c8dbd8f527aa7c14108d895140cd1f4e8d",
+      "sameAsServer": true
+    },
+    {
+      "name": "NameScheme",
+      "importFile": "c6c8a3af-958f-4df4-b461-51124db2fbff.json",
+      "importSHA256": "c852c1ebb70c8ce1928f7c207d4c5663faf9a23f0a5f21596ab69ed52218e87f",
+      "sameAsServer": true
+    },
+    {
+      "name": "MountScheme",
+      "importFile": "1b8177e7-e2e4-4501-a006-890494da7792.json",
+      "importSHA256": "dfef6081db786bfebcef88663299a137693ab11b8c4f82875e5868613d405508",
+      "sameAsServer": true
+    },
+    {
+      "name": "AchievementScheme",
+      "importFile": "28e78070-0b3d-4a27-a6d6-a51aff50b8b3.json",
+      "importSHA256": "164136467ef11f8ffedfa94381c6581ce509c4b0527ad1b019e061b6356b54a5",
+      "sameAsServer": true
+    },
+    {
+      "name": "BuffSoundScheme",
+      "importFile": "a58188e9-c664-46b4-ade0-3204126ba544.json",
+      "importSHA256": "d8f39721276a995daa56ceccf0b804c05b165f4b08c0636e41937113f3cc5db6",
+      "sameAsServer": true
+    },
+    {
+      "name": "TDLevelTalentScheme",
+      "importFile": "896d6a23-292d-469b-83fa-bd1b8cf8b67d.json",
+      "importSHA256": "7d3e737da2458ad861df095a750b9ef2e91d5928a5f099da79d7eaca03291796",
+      "sameAsServer": true
+    },
+    {
+      "name": "InvitationRewardsScheme",
+      "importFile": "dee46c71-78af-4cd6-ae1b-ca024554cf2b.json",
+      "importSHA256": "2ccca19066298f324c2185c0bcda86a4d7d3195ab4cf51171db4a308766a86fb",
+      "sameAsServer": true
+    },
+    {
+      "name": "PayProductionScheme",
+      "importFile": "580fc7e1-3410-4544-85c9-8269ec380bca.json",
+      "importSHA256": "57d542c9795c889f93f51604bc4d2d033f76f1724e83b3c6cfe4b99539eaf714",
+      "sameAsServer": true
+    },
+    {
+      "name": "TaskScheme",
+      "importFile": "a78bbbe3-6588-4f01-8381-42ea553daaa2.json",
+      "importSHA256": "2943968f9760364c0f5957316b94fdcb706b12b14f364efe6c643239d3a0a28b",
+      "sameAsServer": true
+    },
+    {
+      "name": "DanScheme",
+      "importFile": "7a36a326-7dbf-44a1-881c-65955a9ea299.json",
+      "importSHA256": "f58d9cad3a61d24b4ce3edde147949d4fd22ecb7fed8e63e9b125b61f6ff9f95",
+      "sameAsServer": true
+    },
+    {
+      "name": "EntityCategoryScheme",
+      "importFile": "fe45be58-8bad-41dc-aa1e-51689fabbdcf.json",
+      "importSHA256": "ab3dfab7915f614d068e946cca85dd4650d88fb0fb0bfc5830bf4a38f2a515f1",
+      "sameAsServer": true
+    },
+    {
+      "name": "GuildLevelScheme",
+      "importFile": "e98dc8aa-2464-4a44-99d9-f9be5cd7aa3f.json",
+      "importSHA256": "80a59833d6d7092a5e065bb77cb6f7f88d941134f5e803f4653298bd0a6c9974",
+      "sameAsServer": true
+    },
+    {
+      "name": "TowerDefenseWaveScheme",
+      "importFile": "6f7d2116-58ae-4598-ad3c-6e481290fb1a.json",
+      "importSHA256": "3a75c53377eb4a00380f34a9c9d2c66509f2e0ddecc56f97d372c715a7bebe12",
+      "sameAsServer": true
+    },
+    {
+      "name": "HeroPropScheme",
+      "importFile": "53bca991-c94a-4a36-b7e3-0e10e614a13a.json",
+      "importSHA256": "961b12ce5a4dd43b08fb6a45d224219dea578e124c1ca8771d796e3dd69c385f",
+      "sameAsServer": true
+    },
+    {
+      "name": "WeaponMasterScheme",
+      "importFile": "0d9817cc-15bd-4206-af76-da9f60e04b34.json",
+      "importSHA256": "b3f43d4a63bf1d2c3c710225e2a6e9c7adfb8c097a5382e76222d050cfa38e4c",
+      "sameAsServer": true
+    },
+    {
+      "name": "SteamAchievementScheme",
+      "importFile": "3291b642-66a6-4db8-89bc-ff3df9c84bc0.json",
+      "importSHA256": "9bafdaea0275873a707d46911dd87441dc36bb0fcc2c657251e2eeab2799815a",
+      "sameAsServer": true
+    },
+    {
+      "name": "DanBrScheme",
+      "importFile": "61b96e83-d923-4997-9738-a32c526af297.json",
+      "importSHA256": "d99e90f0dea10c8d53e36237417693019a84f649af6ed54acaf8203cdef88138",
+      "sameAsServer": true
+    },
+    {
+      "name": "PetShardsScheme",
+      "importFile": "f65fe4d4-18d0-480f-ae1f-d7acd25540b5.json",
+      "importSHA256": "b2b874bcb057feffb722e6d4ed39c896915e9a2083831ebe42674e8d51eeaf08",
+      "sameAsServer": true
+    },
+    {
+      "name": "TalentBuffScheme",
+      "importFile": "332b7f94-2a41-41cd-acd3-faeb0ede796a.json",
+      "importSHA256": "546c6d832eff9555737a7e47ae66e89f58a690ece763f9a845366d94e2739e9f",
+      "sameAsServer": true
+    },
+    {
+      "name": "WeaponScheme",
+      "importFile": "209013ff-10bd-4248-b6d5-ada90c9ff2e0.json",
+      "importSHA256": "c8e1ce80d14a374a31ab5a13eaa58366bf9444ca15b120b177cf3eb34c8fae10",
+      "sameAsServer": true
+    },
+    {
+      "name": "serverScheme",
+      "importFile": "465b3b53-8b5c-43fb-bcbf-d41906519ce3.json",
+      "importSHA256": "c54fdf3f374aa9ae1b484f7ca304fceb3e640dd16c0d79ae1e9479df973b943c",
+      "sameAsServer": true
+    },
+    {
+      "name": "RewardSevenDayScheme",
+      "importFile": "e43472ba-5d0e-4e79-bd3b-110fe316c692.json",
+      "importSHA256": "64e0b6ccb5e0d2e53e41dc264294e706acda8525ac3c0a4ceb08b0a10a54459e",
+      "sameAsServer": true
+    },
+    {
+      "name": "TitleScheme",
+      "importFile": "c0f7d988-4e5f-42b7-b4e6-0964a5074b67.json",
+      "importSHA256": "ecc40d9c6aaf2d02fc7cd3338eb030cc06964251b0571122bbd0897486843b77",
+      "sameAsServer": true
+    },
+    {
+      "name": "WwiseSoundScheme",
+      "importFile": "a4a0668b-8cc1-44eb-be05-b4fd7ca4dce9.json",
+      "importSHA256": "1fc4d66d182428651c52fcfa36b0366e97e956af261a373a4cef17c2d6237af0",
+      "sameAsServer": true
+    },
+    {
+      "name": "TriggerTipsScheme",
+      "importFile": "75773bfd-4541-4864-b8a3-7f2768324946.json",
+      "importSHA256": "df173d2fdc502a70a360dc63fb0f555537fd982fdc6e44b1f8414bc41b361df6",
+      "sameAsServer": true
+    },
+    {
+      "name": "BattleRoyaleScheme",
+      "importFile": "35a50da6-85cb-4089-830b-3ae77b362678.json",
+      "importSHA256": "75bc888d8cd1e79f106fb6f6c575c379be58a9915b51509ea2c2466b6a79d997",
+      "sameAsServer": true
+    },
+    {
+      "name": "UISoundScheme",
+      "importFile": "b67057c6-4ae1-4127-93c9-f87cc5eafb97.json",
+      "importSHA256": "7e1cd7d782ccebc7e040b97b08724bd939cd286a9a2bd9d846f0b170e3c0bafb",
+      "sameAsServer": true
+    },
+    {
+      "name": "TowerDefenseWaveMonsterScheme",
+      "importFile": "d4c84639-d471-41d4-96cb-d47b78b4f511.json",
+      "importSHA256": "3959d9eed16dc1e01be98362cee3efb6e485abe240fb8f0e3f00741570521bca",
+      "sameAsServer": true
+    },
+    {
+      "name": "PlayerHeadFrameScheme",
+      "importFile": "7f3c033a-df2b-4895-8277-843f30d05c61.json",
+      "importSHA256": "95e676fa7f9dbf45be957057f1e4854ff7cec9ce0a06fe496e4dba6c6eb09f9e",
+      "sameAsServer": true
+    },
+    {
+      "name": "BubbleScheme",
+      "importFile": "8fe32e7f-b4a7-4ce2-a3f2-5c6c391ca65e.json",
+      "importSHA256": "6f9b2f760ef0e63dce6bbc7248a489a4353498f5ce3d2906c5e4b100ab132f1c",
+      "sameAsServer": true
+    },
+    {
+      "name": "TDTalentBoxScheme",
+      "importFile": "8b94779d-70db-4948-b86a-c9750209a467.json",
+      "importSHA256": "4a35e303a7ec755ebdd2bc84c49a9052fab43021ad3d2554ee3dbb15ecf46b4d",
+      "sameAsServer": true
+    },
+    {
+      "name": "ItemScheme",
+      "importFile": "62e15316-5095-4996-9196-faadcd8d2914.json",
+      "importSHA256": "7ff0fb26bb336a15f850c94939a614b988b0ffbd2e2a0786ca9e0ba6dead4995",
+      "sameAsServer": true
+    },
+    {
+      "name": "ItemTypScheme",
+      "importFile": "74a6359f-29eb-474c-8333-b060fcaa4d6c.json",
+      "importSHA256": "cde854f168c33abe7e75ab89f1b3166df3e7eb38767756738e89755d74925e72",
+      "sameAsServer": true
+    },
+    {
+      "name": "MeditateCfg",
+      "importFile": "d560768b-6c0f-4ac1-968d-c33d09be777d.json",
+      "importSHA256": "adb29ce48f24031e43b27fda04f94a1034ba7a5f5ebd72b23ca1045c9f1fd44e",
+      "sameAsServer": true
+    },
+    {
+      "name": "ExchangeScheme",
+      "importFile": "ef088919-519c-430b-b575-000ce4954039.json",
+      "importSHA256": "f2b465742d4c8432537157e6dec29cc8c7fc077db9d7e559d28a8b14d58f22a4",
+      "sameAsServer": true
+    },
+    {
+      "name": "DesignationScheme",
+      "importFile": "1699485f-0522-4f88-957d-c0cf2be5d219.json",
+      "importSHA256": "b4088938e5552b7c2378af2cd956e59b0d65c0d33e8ecc9969a56b12d688fda7",
+      "sameAsServer": true
+    },
+    {
+      "name": "EquipmentChestsScheme",
+      "importFile": "24d41501-7b62-469e-a1a5-17f6a082ed89.json",
+      "importSHA256": "dc45fae72242da01dc32ae9cf86e4b62fb6c9ea9661a1a3a0c0c20e680cf9192",
+      "sameAsServer": true
+    },
+    {
+      "name": "PVEScheme",
+      "importFile": "e6dce771-359a-4f0c-9f2e-e7be0f1c1501.json",
+      "importSHA256": "cb8140a1e9c860130eb90ce5bf9dd6e65e3faa414600898e544bd84faec70d05",
+      "sameAsServer": true
+    },
+    {
+      "name": "CookBookScheme",
+      "importFile": "a798ac97-dccb-400f-b788-3d801fd25ec5.json",
+      "importSHA256": "0f3fad1b37c76f23d6ab5d7ada5e17781d8e810964ddc9ac35973d1bd6ee2dc8",
+      "sameAsServer": true
+    },
+    {
+      "name": "PropertyScheme",
+      "importFile": "f37ae9b7-adfb-4dfd-9cc2-f15f722a33c6.json",
+      "importSHA256": "983335cc384d3cfd3f57558e03ddd565d20211575896a5a2d58bbe3f8152c1ea",
+      "sameAsServer": true
+    },
+    {
+      "name": "SkillSoundScheme",
+      "importFile": "be6c8e3f-ee10-46a2-8658-bd19688dc62c.json",
+      "importSHA256": "83671ff58ae717aa82791f60cfea762fd6b372614da6bc39f90907ccdba3c19c",
+      "sameAsServer": true
+    },
+    {
+      "name": "MapGenerateScheme",
+      "importFile": "5d8f1489-8dc0-4551-9394-befd4e2a288c.json",
+      "importSHA256": "bf943349ebd8ddc91f9856f83e08761e803817d42df646ce69cb12b837927c97",
+      "sameAsServer": true
+    },
+    {
+      "name": "ActivitiesScheme",
+      "importFile": "30177998-8a88-4ad5-aa8e-376099a0c7fc.json",
+      "importSHA256": "d5194496d55ad4765d72bff27ca043fe5b2cae491d0db07b9caf9c1c68f2d6a8",
+      "sameAsServer": true
+    },
+    {
+      "name": "IngredientsScheme",
+      "importFile": "04f887a6-758d-408e-9324-a1a863c22d82.json",
+      "importSHA256": "13f17df758daafc00ce78816cedbeae5d3655189b8d8f756301a7911a800a0bf",
+      "sameAsServer": true
+    },
+    {
+      "name": "BuildingsLeahScheme",
+      "importFile": "6c60e1c9-e365-4df6-beac-63362a25f0c9.json",
+      "importSHA256": "4d64ad47d48b4d8e5282f49aa463ee335f1f996cbc23ce3f46aaba520328e918",
+      "sameAsServer": true
+    },
+    {
+      "name": "PetContent",
+      "importFile": "5abf00a1-7bb1-4376-bd07-b364e5b0c506.json",
+      "importSHA256": "e67a9be4551b8ba727ed0254953dfa53c32c1ee7f41a78a0182663265df0244e",
+      "sameAsServer": true
+    },
+    {
+      "name": "welfareScheme",
+      "importFile": "d24ff63e-c20f-4ffe-b3ce-062842761031.json",
+      "importSHA256": "8dc30d832e30a9a89676be6a762143c525c73dd8d471aca06b3cc610abd1fa94",
+      "sameAsServer": true
+    },
+    {
+      "name": "PetAffectionScheme",
+      "importFile": "c514ef73-2d0b-4e52-b426-be46bcf6306e.json",
+      "importSHA256": "2cf5e641928987ee0f99458790ac46788c78f6041aec8d0f49a89549f1d17223",
+      "sameAsServer": true
+    },
+    {
+      "name": "PassScheme",
+      "importFile": "89ad2f64-286b-4af5-aee7-f20c93037d87.json",
+      "importSHA256": "72666c8ccb393ac0006d323983356749702704e4a7281ab1af5d2dbecc1494fc",
+      "sameAsServer": true
+    },
+    {
+      "name": "GuildEventScheme",
+      "importFile": "cc7c8581-ef2d-4f2b-8a73-360bc2147342.json",
+      "importSHA256": "44812add2b298bf28c91138c082f45d379fab9cc92c6bdedf6ecb22d4e2d1eee",
+      "sameAsServer": true
+    },
+    {
+      "name": "CollectionsScheme",
+      "importFile": "d46eca2a-5186-4293-8ff3-88d74bbedd31.json",
+      "importSHA256": "85dfa635f4da11251003529b056141da9fb1a31286811ba3cc9f36e7e1676061",
+      "sameAsServer": true
+    },
+    {
+      "name": "GiftScheme",
+      "importFile": "f3b96721-b3e0-4600-a109-77dc245d0de2.json",
+      "importSHA256": "9ed7dacf566b9ab4410fa6695047f2fb492a2a99d6989c23e48dd91eeed656da",
+      "sameAsServer": true
+    },
+    {
+      "name": "CareerScheme",
+      "importFile": "73136f7e-f9dc-4bbc-947d-b00eaf6f1159.json",
+      "importSHA256": "711b5464dfc2c7ef5ebf774fa4cc0149832432fafefcacebdee5b4b0d485b54e",
+      "sameAsServer": true
+    },
+    {
+      "name": "DoubleActivityScheme",
+      "importFile": "c4f6c4a4-15d8-4ea5-af01-067c692e6b1d.json",
+      "importSHA256": "5073b7fd290a1d78159efcbfa6440e9fb854d2eeb1063d338c9e88cfd7e2f63e",
+      "sameAsServer": true
+    },
+    {
+      "name": "weaponShardsScheme",
+      "importFile": "6e414511-4721-4181-95d2-915cc77a6135.json",
+      "importSHA256": "d9931db34a47ab16c97646abca286fe902db8b3700e4d4387a67c7a222ff1616",
+      "sameAsServer": true
+    },
+    {
+      "name": "GuildBadgeScheme",
+      "importFile": "6f5a215b-7d5f-4c2d-9ef4-0b585eb5c12e.json",
+      "importSHA256": "d84216707b418e97f9e2cb0061af3c1e78a64218ac943f891d2e5d22a081d247",
+      "sameAsServer": true
+    },
+    {
+      "name": "StoreHouseScheme",
+      "importFile": "8434c3ae-5ee2-4f5d-8389-5c9b7ef5d0b3.json",
+      "importSHA256": "af23de81f43158733a53a9e1deff1bf8a6d7d8f0b24dc099dc89370d78e293e6",
+      "sameAsServer": true
+    },
+    {
+      "name": "DropDeathScheme",
+      "importFile": "d4f37ef1-9864-4508-b786-eb2bc7d2cd8a.json",
+      "importSHA256": "731e714c4214d77e5165bf7ccd93801119615683aa0428e591aa5688986843be",
+      "sameAsServer": true
+    },
+    {
+      "name": "ReputationScoreScheme",
+      "importFile": "a0276767-6a43-46fa-8959-103f4084d042.json",
+      "importSHA256": "9382aa2eb43d86e5fdb359e3d1694a729aebb59458b57f964ad098b9744d5da0",
+      "sameAsServer": true
+    },
+    {
+      "name": "HeroScheme",
+      "importFile": "fe39e933-6b0d-4493-9a2b-67b98321f955.json",
+      "importSHA256": "81fb0fca5bc72b869e8a5ecd6f0971f4150c1b176d99d8ded16b2d95b2905596",
+      "sameAsServer": true
+    },
+    {
+      "name": "PropLevelsScheme",
+      "importFile": "146542a5-d5f9-4b18-a1db-ed15dc0f7632.json",
+      "importSHA256": "294a226cae567dec2272da3514393a7c595b41f109e8b00e6afe66231fed8869",
+      "sameAsServer": true
+    },
+    {
+      "name": "TowerDefenseBlackShopScheme",
+      "importFile": "d487580c-bd20-457d-84a3-3474dea06e72.json",
+      "importSHA256": "0215092bcc7f760a728f23cbbfcc0e0c4b433284d2ecba88e86173adc8920832",
+      "sameAsServer": true
+    },
+    {
+      "name": "PlayerHeadScheme",
+      "importFile": "710bb0d0-b62e-419a-8f56-b16dfe87c1ad.json",
+      "importSHA256": "ec7d86f59a53edaa3fa3710f5c11eea30e0c438d0aec12109a8ca5f109233f1a",
+      "sameAsServer": true
+    },
+    {
+      "name": "PassTaskScheme",
+      "importFile": "3665ee05-a797-4ad7-b8f3-7dac1d2f8ca4.json",
+      "importSHA256": "58cde34b0b3dd90fb36ffd08e0c0ab6b6b77419eb0c934d124b7d2f90832bf64",
+      "sameAsServer": true
+    },
+    {
+      "name": "DecorationsScheme",
+      "importFile": "dc013872-0414-46cf-b53f-7fced4e85b89.json",
+      "importSHA256": "6fe3be50b3c7612c5480e2493f5093f39d2a24496dadd62566764e1553cade3a",
+      "sameAsServer": true
+    },
+    {
+      "name": "FishPondScheme",
+      "importFile": "92667003-90cf-436b-9028-60a98b485e8e.json",
+      "importSHA256": "175ed175819a8f5e52e8dbd09aff12c5eda9999e86ac6c681eb15d51f3450427",
+      "sameAsServer": true
+    },
+    {
+      "name": "ShardsScheme",
+      "importFile": "7a89f9da-4815-4be7-b9d4-044d8c3f7117.json",
+      "importSHA256": "e6e74abe8771dbd420d9923bec1e22f326e3cd5b4eb82a1e829c0d439f1a1bd9",
+      "sameAsServer": true
+    },
+    {
+      "name": "SkillScheme",
+      "importFile": "638fee6f-5f4c-412e-bd2b-e2efd3e06fe6.json",
+      "importSHA256": "79e5c43663722320e921d1819a7d1bfda9e447e45d069bef26bc22b153235b74",
+      "sameAsServer": true
+    },
+    {
+      "name": "CollectionTaskScheme",
+      "importFile": "59da6c9a-63e2-45cf-ab8d-5c9888ae39a2.json",
+      "importSHA256": "96e91a28b8974ca28e28fb0b214a0cdeb6fb4458ddc908eba1761ab958ae5d51",
+      "sameAsServer": true
+    },
+    {
+      "name": "MapScheme",
+      "importFile": "9894854d-9a1d-4dd6-b598-6f6b34061fba.json",
+      "importSHA256": "183c9e29fddbd062cb95c909350402f22e273f2caad21dc48062b0cf32f6fdba",
+      "sameAsServer": true
+    },
+    {
+      "name": "EntityBlockScheme",
+      "importFile": "f27f97f2-534d-4e41-b90f-adbcbd4b2793.json",
+      "importSHA256": "936608577c61acf28dca9bc07bb9cd318355714cca00893afc2dd7ce4e1932eb",
+      "sameAsServer": true
+    },
+    {
+      "name": "SwitchScheme",
+      "importFile": "9c6f62af-05a8-477c-95a3-45076bb75ee9.json",
+      "importSHA256": "3014320d1bc0cb0d3aa0671f48d575fd96faa9767fd62be3fa16a0cb0c79b214",
+      "sameAsServer": true
+    },
+    {
+      "name": "CollectionStarScheme",
+      "importFile": "a0890ee0-13e3-465a-9100-e52965089722.json",
+      "importSHA256": "9697b2407ac84d9893d06430bc877efb7e07840d4a15ac91dc01223b766093a5",
+      "sameAsServer": true
+    },
+    {
+      "name": "WeaponEnhanceScheme",
+      "importFile": "b16239f5-6460-4851-a6ad-23831b8e1ec8.json",
+      "importSHA256": "75f145e89c894c024fb0af3d780bf0bcbe455debed4fcb08a6741b5c4444bf6b",
+      "sameAsServer": true
+    },
+    {
+      "name": "JewelScheme",
+      "importFile": "03947ad7-3fe1-4004-b56d-afbcbfe40e68.json",
+      "importSHA256": "2975c8ef91cd6a609c1e820f92d9efd8c13e6ba79ba8a1cd365bc869de5ca273",
+      "sameAsServer": true
+    },
+    {
+      "name": "EmojiScheme",
+      "importFile": "e7494898-3ace-4064-8bcb-74287433304d.json",
+      "importSHA256": "2bdb4a04719ff891c56f07f2e1e5bbac8fd1b2efc7e07ed9daf856085d520024",
+      "sameAsServer": true
+    },
+    {
+      "name": "TraderDrawScheme",
+      "importFile": "bde94aaf-febc-4bf8-9edc-c880658f0520.json",
+      "importSHA256": "579df52b4108657a508983de341a32f4ec0766259d6997bff41e821eb73f20d5",
+      "sameAsServer": true
+    },
+    {
+      "name": "StoreScheme",
+      "importFile": "557913ac-8a84-4721-9bb4-a115005cb173.json",
+      "importSHA256": "55ec1dc70e5189ee6d2e60731d320502af8bbf21dcfb0e83ac2b76e59056f7a6",
+      "sameAsServer": true
+    },
+    {
+      "name": "TowerDefenseWaveShopScheme",
+      "importFile": "c2bb8f78-8190-4d46-aaf7-8e8b69a22968.json",
+      "importSHA256": "607ffbd92a63230fd1e452b977c1df817455e280482dbfb2ea97f01b96ef6158",
+      "sameAsServer": true
+    },
+    {
+      "name": "BuffScheme",
+      "importFile": "9de08fa4-4817-49a1-87b2-bd9384b926ca.json",
+      "importSHA256": "f0ea9a82dddeecb64f913d0347faae56973abb05bb8e2534dfcd2bea4835d305",
+      "sameAsServer": true
+    },
+    {
+      "name": "EquipmentScheme",
+      "importFile": "df473e6e-0440-42fd-84f6-3dec2b471050.json",
+      "importSHA256": "b5c1d930d4ff0b2b26e347ca2d566b3d3bf1e09be0800db523f91b7db4180260",
+      "sameAsServer": true
+    },
+    {
+      "name": "PassAwardScheme",
+      "importFile": "081ee1a1-2621-4cf8-b7c9-c4e3dadd3a93.json",
+      "importSHA256": "84fb575afeb1dd5381698b9d14dcb7e6f25117334a623749206e7b5dc60aa741",
+      "sameAsServer": true
+    },
+    {
+      "name": "DropScheme",
+      "importFile": "9e3608d9-0907-4ba3-8297-b2a1ab23dbd9.json",
+      "importSHA256": "15e3316e8581a191bb4cf4a5e581eb7b164779b0fe4fa9cafdf319478bfba5dc",
+      "sameAsServer": true
+    },
+    {
+      "name": "LanguageScheme",
+      "importFile": "c98780f9-762a-4f4c-8663-c905955d0817.json",
+      "importSHA256": "6045b9a863dd1c07bb178b200a73ecefeba9b11c42a00ccd0241d77187eb3dd9",
+      "sameAsServer": true
+    },
+    {
+      "name": "ResourceChestScheme",
+      "importFile": "8002f45d-bc9f-43fc-bc28-b481816d7226.json",
+      "importSHA256": "1e55e7dbbba06dbdd7a8fee5623e3b9100c66bb9bb7ce8e607818fd5b5a40142",
+      "sameAsServer": true
+    },
+    {
+      "name": "ResourceScheme",
+      "importFile": "0596f851-748d-4025-b7c6-cac239995de4.json",
+      "importSHA256": "9887683015975736b50d799a3414cef40b19f5d5b4ecf8e2ea207a9e66759c2e",
+      "sameAsServer": true
+    },
+    {
+      "name": "BackPackScheme",
+      "importFile": "81173bb6-66e4-4e62-abcd-234794f40053.json",
+      "importSHA256": "0b69354c35d5ba77a5e1ac25b03ffd3170ae54589a7da21fd2cef852e9d6d489",
+      "sameAsServer": true
+    },
+    {
+      "name": "WarehouseScheme",
+      "importFile": "e559bc15-d902-4498-961d-6663300a63d1.json",
+      "importSHA256": "b0cfebb4a4f3a316036e1c42acdddcb3210b1a3d473aa20430b1523550fa0e0d",
+      "sameAsServer": true
+    },
+    {
+      "name": "EntityCollisionScheme",
+      "importFile": "baf99213-b1b0-4b07-9301-52e4b83d4aee.json",
+      "importSHA256": "e5a27d93ddbeb876e24e68ce791cc50938446b7b2edd3fb6a5a6463364bbb65e",
+      "sameAsServer": true
+    },
+    {
+      "name": "WeaponForgeScheme",
+      "importFile": "d27fe109-3a22-47d5-8108-7f92f1fc5f07.json",
+      "importSHA256": "dff6c6b2bc5943874c501e07a9054f6d7c0735384a056e4dc2c78c816a2612df",
+      "sameAsServer": true
+    },
+    {
+      "name": "PlayerActionScheme",
+      "importFile": "19b53807-3930-4cb8-91fb-2815b7b3f9c0.json",
+      "importSHA256": "88a886f98abda865156aa69640695396636824ea171e0e5efc537ba78cb862b1",
+      "sameAsServer": true
+    },
+    {
+      "name": "PetEggsScheme",
+      "importFile": "cd0b23ac-8106-4220-a34b-56f4636ca466.json",
+      "importSHA256": "94800b053d1f17950027d8373903599d1270e610ad13d481a5f39c715f411997",
+      "sameAsServer": true
+    },
+    {
+      "name": "GuildPowerScheme",
+      "importFile": "c9865806-7e96-4ad1-adb8-76c0809f8e66.json",
+      "importSHA256": "8f47402767324280275299e878e175de863694d8e777cbaca53ab2265f6b8bf4",
+      "sameAsServer": true
+    },
+    {
+      "name": "AchievementPointsScheme",
+      "importFile": "6f258ead-4582-4538-8d99-7064ee8ccfd7.json",
+      "importSHA256": "e37074d16799cb063fb9f57584b333f4a82f06acb92ef05170cc0925737115d4",
+      "sameAsServer": true
+    },
+    {
+      "name": "LevelExpScheme",
+      "importFile": "09ec8801-b435-4a30-a92e-680dffaaa84b.json",
+      "importSHA256": "f5ac015d8e18cce6cc928b6a04c7738c466ed48297d1a7c9d57925b18ae52724",
+      "sameAsServer": true
+    },
+    {
+      "name": "NPCTalkScheme",
+      "importFile": "9d17b337-a5de-442a-a0bc-f06a01d7e036.json",
+      "importSHA256": "2f2b7c2be0dc32a82948bd6eae3e7ea5f9f30415ee188e518f2ed18c015a80ae",
+      "sameAsServer": true
+    },
+    {
+      "name": "RiseHeroScheme",
+      "importFile": "35303ccd-f20e-4062-95d9-114b1f09a98c.json",
+      "importSHA256": "2dd0287167b279fa38566784742e34c21c3c94c05012dec6d1069b5423babe62",
+      "sameAsServer": true
+    },
+    {
+      "name": "SkinScheme",
+      "importFile": "dc8bbdd8-0c10-470c-b45a-5d667a1f7a30.json",
+      "importSHA256": "4fcf171b037cade9501c0899f99304c8e7f37d7db05ddd22d9d4a2fc3de51ddb",
+      "sameAsServer": true
+    },
+    {
+      "name": "MapProductionScheme",
+      "importFile": "f2afe8c6-68f4-46a1-9298-196d6d5ea4bd.json",
+      "importSHA256": "e6331ad2933a1d06436f6500f020b08b428ef6f378311b614b67d72832cc36c3",
+      "sameAsServer": true
+    },
+    {
+      "name": "DefeatDropScheme",
+      "importFile": "501559b3-307c-4aaa-9640-98634ce04747.json",
+      "importSHA256": "d936b2c9924715590d08c3dce7d46429fe51ff9af7bc8df453e33a218c4609df",
+      "sameAsServer": true
+    },
+    {
+      "name": "TDTalentScheme",
+      "importFile": "9eb02dab-a1c8-4cec-aed7-a0fe60793600.json",
+      "importSHA256": "10639507c46543642f79f6c51a422aa16c059bab675b35ae0cf9206ed7e50648",
+      "sameAsServer": true
+    },
+    {
+      "name": "TalentScheme",
+      "importFile": "7fe574ca-5685-4abd-a91e-1045af7dde79.json",
+      "importSHA256": "62bbccb9867e14ccd156ddc4f800b4be2ff7269c4e7f74ab5e2e994f07aec63d",
+      "sameAsServer": true
+    },
+    {
+      "name": "DropGroupScheme",
+      "importFile": "0c153b56-fd59-47f2-bded-4e4d6b076404.json",
+      "importSHA256": "3bcd27fac457ee641447686a16b921dcab5a58ff9fd0c6e5a8370ef90c26155b",
+      "sameAsServer": true
+    },
+    {
+      "name": "CoinContinueScheme",
+      "importFile": "1d2927b4-febe-4d33-a331-594d8456c3ec.json",
+      "importSHA256": "508402f6a9a699b704e6d0aca924b0788e1a984e55f7960124759a927d612ecf",
+      "sameAsServer": true
+    },
+    {
+      "name": "PassShopScheme",
+      "importFile": "6f41575b-34d5-4c44-83ee-a1c46d1addff.json",
+      "importSHA256": "bc91665e22fe7ea148d6226ec7c42c6e156c2edcdeb528d9cf27e9134c46aa75",
+      "sameAsServer": true
+    },
+    {
+      "name": "ReputationAwardScheme",
+      "importFile": "cef95663-2529-400d-9de3-3c491ccb0917.json",
+      "importSHA256": "502aa21135f4b10dc43583f283765e5c3194d0acc2fd09904e38c9149198d1f4",
+      "sameAsServer": true
+    },
+    {
+      "name": "FeatsScheme",
+      "importFile": "b43de9aa-cbe2-432a-a110-908a84f90f33.json",
+      "importSHA256": "b5d3608d944eb53cbef196672b4c5808f4c8d65d4175cfdb66a136977acbd2da",
+      "sameAsServer": true
+    },
+    {
+      "name": "BuildingScheme",
+      "importFile": "884056e6-fb1f-459d-9209-d7137c961096.json",
+      "importSHA256": "23bfa29cd0d6e36288c7421c8cd7634148be137822529caeffd17d235bd141c7",
+      "sameAsServer": true
+    },
+    {
+      "name": "CreatureScheme",
+      "importFile": "e3c408d3-c79b-413f-8a62-e358099bdc0e.json",
+      "importSHA256": "a6aebcc0973bd95a998539703a3fc75720a60b9a6e97d6d039f0102b5e1ba84c",
+      "sameAsServer": true
+    },
+    {
+      "name": "MonsterLevelExpScheme",
+      "importFile": "e5c68163-b352-439c-8804-6ed8192598f0.json",
+      "importSHA256": "d6ed324860bcd548fbfa6b6512ea6215ece8a611ed181302050446729718024b",
+      "sameAsServer": true
+    },
+    {
+      "name": "ConstantsScheme",
+      "importFile": "a484ed75-5cb1-48fa-827c-3c7aec0e069f.json",
+      "importSHA256": "5abd2decc36ecee09f381ff1c255dccceff65aca5cd8dd03a900190d7d8167d2",
+      "sameAsServer": true
+    },
+    {
+      "name": "WwiseEventSoundScheme",
+      "importFile": "336ee626-cd17-4368-83f0-a13d86df7231.json",
+      "importSHA256": "5fbef98326778ebf7582b228be1a6076134912ba372a4f7bde188129da499f08",
+      "sameAsServer": true
+    },
+    {
+      "name": "PetBookScheme",
+      "importFile": "22aa2929-9ee1-42de-a12e-0c0c82ee7f18.json",
+      "importSHA256": "24931142944303ef0ce5341cf32cc25c5ced5ee68e7816b8b66769700369428f",
+      "sameAsServer": true
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCWitchStove.ts",
+      "sha256": "d0df452154f1232585e6d9b28f63486a41153779eb464c093753466c388d6923",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCWitchStoveFire.ts",
+      "sha256": "f7eef8da15b1e6a574487503839c06de34cf748504fdd29acc1d3235a702e5a7",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/CCWitchStoveTraceFire.ts",
+      "sha256": "7bec0ca802e4bae06dc0886f7228c9da099556028f433d72e334f31121a532fe",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage74/SkillCfg.ts",
+      "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "arena/heroskill/witch/prefab/stove1_1_1101",
+      "index": 2166,
+      "pack": "0542b24c-4009-48a5-9517-9a95d0708c9e",
+      "importSHA256": "e2fab43a66ac7c2e705d4a66bf8bba1fd05c3ef70e7be7d4a098f1a816ebeb9f",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove1_1_1102",
+      "index": 52496,
+      "pack": "c7d845d7-de1f-4648-89e1-a01fdbe3e5b9",
+      "importSHA256": "a79e92f70152c0b6e5af74f214a454c09259d61e16ff2e44a5f2494f969de31a",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove1_1_1103",
+      "index": 18577,
+      "pack": "03f3fca91",
+      "importSHA256": "f22a5dae4b2a04cd5b9d5f07b450b8842324ef1824c6a957ac5fab55bdda99c0",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove3_1_1101",
+      "index": 48003,
+      "pack": "7622d28f-c35b-4766-99d8-e0154cc19353",
+      "importSHA256": "2d4c43b1ba77ed042ca327fea9807734b4e392fe302cc9371b20bb0d6868b520",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove3_1_1102",
+      "index": 54202,
+      "pack": "e7460d4f-3284-4bf0-80bb-da5bbaa2b1d0",
+      "importSHA256": "4ac7b7030b764edb98002ab63be36322aaa3c2ac1f08db6f7a35739a505e175b",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/stove3_1_1103",
+      "index": 9088,
+      "pack": "0fc420df1",
+      "importSHA256": "79e4056402323e339f697b925f7c0f77a8dc4ef3c10be107d56e8d752dee5a3a",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/traceFire_1101",
+      "index": 43234,
+      "pack": "1fe962e1-f57a-42e5-a6c0-29f110122eb8",
+      "importSHA256": "6c4c6ffd2a0e85ca63e0e44b9dbd3749c436619d268496707b68c364c1d83fd8",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/traceFire_1102",
+      "index": 43513,
+      "pack": "245c18f1-5f99-489c-afea-2baabad6b5e6",
+      "importSHA256": "62ef8a70bcb0d485265baa53c935c54a38b1198ef1512bf8c7f41a3ec7f8e5cb",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/witch/prefab/traceFire_1103",
+      "index": 39417,
+      "pack": "0a279ea6c",
+      "importSHA256": "2d28fec179569bc49eeefc000acee93df0b2a1b4b40af59f6372f446b89059a0",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    }
+  ],
+  "descriptions": [
+    {
+      "language": "en",
+      "key": "hero/skill/6012/1",
+      "verbatimFragment": "\"hero/skill/6012/1\",\"Witch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG.\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6012/2",
+      "verbatimFragment": "\"hero/skill/6012/2\",\"Witch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG and applying [Poisoning]. [Poisoning: Deals ${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}% ATK) Poison DMG and loses STA every sec]\""
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6012/3",
+      "verbatimFragment": "'hero/skill/6012/3',\"Passive: For each Poison weapon equipped, ATK increases by +10%\\nWitch places a cauldron that spills a cloud of poison for ${cfg.args.duration/1000} seconds, dealing ${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}% ATK) Poison DMG and applying [Poisoning]. [Poisoning: Deals ${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}% ATK) Poison DMG and loses STA every sec]\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6012/1",
+      "verbatimFragment": "\"hero/skill/6012/1\",'女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害。'"
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6012/2",
+      "verbatimFragment": "\"hero/skill/6012/2\",\"女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害，并施加【中毒】效果。【中毒：每秒造成${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}%攻击力）点毒属性伤害并扣除${cfg.onHitEnemyBuffArgs.propValue}点体力】\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6012/3",
+      "verbatimFragment": "\"hero/skill/6012/3\",\"被动：武器栏每装备一把毒属性武器，攻击力增加10%\\n女巫放置魔法坩埚，${cfg.args.duration/1000}秒内不断发射追踪毒液，造成${cfg.TotalDamage}(${cfg.args.damage/100}+${cfg.args.atkArgs}%攻击力)点毒属性伤害，并施加【中毒】效果。【中毒：每秒造成${cfg.BuffDamage}(${cfg.onHitEnemyBuffArgs.args}%攻击力）点毒属性伤害并扣除${cfg.onHitEnemyBuffArgs.propValue}点体力】\""
+    }
+  ],
+  "entityEnumSourceSHA256": "1554dfe203a0e4453e6bca25451bf944ff56d934966ee53f36431eae16c59cfb",
+  "nativeVM": [
+    "CCWitchStove.create/registerEvent/setAnimation all9skin-star combinations",
+    "CCWitchStoveTraceFire.create all9skin-star combinations",
+    "SkillCfg three native types",
+    "native en/zh descriptions"
+  ],
+  "rawTimelinesDecoded": false
+}

@@ -1,0 +1,46 @@
+TAP version 13
+# Subtest: native leaf prefab still renders for a solo Treant skin 901: no same-packet destruction, forward flight, cleanup
+ok 1 - native leaf prefab still renders for a solo Treant skin 901: no same-packet destruction, forward flight, cleanup
+  ---
+  duration_ms: 31.591554
+  type: 'test'
+  ...
+# Subtest: native leaf prefab still renders for a solo Treant skin 903: no same-packet destruction, forward flight, cleanup
+ok 2 - native leaf prefab still renders for a solo Treant skin 903: no same-packet destruction, forward flight, cleanup
+  ---
+  duration_ms: 2.433946
+  type: 'test'
+  ...
+# Subtest: native leaf prefab still renders for a solo Treant skin 904: no same-packet destruction, forward flight, cleanup
+ok 3 - native leaf prefab still renders for a solo Treant skin 904: no same-packet destruction, forward flight, cleanup
+  ---
+  duration_ms: 2.286865
+  type: 'test'
+  ...
+# Subtest: close-range allied leaf remains as native entity after its healing so async load can finish
+ok 4 - close-range allied leaf remains as native entity after its healing so async load can finish
+  ---
+  duration_ms: 2.421888
+  type: 'test'
+  ...
+# Subtest: visual-only self leaf clears on hero death and cannot heal again
+ok 5 - visual-only self leaf clears on hero death and cannot heal again
+  ---
+  duration_ms: 1.875137
+  type: 'test'
+  ...
+# Subtest: original data still defines native trigger 8, correct passive prefab and no enemy-damage clause
+ok 6 - original data still defines native trigger 8, correct passive prefab and no enemy-damage clause
+  ---
+  duration_ms: 0.302274
+  type: 'test'
+  ...
+1..6
+# tests 6
+# suites 0
+# pass 6
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 333.7232

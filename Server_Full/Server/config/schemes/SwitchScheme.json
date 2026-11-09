@@ -1,0 +1,10 @@
+{
+  "Switch": [
+    {
+      "ID": 1,
+      "switchType": 1,
+      "state": 1,
+      "discribe": "钓鱼"
+    }
+  ]
+}

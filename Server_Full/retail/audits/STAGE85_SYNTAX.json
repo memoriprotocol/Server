@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "files": [
+    "Server_Full/Server/lib/devil-3127.js",
+    "Server_Full/Server/lib/progression-3127.js",
+    "Server_Full/Server/lib/hero-vfx-3127.js",
+    "Server_Full/Server/lib/hamster-3127.js",
+    "Server_Full/Server/lib/monster-effects-3127.js",
+    "Server_Full/Server/lib/rabbit-3127.js",
+    "Server_Full/Server/lib/combat-input-3127.js",
+    "Server_Full/Server/lib/player-skills-3127.js",
+    "Server_Full/Server/lib/dragon-prince-3127.js",
+    "Server_Full/Server/lib/mob-control-3127.js",
+    "Server_Full/Server/lib/hero-passives-3127.js",
+    "Server_Full/Server/lib/actions-3127.js",
+    "Server_Full/Server/lib/hero-switch-3127.js",
+    "Server_Full/Server/lib/hero-native-passives-3127.js",
+    "Server_Full/Server/tests/stage85-devil.test.js",
+    "Server_Full/Server/tests/stage85-rabbit-roster.test.js",
+    "Server_Full/Server/tests/stage85-native-hero-vfx.test.js",
+    "Server_Full/Server/tests/stage85-hero-passives.test.js",
+    "Server_Full/Server/tests/stage85-dragon-prince.test.js",
+    "Server_Full/Server/tests/helpers/stage85-native.js"
+  ]
+}

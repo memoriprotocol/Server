@@ -1,0 +1,36 @@
+{
+  "stage": 51,
+  "version": "0.29.0-stage51-map2-pet-actions-portals",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 570,
+    "passed": 570,
+    "failed": 0,
+    "newStage51": 35,
+    "nativeAssetImportsVerified": 3,
+    "nativeVMTests": 6
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.29.0-stage51-map2-pet-actions-portals",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "petActions": [
+      2226,
+      2239,
+      2260,
+      2268,
+      2349
+    ],
+    "windowsClientRendered": false
+  }
+}

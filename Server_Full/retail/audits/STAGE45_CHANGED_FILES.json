@@ -1,0 +1,142 @@
+[
+  {
+    "path": "README_STAGE45_RU.txt",
+    "sha256": "60b4fe0525b61c8356cc9c2315effbc633841bac62ce1068af31408117b4cfd3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/MIGRATE_STAGE30.bat",
+    "sha256": "998bc114639bd71f740f040a7c9c3a002aea18378fac8ae4c6f40a429ffa9d1d",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE45_RU.txt",
+    "sha256": "60b4fe0525b61c8356cc9c2315effbc633841bac62ce1068af31408117b4cfd3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/config/map2-client-scenery-3127.json",
+    "sha256": "944effd8153875de815bdea161c6cc495d94c13b4ecf9826569141927b3edb33",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/config/map2-verified-prefabs-3127.json",
+    "sha256": "54c28e4cccfb7f74d0e2bfde23c7ef800cfa1e190439dabd01730646781611e3",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/city-3127.js",
+    "sha256": "e5b33359d2b1e4ed801ca076039b5d4a71e8b80bab83a18f50d90d8c49c4d111",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "2c8dd253f0fc01d603063fb25caf1a92e0f71a88570cd29ece966a86edec6773",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/city-stage12.test.js",
+    "sha256": "0d6279bf906e03aaa1422366a9518546bdd9179a61968d6286eb8d61915278ee",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/safezones-stage17.test.js",
+    "sha256": "dd00231082b4810f77f27f961bf2bba75d006565b1f7ff938723e2796a0311d3",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage15-city-quarantine.test.js",
+    "sha256": "79fd7c152331dc3b8e29a6856d37542037e50aa654a691bb13c362c30a9472c6",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage16-native-client.test.js",
+    "sha256": "e409f4fa032203356ee85e158705305fbd1319b85b86af1cbc34059e547269d3",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage18-native-npcs.test.js",
+    "sha256": "7e1cd64e513fd206e60050bfe07cb78a50ab30a8973e240584dc6f36461e5b78",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage21-visible-city.test.js",
+    "sha256": "e4d231fa934c9ae0267ce6b46ebc8a1b924a8ee1bbd2a5b035fac74d0a1a8dd7",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage23-city-logs-buffer.test.js",
+    "sha256": "1e40ecbf61b15841496775288224da2bc832faf98b1b95bb531282701f4759d7",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage24-fixes.test.js",
+    "sha256": "238391cd13b1fb2be84cdd53eb8b7ec1c560007cfb7ae4f3fc0034bbd0c1fd45",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage45-city-stream.test.js",
+    "sha256": "9eef66a2be60299a64f643aa35056877258c57b78f033b2ebcaefc7351eb24ce",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage45-migration.test.js",
+    "sha256": "90ef1682d6918649774746e7342498ad896ec7cb86e5f8f856cd93c8617da292",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tools/migrate-stage30.js",
+    "sha256": "fddee64761c38a66687b59d07fd4e65a62f4a79f5e7751dc56f4bdb9ce74addc",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "5a32d3e74d8fe8eab5f81574f32f371fb81485d9c30a5f15471ba055a34b2c91",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE45_MAP2_CLIENT_SCENERY.json",
+    "sha256": "b68b3e919f00c169bc23cd894f56c6f1340ad1d2ee9a78d297b54f72ba1516df",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE45_VALIDATION.json",
+    "sha256": "860b2b99bdaf7823e41ea6d889f06c729a3304b3c287cc9cd27c29fa4ec660e7",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE45_all-tests.log",
+    "sha256": "4f46b137fff96d331522d57730a3579ebb2f757d7b6a664c8388df0ec289f24c",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE45_focused-tests.log",
+    "sha256": "49a60ff9a16cffb844073655a1629091704ad110c143bd5e470ccb00c642bcf5",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE45_previous-tests.log",
+    "sha256": "03653d8ae134de3fac6e259ebf9ea97c1c473ec7d96277d421033ea7c78dd59a",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage45/MapEditorController.ts",
+    "sha256": "556a6b78339b81c2c6dbeb2d1411e6089bcacc6810b9405c6366f31d03e5119f",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage45/ProjectJSONViewer.ts",
+    "sha256": "936ab68a4914a4bd71c94ca0d35408f8aad65950d1c472427b87d5772c880cb3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage45/ViewGrid.ts",
+    "sha256": "c0f40d809f6ae5204303202ba88361d54402441545da2340f585d1aad8b3077b",
+    "change": "added"
+  },
+  {
+    "path": "WEBSITE_STAGE45_CHANGED_FILES.json",
+    "sha256": "9409f92a282a3cfa17940af25f522c3ba6be65cbb887ffe5f28d263ff8e24ac1",
+    "change": "added"
+  }
+]

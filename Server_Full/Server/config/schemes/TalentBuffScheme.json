@@ -1,0 +1,715 @@
+{
+  "TalentBuff": [
+    {
+      "ID": 1,
+      "name": "篝火回复加成",
+      "level": 1,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 1,
+      "name": "篝火回复加成",
+      "level": 2,
+      "arg": 30,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 1,
+      "name": "篝火回复加成",
+      "level": 3,
+      "arg": 50,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 2,
+      "name": "农田产量加成",
+      "level": 1,
+      "arg": 6,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 2,
+      "name": "农田产量加成",
+      "level": 2,
+      "arg": 12,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 3,
+      "name": "箭塔攻击力加成",
+      "level": 1,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 3,
+      "name": "箭塔攻击力加成",
+      "level": 2,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 4,
+      "name": "箭塔异化",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 5,
+      "name": "尖制异化",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 6,
+      "name": "推推板数量加",
+      "level": 1,
+      "arg": 1,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 6,
+      "name": "推推板数量加",
+      "level": 2,
+      "arg": 2,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 6,
+      "name": "推推板数量加",
+      "level": 3,
+      "arg": 3,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 7,
+      "name": "香蕉皮数量加",
+      "level": 1,
+      "arg": 1,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 7,
+      "name": "香蕉皮数量加",
+      "level": 2,
+      "arg": 2,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 8,
+      "name": "建筑血量增加",
+      "level": 1,
+      "arg": 1,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 8,
+      "name": "建筑血量增加",
+      "level": 2,
+      "arg": 3,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 8,
+      "name": "建筑血量增加",
+      "level": 3,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 9,
+      "name": "建造清耗减少",
+      "level": 1,
+      "arg": 3,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 10,
+      "name": "拆除建筑资源回收",
+      "level": 1,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 11,
+      "name": "获得宝石概率增加",
+      "level": 1,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 12,
+      "name": "驯养概率提升",
+      "level": 1,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 13,
+      "name": "开宝箱稀有武器率增加",
+      "level": 1,
+      "arg": 30,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 13,
+      "name": "开宝箱稀有武器率增加",
+      "level": 2,
+      "arg": 50,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 14,
+      "name": "装备掉落概率增加",
+      "level": 1,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 15,
+      "name": "钓鱼有概率获得额外宝箱",
+      "level": 1,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 15,
+      "name": "钓鱼有概率获得额外宝箱",
+      "level": 2,
+      "arg": 20,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 16,
+      "name": "打怪获得经验值增加",
+      "level": 1,
+      "arg": 3,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 16,
+      "name": "打怪获得经验值增加",
+      "level": 2,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 17,
+      "name": "武器技能冷却时间",
+      "level": 1,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 18,
+      "name": "脱战移动速度",
+      "level": 1,
+      "arg": 70,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 19,
+      "name": "体力回复增加",
+      "level": 1,
+      "arg": 2,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 19,
+      "name": "体力回复增加",
+      "level": 2,
+      "arg": 5,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 20,
+      "name": "采集额外获得经验",
+      "level": 1,
+      "arg": 1,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 20,
+      "name": "采集额外获得经验",
+      "level": 2,
+      "arg": 2,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 20,
+      "name": "采集额外获得经验",
+      "level": 3,
+      "arg": 4,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 21,
+      "name": "钓鱼cd减少",
+      "level": 1,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 21,
+      "name": "钓鱼cd减少",
+      "level": 2,
+      "arg": 25,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 22,
+      "name": "减少人物技能CD",
+      "level": 1,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 23,
+      "name": "增加宠物命数",
+      "level": 1,
+      "arg": 1,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 24,
+      "name": "减少宠物技能cd",
+      "level": 1,
+      "arg": 8,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 24,
+      "name": "减少宠物技能cd",
+      "level": 2,
+      "arg": 13,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 25,
+      "name": "减少宠物复活cd",
+      "level": 1,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 26,
+      "name": "提高宠物等级上限",
+      "level": 1,
+      "arg": 1,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 26,
+      "name": "提高宠物等级上限",
+      "level": 2,
+      "arg": 2,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 26,
+      "name": "提高宠物等级上限",
+      "level": 3,
+      "arg": 3,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 26,
+      "name": "提高宠物等级上限",
+      "level": 4,
+      "arg": 4,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 27,
+      "name": "增加血量上限",
+      "level": 1,
+      "arg": 1,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 27,
+      "name": "增加血量上限",
+      "level": 2,
+      "arg": 2,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 27,
+      "name": "增加血量上限",
+      "level": 3,
+      "arg": 4,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 28,
+      "name": "增加生命恢复",
+      "level": 1,
+      "arg": 50,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 28,
+      "name": "增加生命恢复",
+      "level": 2,
+      "arg": 100,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 29,
+      "name": "减少收到的伤害",
+      "level": 1,
+      "arg": 2,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 29,
+      "name": "减少收到的伤害",
+      "level": 2,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 30,
+      "name": "攻击力提升",
+      "level": 1,
+      "arg": 2,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 30,
+      "name": "攻击力提升",
+      "level": 2,
+      "arg": 3,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 30,
+      "name": "攻击力提升",
+      "level": 3,
+      "arg": 6,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 31,
+      "name": "建筑自动回血",
+      "level": 1,
+      "arg": 25,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 31,
+      "name": "建筑自动回血",
+      "level": 2,
+      "arg": 50,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 32,
+      "name": "开局额外获得一个武器",
+      "level": 1,
+      "arg": 10012,
+      "addType": 2,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 33,
+      "name": "尖刺攻击加成",
+      "level": 1,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 33,
+      "name": "尖刺攻击加成",
+      "level": 2,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 34,
+      "name": "解锁冰塔",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 35,
+      "name": "解锁火塔",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 36,
+      "name": "解锁毒塔",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 37,
+      "name": "解锁雷塔",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 38,
+      "name": "解锁毒刺",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 39,
+      "name": "解锁冰刺",
+      "level": 1,
+      "arg": 1,
+      "addType": 1,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 40,
+      "name": "减少控制时间",
+      "level": 1,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 40,
+      "name": "减少控制时间",
+      "level": 2,
+      "arg": 20,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 41,
+      "name": "建筑减伤",
+      "level": 1,
+      "arg": 2,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 41,
+      "name": "建筑减伤",
+      "level": 2,
+      "arg": 5,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 41,
+      "name": "建筑减伤",
+      "level": 3,
+      "arg": 8,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 42,
+      "name": "建筑回血",
+      "level": 1,
+      "arg": 100,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 42,
+      "name": "建筑回血",
+      "level": 2,
+      "arg": 150,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 42,
+      "name": "建筑回血",
+      "level": 3,
+      "arg": 200,
+      "addType": 0,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 43,
+      "name": "驯宠概率掉落",
+      "level": 1,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 44,
+      "name": "合成装备有概率获得同名低星装备",
+      "level": 1,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 45,
+      "name": "增加宠物移动速度",
+      "level": 1,
+      "arg": 10,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    },
+    {
+      "ID": 45,
+      "name": "增加宠物移动速度",
+      "level": 2,
+      "arg": 15,
+      "addType": 3,
+      "desc": "",
+      "icon": ""
+    }
+  ]
+}

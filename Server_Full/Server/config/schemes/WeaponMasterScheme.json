@@ -1,0 +1,5086 @@
+{
+  "WeaponMaster": [
+    {
+      "ID": 1,
+      "weaponID": 611000,
+      "name": "长弓",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 2,
+      "weaponID": 611000,
+      "name": "长弓",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 3,
+      "weaponID": 611000,
+      "name": "长弓",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 4,
+      "weaponID": 611600,
+      "name": "骨刃",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 5,
+      "weaponID": 611600,
+      "name": "骨刃",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 6,
+      "weaponID": 611600,
+      "name": "骨刃",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 7,
+      "weaponID": 612200,
+      "name": "单刃短斧",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 8,
+      "weaponID": 612200,
+      "name": "单刃短斧",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 9,
+      "weaponID": 612200,
+      "name": "单刃短斧",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 10,
+      "weaponID": 612900,
+      "name": "长矛",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 11,
+      "weaponID": 612900,
+      "name": "长矛",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 12,
+      "weaponID": 612900,
+      "name": "长矛",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 13,
+      "weaponID": 613100,
+      "name": "木棒",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 14,
+      "weaponID": 613100,
+      "name": "木棒",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 15,
+      "weaponID": 613100,
+      "name": "木棒",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 16,
+      "weaponID": 613900,
+      "name": "大剑",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 17,
+      "weaponID": 613900,
+      "name": "大剑",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 18,
+      "weaponID": 613900,
+      "name": "大剑",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 19,
+      "weaponID": 614900,
+      "name": "苦无",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 20,
+      "weaponID": 614900,
+      "name": "苦无",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 21,
+      "weaponID": 614900,
+      "name": "苦无",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 22,
+      "weaponID": 615000,
+      "name": "重斧",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 23,
+      "weaponID": 615000,
+      "name": "重斧",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 24,
+      "weaponID": 615000,
+      "name": "重斧",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 25,
+      "weaponID": 615200,
+      "name": "铁鞭",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 26,
+      "weaponID": 615200,
+      "name": "铁鞭",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 27,
+      "weaponID": 615200,
+      "name": "铁鞭",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 28,
+      "weaponID": 615300,
+      "name": "勇士剑",
+      "grade": 1,
+      "masterLevel": 1,
+      "shardNums": 1,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 29,
+      "weaponID": 615300,
+      "name": "勇士剑",
+      "grade": 1,
+      "masterLevel": 2,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 30,
+      "weaponID": 615300,
+      "name": "勇士剑",
+      "grade": 1,
+      "masterLevel": 3,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 31,
+      "weaponID": 611500,
+      "name": "双刀",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 32,
+      "weaponID": 611500,
+      "name": "双刀",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 33,
+      "weaponID": 611500,
+      "name": "双刀",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 34,
+      "weaponID": 612300,
+      "name": "武士刀",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 35,
+      "weaponID": 612300,
+      "name": "武士刀",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 36,
+      "weaponID": 612300,
+      "name": "武士刀",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 37,
+      "weaponID": 612400,
+      "name": "瘟疫剑",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 38,
+      "weaponID": 612400,
+      "name": "瘟疫剑",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 39,
+      "weaponID": 612400,
+      "name": "瘟疫剑",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 40,
+      "weaponID": 612800,
+      "name": "干草叉",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 41,
+      "weaponID": 612800,
+      "name": "干草叉",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 42,
+      "weaponID": 612800,
+      "name": "干草叉",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 43,
+      "weaponID": 613300,
+      "name": "火焰法杖",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 44,
+      "weaponID": 613300,
+      "name": "火焰法杖",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 45,
+      "weaponID": 613300,
+      "name": "火焰法杖",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 46,
+      "weaponID": 613700,
+      "name": "守卫重锤",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 47,
+      "weaponID": 613700,
+      "name": "守卫重锤",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 48,
+      "weaponID": 613700,
+      "name": "守卫重锤",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 49,
+      "weaponID": 613800,
+      "name": "幽灵冰钩",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 50,
+      "weaponID": 613800,
+      "name": "幽灵冰钩",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 51,
+      "weaponID": 613800,
+      "name": "幽灵冰钩",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 52,
+      "weaponID": 614000,
+      "name": "毒木护臂",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 53,
+      "weaponID": 614000,
+      "name": "毒木护臂",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 54,
+      "weaponID": 614000,
+      "name": "毒木护臂",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 55,
+      "weaponID": 614300,
+      "name": "毒藤鞭",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 56,
+      "weaponID": 614300,
+      "name": "毒藤鞭",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 57,
+      "weaponID": 614300,
+      "name": "毒藤鞭",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 58,
+      "weaponID": 615400,
+      "name": "寒冰弓",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 59,
+      "weaponID": 615400,
+      "name": "寒冰弓",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 60,
+      "weaponID": 615400,
+      "name": "寒冰弓",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 61,
+      "weaponID": 615500,
+      "name": "飞镖",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 62,
+      "weaponID": 615500,
+      "name": "飞镖",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 63,
+      "weaponID": 615500,
+      "name": "飞镖",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 64,
+      "weaponID": 615600,
+      "name": "飞斧",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 65,
+      "weaponID": 615600,
+      "name": "飞斧",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 66,
+      "weaponID": 615600,
+      "name": "飞斧",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 67,
+      "weaponID": 615700,
+      "name": "晶石法杖",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 68,
+      "weaponID": 615700,
+      "name": "晶石法杖",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 69,
+      "weaponID": 615700,
+      "name": "晶石法杖",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 70,
+      "weaponID": 615800,
+      "name": "光剑",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 71,
+      "weaponID": 615800,
+      "name": "光剑",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 72,
+      "weaponID": 615800,
+      "name": "光剑",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 73,
+      "weaponID": 615900,
+      "name": "毒矛",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 74,
+      "weaponID": 615900,
+      "name": "毒矛",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 75,
+      "weaponID": 615900,
+      "name": "毒矛",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 76,
+      "weaponID": 616000,
+      "name": "格斗斧",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 77,
+      "weaponID": 616000,
+      "name": "格斗斧",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 78,
+      "weaponID": 616000,
+      "name": "格斗斧",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 79,
+      "weaponID": 616100,
+      "name": "冰棍",
+      "grade": 2,
+      "masterLevel": 1,
+      "shardNums": 2,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 80,
+      "weaponID": 616100,
+      "name": "冰棍",
+      "grade": 2,
+      "masterLevel": 2,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 81,
+      "weaponID": 616100,
+      "name": "冰棍",
+      "grade": 2,
+      "masterLevel": 3,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 82,
+      "weaponID": 610200,
+      "name": "极寒之刃",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 83,
+      "weaponID": 610200,
+      "name": "极寒之刃",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 84,
+      "weaponID": 610200,
+      "name": "极寒之刃",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 85,
+      "weaponID": 610400,
+      "name": "雷霆双剑",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 86,
+      "weaponID": 610400,
+      "name": "雷霆双剑",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 87,
+      "weaponID": 610400,
+      "name": "雷霆双剑",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 88,
+      "weaponID": 610500,
+      "name": "燃烧火炬",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 89,
+      "weaponID": 610500,
+      "name": "燃烧火炬",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 90,
+      "weaponID": 610500,
+      "name": "燃烧火炬",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 91,
+      "weaponID": 610600,
+      "name": "地狱之火",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 92,
+      "weaponID": 610600,
+      "name": "地狱之火",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 93,
+      "weaponID": 610600,
+      "name": "地狱之火",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 94,
+      "weaponID": 610700,
+      "name": "天光雷刃",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 95,
+      "weaponID": 610700,
+      "name": "天光雷刃",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 96,
+      "weaponID": 610700,
+      "name": "天光雷刃",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 97,
+      "weaponID": 610800,
+      "name": "翡翠法杖",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 98,
+      "weaponID": 610800,
+      "name": "翡翠法杖",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 99,
+      "weaponID": 610800,
+      "name": "翡翠法杖",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 100,
+      "weaponID": 610900,
+      "name": "雷刀",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 101,
+      "weaponID": 610900,
+      "name": "雷刀",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 102,
+      "weaponID": 610900,
+      "name": "雷刀",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 103,
+      "weaponID": 611100,
+      "name": "蝙蝠弓",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 104,
+      "weaponID": 611100,
+      "name": "蝙蝠弓",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 105,
+      "weaponID": 611100,
+      "name": "蝙蝠弓",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 106,
+      "weaponID": 611300,
+      "name": "双箭刃",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 107,
+      "weaponID": 611300,
+      "name": "双箭刃",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 108,
+      "weaponID": 611300,
+      "name": "双箭刃",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 109,
+      "weaponID": 611700,
+      "name": "国王之剑",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 110,
+      "weaponID": 611700,
+      "name": "国王之剑",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 111,
+      "weaponID": 611700,
+      "name": "国王之剑",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 112,
+      "weaponID": 611900,
+      "name": "魔眼之刃",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 113,
+      "weaponID": 611900,
+      "name": "魔眼之刃",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 114,
+      "weaponID": 611900,
+      "name": "魔眼之刃",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 115,
+      "weaponID": 612500,
+      "name": "天空的裁决",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 116,
+      "weaponID": 612500,
+      "name": "天空的裁决",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 117,
+      "weaponID": 612500,
+      "name": "天空的裁决",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 118,
+      "weaponID": 612600,
+      "name": "冰枪",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 119,
+      "weaponID": 612600,
+      "name": "冰枪",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 120,
+      "weaponID": 612600,
+      "name": "冰枪",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 121,
+      "weaponID": 613200,
+      "name": "寒霜法杖",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 122,
+      "weaponID": 613200,
+      "name": "寒霜法杖",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 123,
+      "weaponID": 613200,
+      "name": "寒霜法杖",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 124,
+      "weaponID": 613500,
+      "name": "暴风法杖",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 125,
+      "weaponID": 613500,
+      "name": "暴风法杖",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 126,
+      "weaponID": 613500,
+      "name": "暴风法杖",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 127,
+      "weaponID": 614400,
+      "name": "燃烧之鞭",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 128,
+      "weaponID": 614400,
+      "name": "燃烧之鞭",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 129,
+      "weaponID": 614400,
+      "name": "燃烧之鞭",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 130,
+      "weaponID": 614700,
+      "name": "雷之裂隙",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 131,
+      "weaponID": 614700,
+      "name": "雷之裂隙",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 132,
+      "weaponID": 614700,
+      "name": "雷之裂隙",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 133,
+      "weaponID": 615100,
+      "name": "国王之剑",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 134,
+      "weaponID": 615100,
+      "name": "国王之剑",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 135,
+      "weaponID": 615100,
+      "name": "国王之剑",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 136,
+      "weaponID": 616800,
+      "name": "寒冰剑",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 137,
+      "weaponID": 616800,
+      "name": "寒冰剑",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 138,
+      "weaponID": 616800,
+      "name": "寒冰剑",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 139,
+      "weaponID": 617000,
+      "name": "毒蛇法杖",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 140,
+      "weaponID": 617000,
+      "name": "毒蛇法杖",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 141,
+      "weaponID": 617000,
+      "name": "毒蛇法杖",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 142,
+      "weaponID": 617100,
+      "name": "骨弓",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 143,
+      "weaponID": 617100,
+      "name": "骨弓",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 144,
+      "weaponID": 617100,
+      "name": "骨弓",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 145,
+      "weaponID": 617200,
+      "name": "冰镖",
+      "grade": 3,
+      "masterLevel": 1,
+      "shardNums": 3,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 146,
+      "weaponID": 617200,
+      "name": "冰镖",
+      "grade": 3,
+      "masterLevel": 2,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 147,
+      "weaponID": 617200,
+      "name": "冰镖",
+      "grade": 3,
+      "masterLevel": 3,
+      "shardNums": 9,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 148,
+      "weaponID": 609700,
+      "name": "炎魔之手",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 149,
+      "weaponID": 609700,
+      "name": "炎魔之手",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 150,
+      "weaponID": 609700,
+      "name": "炎魔之手",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 151,
+      "weaponID": 609800,
+      "name": "雷神之锤",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 152,
+      "weaponID": 609800,
+      "name": "雷神之锤",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 153,
+      "weaponID": 609800,
+      "name": "雷神之锤",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 154,
+      "weaponID": 610100,
+      "name": "波塞冬之歌",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 155,
+      "weaponID": 610100,
+      "name": "波塞冬之歌",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 156,
+      "weaponID": 610100,
+      "name": "波塞冬之歌",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 157,
+      "weaponID": 610300,
+      "name": "双生毒牙",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 158,
+      "weaponID": 610300,
+      "name": "双生毒牙",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 159,
+      "weaponID": 610300,
+      "name": "双生毒牙",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 160,
+      "weaponID": 611400,
+      "name": "嗜血龙牙",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 161,
+      "weaponID": 611400,
+      "name": "嗜血龙牙",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 162,
+      "weaponID": 611400,
+      "name": "嗜血龙牙",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 163,
+      "weaponID": 611800,
+      "name": "冰灵巨剑",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 164,
+      "weaponID": 611800,
+      "name": "冰灵巨剑",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 165,
+      "weaponID": 611800,
+      "name": "冰灵巨剑",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 166,
+      "weaponID": 612000,
+      "name": "贪婪魔镰",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 167,
+      "weaponID": 612000,
+      "name": "贪婪魔镰",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 168,
+      "weaponID": 612000,
+      "name": "贪婪魔镰",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 169,
+      "weaponID": 612700,
+      "name": "冥王之刺",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 170,
+      "weaponID": 612700,
+      "name": "冥王之刺",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 171,
+      "weaponID": 612700,
+      "name": "冥王之刺",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 172,
+      "weaponID": 613000,
+      "name": "雷霆审判",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 173,
+      "weaponID": 613000,
+      "name": "雷霆审判",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 174,
+      "weaponID": 613000,
+      "name": "雷霆审判",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 175,
+      "weaponID": 613400,
+      "name": "死神权杖",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 176,
+      "weaponID": 613400,
+      "name": "死神权杖",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 177,
+      "weaponID": 613400,
+      "name": "死神权杖",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 178,
+      "weaponID": 613600,
+      "name": "神圣战锤",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 179,
+      "weaponID": 613600,
+      "name": "神圣战锤",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 180,
+      "weaponID": 613600,
+      "name": "神圣战锤",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 181,
+      "weaponID": 614200,
+      "name": "圣骑护手",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 182,
+      "weaponID": 614200,
+      "name": "圣骑护手",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 183,
+      "weaponID": 614200,
+      "name": "圣骑护手",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 184,
+      "weaponID": 614500,
+      "name": "女巫药剂",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 185,
+      "weaponID": 614500,
+      "name": "女巫药剂",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 186,
+      "weaponID": 614500,
+      "name": "女巫药剂",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 187,
+      "weaponID": 614600,
+      "name": "回旋镖",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 188,
+      "weaponID": 614600,
+      "name": "回旋镖",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 189,
+      "weaponID": 614600,
+      "name": "回旋镖",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 190,
+      "weaponID": 616200,
+      "name": "禁锢法杖",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 191,
+      "weaponID": 616200,
+      "name": "禁锢法杖",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 192,
+      "weaponID": 616200,
+      "name": "禁锢法杖",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 193,
+      "weaponID": 616300,
+      "name": "疾炎之弓",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 194,
+      "weaponID": 616300,
+      "name": "疾炎之弓",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 195,
+      "weaponID": 616300,
+      "name": "疾炎之弓",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 196,
+      "weaponID": 616400,
+      "name": "毒蛇弓",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 197,
+      "weaponID": 616400,
+      "name": "毒蛇弓",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 198,
+      "weaponID": 616400,
+      "name": "毒蛇弓",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 199,
+      "weaponID": 616500,
+      "name": "岩溶之刃",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 200,
+      "weaponID": 616500,
+      "name": "岩溶之刃",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 201,
+      "weaponID": 616500,
+      "name": "岩溶之刃",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 202,
+      "weaponID": 616600,
+      "name": "霹雳权杖",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 203,
+      "weaponID": 616600,
+      "name": "霹雳权杖",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 204,
+      "weaponID": 616600,
+      "name": "霹雳权杖",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 205,
+      "weaponID": 616700,
+      "name": "毁灭者之歌",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 206,
+      "weaponID": 616700,
+      "name": "毁灭者之歌",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 207,
+      "weaponID": 616700,
+      "name": "毁灭者之歌",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 208,
+      "weaponID": 616900,
+      "name": "雷电斩",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 209,
+      "weaponID": 616900,
+      "name": "雷电斩",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 210,
+      "weaponID": 616900,
+      "name": "雷电斩",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 211,
+      "weaponID": 609900,
+      "name": "美杜莎之瞳",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 212,
+      "weaponID": 609900,
+      "name": "美杜莎之瞳",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 213,
+      "weaponID": 609900,
+      "name": "美杜莎之瞳",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 214,
+      "weaponID": 611200,
+      "name": "阿波罗之怒",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 215,
+      "weaponID": 611200,
+      "name": "阿波罗之怒",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 216,
+      "weaponID": 611200,
+      "name": "阿波罗之怒",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 217,
+      "weaponID": 614100,
+      "name": "圣灵拳套",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 218,
+      "weaponID": 614100,
+      "name": "圣灵拳套",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 219,
+      "weaponID": 614100,
+      "name": "圣灵拳套",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 220,
+      "weaponID": 614800,
+      "name": "神翼重剑",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 221,
+      "weaponID": 614800,
+      "name": "神翼重剑",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 222,
+      "weaponID": 614800,
+      "name": "神翼重剑",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 223,
+      "weaponID": 617300,
+      "name": "飓风魔杖",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 224,
+      "weaponID": 617300,
+      "name": "飓风魔杖",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 225,
+      "weaponID": 617300,
+      "name": "飓风魔杖",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 226,
+      "weaponID": 617500,
+      "name": "巨牙冰柱",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 227,
+      "weaponID": 617500,
+      "name": "巨牙冰柱",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 228,
+      "weaponID": 617500,
+      "name": "巨牙冰柱",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 229,
+      "weaponID": 617600,
+      "name": "赤龙之牙",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 230,
+      "weaponID": 617600,
+      "name": "赤龙之牙",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 231,
+      "weaponID": 617600,
+      "name": "赤龙之牙",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 232,
+      "weaponID": 617700,
+      "name": "毁灭火炮",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 233,
+      "weaponID": 617700,
+      "name": "毁灭火炮",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 234,
+      "weaponID": 617700,
+      "name": "毁灭火炮",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 235,
+      "weaponID": 618000,
+      "name": "伐木者钩爪",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 236,
+      "weaponID": 618000,
+      "name": "伐木者钩爪",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 237,
+      "weaponID": 618000,
+      "name": "伐木者钩爪",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 238,
+      "weaponID": 617400,
+      "name": "魔龙之怒",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 239,
+      "weaponID": 617400,
+      "name": "魔龙之怒",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 240,
+      "weaponID": 617400,
+      "name": "魔龙之怒",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 241,
+      "weaponID": 617800,
+      "name": "冥王之镰",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 242,
+      "weaponID": 617800,
+      "name": "冥王之镰",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 243,
+      "weaponID": 617800,
+      "name": "冥王之镰",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 244,
+      "weaponID": 618100,
+      "name": "风神之弓",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 245,
+      "weaponID": 618100,
+      "name": "风神之弓",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 246,
+      "weaponID": 618100,
+      "name": "风神之弓",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 247,
+      "weaponID": 618200,
+      "name": "森林之心法杖",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 248,
+      "weaponID": 618200,
+      "name": "森林之心法杖",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 249,
+      "weaponID": 618200,
+      "name": "森林之心法杖",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 250,
+      "weaponID": 618300,
+      "name": "凛冬守望",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 251,
+      "weaponID": 618300,
+      "name": "凛冬守望",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 252,
+      "weaponID": 618300,
+      "name": "凛冬守望",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 253,
+      "weaponID": 618400,
+      "name": "风暴叹息",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1.5
+      ]
+    },
+    {
+      "ID": 254,
+      "weaponID": 618400,
+      "name": "风暴叹息",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 255,
+      "weaponID": 618400,
+      "name": "风暴叹息",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 256,
+      "weaponID": 618500,
+      "name": "死亡之吻",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 257,
+      "weaponID": 618500,
+      "name": "死亡之吻",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 258,
+      "weaponID": 618500,
+      "name": "死亡之吻",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 259,
+      "weaponID": 618600,
+      "name": "骑士王之誓",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 260,
+      "weaponID": 618600,
+      "name": "骑士王之誓",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 261,
+      "weaponID": 618600,
+      "name": "骑士王之誓",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 262,
+      "weaponID": 618700,
+      "name": "蜉蝣魔岩",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 263,
+      "weaponID": 618700,
+      "name": "蜉蝣魔岩",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 264,
+      "weaponID": 618700,
+      "name": "蜉蝣魔岩",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 265,
+      "weaponID": 618800,
+      "name": "逐神冰槌",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 266,
+      "weaponID": 618800,
+      "name": "逐神冰槌",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 267,
+      "weaponID": 618800,
+      "name": "逐神冰槌",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 268,
+      "weaponID": 618900,
+      "name": "矮人王的黄金镐",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 269,
+      "weaponID": 618900,
+      "name": "矮人王的黄金镐",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 270,
+      "weaponID": 618900,
+      "name": "矮人王的黄金镐",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1.5
+      ]
+    },
+    {
+      "ID": 271,
+      "weaponID": 619000,
+      "name": "编织者",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 272,
+      "weaponID": 619000,
+      "name": "编织者",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 273,
+      "weaponID": 619000,
+      "name": "编织者",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 274,
+      "weaponID": 619100,
+      "name": "冥炎斩魂  · 刃",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 275,
+      "weaponID": 619100,
+      "name": "冥炎斩魂  · 刃",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 276,
+      "weaponID": 619100,
+      "name": "冥炎斩魂  · 刃",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 277,
+      "weaponID": 619300,
+      "name": "雷鸣之握",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 278,
+      "weaponID": 619300,
+      "name": "雷鸣之握",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 279,
+      "weaponID": 619300,
+      "name": "雷鸣之握",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 280,
+      "weaponID": 619400,
+      "name": "噬魂巫医法杖",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 281,
+      "weaponID": 619400,
+      "name": "噬魂巫医法杖",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 282,
+      "weaponID": 619400,
+      "name": "噬魂巫医法杖",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 283,
+      "weaponID": 619500,
+      "name": "流光惊雷",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 284,
+      "weaponID": 619500,
+      "name": "流光惊雷",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 285,
+      "weaponID": 619500,
+      "name": "流光惊雷",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 286,
+      "weaponID": 619600,
+      "name": "生命之拥法杖",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 287,
+      "weaponID": 619600,
+      "name": "生命之拥法杖",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 288,
+      "weaponID": 619600,
+      "name": "生命之拥法杖",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 289,
+      "weaponID": 619700,
+      "name": "异度旋刃",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 290,
+      "weaponID": 619700,
+      "name": "异度旋刃",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 291,
+      "weaponID": 619700,
+      "name": "异度旋刃",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 292,
+      "weaponID": 619800,
+      "name": "月梦之触",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 293,
+      "weaponID": 619800,
+      "name": "月梦之触",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 294,
+      "weaponID": 619800,
+      "name": "月梦之触",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 295,
+      "weaponID": 619900,
+      "name": "荒漠瞭望者",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 296,
+      "weaponID": 619900,
+      "name": "荒漠瞭望者",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 297,
+      "weaponID": 619900,
+      "name": "荒漠瞭望者",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 298,
+      "weaponID": 620000,
+      "name": "凯布利斯的头颅",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 299,
+      "weaponID": 620000,
+      "name": "凯布利斯的头颅",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 300,
+      "weaponID": 620000,
+      "name": "凯布利斯的头颅",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 301,
+      "weaponID": 620200,
+      "name": "塔穆兹之种",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 302,
+      "weaponID": 620200,
+      "name": "塔穆兹之种",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 303,
+      "weaponID": 620200,
+      "name": "塔穆兹之种",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 304,
+      "weaponID": 620300,
+      "name": "永恒沙漏",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 305,
+      "weaponID": 620300,
+      "name": "永恒沙漏",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 306,
+      "weaponID": 620300,
+      "name": "永恒沙漏",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 307,
+      "weaponID": 620100,
+      "name": "巨螯之力",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 308,
+      "weaponID": 620100,
+      "name": "巨螯之力",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 309,
+      "weaponID": 620100,
+      "name": "巨螯之力",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 310,
+      "weaponID": 620500,
+      "name": "先知的牧羊手杖",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 311,
+      "weaponID": 620500,
+      "name": "先知的牧羊手杖",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 312,
+      "weaponID": 620500,
+      "name": "先知的牧羊手杖",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 313,
+      "weaponID": 620900,
+      "name": "夜幕锋刃",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 314,
+      "weaponID": 620900,
+      "name": "夜幕锋刃",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 315,
+      "weaponID": 620900,
+      "name": "夜幕锋刃",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 316,
+      "weaponID": 621300,
+      "name": "生命药剂",
+      "grade": 4,
+      "masterLevel": 1,
+      "shardNums": 4,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        2
+      ]
+    },
+    {
+      "ID": 317,
+      "weaponID": 621300,
+      "name": "生命药剂",
+      "grade": 4,
+      "masterLevel": 2,
+      "shardNums": 8,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 318,
+      "weaponID": 621300,
+      "name": "生命药剂",
+      "grade": 4,
+      "masterLevel": 3,
+      "shardNums": 12,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 319,
+      "weaponID": 620400,
+      "name": "旧日秘典",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 320,
+      "weaponID": 620400,
+      "name": "旧日秘典",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 321,
+      "weaponID": 620400,
+      "name": "旧日秘典",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 322,
+      "weaponID": 620800,
+      "name": "神佑巨剑",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 323,
+      "weaponID": 620800,
+      "name": "神佑巨剑",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 324,
+      "weaponID": 620800,
+      "name": "神佑巨剑",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 325,
+      "weaponID": 621100,
+      "name": "星焱战斧",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 326,
+      "weaponID": 621100,
+      "name": "星焱战斧",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 327,
+      "weaponID": 621100,
+      "name": "星焱战斧",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 328,
+      "weaponID": 620600,
+      "name": "先祖之令",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 329,
+      "weaponID": 620600,
+      "name": "先祖之令",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 330,
+      "weaponID": 620600,
+      "name": "先祖之令",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 331,
+      "weaponID": 621800,
+      "name": "三生雷影",
+      "grade": 5,
+      "masterLevel": 1,
+      "shardNums": 5,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 332,
+      "weaponID": 621800,
+      "name": "三生雷影",
+      "grade": 5,
+      "masterLevel": 2,
+      "shardNums": 10,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 333,
+      "weaponID": 621800,
+      "name": "三生雷影",
+      "grade": 5,
+      "masterLevel": 3,
+      "shardNums": 15,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 334,
+      "weaponID": 621900,
+      "name": "哨兵神矢",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        6
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 335,
+      "weaponID": 621900,
+      "name": "哨兵神矢",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 336,
+      "weaponID": 621900,
+      "name": "哨兵神矢",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 337,
+      "weaponID": 622000,
+      "name": "圣诞树",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 338,
+      "weaponID": 622000,
+      "name": "圣诞树",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 339,
+      "weaponID": 622000,
+      "name": "圣诞树",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 340,
+      "weaponID": 621700,
+      "name": "唤潮者魔杖",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 341,
+      "weaponID": 621700,
+      "name": "唤潮者魔杖",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 342,
+      "weaponID": 621700,
+      "name": "唤潮者魔杖",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 343,
+      "weaponID": 620700,
+      "name": "国王的黄金圣杯",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 344,
+      "weaponID": 620700,
+      "name": "国王的黄金圣杯",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 345,
+      "weaponID": 620700,
+      "name": "国王的黄金圣杯",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        7
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 346,
+      "weaponID": 622300,
+      "name": "幽冥旋月",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 347,
+      "weaponID": 622300,
+      "name": "幽冥旋月",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 348,
+      "weaponID": 622300,
+      "name": "幽冥旋月",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        1
+      ]
+    },
+    {
+      "ID": 349,
+      "weaponID": 622400,
+      "name": "灾雷咏者",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 350,
+      "weaponID": 622400,
+      "name": "灾雷咏者",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 351,
+      "weaponID": 622400,
+      "name": "灾雷咏者",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 352,
+      "weaponID": 622500,
+      "name": "冰糖葫芦",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        1
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 353,
+      "weaponID": 622500,
+      "name": "冰糖葫芦",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        4
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 354,
+      "weaponID": 622500,
+      "name": "冰糖葫芦",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        4
+      ]
+    },
+    {
+      "ID": 358,
+      "weaponID": 622100,
+      "name": "冰魄圣盾",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.3
+      ]
+    },
+    {
+      "ID": 359,
+      "weaponID": 622100,
+      "name": "冰魄圣盾",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.3
+      ]
+    },
+    {
+      "ID": 360,
+      "weaponID": 622100,
+      "name": "冰魄圣盾",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.4
+      ]
+    },
+    {
+      "ID": 361,
+      "weaponID": 622200,
+      "name": "凛冬启示录",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        2
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 362,
+      "weaponID": 622200,
+      "name": "凛冬启示录",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        3
+      ],
+      "masterValue": [
+        3
+      ]
+    },
+    {
+      "ID": 363,
+      "weaponID": 622200,
+      "name": "凛冬启示录",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.5
+      ]
+    },
+    {
+      "ID": 364,
+      "weaponID": 622600,
+      "name": "幻境花灯",
+      "grade": 6,
+      "masterLevel": 1,
+      "shardNums": 6,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.3
+      ]
+    },
+    {
+      "ID": 365,
+      "weaponID": 622600,
+      "name": "幻境花灯",
+      "grade": 6,
+      "masterLevel": 2,
+      "shardNums": 12,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.3
+      ]
+    },
+    {
+      "ID": 366,
+      "weaponID": 622600,
+      "name": "幻境花灯",
+      "grade": 6,
+      "masterLevel": 3,
+      "shardNums": 18,
+      "masterType": [
+        5
+      ],
+      "masterValue": [
+        0.4
+      ]
+    }
+  ]
+}

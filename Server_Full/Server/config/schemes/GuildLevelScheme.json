@@ -1,0 +1,81 @@
+{
+  "GuildLevel": [
+    {
+      "ID": 1,
+      "name": "",
+      "exp": 8000,
+      "maxMember": 30,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 2,
+      "name": "",
+      "exp": 24000,
+      "maxMember": 32,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 3,
+      "name": "",
+      "exp": 40000,
+      "maxMember": 34,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 4,
+      "name": "",
+      "exp": 60000,
+      "maxMember": 36,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 5,
+      "name": "",
+      "exp": 80000,
+      "maxMember": 38,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 6,
+      "name": "",
+      "exp": 150000,
+      "maxMember": 40,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 7,
+      "name": "",
+      "exp": 400000,
+      "maxMember": 42,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 8,
+      "name": "",
+      "exp": 600000,
+      "maxMember": 44,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 9,
+      "name": "",
+      "exp": 800000,
+      "maxMember": 46,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 10,
+      "name": "",
+      "exp": 1000000,
+      "maxMember": 48,
+      "maxDeputy": 3
+    },
+    {
+      "ID": 11,
+      "name": "",
+      "exp": 0,
+      "maxMember": 50,
+      "maxDeputy": 3
+    }
+  ]
+}

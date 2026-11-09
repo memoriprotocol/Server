@@ -1,0 +1,736 @@
+{
+  "weaponShards": [
+    {
+      "ID": 61220001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 612200
+    },
+    {
+      "ID": 61390001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 613900
+    },
+    {
+      "ID": 61290001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 612900
+    },
+    {
+      "ID": 61100001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 611000
+    },
+    {
+      "ID": 60100001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 601000
+    },
+    {
+      "ID": 61310001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 613100
+    },
+    {
+      "ID": 61160001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 611600
+    },
+    {
+      "ID": 61280001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 612800
+    },
+    {
+      "ID": 61230001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 612300
+    },
+    {
+      "ID": 61150001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 611500
+    },
+    {
+      "ID": 61240001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 612400
+    },
+    {
+      "ID": 61330001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 613300
+    },
+    {
+      "ID": 61370001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 613700
+    },
+    {
+      "ID": 61400001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 614000
+    },
+    {
+      "ID": 61430001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 614300
+    },
+    {
+      "ID": 61380001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 613800
+    },
+    {
+      "ID": 61110001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 611100
+    },
+    {
+      "ID": 61260001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 612600
+    },
+    {
+      "ID": 61130001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 611300
+    },
+    {
+      "ID": 61020001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610200
+    },
+    {
+      "ID": 61090001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610900
+    },
+    {
+      "ID": 61460001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 614600
+    },
+    {
+      "ID": 61070001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610700
+    },
+    {
+      "ID": 61050001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610500
+    },
+    {
+      "ID": 61080001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610800
+    },
+    {
+      "ID": 61140001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 611400
+    },
+    {
+      "ID": 61190001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 611900
+    },
+    {
+      "ID": 61300001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 613000
+    },
+    {
+      "ID": 61320001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 613200
+    },
+    {
+      "ID": 61420001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 614200
+    },
+    {
+      "ID": 61440001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 614400
+    },
+    {
+      "ID": 61250001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 612500
+    },
+    {
+      "ID": 61170001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 611700
+    },
+    {
+      "ID": 61470001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 614700
+    },
+    {
+      "ID": 61450001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 614500
+    },
+    {
+      "ID": 61350001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 613500
+    },
+    {
+      "ID": 61180001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 611800
+    },
+    {
+      "ID": 61060001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610600
+    },
+    {
+      "ID": 61200001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 612000
+    },
+    {
+      "ID": 61010001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 610100
+    },
+    {
+      "ID": 60980001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 609800
+    },
+    {
+      "ID": 61030001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 610300
+    },
+    {
+      "ID": 61040001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 610400
+    },
+    {
+      "ID": 61340001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 613400
+    },
+    {
+      "ID": 61360001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 613600
+    },
+    {
+      "ID": 60970001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 609700
+    },
+    {
+      "ID": 60990001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 609900
+    },
+    {
+      "ID": 61270001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 612700
+    },
+    {
+      "ID": 61410001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 614100
+    },
+    {
+      "ID": 61480001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 614800
+    },
+    {
+      "ID": 61120001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 611200
+    },
+    {
+      "ID": 61490001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 614900
+    },
+    {
+      "ID": 61500001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 615000
+    },
+    {
+      "ID": 61510001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 615100
+    },
+    {
+      "ID": 61530001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 615300
+    },
+    {
+      "ID": 61520001,
+      "Star": 1,
+      "Weight": 100,
+      "weaponID": 615200
+    },
+    {
+      "ID": 61540001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 615400
+    },
+    {
+      "ID": 61550001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 615500
+    },
+    {
+      "ID": 61560001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 615600
+    },
+    {
+      "ID": 61570001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 615700
+    },
+    {
+      "ID": 61580001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 615800
+    },
+    {
+      "ID": 61590001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 615900
+    },
+    {
+      "ID": 61600001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 616000
+    },
+    {
+      "ID": 61610001,
+      "Star": 2,
+      "Weight": 100,
+      "weaponID": 616100
+    },
+    {
+      "ID": 61620001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616200
+    },
+    {
+      "ID": 61630001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616300
+    },
+    {
+      "ID": 61640001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616400
+    },
+    {
+      "ID": 61650001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616500
+    },
+    {
+      "ID": 61660001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616600
+    },
+    {
+      "ID": 61670001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616700
+    },
+    {
+      "ID": 61680001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 616800
+    },
+    {
+      "ID": 61690001,
+      "Star": 4,
+      "Weight": 100,
+      "weaponID": 616900
+    },
+    {
+      "ID": 61700001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 617000
+    },
+    {
+      "ID": 61710001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 617100
+    },
+    {
+      "ID": 61720001,
+      "Star": 3,
+      "Weight": 100,
+      "weaponID": 617200
+    },
+    {
+      "ID": 61730001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 617300
+    },
+    {
+      "ID": 61740001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 617400
+    },
+    {
+      "ID": 61750001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 617500
+    },
+    {
+      "ID": 61760001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 617600
+    },
+    {
+      "ID": 61770001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 617700
+    },
+    {
+      "ID": 61780001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 617800
+    },
+    {
+      "ID": 61800001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 618000
+    },
+    {
+      "ID": 61810001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618100
+    },
+    {
+      "ID": 61820001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618200
+    },
+    {
+      "ID": 61830001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618300
+    },
+    {
+      "ID": 61840001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618400
+    },
+    {
+      "ID": 61850001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618500
+    },
+    {
+      "ID": 61860001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618600
+    },
+    {
+      "ID": 61870001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618700
+    },
+    {
+      "ID": 61880001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618800
+    },
+    {
+      "ID": 61890001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 618900
+    },
+    {
+      "ID": 61910001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619100
+    },
+    {
+      "ID": 61900001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619000
+    },
+    {
+      "ID": 61930001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619300
+    },
+    {
+      "ID": 61940001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619400
+    },
+    {
+      "ID": 61950001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619500
+    },
+    {
+      "ID": 61960001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 619600
+    },
+    {
+      "ID": 61970001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619700
+    },
+    {
+      "ID": 61980001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619800
+    },
+    {
+      "ID": 61990001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 619900
+    },
+    {
+      "ID": 62000001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620000
+    },
+    {
+      "ID": 62020001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620200
+    },
+    {
+      "ID": 62030001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620300
+    },
+    {
+      "ID": 62010001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620100
+    },
+    {
+      "ID": 62050001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620500
+    },
+    {
+      "ID": 62090001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620900
+    },
+    {
+      "ID": 62130001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 621300
+    },
+    {
+      "ID": 62040001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620400
+    },
+    {
+      "ID": 62080001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620800
+    },
+    {
+      "ID": 62110001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 621100
+    },
+    {
+      "ID": 62060001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620600
+    },
+    {
+      "ID": 62180001,
+      "Star": 5,
+      "Weight": 100,
+      "weaponID": 621800
+    },
+    {
+      "ID": 62190001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 621900
+    },
+    {
+      "ID": 62200001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622000
+    },
+    {
+      "ID": 62170001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 621700
+    },
+    {
+      "ID": 62070001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 620700
+    },
+    {
+      "ID": 62230001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622300
+    },
+    {
+      "ID": 62240001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622400
+    },
+    {
+      "ID": 62250001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622500
+    },
+    {
+      "ID": 62210001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622100
+    },
+    {
+      "ID": 62220001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622200
+    },
+    {
+      "ID": 62260001,
+      "Star": 6,
+      "Weight": 100,
+      "weaponID": 622600
+    }
+  ]
+}

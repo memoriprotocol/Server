@@ -1,0 +1,11 @@
+{
+  "baseline": "SERVER_STAGE44_GACHA_STARS_MOUNTS.zip",
+  "filesAndFunctionSHA256": {
+    "city-main-3127.json": "72b5f5ff9e1ad900272d1caf96bab5ae92c6d082d5b32416cb2c213216758730",
+    "map2-native-npcs-3127.json": "e527a10f4bb1ecf103a386f9706b9cd328236297b690344b209a9e746af45245",
+    "map2-city-objects-3127.json": "4e0fe572d2cb8d33aca7b6ce480c685bc5de098431f992b6225684cff2bb8bfa",
+    "map2-verified-prefabs-3127.json": "cc4e454731e64e855443727c4c5dc254aa23db9da133d0b0a38ebe551212e29d",
+    "overlapsStatic function": "8a37ec20b14f8c5a631675face7d175c31f8c12841301f8a5226bf0eeb9ea88e"
+  },
+  "wallPositionsModelsAndCollisions": "Restored exactly from Stage44 at explicit user request."
+}

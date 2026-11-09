@@ -1,0 +1,54 @@
+{
+  "ReputationAward": [
+    {
+      "ID": 1,
+      "Score": 100,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 2,
+      "Score": 500,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 3,
+      "Score": 1000,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 4,
+      "Score": 2000,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        5000
+      ]
+    },
+    {
+      "ID": 5,
+      "Score": 5000,
+      "AwardIDs": [
+        109
+      ],
+      "AwardNums": [
+        10000
+      ]
+    }
+  ]
+}

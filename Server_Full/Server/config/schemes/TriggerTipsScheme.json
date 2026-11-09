@@ -1,0 +1,127 @@
+{
+  "TriggerTips": [
+    {
+      "ID": 1,
+      "TriggerTipsType": 1,
+      "TalkGroup": 101,
+      "PlayerLevel": 5,
+      "isDelete": false
+    },
+    {
+      "ID": 2,
+      "TriggerTipsType": 5,
+      "TriggerTipsArgs": [
+        {
+          "min": 25
+        },
+        {
+          "num": 3
+        }
+      ],
+      "TalkGroup": 102,
+      "PlayerLevel": 5,
+      "isDelete": false
+    },
+    {
+      "ID": 3,
+      "TriggerTipsType": 6,
+      "TriggerTipsArgs": [
+        {
+          "min": 10
+        },
+        {
+          "num": 5
+        }
+      ],
+      "TalkGroup": 103,
+      "PlayerLevel": 5,
+      "isDelete": false
+    },
+    {
+      "ID": 4,
+      "TriggerTipsType": 2,
+      "TriggerTipsArgs": [
+        {
+          "num": 80
+        }
+      ],
+      "TalkGroup": 104,
+      "PlayerLevel": 5,
+      "isDelete": false
+    },
+    {
+      "ID": 5,
+      "TriggerTipsType": 3,
+      "TriggerTipsArgs": [
+        {
+          "num": 5
+        }
+      ],
+      "TalkGroup": 105,
+      "PlayerLevel": 10,
+      "isDelete": false
+    },
+    {
+      "ID": 6,
+      "TriggerTipsType": 3,
+      "TriggerTipsArgs": [
+        {
+          "num": 18
+        }
+      ],
+      "TalkGroup": 106,
+      "PlayerLevel": 10,
+      "isDelete": false
+    },
+    {
+      "ID": 7,
+      "TriggerTipsType": 3,
+      "TriggerTipsArgs": [
+        {
+          "num": 8
+        }
+      ],
+      "TalkGroup": 107,
+      "PlayerLevel": 15,
+      "isDelete": false
+    },
+    {
+      "ID": 8,
+      "TriggerTipsType": 4,
+      "TalkGroup": 108,
+      "PlayerLevel": 10,
+      "isDelete": false
+    },
+    {
+      "ID": 9,
+      "TriggerTipsType": 7,
+      "TriggerTipsArgs": [
+        {
+          "itemID": 320601
+        },
+        {
+          "itemID": 320602
+        },
+        {
+          "itemID": 320603
+        },
+        {
+          "itemID": 320604
+        },
+        {
+          "itemID": 320605
+        }
+      ],
+      "TalkGroup": 109,
+      "PlayerLevel": 10,
+      "isDelete": false
+    },
+    {
+      "ID": 10,
+      "TriggerTipsType": 8,
+      "TalkGroup": 110,
+      "PlayerLevel": 10,
+      "isDelete": false
+    }
+  ]
+}

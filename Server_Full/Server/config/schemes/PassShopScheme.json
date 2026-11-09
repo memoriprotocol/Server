@@ -1,0 +1,154 @@
+{
+  "PassShop": [
+    {
+      "ID": 1,
+      "seasonID": 1,
+      "price": 5,
+      "itemID": 109,
+      "itemNum": 10000,
+      "limitLevel": 1,
+      "limitTime": 10,
+      "isShow": true
+    },
+    {
+      "ID": 2,
+      "seasonID": 1,
+      "price": 100,
+      "itemID": 320601,
+      "itemNum": 1,
+      "limitLevel": 2,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 3,
+      "seasonID": 1,
+      "price": 100,
+      "itemID": 320602,
+      "itemNum": 1,
+      "limitLevel": 3,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 4,
+      "seasonID": 1,
+      "price": 100,
+      "itemID": 320603,
+      "itemNum": 1,
+      "limitLevel": 4,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 5,
+      "seasonID": 1,
+      "price": 100,
+      "itemID": 320604,
+      "itemNum": 1,
+      "limitLevel": 5,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 6,
+      "seasonID": 1,
+      "price": 100,
+      "itemID": 320605,
+      "itemNum": 1,
+      "limitLevel": 6,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 7,
+      "seasonID": 1,
+      "price": 300,
+      "itemID": 311001,
+      "itemNum": 1,
+      "limitLevel": 15,
+      "limitTime": 1,
+      "isShow": true
+    },
+    {
+      "ID": 9,
+      "seasonID": 2,
+      "price": 5,
+      "itemID": 109,
+      "itemNum": 10000,
+      "limitLevel": 1,
+      "limitTime": 10,
+      "isShow": true
+    },
+    {
+      "ID": 10,
+      "seasonID": 2,
+      "price": 100,
+      "itemID": 320601,
+      "itemNum": 1,
+      "limitLevel": 2,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 11,
+      "seasonID": 2,
+      "price": 100,
+      "itemID": 320602,
+      "itemNum": 1,
+      "limitLevel": 3,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 12,
+      "seasonID": 2,
+      "price": 100,
+      "itemID": 320603,
+      "itemNum": 1,
+      "limitLevel": 4,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 13,
+      "seasonID": 2,
+      "price": 100,
+      "itemID": 320604,
+      "itemNum": 1,
+      "limitLevel": 5,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 14,
+      "seasonID": 2,
+      "price": 100,
+      "itemID": 320605,
+      "itemNum": 1,
+      "limitLevel": 6,
+      "limitTime": 5,
+      "isShow": true
+    },
+    {
+      "ID": 15,
+      "seasonID": 2,
+      "price": 500,
+      "itemID": 331003,
+      "itemNum": 1,
+      "limitLevel": 20,
+      "limitTime": 1,
+      "isShow": true
+    },
+    {
+      "ID": 16,
+      "seasonID": 2,
+      "price": 300,
+      "itemID": 311001,
+      "itemNum": 1,
+      "limitLevel": 30,
+      "limitTime": 1,
+      "isShow": true
+    }
+  ]
+}

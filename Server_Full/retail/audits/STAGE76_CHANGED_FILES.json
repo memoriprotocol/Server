@@ -1,0 +1,117 @@
+[
+  {
+    "path": "ISSUES_STAGE76_RU.txt",
+    "change": "added",
+    "sha256": "91e9ea1d06163282f760a116a31849691c503df89c536b10471df11eb2ae33d6"
+  },
+  {
+    "path": "README_STAGE76_RU.txt",
+    "change": "added",
+    "sha256": "9a0adcb20fb33d7a050ab60d4a98573686aae531192c31047914a623db6b2ba4"
+  },
+  {
+    "path": "Server_Full/README_STAGE76_RU.txt",
+    "change": "added",
+    "sha256": "9a0adcb20fb33d7a050ab60d4a98573686aae531192c31047914a623db6b2ba4"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-summons-3127.js",
+    "change": "modified",
+    "sha256": "aa0fdf15692b28a1516e1e320be7e97faa603882e33660dcfcd8db785b27bc1f"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "change": "modified",
+    "sha256": "f5bbb5877ef0096081af169c3866f5efcfb1139e637e1a68b9e2eb1d8ed5cb1e"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage76-native.js",
+    "change": "added",
+    "sha256": "c47447b1a5b467a19779fcb97bee6c44a28db1cfaaec26f89cbd9496649e890e"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage76-native-summons.test.js",
+    "change": "added",
+    "sha256": "7583a6ddd3057698e915ca2b8d93b147083ca60f7d7c2ec68d7df6000f432d6b"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage76-summon-lifetime.test.js",
+    "change": "added",
+    "sha256": "9b287a7c0d55b5453c6a9d4d73b6ac7ae2d5661f3fdcf871a70bac5e7ce92635"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "13b63fd373827e6f8d5742a82f88bfe1b8061deebdbcc16fdab3c42d5e7b6cda"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "81f3eba872bcfbcae51ddd593df28b630ef500f46228429824a6414d1b5fd6e9"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "294ef1e965095827bb63260cb672fb4c9263d7750a9e5760a019394df21f973a"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_SMOKE.log",
+    "change": "added",
+    "sha256": "595e7089c32f08ecaffa041830f21b824a322d65cc8e923f208f822e71d75748"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_SUMMONS.json",
+    "change": "added",
+    "sha256": "1ca16cf2cb9386b2f0587c5a72292adf240db18146197679c167bd90269135d2"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_TESTS.log",
+    "change": "added",
+    "sha256": "0917d97f77713a9ba7b80ca3493b0be503866c1ee2983ebb27a9339f0d554014"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_VALIDATION.json",
+    "change": "added",
+    "sha256": "b8095b9b5001bca4a2bef9f425de870b50b4e5e757920bed1ab0e4b21e393b27"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE76_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage76/CCBodySummonsAnimComp.ts",
+    "change": "added",
+    "sha256": "d6bb36fe6d53901614abc4df449fb703ffa2fbc3a12eae708a36ab592e9403c3"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage76/CCKingSummons.ts",
+    "change": "added",
+    "sha256": "e2775c4312adfd57762141746455680c2f9acb899f1e68283f02f5f4935f6020"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage76/CCSummons.ts",
+    "change": "added",
+    "sha256": "7df557cfc5dcdd3b853047174bc17c53ccaf2f88c765ace18bd970bb5a17c944"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage76/SkillSchemeManager.ts",
+    "change": "added",
+    "sha256": "8fd246c9a652b6dff5e35a1d86f6541bf9d271bd3584164ca1fcc0ec423f14e1"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage76/native-descriptions.json",
+    "change": "added",
+    "sha256": "7109cd56334c6c578923ee940e0bcf0cc9d8bb641e5254bfd2daa3944b8c308f"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage76/summon-assets.json",
+    "change": "added",
+    "sha256": "b185028b3a0a295043093b25f4be6ae1d35d70eeec3b7920c8527fb692067138"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "060c2f144e11ea0b5d75a32aabee72b9ed02d94df7b1aca73db95eb80529c1fc"
+  }
+]

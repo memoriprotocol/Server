@@ -1,0 +1,23 @@
+﻿sourceId,entityId,cid,name,role,x,y,angle,prefab_path,placementStatus,roleEvidence
+26508,50026508,408,The Carrier,,-1200.828,-1500,0,arena/npc/408/npc,operator-maincity-layout,
+26525,50026525,425,Valkyrie,,-1600.061,1300.887,0,arena/npc/425/npc,operator-maincity-layout,
+26523,50026523,423,Book of Merlin,,3600.828,-4200.186,0,arena/npc/423/npc-0,operator-maincity-layout,
+26524,50026524,424,Anvil,,1000.056,1200.333,0,arena/npc/424/npc-0,operator-maincity-layout,
+26514,50026514,414,Sage Merlin,,4100.396,-3700.15,0,arena/npc/414/npc,operator-maincity-layout,
+26515,50026515,415,Blacksmith Carter,,1600.493,1341.449,0,arena/npc/415/npc,operator-maincity-layout,
+26505,50026505,402,Склад,warehouse,-1200,-500,0,arena/npc/402/npc-0,operator-maincity-layout,3.12.7 CreatureScheme ID 402 仓库管理员; exact original prefab in native client asset index
+26522,50026522,422,Почта,mail,-460,-1150,0,arena/npc/422/npc-0,operator-maincity-layout,"operator provisional role assignment; client prefab path verified, retail role not established"
+26511,50026511,421,Смена героя,change-hero,550,-1150,0,arena/npc/421/npc-0,operator-maincity-layout,3.12.7 CreatureScheme ID 421 转职大师 (class-change master); UI function must be checked in client; not proved hero switch
+26526,50026526,412,God of War — модель под замену,god-of-war,1300,-500,0,arena/npc/412/npc,operator-maincity-layout,"3.12.7 CreatureScheme 412 军官杰里 military officer; only a temporary 3.12 model, no verified God of War creature ID. Previous princess Leila (426) removed"
+26601,50026601,3001,Guard north 1,gate-guard,-214.168,3744.328,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26602,50026602,3002,Guard north 2,gate-guard,295.832,3744.328,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26603,50026603,3003,Guard south 1,gate-guard,-214.168,-4471.592,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26604,50026604,3004,Guard south 2,gate-guard,295.832,-4471.592,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26605,50026605,3005,Guard west 1,gate-guard,-4165.049,-628.632,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26606,50026606,3001,Guard west 2,gate-guard,-4165.049,-98.632,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26607,50026607,3002,Guard east 1,gate-guard,4246.714,-628.632,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26608,50026608,3003,Guard east 2,gate-guard,4246.714,-98.632,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26611,50026611,3001,Guard безопасной зоны center-001,safezone-guard,6.615,20212.307,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26612,50026612,3002,Guard безопасной зоны center-002,safezone-guard,113.632,-16567.826,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26613,50026613,3003,Guard безопасной зоны center-003,safezone-guard,-15827.161,-125.534,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"
+26614,50026614,3004,Guard безопасной зоны center-004,safezone-guard,16627.925,-125.534,0,,operator-maincity-layout,"3.12.7 CreatureScheme ID 3001..3005 卫兵, Typ 1037; use native creature renderer (not NPC 403); client visual test required"

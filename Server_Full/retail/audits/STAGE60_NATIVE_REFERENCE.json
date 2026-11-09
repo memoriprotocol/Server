@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Server_Full/retail/client-reference/stage60/CCBuffComp.ts",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+    "bytes": 176670,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage60/PassManager.ts",
+    "sha256": "1960afa0e03587f48d230e579150ee72f880eca77888c185e842d015246a81bb",
+    "bytes": 2093,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage60/PassportsModel.ts",
+    "sha256": "ec327a7a27da1199423363b96011a9f58144a8a86ed1ceff1acbfbc64c1f1d10",
+    "bytes": 6183,
+    "verbatimOriginalFactory": true
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage60/MiniSysNetwork.ts",
+    "sha256": "c1a1bfaeef07231233aba95f6d1be8297b2b3a7e9c58d387453664928cf1f631",
+    "bytes": 14723,
+    "verbatimOriginalFactory": true
+  }
+]

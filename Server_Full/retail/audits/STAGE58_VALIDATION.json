@@ -1,0 +1,50 @@
+{
+  "stage": 58,
+  "version": "0.36.0-stage58-map2-melee-recovery",
+  "scope": "MAP2_AND_GENERAL_MECHANICS",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 909,
+    "pass": 909,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage58": 85,
+    "nativeVMTests": 4,
+    "updatedPriorTests": [
+      {
+        "file": "stage53-displacement.test.js",
+        "reason": "assert no spear knockback until native400ms windup, then keep same200distance/200ms displacement checks; sleeping AI isolates hit without stationary immunity"
+      },
+      {
+        "file": "stage55-moonshard-control.test.js",
+        "reason": "freeze existing test clock to eliminate1ms race in exact2000ms sleep assertion; duration expectation unchanged"
+      }
+    ]
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.36.0-stage58-map2-melee-recovery",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "meleeVariants": 88,
+    "rangedVariants": 98,
+    "activeProjectileSkills": 14,
+    "returningSkills": 8,
+    "monsterRecovery": {
+      "maxHPPercent": 10,
+      "intervalMs": 1000,
+      "status": "LOCAL_POLICY_NOT_VERIFIED_RETAIL_RATE",
+      "note": "Gradual Map2 mob/boss recovery after target loss. Native Buff70 args8 has no verified binding to this transition."
+    },
+    "windowsClientRendered": false
+  }
+}

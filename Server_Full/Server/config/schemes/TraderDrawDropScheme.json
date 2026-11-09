@@ -1,0 +1,84 @@
+{
+  "TraderDrawDrop": [
+    {
+      "Position": 1,
+      "weight": 500,
+      "dropID": 61,
+      "icon": "arena/ui/layers/item/icons/draw/resouce/spriteFrame",
+      "desc": "1",
+      "grade": 2
+    },
+    {
+      "Position": 2,
+      "weight": 1,
+      "dropID": 70,
+      "icon": "arena/ui/layers/item/icons/draw/coinbig/spriteFrame",
+      "desc": "10",
+      "grade": 5
+    },
+    {
+      "Position": 3,
+      "weight": 300,
+      "dropID": 62,
+      "icon": "arena/ui/layers/item/icons/draw/clothes/spriteFrame",
+      "desc": "2",
+      "grade": 3
+    },
+    {
+      "Position": 4,
+      "weight": 20,
+      "dropID": 66,
+      "icon": "arena/ui/layers/item/icons/draw/weapon/spriteFrame",
+      "desc": "6",
+      "grade": 4
+    },
+    {
+      "Position": 5,
+      "weight": 200,
+      "dropID": 63,
+      "icon": "arena/ui/layers/item/icons/draw/universal/spriteFrame",
+      "desc": "3",
+      "grade": 3
+    },
+    {
+      "Position": 6,
+      "weight": 5,
+      "dropID": 69,
+      "icon": "arena/ui/layers/item/icons/draw/weapon/spriteFrame",
+      "desc": "9",
+      "grade": 5
+    },
+    {
+      "Position": 7,
+      "weight": 500,
+      "dropID": 64,
+      "icon": "arena/ui/layers/item/icons/draw/equip/spriteFrame",
+      "desc": "4",
+      "grade": 2
+    },
+    {
+      "Position": 8,
+      "weight": 50,
+      "dropID": 67,
+      "icon": "arena/ui/layers/item/icons/draw/clothes/spriteFrame",
+      "desc": "7",
+      "grade": 4
+    },
+    {
+      "Position": 9,
+      "weight": 400,
+      "dropID": 65,
+      "icon": "arena/ui/layers/item/icons/draw/EXP/spriteFrame",
+      "desc": "5",
+      "grade": 3
+    },
+    {
+      "Position": 10,
+      "weight": 20,
+      "dropID": 68,
+      "icon": "arena/ui/layers/item/icons/draw/coinsmall/spriteFrame",
+      "desc": "8",
+      "grade": 4
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "WelfareAward": [
+    {
+      "ID": 1,
+      "seasonID": 1,
+      "day": 1,
+      "baseItemID": 301000,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        301000,
+        301000
+      ],
+      "advancedItemNum": [
+        10,
+        15
+      ]
+    },
+    {
+      "ID": 2,
+      "seasonID": 1,
+      "day": 2,
+      "baseItemID": 611200,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        618100,
+        109
+      ],
+      "advancedItemNum": [
+        1,
+        20000
+      ]
+    },
+    {
+      "ID": 3,
+      "seasonID": 1,
+      "day": 3,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        805006,
+        805206
+      ],
+      "advancedItemNum": [
+        1,
+        1
+      ]
+    },
+    {
+      "ID": 4,
+      "seasonID": 1,
+      "day": 4,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        805306,
+        805606
+      ],
+      "advancedItemNum": [
+        1,
+        1
+      ]
+    },
+    {
+      "ID": 5,
+      "seasonID": 1,
+      "day": 5,
+      "baseItemID": 123800,
+      "baseItemNum": 20,
+      "advancedItemID": [
+        123800
+      ],
+      "advancedItemNum": [
+        50
+      ]
+    },
+    {
+      "ID": 6,
+      "seasonID": 1,
+      "day": 6,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        20000
+      ]
+    },
+    {
+      "ID": 7,
+      "seasonID": 1,
+      "day": 7,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        109,
+        17
+      ],
+      "advancedItemNum": [
+        20000,
+        888
+      ]
+    },
+    {
+      "ID": 8,
+      "seasonID": 2,
+      "day": 1,
+      "baseItemID": 301000,
+      "baseItemNum": 5,
+      "advancedItemID": [
+        301000,
+        301000
+      ],
+      "advancedItemNum": [
+        10,
+        15
+      ]
+    },
+    {
+      "ID": 9,
+      "seasonID": 2,
+      "day": 2,
+      "baseItemID": 611200,
+      "baseItemNum": 1,
+      "advancedItemID": [
+        618100,
+        109
+      ],
+      "advancedItemNum": [
+        1,
+        20000
+      ]
+    },
+    {
+      "ID": 10,
+      "seasonID": 2,
+      "day": 3,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        805006,
+        805206
+      ],
+      "advancedItemNum": [
+        1,
+        1
+      ]
+    },
+    {
+      "ID": 11,
+      "seasonID": 2,
+      "day": 4,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        805306,
+        805606
+      ],
+      "advancedItemNum": [
+        1,
+        1
+      ]
+    },
+    {
+      "ID": 12,
+      "seasonID": 2,
+      "day": 5,
+      "baseItemID": 123800,
+      "baseItemNum": 20,
+      "advancedItemID": [
+        123800
+      ],
+      "advancedItemNum": [
+        50
+      ]
+    },
+    {
+      "ID": 13,
+      "seasonID": 2,
+      "day": 6,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        109
+      ],
+      "advancedItemNum": [
+        20000
+      ]
+    },
+    {
+      "ID": 14,
+      "seasonID": 2,
+      "day": 7,
+      "baseItemID": 109,
+      "baseItemNum": 10000,
+      "advancedItemID": [
+        109,
+        17
+      ],
+      "advancedItemNum": [
+        20000,
+        888
+      ]
+    }
+  ]
+}

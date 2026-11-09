@@ -1,0 +1,162 @@
+[
+  {
+    "path": "ISSUES_STAGE50_RU.txt",
+    "sha256": "3504f4b9eeeb0d3007b4b8ac55748bba11084204cd766b24f359ff88336f3d4d",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE50_RU.txt",
+    "sha256": "5028f3ebbbdcbd20350c568c07c26b3e72b28c544f2e99702382536405b35fae",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE50_RU.txt",
+    "sha256": "5028f3ebbbdcbd20350c568c07c26b3e72b28c544f2e99702382536405b35fae",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "sha256": "15af8efd2b6e02fed7baf9b98a536a82bb19f4598d61dac70edf2ca1fa2030f3",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/collection-3127.js",
+    "sha256": "6f60edb079684eb27f7265dfda8874a2cd727c3291260eb7a00ebbbae8273fea",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-summons-3127.js",
+    "sha256": "20e3e9a911196960f0dbe62b7cbd94816d8afdcedac4f64a8ed33c5bef05586b",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/life-3127.js",
+    "sha256": "3954b52ffe1c8ca904b45ddfdcaf0959f70c3e96b91dd5c61aaa135928b76d06",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "sha256": "30131605e7e29300db324dc05e5bd941933a9ae6156274a7cee48739397cad87",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "sha256": "82000775b9dbd3e3930944bcf56616db58502d17facd1345d124d7795223ae5c",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/pets-3127.js",
+    "sha256": "0173e6f548b575a328e3d5ab866bdbbc5fccb40541105ccdcea4fe1ab117e495",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "sha256": "0136831d7f230d5bbb7d3e460f17ea167905109b5bc7ee96b262af7de442e86c",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/talents-3127.js",
+    "sha256": "1a4e34a8d372b3b76c034e21eddcbac42b7207411257ec67ce83e4c46e2f1115",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "2905014f00926b1fdd12d7312830aa2d0ca7444c09122af736917d66f960054e",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage50-map2-pets.test.js",
+    "sha256": "72d68a9bdfe002a0f694490edd08c1133ff1fcbf65254996afd1f7a8af5f3ac8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage50-native-pets.test.js",
+    "sha256": "44323d1dada31ab94e20a3e72aca7e008a4c33f1e40554177e6b3089b12b05e9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "95d8b1ccf2a89657eb6b91d38646dfc7bbede5dde5a2ebe9cdfde5d73aef7b2b",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE50_NATIVE_PET_ASSETS.json",
+    "sha256": "38d734601edbf01d9edb18bf65b56d1986850256c07b02fcafb3108eeeff1f18",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE50_PETS.json",
+    "sha256": "72fb4cfe79f9e1eb1725320e236b4d1f5248febde1145ae3445af14790a63ccd",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE50_TESTS.log",
+    "sha256": "6c8837cb7142cb9cf461a99d183f660e000be498f26de0721c547a4f00aacee1",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE50_VALIDATION.json",
+    "sha256": "95e0f2b8f723728c28259736d80a63e087087212a3bb6c3ce73781556ebf6eeb",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE50_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCBodyPetAnimComp.ts",
+    "sha256": "d97c604642400abf8f3ff0d28efd5fb53b8a0a38201fc534c9363048d076b8d3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCNormalPet.ts",
+    "sha256": "005a64fea8846fa2a00f0290770ee88aac6fcfbb89f28ff1ccf62060c744d734",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCPetComp.ts",
+    "sha256": "3eb6c3a060974464f8800cfac620e099d81ca870999974ea4ae512c963e65353",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCPetController.ts",
+    "sha256": "41ddaa5ec68c2b8a66d1d2db1e6fce6de7e2c2aa85a92e4f73cb399b62a8b046",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCPetMountComp.ts",
+    "sha256": "20f5695f8130b43579bd202bf88006739802bca1443b2645a78c1ea2a7b60107",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCPetView.ts",
+    "sha256": "04c5cc92db33c8e00adabe038bdb44861de9749785efd14a49a9c910041e7733",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/CCTamePetComp.ts",
+    "sha256": "859dd758971c5476247a899cb476db2321557a82aa1fe45780a16d883fc34c3b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/PetActionComp.ts",
+    "sha256": "d8108498f96686165be60dd9ff44ddae1f54d12d256d23257de4088399b0b8d0",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/RolePreviewView.ts",
+    "sha256": "1c246a2003bede34dc8ac380c9ef590f4a8cf6e3584137c6a04d409533138976",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage50/TalentBuff.ts",
+    "sha256": "8c14cdf16043fc9abf199fc36ab75b11d460ca11967ecabad3bf8e10e1c08687",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "7b5793a71b4ed3fce54c378e2f47ca187ddd38eef4246bec9e0ea96a2220dad6",
+    "change": "modified"
+  }
+]

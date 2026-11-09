@@ -1,0 +1,439 @@
+{
+  "TDMonsterDamage": [
+    {
+      "CreatureID": 5001,
+      "Level": 1,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 10,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 20,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 30,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 40,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 50,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 60,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 70,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 80,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 90,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 100,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 110,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 120,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 130,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 135,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 140,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 145,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5001,
+      "Level": 150,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 1,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 10,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 20,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 30,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 40,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 50,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 60,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 70,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 80,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 90,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 100,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 110,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 120,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 130,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 135,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 140,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 145,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5002,
+      "Level": 150,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 1,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 10,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 20,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 30,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 40,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 50,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 60,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 70,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 80,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 90,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 100,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 110,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 120,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 130,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 135,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 140,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 145,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5003,
+      "Level": 150,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 1,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 10,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 20,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 30,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 40,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 50,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 60,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 70,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 80,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 90,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 100,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 110,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 120,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 130,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 135,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 140,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 145,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5004,
+      "Level": 150,
+      "Damage": 1
+    },
+    {
+      "CreatureID": 5101,
+      "Level": 99,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5101,
+      "Level": 100,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5101,
+      "Level": 115,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5101,
+      "Level": 120,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5101,
+      "Level": 150,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5102,
+      "Level": 99,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5102,
+      "Level": 100,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5102,
+      "Level": 115,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5102,
+      "Level": 120,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5102,
+      "Level": 150,
+      "Damage": 3
+    },
+    {
+      "CreatureID": 5901,
+      "Level": 99,
+      "Damage": 10
+    },
+    {
+      "CreatureID": 5901,
+      "Level": 100,
+      "Damage": 10
+    },
+    {
+      "CreatureID": 5901,
+      "Level": 115,
+      "Damage": 10
+    },
+    {
+      "CreatureID": 5901,
+      "Level": 120,
+      "Damage": 10
+    },
+    {
+      "CreatureID": 5901,
+      "Level": 200,
+      "Damage": 10
+    }
+  ]
+}

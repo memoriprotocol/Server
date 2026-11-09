@@ -1,0 +1,177 @@
+[
+  {
+    "path": "ISSUES_STAGE48_RU.txt",
+    "sha256": "1395c79f993d70601d3b2893732606c15c4c172677fc41819e7118814ea06008",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE48_RU.txt",
+    "sha256": "3020b677b779f8f28146575f0fb7d70304dddea6bf82e93011e3c45cc6f99ae1",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE48_RU.txt",
+    "sha256": "3020b677b779f8f28146575f0fb7d70304dddea6bf82e93011e3c45cc6f99ae1",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/config/map5-spawn-regions-3127.json",
+    "sha256": "30fa9ee555182eca79f8076a7d78d844475eb56a145239f5e3100f748536d63c",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/config/portals-3127.json",
+    "sha256": "9e10481a5ad6468342ebcf612ea88d4ebfdee8dd79afe5ce81b78e5858ffdab6",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "sha256": "d18e49d17ccef1176fdfcdd0cb802c3b8c2bcd16b97fd1148f10e4f3190263ce",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/dungeons-3127.js",
+    "sha256": "6a05315562e4d538c912e4e8f9ca84a523987d1a2f88b904eb75a4da10aec29c",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "sha256": "f279e8ff27ce25a9f1d5c78688d9d3ac2656690777677fde984f923378a16f32",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "sha256": "fa068d18d0c8c2201be1e1cbfee67e2066fee529786c00535f78ccbbe7c73209",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/life-3127.js",
+    "sha256": "f47259a7abedae7266c08d0bf242e4073381d3374f6d06b99b05bd245ef5abce",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-ai-3127.js",
+    "sha256": "93384538066b490ec2808de10a36a0a23b2a4c823bc8580f330a4d869bee319a",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-effects-3127.js",
+    "sha256": "bd29e155aa6807232294518cd63bf9b81cc824f7b8833f26574d58c27bb25858",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "sha256": "dd2bca84761ebff66baa85b2de54f44d6617248d64ebab336688d2cc57af20d6",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/progression-3127.js",
+    "sha256": "430239411aeb86fda6b2204e7793ec171b28b34f2a029d62f3d1d9f371616b22",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "031d57c5c4517adf005264a7363e5cb6177152470e6a830d94a9e83277627d2e",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage21-visible-city.test.js",
+    "sha256": "f65bc96d7088f42b8b62a88e1acf62a4ca78dd5ce1d9fe9d7807cd0ab85a4c8a",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage48-navigation-dungeons.test.js",
+    "sha256": "c0d2d2eb20713f05f145eccd1c08ac7add1d4c0e3b5e324755f9c814e202bf2f",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "4940ab59447eb8d5d7ad3bcffe0cb7a2359a2dbe9cf2e53e083bd88262b32652",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE48_CHANGED_FILES.json",
+    "sha256": "6acd1ec94fd896ff629faab079d5da99fce3b6c406ba47dd2cea464c8779d887",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE48_MAP5_SKILL_COVERAGE.json",
+    "sha256": "216bb518bf2e8de5f509cd8975087b5046b4fa11af240e9f74ee7fa01303f8a0",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE48_NATIVE_ASSETS.json",
+    "sha256": "00c76e5e47826fb5246f761db58c8bc27e29ee0a5a6b774f7d4d08a284c6d068",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE48_TESTS.log",
+    "sha256": "ee2a9caea6efdefa7bd819d1ec09251ebe7b3e2cada41c5db6ff624200ac5768",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE48_VALIDATION.json",
+    "sha256": "353c082823d4a011d8bfe24022d460ea77118d7a3fc892b5fa067d12e4ea8e5b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE48_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/BSNetworkController.ts",
+    "sha256": "9929b42885a5efa320c832c4350b64626eda459934028e8f7407056a5efeda02",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/CCBodyDragonAnimComp.ts",
+    "sha256": "4edd19f7e88fab7ae54e46d67023ecddd9bf8776e4d6c80266737a8ba229482b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/CCDungeonGuard.ts",
+    "sha256": "3ba79d828059ed9893c7e342a2581bc98ac9591a5ec180b947caf0c65ed68fd8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/CCExitFubenPanel.ts",
+    "sha256": "403bd52099445724ddcc003820567941661155cd55839b67c2b8c33d3671d1af",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/CCMsgNoticeComp.ts",
+    "sha256": "bae830e0b27961ba12d3ab84abf2e15df37ab5dd880932f649f2523aaa000a7a",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/CCPortal2.ts",
+    "sha256": "c35701bf065de52bf46a63b8400566d8618344f7a29f3889a584619c0ca047b8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/IslandController.ts",
+    "sha256": "a448583d8a92d9c45e48b6bb1a57a4a26c1b63ca6168db2add77146d0b35d582",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/IslandNetwork.ts",
+    "sha256": "9032730d727f18dfd8e57e27f5962ebc25531b8e91763c8f4213e3779d7d4a09",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/IslandRoomPanel.ts",
+    "sha256": "0397dc76dee17adb65fb68e6cfb59accca766d9773ab7c04fd4ca7f43f7e6700",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage48/TimeFubenSettleCtrl.ts",
+    "sha256": "350e26bfff59f85f419f62a9683049a06c0e5223111e397d381d6fca9c4659c2",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "aa9b5e70d1d4e305f5e4922660b738a6cda7c296fa70421865c601a1282a5b5c",
+    "change": "modified"
+  }
+]

@@ -1,0 +1,1051 @@
+{
+  "Building": [
+    {
+      "ID": 312,
+      "Level": 1,
+      "Type": 2,
+      "Name": "篝火",
+      "UpperLevels": [
+        1,
+        20,
+        40,
+        60
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "Wood": 50,
+      "Stone": 0,
+      "Iron": 0,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_altar1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 312,
+      "Level": 2,
+      "Type": 2,
+      "Name": "篝火",
+      "UpperLevels": [
+        1,
+        20,
+        40,
+        60
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "Wood": 150,
+      "Stone": 0,
+      "Iron": 0,
+      "UnlockLv": 20,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_altar2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 312,
+      "Level": 3,
+      "Type": 2,
+      "Name": "篝火",
+      "UpperLevels": [
+        1,
+        20,
+        40,
+        60
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "Wood": 300,
+      "Stone": 0,
+      "Iron": 0,
+      "UnlockLv": 40,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_altar3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 327,
+      "Level": 1,
+      "Type": 2,
+      "Name": "土墙",
+      "UpperLevels": [
+        5,
+        20,
+        40,
+        50,
+        70
+      ],
+      "UpperCounts": [
+        10,
+        20,
+        30,
+        50,
+        70
+      ],
+      "Wood": 200,
+      "Stone": 150,
+      "Iron": 0,
+      "UnlockLv": 5,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/wall1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        90
+      ],
+      "Args": []
+    },
+    {
+      "ID": 327,
+      "Level": 2,
+      "Type": 2,
+      "Name": "土墙",
+      "UpperLevels": [
+        5,
+        20,
+        40,
+        50,
+        70
+      ],
+      "UpperCounts": [
+        10,
+        20,
+        30,
+        50,
+        70
+      ],
+      "Wood": 300,
+      "Stone": 250,
+      "Iron": 0,
+      "UnlockLv": 25,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/wall2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        90
+      ],
+      "Args": []
+    },
+    {
+      "ID": 327,
+      "Level": 3,
+      "Type": 2,
+      "Name": "土墙",
+      "UpperLevels": [
+        5,
+        20,
+        40,
+        50,
+        70
+      ],
+      "UpperCounts": [
+        10,
+        20,
+        30,
+        50,
+        70
+      ],
+      "Wood": 400,
+      "Stone": 350,
+      "Iron": 0,
+      "UnlockLv": 45,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/wall3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        90
+      ],
+      "Args": []
+    },
+    {
+      "ID": 329,
+      "Level": 1,
+      "Type": 2,
+      "Name": "尖刺",
+      "UpperLevels": [
+        10,
+        20,
+        30,
+        40
+      ],
+      "UpperCounts": [
+        5,
+        10,
+        20,
+        30
+      ],
+      "Wood": 100,
+      "Stone": 100,
+      "Iron": 100,
+      "UnlockLv": 10,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    },
+    {
+      "ID": 329,
+      "Level": 2,
+      "Type": 2,
+      "Name": "尖刺",
+      "UpperLevels": [
+        10,
+        20,
+        30,
+        40
+      ],
+      "UpperCounts": [
+        5,
+        10,
+        20,
+        30
+      ],
+      "Wood": 250,
+      "Stone": 250,
+      "Iron": 250,
+      "UnlockLv": 30,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    },
+    {
+      "ID": 329,
+      "Level": 3,
+      "Type": 2,
+      "Name": "尖刺",
+      "UpperLevels": [
+        10,
+        20,
+        30,
+        40
+      ],
+      "UpperCounts": [
+        5,
+        10,
+        20,
+        30
+      ],
+      "Wood": 400,
+      "Stone": 400,
+      "Iron": 400,
+      "UnlockLv": 50,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    },
+    {
+      "ID": 328,
+      "Level": 1,
+      "Type": 2,
+      "Name": "箭塔",
+      "UpperLevels": [
+        15,
+        25,
+        35
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        3
+      ],
+      "Wood": 300,
+      "Stone": 200,
+      "Iron": 50,
+      "UnlockLv": 15,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 328,
+      "Level": 2,
+      "Type": 2,
+      "Name": "箭塔",
+      "UpperLevels": [
+        15,
+        25,
+        35
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        3
+      ],
+      "Wood": 500,
+      "Stone": 400,
+      "Iron": 100,
+      "UnlockLv": 35,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 328,
+      "Level": 3,
+      "Type": 2,
+      "Name": "箭塔",
+      "UpperLevels": [
+        15,
+        25,
+        35
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        3
+      ],
+      "Wood": 700,
+      "Stone": 600,
+      "Iron": 200,
+      "UnlockLv": 55,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 331,
+      "Level": 1,
+      "Type": 3,
+      "Name": "木材厂",
+      "UpperLevels": [
+        5
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 600,
+      "Stone": 300,
+      "Iron": 0,
+      "UnlockLv": 6,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_lumberyard1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        5,
+        30
+      ]
+    },
+    {
+      "ID": 331,
+      "Level": 2,
+      "Type": 3,
+      "Name": "木材厂",
+      "UpperLevels": [
+        5
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 500,
+      "Stone": 1000,
+      "Iron": 0,
+      "UnlockLv": 25,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_lumberyard2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        5,
+        60
+      ]
+    },
+    {
+      "ID": 331,
+      "Level": 3,
+      "Type": 3,
+      "Name": "木材厂",
+      "UpperLevels": [
+        5
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 1500,
+      "Stone": 1500,
+      "Iron": 0,
+      "UnlockLv": 45,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_lumberyard3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        5,
+        130
+      ]
+    },
+    {
+      "ID": 332,
+      "Level": 1,
+      "Type": 3,
+      "Name": "石料厂",
+      "UpperLevels": [
+        7
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 600,
+      "Stone": 300,
+      "Iron": 0,
+      "UnlockLv": 7,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_stone_quarry1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        7,
+        30
+      ]
+    },
+    {
+      "ID": 332,
+      "Level": 2,
+      "Type": 3,
+      "Name": "石料厂",
+      "UpperLevels": [
+        7
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 500,
+      "Stone": 1000,
+      "Iron": 0,
+      "UnlockLv": 25,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_stone_quarry2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        7,
+        60
+      ]
+    },
+    {
+      "ID": 332,
+      "Level": 3,
+      "Type": 3,
+      "Name": "石料厂",
+      "UpperLevels": [
+        7
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 1500,
+      "Stone": 1500,
+      "Iron": 0,
+      "UnlockLv": 45,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_stone_quarry3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        7,
+        130
+      ]
+    },
+    {
+      "ID": 333,
+      "Level": 1,
+      "Type": 3,
+      "Name": "秘银厂",
+      "UpperLevels": [
+        8
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 600,
+      "Stone": 300,
+      "Iron": 0,
+      "UnlockLv": 8,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_smelting_plant1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        8,
+        20
+      ]
+    },
+    {
+      "ID": 333,
+      "Level": 2,
+      "Type": 3,
+      "Name": "秘银厂",
+      "UpperLevels": [
+        8
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 500,
+      "Stone": 1000,
+      "Iron": 0,
+      "UnlockLv": 25,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_smelting_plant2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        8,
+        50
+      ]
+    },
+    {
+      "ID": 333,
+      "Level": 3,
+      "Type": 3,
+      "Name": "秘银厂",
+      "UpperLevels": [
+        8
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 1500,
+      "Stone": 1500,
+      "Iron": 0,
+      "UnlockLv": 45,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_smelting_plant3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        8,
+        110
+      ]
+    },
+    {
+      "ID": 330,
+      "Level": 1,
+      "Type": 2,
+      "Name": "农田",
+      "UpperLevels": [
+        5,
+        15,
+        30,
+        50
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "Wood": 300,
+      "Stone": 450,
+      "Iron": 0,
+      "UnlockLv": 8,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_farmland/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        4,
+        150,
+        60000
+      ]
+    },
+    {
+      "ID": 330,
+      "Level": 2,
+      "Type": 2,
+      "Name": "农田",
+      "UpperLevels": [
+        5,
+        15,
+        30,
+        50
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "Wood": 450,
+      "Stone": 750,
+      "Iron": 0,
+      "UnlockLv": 30,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_farmland2/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        4,
+        300,
+        60000
+      ]
+    },
+    {
+      "ID": 330,
+      "Level": 3,
+      "Type": 2,
+      "Name": "农田",
+      "UpperLevels": [
+        5,
+        15,
+        30,
+        50
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "Wood": 600,
+      "Stone": 900,
+      "Iron": 0,
+      "UnlockLv": 60,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_farmland3/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        10000,
+        4,
+        450,
+        60000
+      ]
+    },
+    {
+      "ID": 336,
+      "Level": 1,
+      "Type": 1,
+      "Name": "铁匠台",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 0,
+      "Stone": 200,
+      "Iron": 0,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_forging/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 334,
+      "Level": 1,
+      "Type": 1,
+      "Name": "烹饪台",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 0,
+      "Stone": 200,
+      "Iron": 0,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_campfire1/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 335,
+      "Level": 1,
+      "Type": 1,
+      "Name": "缝纫机",
+      "UpperLevels": [
+        1
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 0,
+      "Stone": 200,
+      "Iron": 0,
+      "UnlockLv": 1,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/building_sewing_machine/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 337,
+      "Level": 1,
+      "Type": 2,
+      "Name": "火塔",
+      "UpperLevels": [
+        65,
+        75
+      ],
+      "UpperCounts": [
+        1,
+        2
+      ],
+      "Wood": 2000,
+      "Stone": 2000,
+      "Iron": 500,
+      "UnlockLv": 65,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower_fire/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 338,
+      "Level": 1,
+      "Type": 2,
+      "Name": "冰塔",
+      "UpperLevels": [
+        65
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 2000,
+      "Stone": 2000,
+      "Iron": 500,
+      "UnlockLv": 65,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/archor_tower_ice/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        160,
+        160
+      ],
+      "Args": []
+    },
+    {
+      "ID": 339,
+      "Level": 1,
+      "Type": 2,
+      "Name": "毒刺",
+      "UpperLevels": [
+        64,
+        70
+      ],
+      "UpperCounts": [
+        10,
+        15
+      ],
+      "Wood": 1200,
+      "Stone": 1000,
+      "Iron": 300,
+      "UnlockLv": 64,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike5/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    },
+    {
+      "ID": 340,
+      "Level": 1,
+      "Type": 3,
+      "Name": "果园",
+      "UpperLevels": [
+        35
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 1000,
+      "Stone": 500,
+      "Iron": 0,
+      "UnlockLv": 35,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/orchard/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        20000,
+        102,
+        20
+      ]
+    },
+    {
+      "ID": 341,
+      "Level": 1,
+      "Type": 3,
+      "Name": "兽栏",
+      "UpperLevels": [
+        50
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 1000,
+      "Stone": 2000,
+      "Iron": 0,
+      "UnlockLv": 50,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/beast/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        200,
+        150
+      ],
+      "Args": [
+        20000,
+        102,
+        30
+      ]
+    },
+    {
+      "ID": 343,
+      "Level": 1,
+      "Type": 1,
+      "Name": "熔炉",
+      "UpperLevels": [
+        5
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 0,
+      "Stone": 200,
+      "Iron": 0,
+      "UnlockLv": 5,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/crucible/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 344,
+      "Level": 1,
+      "Type": 1,
+      "Name": "炼金工房",
+      "UpperLevels": [
+        5
+      ],
+      "UpperCounts": [
+        1
+      ],
+      "Wood": 0,
+      "Stone": 200,
+      "Iron": 0,
+      "UnlockLv": 5,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/atelier/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 345,
+      "Level": 1,
+      "Type": 2,
+      "Name": "弹板",
+      "UpperLevels": [
+        1,
+        10,
+        20,
+        40
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "Wood": 100,
+      "Stone": 200,
+      "Iron": 100,
+      "UnlockLv": 17,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/speed_up_board/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        120,
+        100
+      ],
+      "Args": [
+        2000,
+        1800,
+        60,
+        -1
+      ]
+    },
+    {
+      "ID": 346,
+      "Level": 1,
+      "Type": 2,
+      "Name": "兽夹",
+      "UpperLevels": [
+        1,
+        10,
+        20,
+        40
+      ],
+      "UpperCounts": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "Wood": 100,
+      "Stone": 50,
+      "Iron": 50,
+      "UnlockLv": 19,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/banana_peel/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        150,
+        100
+      ],
+      "Args": []
+    },
+    {
+      "ID": 347,
+      "Level": 1,
+      "Type": 2,
+      "Name": "冰刺",
+      "UpperLevels": [
+        64,
+        70
+      ],
+      "UpperCounts": [
+        10,
+        15
+      ],
+      "Wood": 1700,
+      "Stone": 1800,
+      "Iron": 300,
+      "UnlockLv": 64,
+      "Desc": "",
+      "Icon": "arena/ui/layers/building/icons/stone_spike6/spriteFrame",
+      "BuildingTime": 0,
+      "CollideSize": [
+        70
+      ],
+      "Args": []
+    }
+  ]
+}

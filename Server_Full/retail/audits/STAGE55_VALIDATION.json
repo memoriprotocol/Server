@@ -1,0 +1,37 @@
+{
+  "stage": 55,
+  "version": "0.33.0-stage55-map2-moonshard-control",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 753,
+    "passed": 753,
+    "failed": 0,
+    "newStage55": 48,
+    "nativeVMTests": 3,
+    "nativeAssetImportsVerified": 3
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.33.0-stage55-map2-moonshard-control",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "moonshardBasicSkills": [
+      3253,
+      6198011,
+      6198021,
+      6198031,
+      6198041
+    ],
+    "mobControlStatus": "PARTIAL_NATIVE_DISARM_SKILL_SILENCE_AND_SESSION_BINDING",
+    "windowsClientRendered": false
+  }
+}

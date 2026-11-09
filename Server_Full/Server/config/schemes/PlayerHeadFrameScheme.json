@@ -1,0 +1,238 @@
+{
+  "PlayerHeadFrame": [
+    {
+      "ID": 1,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 291001,
+      "Icon": "main/player_head/frames/ui_avatarborder_01/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 2,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        2
+      ],
+      "TargetArgs": [
+        "903|503|2003"
+      ],
+      "ItemID": 291002,
+      "Icon": "main/player_head/frames/ui_avatarborder_04/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 3,
+      "TimeType": 5,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        1
+      ],
+      "TargetArgs": [
+        "5"
+      ],
+      "ItemID": 291003,
+      "Icon": "main/player_head/frames/ui_avatarborder_05/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 4,
+      "TimeType": 5,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        1
+      ],
+      "TargetArgs": [
+        "6"
+      ],
+      "ItemID": 291004,
+      "Icon": "main/player_head/frames/ui_avatarborder_06/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 5,
+      "TimeType": 5,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        1
+      ],
+      "TargetArgs": [
+        "7"
+      ],
+      "ItemID": 291005,
+      "Icon": "main/player_head/frames/ui_avatarborder_07/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 6,
+      "TimeType": 5,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        1
+      ],
+      "TargetArgs": [
+        "8"
+      ],
+      "ItemID": 291006,
+      "Icon": "main/player_head/frames/ui_avatarborder_08/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 7,
+      "TimeType": 4,
+      "TimeArgs": 2592000,
+      "HeadFrameType": [
+        4
+      ],
+      "TargetArgs": [
+        "3"
+      ],
+      "ItemID": 291007,
+      "Icon": "main/player_head/frames/ui_avatarborder_02/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 8,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        2,
+        5
+      ],
+      "TargetArgs": [
+        "104|1704",
+        "42000002"
+      ],
+      "ItemID": 291008,
+      "Icon": "main/player_head/frames/ui_avatarborder_09/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 9,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 291009,
+      "Icon": "main/player_head/frames/ui_avatarborder_10/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 10,
+      "TimeType": 4,
+      "TimeArgs": 864000,
+      "HeadFrameType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 291010,
+      "Icon": "main/player_head/frames/ui_avatarborder_11/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 11,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        2
+      ],
+      "TargetArgs": [
+        "2703|2802|1204|1705|105|2106"
+      ],
+      "ItemID": 291011,
+      "Icon": "main/player_head/frames/ui_avatarborder_12/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 12,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        2,
+        5
+      ],
+      "TargetArgs": [
+        "2703|2802|1204|1705|105|2106",
+        "42000003"
+      ],
+      "ItemID": 291012,
+      "Icon": "main/player_head/frames/ui_avatarborder_13/spriteFrame",
+      "isValid": true,
+      "isAnimation": true,
+      "aniPath": "main/player_head/frames/animation_frame_13"
+    },
+    {
+      "ID": 13,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 291013,
+      "Icon": "main/player_head/frames/ui_avatarborder_14/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 14,
+      "TimeType": 4,
+      "TimeArgs": 2592000,
+      "HeadFrameType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 291014,
+      "Icon": "main/player_head/frames/ui_avatarborder_15/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    },
+    {
+      "ID": 15,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "HeadFrameType": [
+        2
+      ],
+      "TargetArgs": [
+        "2503|2004"
+      ],
+      "ItemID": 291015,
+      "Icon": "main/player_head/frames/ui_avatarborder_16/spriteFrame",
+      "isValid": true,
+      "isAnimation": false,
+      "aniPath": ""
+    }
+  ]
+}

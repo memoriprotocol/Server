@@ -1,0 +1,192 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage68/BuffCfg.ts",
+      "sha256": "e56ab7f147ddbb99ec1b9c9838928f4834d6bebf8ef57dcd131583061c4eb910",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/CCBuffComp.ts",
+      "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/CCCookPot.ts",
+      "sha256": "8ffce71c2a7bd135a6418dbf1d990c1b658caf0b88a191bf1b40b6674c6c3ac2",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/CCCookPotFood.ts",
+      "sha256": "294728d5747cfa0bfbb6106bc45657cfd1fb06ed2e1ba7faa7b9f4159e4797e2",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/CookBook.ts",
+      "sha256": "cf8e1aba779fa18115bbcc7d80d694a68b1d52ca6c39ffe1ca8aaebd39ccfcbc",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/CookBookManager.ts",
+      "sha256": "be18e78f51e47a757ceb1ec502f7b35e1206882201a7b0e05f668ee883974589",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/Creatures.ts",
+      "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/ItemPanelController.ts",
+      "sha256": "90d9433882a8509ddee97672af00b0b68c80e7fb909fcca04d3b50092a69de7a",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage68/ItemTypManager.ts",
+      "sha256": "b71be7d1f9488f74f196929f4703b47f3b33a453519b40f980b30a2e44427cf6",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "descriptionExcerpts": 4,
+  "englishFactorySHA256": "614aeacd2a35a243aa15c3be4632ab032631ab85c365e88620ad2536c1949ceb",
+  "prefabs": [
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill3",
+      "index": 9178,
+      "pack": "09c44eb86",
+      "sha256": "3e7ad178ff93d83279018fcd1709719d887754d00b60f78596f367b80e19e38c",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill1",
+      "index": 14836,
+      "pack": "0bc3a06c1",
+      "sha256": "0720dc07bc0ed993d0bee7bf166c7c9f9738d49e888922ea9ddbb0ecc35ce555",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill1_1704",
+      "index": 18440,
+      "pack": "061cf0980",
+      "sha256": "527e456e2f47956e6854df7a2731aea4afb560c2f4fb6bf7b2c48fd61cc0e7e8",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill2_1704",
+      "index": 29064,
+      "pack": "0764e5184",
+      "sha256": "2f7418ce1e70172444a48bfa6c4bc52d65f213853d51a958eb3f3280aec2f13f",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/skills/chuniang/prefab/chuniang_hudun_1705",
+      "index": 30011,
+      "pack": "0cf4c4a94",
+      "sha256": "fbf9e5d12d3d9db35593e09ecd1bc72ab6f4bf33ecf4b230b19a2ce2090c1372",
+      "sensorRadii": []
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill1_1705",
+      "index": 37764,
+      "pack": "07e669e6f",
+      "sha256": "77edd6fc0bf405b792108bc99cff165f8d74438172fa212eecceb01686bdc99e",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill1_1703",
+      "index": 40554,
+      "pack": "0efc22cb0",
+      "sha256": "48b90b3bc09589e6bd024c316fb511af84d0189437b83f4e530590d71a433107",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/skills/chuniang/prefab/chuniang_hudun_1703",
+      "index": 40800,
+      "pack": "0de51b78a",
+      "sha256": "c5c8169f272366b4462d9298e81c8cc950faf725e4854c2195432a0c9636211b",
+      "sensorRadii": []
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill2_1703",
+      "index": 46952,
+      "pack": "62c4bb3c-6fe9-41d5-af90-3211229e9187",
+      "sha256": "d12e7c49ba8ab705a454f0d4d9625451558e48ecae49c13db9a3b5db97c6670d",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill3_1704",
+      "index": 47893,
+      "pack": "73ac42ab-0fa8-42e8-9f58-2545bd3ad410",
+      "sha256": "9eddb2623796b1fd2ad1b987882249231314288310c06664d305949d4ae66784",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/skills/chuniang/prefab/chuniang_hudun_1704",
+      "index": 49006,
+      "pack": "88d64fe4-e044-4b9a-ba70-532aade4205a",
+      "sha256": "475fefea028315adf520275e1eeef40a07fe7007f8e82ecb1893597c27b3000c",
+      "sensorRadii": []
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill3_1703",
+      "index": 49865,
+      "pack": "98e851a8-1f2a-40c5-89a8-0f1269e16301",
+      "sha256": "5cd1fe3aa7ae56cb67be4cf851d24389f4c1d89f2e799d4d6d1cd493898bc914",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill2",
+      "index": 52167,
+      "pack": "c1db728c-42aa-4a70-b42a-a2d7fb480169",
+      "sha256": "c9d941de76baae8df585aaefdf769afd40a31b1d8f6abb6835b43ad9fea5f541",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill2_1705",
+      "index": 53271,
+      "pack": "d6135fb5-d41b-40b0-a1b1-06690203cdd1",
+      "sha256": "451b0b32cfc58c37b396181687318513b8c245b9da652554f0b7e88109c9d1a2",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/heroskill/301700_skill_tx/skill3_1705",
+      "index": 53545,
+      "pack": "db4f7b5a-fa99-442c-9a13-72387ba3558e",
+      "sha256": "57c81e8669ea1fce0bbe13e8af94f6c248910f34a38b07fbad935c3928635fa3",
+      "sensorRadii": [
+        600
+      ]
+    },
+    {
+      "path": "arena/skills/chuniang/prefab/chuniang_hudun",
+      "index": 55382,
+      "pack": "fcbf1775-09d8-4619-9924-634453bf8d7d",
+      "sha256": "7e70ede5545a7714f210fc92cc51850838ae1d39c1dee8c03ace029776be840c",
+      "sensorRadii": []
+    }
+  ],
+  "nativeCookPotEntityType": 1038,
+  "nativePotSensorRadius": 600,
+  "windowsClientRendered": false
+}

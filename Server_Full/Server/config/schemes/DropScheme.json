@@ -1,0 +1,3136 @@
+{
+  "Drop": [
+    {
+      "ID": 1,
+      "dropID": 1,
+      "name": "mineral黄矿掉落",
+      "itemID": 1,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 2,
+      "dropID": 2,
+      "name": "mineral绿矿掉落",
+      "itemID": 2,
+      "minNum": 50,
+      "maxNum": 100,
+      "weight": 100
+    },
+    {
+      "ID": 3,
+      "dropID": 3,
+      "name": "mineral紫矿掉落",
+      "itemID": 3,
+      "minNum": 10,
+      "maxNum": 20,
+      "weight": 100
+    },
+    {
+      "ID": 4,
+      "dropID": 4,
+      "name": "mineral黄矿掉落",
+      "itemID": 1,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 5,
+      "dropID": 5,
+      "name": "mineral绿矿掉落",
+      "itemID": 2,
+      "minNum": 150,
+      "maxNum": 250,
+      "weight": 100
+    },
+    {
+      "ID": 6,
+      "dropID": 6,
+      "name": "mineral紫矿掉落",
+      "itemID": 3,
+      "minNum": 20,
+      "maxNum": 40,
+      "weight": 100
+    },
+    {
+      "ID": 7,
+      "dropID": 7,
+      "name": "小宝箱",
+      "itemID": 10,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 8,
+      "dropID": 7,
+      "name": "小宝箱",
+      "itemID": 12,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 9,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 1,
+      "minNum": 200,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 10,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 2,
+      "minNum": 200,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 11,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 4,
+      "minNum": 1000,
+      "maxNum": 2000,
+      "weight": 0
+    },
+    {
+      "ID": 12,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 5,
+      "minNum": 1000,
+      "maxNum": 2000,
+      "weight": 170
+    },
+    {
+      "ID": 13,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 6,
+      "minNum": 1000,
+      "maxNum": 2000,
+      "weight": 170
+    },
+    {
+      "ID": 14,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 7,
+      "minNum": 1000,
+      "maxNum": 2000,
+      "weight": 170
+    },
+    {
+      "ID": 15,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 8,
+      "minNum": 1000,
+      "maxNum": 2000,
+      "weight": 170
+    },
+    {
+      "ID": 16,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400101,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 17,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400102,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 18,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400301,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 19,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400302,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 20,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400401,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 21,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400402,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 22,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400501,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 23,
+      "dropID": 8,
+      "name": "中宝箱",
+      "itemID": 400502,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 24,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 1,
+      "minNum": 100,
+      "maxNum": 200,
+      "weight": 100
+    },
+    {
+      "ID": 25,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 2,
+      "minNum": 100,
+      "maxNum": 200,
+      "weight": 100
+    },
+    {
+      "ID": 26,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 4,
+      "minNum": 500,
+      "maxNum": 1000,
+      "weight": 100
+    },
+    {
+      "ID": 27,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 5,
+      "minNum": 500,
+      "maxNum": 1000,
+      "weight": 150
+    },
+    {
+      "ID": 28,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 6,
+      "minNum": 500,
+      "maxNum": 1000,
+      "weight": 150
+    },
+    {
+      "ID": 29,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 7,
+      "minNum": 500,
+      "maxNum": 1000,
+      "weight": 150
+    },
+    {
+      "ID": 30,
+      "dropID": 9,
+      "name": "中宝箱",
+      "itemID": 8,
+      "minNum": 500,
+      "maxNum": 1000,
+      "weight": 150
+    },
+    {
+      "ID": 31,
+      "dropID": 9,
+      "name": "大宝箱",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 300
+    },
+    {
+      "ID": 32,
+      "dropID": 10,
+      "name": "大野牛掉落",
+      "itemID": 4,
+      "minNum": 50,
+      "maxNum": 50,
+      "weight": 100
+    },
+    {
+      "ID": 33,
+      "dropID": 11,
+      "name": "九尾狐掉落",
+      "itemID": 4,
+      "minNum": 200,
+      "maxNum": 200,
+      "weight": 100
+    },
+    {
+      "ID": 34,
+      "dropID": 12,
+      "name": "黑龙掉落",
+      "itemID": 4,
+      "minNum": 500,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 35,
+      "dropID": 13,
+      "name": "Boss经验掉落",
+      "itemID": 4,
+      "minNum": 20000,
+      "maxNum": 20000,
+      "weight": 100
+    },
+    {
+      "ID": 36,
+      "dropID": 14,
+      "name": "Boss掉落",
+      "itemID": 17,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 37,
+      "dropID": 14,
+      "name": "Boss掉落",
+      "itemID": 28,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 38,
+      "dropID": 15,
+      "name": "猫掉落",
+      "itemID": 4,
+      "minNum": 200,
+      "maxNum": 200,
+      "weight": 100
+    },
+    {
+      "ID": 39,
+      "dropID": 16,
+      "name": "野猪掉落",
+      "itemID": 4,
+      "minNum": 50,
+      "maxNum": 50,
+      "weight": 100
+    },
+    {
+      "ID": 40,
+      "dropID": 17,
+      "name": "红牛掉落",
+      "itemID": 4,
+      "minNum": 100,
+      "maxNum": 100,
+      "weight": 100
+    },
+    {
+      "ID": 41,
+      "dropID": 18,
+      "name": "土墙",
+      "itemID": 4,
+      "minNum": 20,
+      "maxNum": 20,
+      "weight": 100
+    },
+    {
+      "ID": 42,
+      "dropID": 19,
+      "name": "箭塔",
+      "itemID": 4,
+      "minNum": 45,
+      "maxNum": 45,
+      "weight": 100
+    },
+    {
+      "ID": 43,
+      "dropID": 20,
+      "name": "祭坛",
+      "itemID": 4,
+      "minNum": 30,
+      "maxNum": 30,
+      "weight": 100
+    },
+    {
+      "ID": 44,
+      "dropID": 21,
+      "name": "尖刺",
+      "itemID": 4,
+      "minNum": 15,
+      "maxNum": 15,
+      "weight": 100
+    },
+    {
+      "ID": 45,
+      "dropID": 22,
+      "name": "农田",
+      "itemID": 4,
+      "minNum": 25,
+      "maxNum": 25,
+      "weight": 100
+    },
+    {
+      "ID": 46,
+      "dropID": 23,
+      "name": "伐木场",
+      "itemID": 4,
+      "minNum": 20,
+      "maxNum": 20,
+      "weight": 100
+    },
+    {
+      "ID": 47,
+      "dropID": 24,
+      "name": "采石场",
+      "itemID": 4,
+      "minNum": 20,
+      "maxNum": 20,
+      "weight": 100
+    },
+    {
+      "ID": 48,
+      "dropID": 25,
+      "name": "冶炼场",
+      "itemID": 4,
+      "minNum": 30,
+      "maxNum": 30,
+      "weight": 100
+    },
+    {
+      "ID": 49,
+      "dropID": 29,
+      "name": "一阶小怪经验",
+      "itemID": 4,
+      "minNum": 300,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 50,
+      "dropID": 30,
+      "name": "一阶中怪经验",
+      "itemID": 4,
+      "minNum": 1500,
+      "maxNum": 2000,
+      "weight": 100
+    },
+    {
+      "ID": 51,
+      "dropID": 31,
+      "name": "一阶大怪经验",
+      "itemID": 4,
+      "minNum": 3000,
+      "maxNum": 4000,
+      "weight": 100
+    },
+    {
+      "ID": 52,
+      "dropID": 32,
+      "name": "二阶小怪经验",
+      "itemID": 4,
+      "minNum": 300,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 53,
+      "dropID": 33,
+      "name": "二阶中怪经验",
+      "itemID": 4,
+      "minNum": 2000,
+      "maxNum": 2500,
+      "weight": 100
+    },
+    {
+      "ID": 54,
+      "dropID": 34,
+      "name": "二阶大怪经验",
+      "itemID": 4,
+      "minNum": 3500,
+      "maxNum": 4500,
+      "weight": 100
+    },
+    {
+      "ID": 55,
+      "dropID": 26,
+      "name": "三阶小怪经验",
+      "itemID": 4,
+      "minNum": 300,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 56,
+      "dropID": 27,
+      "name": "三阶中怪经验",
+      "itemID": 4,
+      "minNum": 2500,
+      "maxNum": 3000,
+      "weight": 100
+    },
+    {
+      "ID": 57,
+      "dropID": 28,
+      "name": "三阶大怪经验",
+      "itemID": 4,
+      "minNum": 4000,
+      "maxNum": 5000,
+      "weight": 100
+    },
+    {
+      "ID": 58,
+      "dropID": 35,
+      "name": "精英怪魔法书掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 59,
+      "dropID": 35,
+      "name": "精英怪魔法书掉落",
+      "itemID": 28,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 60,
+      "dropID": 35,
+      "name": "精英怪魔法书掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 61,
+      "dropID": 36,
+      "name": "副本boss魔法书掉落",
+      "itemID": 17,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 62,
+      "dropID": 36,
+      "name": "副本boss魔法书掉落",
+      "itemID": 36,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 63,
+      "dropID": 37,
+      "name": "副本boss经验掉落",
+      "itemID": 4,
+      "minNum": 60000,
+      "maxNum": 70000,
+      "weight": 100
+    },
+    {
+      "ID": 64,
+      "dropID": 41,
+      "name": "boss宝石掉落",
+      "itemID": 400104,
+      "minNum": 1,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 65,
+      "dropID": 41,
+      "name": "boss宝石掉落",
+      "itemID": 400304,
+      "minNum": 1,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 66,
+      "dropID": 41,
+      "name": "boss宝石掉落",
+      "itemID": 400404,
+      "minNum": 1,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 67,
+      "dropID": 41,
+      "name": "boss宝石掉落",
+      "itemID": 400504,
+      "minNum": 1,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 68,
+      "dropID": 42,
+      "name": "boss队友宝石掉落",
+      "itemID": 400103,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 69,
+      "dropID": 42,
+      "name": "boss队友宝石掉落",
+      "itemID": 400303,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 70,
+      "dropID": 42,
+      "name": "boss队友宝石掉落",
+      "itemID": 400403,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 71,
+      "dropID": 42,
+      "name": "boss队友宝石掉落",
+      "itemID": 400503,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 72,
+      "dropID": 43,
+      "name": "副本宝石掉落",
+      "itemID": 400204,
+      "minNum": 1,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 73,
+      "dropID": 43,
+      "name": "副本宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 500
+    },
+    {
+      "ID": 74,
+      "dropID": 44,
+      "name": "副本队友宝石掉落",
+      "itemID": 400203,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 75,
+      "dropID": 44,
+      "name": "副本队友宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 500
+    },
+    {
+      "ID": 76,
+      "dropID": 45,
+      "name": "副本队友经验",
+      "itemID": 4,
+      "minNum": 8000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 77,
+      "dropID": 46,
+      "name": "boss队友经验",
+      "itemID": 4,
+      "minNum": 4000,
+      "maxNum": 4000,
+      "weight": 1000
+    },
+    {
+      "ID": 78,
+      "dropID": 47,
+      "name": "一阶怪兽皮掉落（中）",
+      "itemID": 1,
+      "minNum": 50,
+      "maxNum": 50,
+      "weight": 0
+    },
+    {
+      "ID": 79,
+      "dropID": 47,
+      "name": "一阶怪兽皮掉落（中）",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 80,
+      "dropID": 48,
+      "name": "一阶怪兽皮掉落（大）",
+      "itemID": 1,
+      "minNum": 200,
+      "maxNum": 200,
+      "weight": 0
+    },
+    {
+      "ID": 81,
+      "dropID": 48,
+      "name": "一阶怪兽皮掉落（大）",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 82,
+      "dropID": 38,
+      "name": "二阶怪兽皮掉落（中）",
+      "itemID": 1,
+      "minNum": 120,
+      "maxNum": 120,
+      "weight": 0
+    },
+    {
+      "ID": 83,
+      "dropID": 38,
+      "name": "二阶怪兽皮掉落（中）",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 84,
+      "dropID": 49,
+      "name": "二阶怪兽皮掉落（大）",
+      "itemID": 1,
+      "minNum": 300,
+      "maxNum": 300,
+      "weight": 0
+    },
+    {
+      "ID": 85,
+      "dropID": 49,
+      "name": "二阶怪兽皮掉落（大）",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 86,
+      "dropID": 39,
+      "name": "三阶怪兽皮掉落（中）",
+      "itemID": 1,
+      "minNum": 180,
+      "maxNum": 180,
+      "weight": 0
+    },
+    {
+      "ID": 87,
+      "dropID": 39,
+      "name": "三阶怪兽皮掉落（中）",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 88,
+      "dropID": 50,
+      "name": "三阶怪兽皮掉落（大）",
+      "itemID": 1,
+      "minNum": 400,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 89,
+      "dropID": 50,
+      "name": "三阶怪兽皮掉落（大）",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 90,
+      "dropID": 40,
+      "name": "精英怪兽皮掉落",
+      "itemID": 1,
+      "minNum": 600,
+      "maxNum": 600,
+      "weight": 0
+    },
+    {
+      "ID": 91,
+      "dropID": 51,
+      "name": "boss兽皮掉落",
+      "itemID": 1,
+      "minNum": 800,
+      "maxNum": 800,
+      "weight": 0
+    },
+    {
+      "ID": 92,
+      "dropID": 52,
+      "name": "boss食材掉落",
+      "itemID": 4,
+      "minNum": 400,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 93,
+      "dropID": 53,
+      "name": "副本boss兽皮掉落",
+      "itemID": 4,
+      "minNum": 1000,
+      "maxNum": 1000,
+      "weight": 0
+    },
+    {
+      "ID": 94,
+      "dropID": 54,
+      "name": "副本boss食材掉落",
+      "itemID": 4,
+      "minNum": 600,
+      "maxNum": 600,
+      "weight": 0
+    },
+    {
+      "ID": 95,
+      "dropID": 55,
+      "name": "宝箱金币掉落",
+      "itemID": 109,
+      "minNum": 50,
+      "maxNum": 100,
+      "weight": 100
+    },
+    {
+      "ID": 96,
+      "dropID": 56,
+      "name": "宝箱银币掉落",
+      "itemID": 102,
+      "minNum": 100,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 97,
+      "dropID": 57,
+      "name": "空宝箱",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 200
+    },
+    {
+      "ID": 98,
+      "dropID": 58,
+      "name": "宝箱木头掉落",
+      "itemID": 5,
+      "minNum": 100,
+      "maxNum": 200,
+      "weight": 0
+    },
+    {
+      "ID": 99,
+      "dropID": 58,
+      "name": "宝箱木头掉落",
+      "itemID": 5,
+      "minNum": 200,
+      "maxNum": 300,
+      "weight": 0
+    },
+    {
+      "ID": 100,
+      "dropID": 58,
+      "name": "宝箱木头掉落",
+      "itemID": 5,
+      "minNum": 300,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 101,
+      "dropID": 58,
+      "name": "宝箱木头掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 102,
+      "dropID": 59,
+      "name": "宝箱草药掉落",
+      "itemID": 6,
+      "minNum": 100,
+      "maxNum": 200,
+      "weight": 0
+    },
+    {
+      "ID": 103,
+      "dropID": 59,
+      "name": "宝箱草药掉落",
+      "itemID": 6,
+      "minNum": 200,
+      "maxNum": 300,
+      "weight": 0
+    },
+    {
+      "ID": 104,
+      "dropID": 59,
+      "name": "宝箱草药掉落",
+      "itemID": 6,
+      "minNum": 300,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 105,
+      "dropID": 59,
+      "name": "宝箱草药掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 106,
+      "dropID": 60,
+      "name": "宝箱石头掉落",
+      "itemID": 7,
+      "minNum": 100,
+      "maxNum": 200,
+      "weight": 0
+    },
+    {
+      "ID": 107,
+      "dropID": 60,
+      "name": "宝箱石头掉落",
+      "itemID": 7,
+      "minNum": 200,
+      "maxNum": 300,
+      "weight": 0
+    },
+    {
+      "ID": 108,
+      "dropID": 60,
+      "name": "宝箱石头掉落",
+      "itemID": 7,
+      "minNum": 300,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 109,
+      "dropID": 60,
+      "name": "宝箱石头掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 110,
+      "dropID": 61,
+      "name": "宝箱铁矿掉落",
+      "itemID": 8,
+      "minNum": 100,
+      "maxNum": 200,
+      "weight": 0
+    },
+    {
+      "ID": 111,
+      "dropID": 61,
+      "name": "宝箱铁矿掉落",
+      "itemID": 8,
+      "minNum": 200,
+      "maxNum": 300,
+      "weight": 0
+    },
+    {
+      "ID": 112,
+      "dropID": 61,
+      "name": "宝箱铁矿掉落",
+      "itemID": 8,
+      "minNum": 300,
+      "maxNum": 400,
+      "weight": 0
+    },
+    {
+      "ID": 113,
+      "dropID": 61,
+      "name": "宝箱铁矿掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 114,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400101,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 115,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400102,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 116,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400301,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 117,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400302,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 118,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400401,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 119,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400402,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 120,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400501,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 121,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 400502,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 0
+    },
+    {
+      "ID": 122,
+      "dropID": 62,
+      "name": "宝箱宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 1200
+    },
+    {
+      "ID": 123,
+      "dropID": 63,
+      "name": "资源破坏经验",
+      "itemID": 4,
+      "minNum": 30,
+      "maxNum": 50,
+      "weight": 1
+    },
+    {
+      "ID": 124,
+      "dropID": 64,
+      "name": "树木破坏资源",
+      "itemID": 5,
+      "minNum": 60,
+      "maxNum": 60,
+      "weight": 1
+    },
+    {
+      "ID": 125,
+      "dropID": 65,
+      "name": "草药破坏资源",
+      "itemID": 6,
+      "minNum": 60,
+      "maxNum": 60,
+      "weight": 1
+    },
+    {
+      "ID": 126,
+      "dropID": 66,
+      "name": "石头破坏资源",
+      "itemID": 7,
+      "minNum": 60,
+      "maxNum": 60,
+      "weight": 1
+    },
+    {
+      "ID": 127,
+      "dropID": 67,
+      "name": "铁矿破坏资源",
+      "itemID": 8,
+      "minNum": 60,
+      "maxNum": 60,
+      "weight": 1
+    },
+    {
+      "ID": 128,
+      "dropID": 68,
+      "name": "精英怪宝石掉落",
+      "itemID": 400201,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 50
+    },
+    {
+      "ID": 129,
+      "dropID": 68,
+      "name": "精英怪宝石掉落",
+      "itemID": 400202,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 20
+    },
+    {
+      "ID": 130,
+      "dropID": 68,
+      "name": "精英怪宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 200
+    },
+    {
+      "ID": 131,
+      "dropID": 69,
+      "name": "精英怪秘银掉落",
+      "itemID": 11,
+      "minNum": 200,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 132,
+      "dropID": 70,
+      "name": "精英怪经验",
+      "itemID": 4,
+      "minNum": 8000,
+      "maxNum": 10000,
+      "weight": 100
+    },
+    {
+      "ID": 133,
+      "dropID": 71,
+      "name": "精英怪兽皮掉落",
+      "itemID": 1,
+      "minNum": 800,
+      "maxNum": 1000,
+      "weight": 0
+    },
+    {
+      "ID": 134,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 804903,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 135,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805003,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 136,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805103,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 137,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805203,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 138,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805303,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 139,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805403,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 140,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805503,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 141,
+      "dropID": 72,
+      "name": "副本boss神级装备掉落",
+      "itemID": 805603,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 142,
+      "dropID": 73,
+      "name": "一星副本宝石掉落",
+      "itemID": 400203,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 143,
+      "dropID": 73,
+      "name": "一星副本宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 500
+    },
+    {
+      "ID": 144,
+      "dropID": 74,
+      "name": "一星副本队友宝石掉落",
+      "itemID": 400202,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 145,
+      "dropID": 74,
+      "name": "一星副本队友宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 146,
+      "dropID": 75,
+      "name": "一星副本经验",
+      "itemID": 4,
+      "minNum": 20000,
+      "maxNum": 20000,
+      "weight": 100
+    },
+    {
+      "ID": 147,
+      "dropID": 76,
+      "name": "一星boss队友经验",
+      "itemID": 4,
+      "minNum": 10000,
+      "maxNum": 10000,
+      "weight": 100
+    },
+    {
+      "ID": 148,
+      "dropID": 77,
+      "name": "一星副本boss秘银掉落",
+      "itemID": 11,
+      "minNum": 500,
+      "maxNum": 800,
+      "weight": 100
+    },
+    {
+      "ID": 149,
+      "dropID": 78,
+      "name": "一星副本boss树木掉落",
+      "itemID": 5,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 150,
+      "dropID": 79,
+      "name": "一星副本boss草药掉落",
+      "itemID": 6,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 151,
+      "dropID": 80,
+      "name": "一星副本boss石头掉落",
+      "itemID": 7,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 152,
+      "dropID": 81,
+      "name": "一星副本boss铁矿掉落",
+      "itemID": 8,
+      "minNum": 1500,
+      "maxNum": 2500,
+      "weight": 100
+    },
+    {
+      "ID": 153,
+      "dropID": 82,
+      "name": "一星副本boss队友秘银掉落",
+      "itemID": 11,
+      "minNum": 300,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 154,
+      "dropID": 83,
+      "name": "一星副本boss队友树木掉落",
+      "itemID": 5,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 155,
+      "dropID": 84,
+      "name": "一星副本boss队友草药掉落",
+      "itemID": 6,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 156,
+      "dropID": 85,
+      "name": "一星副本boss队友石头掉落",
+      "itemID": 7,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 157,
+      "dropID": 86,
+      "name": "一星副本boss队友铁矿掉落",
+      "itemID": 8,
+      "minNum": 1500,
+      "maxNum": 2500,
+      "weight": 100
+    },
+    {
+      "ID": 158,
+      "dropID": 87,
+      "name": "二星副本宝石掉落",
+      "itemID": 400204,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 159,
+      "dropID": 87,
+      "name": "二星副本宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 300
+    },
+    {
+      "ID": 160,
+      "dropID": 88,
+      "name": "二星副本队友宝石掉落",
+      "itemID": 400203,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 161,
+      "dropID": 88,
+      "name": "二星副本队友宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 162,
+      "dropID": 89,
+      "name": "二星副本经验",
+      "itemID": 4,
+      "minNum": 30000,
+      "maxNum": 30000,
+      "weight": 100
+    },
+    {
+      "ID": 163,
+      "dropID": 90,
+      "name": "二星boss队友经验",
+      "itemID": 4,
+      "minNum": 20000,
+      "maxNum": 20000,
+      "weight": 100
+    },
+    {
+      "ID": 164,
+      "dropID": 91,
+      "name": "二星副本boss秘银掉落",
+      "itemID": 11,
+      "minNum": 800,
+      "maxNum": 1500,
+      "weight": 100
+    },
+    {
+      "ID": 165,
+      "dropID": 92,
+      "name": "二星副本boss树木掉落",
+      "itemID": 5,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 166,
+      "dropID": 93,
+      "name": "二星副本boss草药掉落",
+      "itemID": 6,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 167,
+      "dropID": 94,
+      "name": "二星副本boss石头掉落",
+      "itemID": 7,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 168,
+      "dropID": 95,
+      "name": "二星副本boss铁矿掉落",
+      "itemID": 8,
+      "minNum": 3000,
+      "maxNum": 4000,
+      "weight": 100
+    },
+    {
+      "ID": 169,
+      "dropID": 96,
+      "name": "二星副本boss队友秘银掉落",
+      "itemID": 11,
+      "minNum": 500,
+      "maxNum": 800,
+      "weight": 100
+    },
+    {
+      "ID": 170,
+      "dropID": 97,
+      "name": "二星副本boss队友树木掉落",
+      "itemID": 5,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 171,
+      "dropID": 98,
+      "name": "二星副本boss队友草药掉落",
+      "itemID": 6,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 172,
+      "dropID": 99,
+      "name": "二星副本boss队友石头掉落",
+      "itemID": 7,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 173,
+      "dropID": 100,
+      "name": "二星副本boss队友铁矿掉落",
+      "itemID": 8,
+      "minNum": 3000,
+      "maxNum": 4000,
+      "weight": 100
+    },
+    {
+      "ID": 174,
+      "dropID": 101,
+      "name": "三星副本宝石掉落",
+      "itemID": 400205,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 175,
+      "dropID": 101,
+      "name": "三星副本宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 200
+    },
+    {
+      "ID": 176,
+      "dropID": 102,
+      "name": "三星副本队友宝石掉落",
+      "itemID": 400204,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 177,
+      "dropID": 102,
+      "name": "三星副本队友宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 50
+    },
+    {
+      "ID": 178,
+      "dropID": 103,
+      "name": "三星副本经验",
+      "itemID": 4,
+      "minNum": 50000,
+      "maxNum": 50000,
+      "weight": 100
+    },
+    {
+      "ID": 179,
+      "dropID": 104,
+      "name": "三星boss队友经验",
+      "itemID": 4,
+      "minNum": 30000,
+      "maxNum": 30000,
+      "weight": 100
+    },
+    {
+      "ID": 180,
+      "dropID": 105,
+      "name": "三星副本boss秘银掉落",
+      "itemID": 11,
+      "minNum": 1500,
+      "maxNum": 2000,
+      "weight": 100
+    },
+    {
+      "ID": 181,
+      "dropID": 106,
+      "name": "三星副本boss树木掉落",
+      "itemID": 5,
+      "minNum": 20000,
+      "maxNum": 30000,
+      "weight": 100
+    },
+    {
+      "ID": 182,
+      "dropID": 107,
+      "name": "三星副本boss草药掉落",
+      "itemID": 6,
+      "minNum": 20000,
+      "maxNum": 30000,
+      "weight": 100
+    },
+    {
+      "ID": 183,
+      "dropID": 108,
+      "name": "三星副本boss石头掉落",
+      "itemID": 7,
+      "minNum": 20000,
+      "maxNum": 30000,
+      "weight": 100
+    },
+    {
+      "ID": 184,
+      "dropID": 109,
+      "name": "三星副本boss铁矿掉落",
+      "itemID": 8,
+      "minNum": 5000,
+      "maxNum": 8000,
+      "weight": 100
+    },
+    {
+      "ID": 185,
+      "dropID": 110,
+      "name": "三星副本boss队友秘银掉落",
+      "itemID": 11,
+      "minNum": 1000,
+      "maxNum": 1500,
+      "weight": 100
+    },
+    {
+      "ID": 186,
+      "dropID": 111,
+      "name": "三星副本boss队友树木掉落",
+      "itemID": 5,
+      "minNum": 30000,
+      "maxNum": 40000,
+      "weight": 100
+    },
+    {
+      "ID": 187,
+      "dropID": 112,
+      "name": "三星副本boss队友草药掉落",
+      "itemID": 6,
+      "minNum": 30000,
+      "maxNum": 40000,
+      "weight": 100
+    },
+    {
+      "ID": 188,
+      "dropID": 113,
+      "name": "三星副本boss队友石头掉落",
+      "itemID": 7,
+      "minNum": 30000,
+      "maxNum": 40000,
+      "weight": 100
+    },
+    {
+      "ID": 189,
+      "dropID": 114,
+      "name": "三星副本boss队友铁矿掉落",
+      "itemID": 8,
+      "minNum": 8000,
+      "maxNum": 10000,
+      "weight": 100
+    },
+    {
+      "ID": 190,
+      "dropID": 115,
+      "name": "三星神级武器掉落",
+      "itemID": 100,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 191,
+      "dropID": 115,
+      "name": "三星神级武器掉落",
+      "itemID": 103,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 193,
+      "dropID": 115,
+      "name": "三星神级武器掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 300
+    },
+    {
+      "ID": 194,
+      "dropID": 116,
+      "name": "一星boss物品掉落",
+      "itemID": 100300,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 1000
+    },
+    {
+      "ID": 195,
+      "dropID": 116,
+      "name": "一星boss物品掉落",
+      "itemID": 100800,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 196,
+      "dropID": 116,
+      "name": "一星boss物品掉落",
+      "itemID": 101000,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 1000
+    },
+    {
+      "ID": 197,
+      "dropID": 116,
+      "name": "一星boss物品掉落",
+      "itemID": 100200,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 500
+    },
+    {
+      "ID": 198,
+      "dropID": 117,
+      "name": "二星boss物品掉落",
+      "itemID": 100300,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 500
+    },
+    {
+      "ID": 199,
+      "dropID": 117,
+      "name": "二星boss物品掉落",
+      "itemID": 100800,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 100
+    },
+    {
+      "ID": 200,
+      "dropID": 117,
+      "name": "二星boss物品掉落",
+      "itemID": 101000,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 500
+    },
+    {
+      "ID": 201,
+      "dropID": 117,
+      "name": "二星boss物品掉落",
+      "itemID": 100200,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 1000
+    },
+    {
+      "ID": 202,
+      "dropID": 117,
+      "name": "二星boss物品掉落",
+      "itemID": 100500,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 10
+    },
+    {
+      "ID": 203,
+      "dropID": 118,
+      "name": "三星boss物品掉落",
+      "itemID": 100300,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 500
+    },
+    {
+      "ID": 204,
+      "dropID": 118,
+      "name": "三星boss物品掉落",
+      "itemID": 100800,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 1000
+    },
+    {
+      "ID": 205,
+      "dropID": 118,
+      "name": "三星boss物品掉落",
+      "itemID": 101000,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 500
+    },
+    {
+      "ID": 206,
+      "dropID": 118,
+      "name": "三星boss物品掉落",
+      "itemID": 100200,
+      "minNum": 2,
+      "maxNum": 3,
+      "weight": 600
+    },
+    {
+      "ID": 207,
+      "dropID": 118,
+      "name": "三星boss物品掉落",
+      "itemID": 100500,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 208,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 804902,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 209,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805002,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 210,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805102,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 211,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805202,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 212,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805302,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 213,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805402,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 214,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805502,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 215,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 805602,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 216,
+      "dropID": 119,
+      "name": "二星副本boss概率神级装备掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 2000
+    },
+    {
+      "ID": 217,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 804904,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 218,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805004,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 219,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805104,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 220,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805204,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 221,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805304,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 222,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805404,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 223,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805504,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 224,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 805604,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 225,
+      "dropID": 120,
+      "name": "三星副本boss概率神级装备掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 1200
+    },
+    {
+      "ID": 226,
+      "dropID": 121,
+      "name": "神级武器队友掉落",
+      "itemID": 209400,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 227,
+      "dropID": 121,
+      "name": "神级武器队友掉落",
+      "itemID": 209700,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 228,
+      "dropID": 121,
+      "name": "神级武器队友掉落",
+      "itemID": 209800,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 0
+    },
+    {
+      "ID": 229,
+      "dropID": 121,
+      "name": "神级武器队友掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 1000
+    },
+    {
+      "ID": 230,
+      "dropID": 122,
+      "name": "一阶小怪荣誉点",
+      "itemID": 108,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 231,
+      "dropID": 123,
+      "name": "一阶中怪荣誉点",
+      "itemID": 108,
+      "minNum": 5,
+      "maxNum": 5,
+      "weight": 100
+    },
+    {
+      "ID": 232,
+      "dropID": 124,
+      "name": "一阶大怪荣誉点",
+      "itemID": 108,
+      "minNum": 30,
+      "maxNum": 30,
+      "weight": 100
+    },
+    {
+      "ID": 233,
+      "dropID": 125,
+      "name": "二阶小怪荣誉点",
+      "itemID": 108,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 234,
+      "dropID": 126,
+      "name": "二阶中怪荣誉点",
+      "itemID": 108,
+      "minNum": 10,
+      "maxNum": 10,
+      "weight": 100
+    },
+    {
+      "ID": 235,
+      "dropID": 127,
+      "name": "二阶大怪荣誉点",
+      "itemID": 108,
+      "minNum": 40,
+      "maxNum": 40,
+      "weight": 100
+    },
+    {
+      "ID": 236,
+      "dropID": 128,
+      "name": "三阶小怪荣誉点",
+      "itemID": 108,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 237,
+      "dropID": 129,
+      "name": "三阶中怪荣誉点",
+      "itemID": 108,
+      "minNum": 15,
+      "maxNum": 15,
+      "weight": 100
+    },
+    {
+      "ID": 238,
+      "dropID": 130,
+      "name": "三阶大怪荣誉点",
+      "itemID": 108,
+      "minNum": 50,
+      "maxNum": 50,
+      "weight": 100
+    },
+    {
+      "ID": 239,
+      "dropID": 131,
+      "name": "精英怪荣誉点",
+      "itemID": 108,
+      "minNum": 100,
+      "maxNum": 100,
+      "weight": 100
+    },
+    {
+      "ID": 240,
+      "dropID": 132,
+      "name": "一星boss荣誉点",
+      "itemID": 108,
+      "minNum": 500,
+      "maxNum": 500,
+      "weight": 100
+    },
+    {
+      "ID": 241,
+      "dropID": 133,
+      "name": "二星boss荣誉点",
+      "itemID": 108,
+      "minNum": 700,
+      "maxNum": 700,
+      "weight": 100
+    },
+    {
+      "ID": 242,
+      "dropID": 134,
+      "name": "三星boss荣誉点",
+      "itemID": 108,
+      "minNum": 1000,
+      "maxNum": 1000,
+      "weight": 100
+    },
+    {
+      "ID": 243,
+      "dropID": 135,
+      "name": "四星boss荣誉点",
+      "itemID": 108,
+      "minNum": 2000,
+      "maxNum": 2000,
+      "weight": 100
+    },
+    {
+      "ID": 244,
+      "dropID": 136,
+      "name": "五星boss荣誉点",
+      "itemID": 108,
+      "minNum": 5000,
+      "maxNum": 5000,
+      "weight": 100
+    },
+    {
+      "ID": 245,
+      "dropID": 137,
+      "name": "一星boss队友荣誉点",
+      "itemID": 108,
+      "minNum": 200,
+      "maxNum": 200,
+      "weight": 100
+    },
+    {
+      "ID": 246,
+      "dropID": 138,
+      "name": "二星boss队友荣誉点",
+      "itemID": 108,
+      "minNum": 400,
+      "maxNum": 400,
+      "weight": 100
+    },
+    {
+      "ID": 247,
+      "dropID": 139,
+      "name": "三星boss队友荣誉点",
+      "itemID": 108,
+      "minNum": 700,
+      "maxNum": 700,
+      "weight": 100
+    },
+    {
+      "ID": 248,
+      "dropID": 140,
+      "name": "四星boss队友荣誉点",
+      "itemID": 108,
+      "minNum": 1100,
+      "maxNum": 1100,
+      "weight": 100
+    },
+    {
+      "ID": 249,
+      "dropID": 141,
+      "name": "五星boss队友荣誉点",
+      "itemID": 108,
+      "minNum": 3000,
+      "maxNum": 3000,
+      "weight": 100
+    },
+    {
+      "ID": 250,
+      "dropID": 142,
+      "name": "沙漠土豆",
+      "itemID": 110000,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 251,
+      "dropID": 142,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 252,
+      "dropID": 143,
+      "name": "雪地西红柿",
+      "itemID": 110100,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 253,
+      "dropID": 143,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 254,
+      "dropID": 144,
+      "name": "绿地草莓",
+      "itemID": 110200,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 255,
+      "dropID": 144,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 256,
+      "dropID": 145,
+      "name": "雪地玉米",
+      "itemID": 110300,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 257,
+      "dropID": 145,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 258,
+      "dropID": 146,
+      "name": "沼泽葡萄",
+      "itemID": 110400,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 259,
+      "dropID": 146,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 260,
+      "dropID": 147,
+      "name": "沼泽洋葱",
+      "itemID": 110500,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 261,
+      "dropID": 147,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 262,
+      "dropID": 148,
+      "name": "沙漠豌豆",
+      "itemID": 110600,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 263,
+      "dropID": 148,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 264,
+      "dropID": 149,
+      "name": "绿地蘑菇",
+      "itemID": 110700,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 20
+    },
+    {
+      "ID": 265,
+      "dropID": 149,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 80
+    },
+    {
+      "ID": 266,
+      "dropID": 150,
+      "name": "四星神武掉落",
+      "itemID": 104,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 267,
+      "dropID": 150,
+      "name": "四星神武掉落",
+      "itemID": 110,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 268,
+      "dropID": 150,
+      "name": "四星神武掉落",
+      "itemID": 87,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 269,
+      "dropID": 150,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 300
+    },
+    {
+      "ID": 270,
+      "dropID": 151,
+      "name": "四星副本宝石掉落",
+      "itemID": 400206,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 271,
+      "dropID": 151,
+      "name": "四星副本宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 272,
+      "dropID": 152,
+      "name": "四星副本概率宝石掉落",
+      "itemID": 400205,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 273,
+      "dropID": 152,
+      "name": "四星副本概率宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 274,
+      "dropID": 153,
+      "name": "四星副本经验",
+      "itemID": 4,
+      "minNum": 80000,
+      "maxNum": 80000,
+      "weight": 100
+    },
+    {
+      "ID": 275,
+      "dropID": 154,
+      "name": "四星boss队友经验",
+      "itemID": 4,
+      "minNum": 50000,
+      "maxNum": 50000,
+      "weight": 100
+    },
+    {
+      "ID": 276,
+      "dropID": 155,
+      "name": "四星副本boss秘银掉落",
+      "itemID": 11,
+      "minNum": 2000,
+      "maxNum": 3000,
+      "weight": 100
+    },
+    {
+      "ID": 277,
+      "dropID": 156,
+      "name": "四星副本boss树木掉落",
+      "itemID": 5,
+      "minNum": 30000,
+      "maxNum": 40000,
+      "weight": 100
+    },
+    {
+      "ID": 278,
+      "dropID": 157,
+      "name": "四星副本boss草药掉落",
+      "itemID": 6,
+      "minNum": 30000,
+      "maxNum": 40000,
+      "weight": 100
+    },
+    {
+      "ID": 279,
+      "dropID": 158,
+      "name": "四星副本boss石头掉落",
+      "itemID": 7,
+      "minNum": 30000,
+      "maxNum": 40000,
+      "weight": 100
+    },
+    {
+      "ID": 280,
+      "dropID": 159,
+      "name": "四星副本boss铁矿掉落",
+      "itemID": 8,
+      "minNum": 8000,
+      "maxNum": 10000,
+      "weight": 100
+    },
+    {
+      "ID": 281,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 804905,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 282,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805005,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 283,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805105,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 284,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805205,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 285,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805305,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 286,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805405,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 287,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805505,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 288,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 805605,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 289,
+      "dropID": 160,
+      "name": "四星副本boss概率神级装备掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 1600
+    },
+    {
+      "ID": 290,
+      "dropID": 161,
+      "name": "五星神武掉落",
+      "itemID": 104,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 291,
+      "dropID": 161,
+      "name": "五星神武掉落",
+      "itemID": 110,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 292,
+      "dropID": 161,
+      "name": "五星神武掉落",
+      "itemID": 87,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 293,
+      "dropID": 161,
+      "name": "经验稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 294,
+      "dropID": 162,
+      "name": "五星副本宝石掉落",
+      "itemID": 400207,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 295,
+      "dropID": 162,
+      "name": "五星副本宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 100
+    },
+    {
+      "ID": 296,
+      "dropID": 163,
+      "name": "五星副本概率宝石掉落",
+      "itemID": 400206,
+      "minNum": 1,
+      "maxNum": 2,
+      "weight": 100
+    },
+    {
+      "ID": 297,
+      "dropID": 163,
+      "name": "五星副本概率宝石掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 0
+    },
+    {
+      "ID": 298,
+      "dropID": 165,
+      "name": "五星副本经验",
+      "itemID": 4,
+      "minNum": 100000,
+      "maxNum": 100000,
+      "weight": 100
+    },
+    {
+      "ID": 299,
+      "dropID": 166,
+      "name": "五星boss队友经验",
+      "itemID": 4,
+      "minNum": 70000,
+      "maxNum": 70000,
+      "weight": 100
+    },
+    {
+      "ID": 300,
+      "dropID": 167,
+      "name": "五星副本boss秘银掉落",
+      "itemID": 11,
+      "minNum": 3000,
+      "maxNum": 4000,
+      "weight": 100
+    },
+    {
+      "ID": 301,
+      "dropID": 168,
+      "name": "五星副本boss树木掉落",
+      "itemID": 5,
+      "minNum": 40000,
+      "maxNum": 50000,
+      "weight": 100
+    },
+    {
+      "ID": 302,
+      "dropID": 169,
+      "name": "五星副本boss草药掉落",
+      "itemID": 6,
+      "minNum": 40000,
+      "maxNum": 50000,
+      "weight": 100
+    },
+    {
+      "ID": 303,
+      "dropID": 170,
+      "name": "五星副本boss石头掉落",
+      "itemID": 7,
+      "minNum": 40000,
+      "maxNum": 50000,
+      "weight": 100
+    },
+    {
+      "ID": 304,
+      "dropID": 171,
+      "name": "五星副本boss铁矿掉落",
+      "itemID": 8,
+      "minNum": 10000,
+      "maxNum": 15000,
+      "weight": 100
+    },
+    {
+      "ID": 305,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 804906,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 306,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805006,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 307,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805106,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 308,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805206,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 309,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805306,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 310,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805406,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 311,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805506,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 312,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 805606,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 313,
+      "dropID": 172,
+      "name": "五星副本boss概率神级装备掉落",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 2400
+    },
+    {
+      "ID": 314,
+      "dropID": 173,
+      "name": "沙漠小怪掉落武器材料",
+      "itemID": 110800,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 25
+    },
+    {
+      "ID": 315,
+      "dropID": 173,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 75
+    },
+    {
+      "ID": 316,
+      "dropID": 174,
+      "name": "沙漠中怪掉落武器材料",
+      "itemID": 110800,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 50
+    },
+    {
+      "ID": 317,
+      "dropID": 174,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 50
+    },
+    {
+      "ID": 318,
+      "dropID": 175,
+      "name": "沙漠大怪掉落武器材料",
+      "itemID": 110800,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 75
+    },
+    {
+      "ID": 319,
+      "dropID": 175,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 25
+    },
+    {
+      "ID": 320,
+      "dropID": 176,
+      "name": "绿地小怪掉落武器材料",
+      "itemID": 110900,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 25
+    },
+    {
+      "ID": 321,
+      "dropID": 176,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 75
+    },
+    {
+      "ID": 322,
+      "dropID": 177,
+      "name": "绿地中怪掉落武器材料",
+      "itemID": 110900,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 50
+    },
+    {
+      "ID": 323,
+      "dropID": 177,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 50
+    },
+    {
+      "ID": 324,
+      "dropID": 178,
+      "name": "绿地大怪掉落武器材料",
+      "itemID": 110900,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 75
+    },
+    {
+      "ID": 325,
+      "dropID": 178,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 25
+    },
+    {
+      "ID": 326,
+      "dropID": 179,
+      "name": "雪地小怪掉落武器材料",
+      "itemID": 111000,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 25
+    },
+    {
+      "ID": 327,
+      "dropID": 179,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 75
+    },
+    {
+      "ID": 328,
+      "dropID": 180,
+      "name": "雪地中怪掉落武器材料",
+      "itemID": 111000,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 50
+    },
+    {
+      "ID": 329,
+      "dropID": 180,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 50
+    },
+    {
+      "ID": 330,
+      "dropID": 181,
+      "name": "雪地大怪掉落武器材料",
+      "itemID": 111000,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 75
+    },
+    {
+      "ID": 331,
+      "dropID": 181,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 25
+    },
+    {
+      "ID": 332,
+      "dropID": 182,
+      "name": "沼泽小怪掉落武器材料",
+      "itemID": 111100,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 25
+    },
+    {
+      "ID": 333,
+      "dropID": 182,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 75
+    },
+    {
+      "ID": 334,
+      "dropID": 183,
+      "name": "沼泽中怪掉落武器材料",
+      "itemID": 111100,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 50
+    },
+    {
+      "ID": 335,
+      "dropID": 183,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 50
+    },
+    {
+      "ID": 336,
+      "dropID": 184,
+      "name": "沼泽大怪掉落武器材料",
+      "itemID": 111100,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 75
+    },
+    {
+      "ID": 337,
+      "dropID": 184,
+      "name": "概率稀释",
+      "itemID": 4,
+      "minNum": 0,
+      "maxNum": 0,
+      "weight": 25
+    },
+    {
+      "ID": 338,
+      "dropID": 185,
+      "name": "黑猫王爪",
+      "itemID": 111200,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 339,
+      "dropID": 186,
+      "name": "白虎王爪",
+      "itemID": 111300,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 340,
+      "dropID": 187,
+      "name": "黑虎王爪",
+      "itemID": 111400,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 341,
+      "dropID": 188,
+      "name": "蜥蜴王牙",
+      "itemID": 111500,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 342,
+      "dropID": 189,
+      "name": "蜜獾王牙",
+      "itemID": 111600,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 343,
+      "dropID": 190,
+      "name": "象王牙",
+      "itemID": 111700,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 344,
+      "dropID": 191,
+      "name": "猩猩王脊骨",
+      "itemID": 111800,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 345,
+      "dropID": 192,
+      "name": "熊王脊骨",
+      "itemID": 111900,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 346,
+      "dropID": 193,
+      "name": "鳄王脊骨",
+      "itemID": 112000,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 347,
+      "dropID": 194,
+      "name": "猫王眼球",
+      "itemID": 112100,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 348,
+      "dropID": 195,
+      "name": "猪王眼球",
+      "itemID": 112200,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    },
+    {
+      "ID": 349,
+      "dropID": 196,
+      "name": "蜘蛛眼球",
+      "itemID": 112300,
+      "minNum": 1,
+      "maxNum": 1,
+      "weight": 100
+    }
+  ]
+}

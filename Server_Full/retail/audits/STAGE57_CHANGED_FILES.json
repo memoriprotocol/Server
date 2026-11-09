@@ -1,0 +1,87 @@
+[
+  {
+    "path": "ISSUES_STAGE57_RU.txt",
+    "sha256": "ceacbd6c856e6c78a12efc227b1067a212c5138ea20ebdf6db20d1cf8fbf5432",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE57_RU.txt",
+    "sha256": "60f63e501b6e6214419708c925fe7e00f585322becf31992dcfd3d89c5db5903",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE57_RU.txt",
+    "sha256": "60f63e501b6e6214419708c925fe7e00f585322becf31992dcfd3d89c5db5903",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "2590ea3b28c86cd75d98599011dd6347a125e1d7e82c18250169bb98c44081c6",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/returning-projectiles-3127.js",
+    "sha256": "2fa58f850790500f6abff62a02e7680b48fe01b81f42ef5f43afe459fe90b302",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-projectiles-3127.js",
+    "sha256": "38052c14bcf3d204847e19ed8a81d5778c6bfb26aedc40940995d424f06a301a",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage46-regressions.test.js",
+    "sha256": "e28dff74f416b1e5159e432a989cc63ba470fee8c324d3608da26fac3ede0c7b",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage52-native-projectiles.test.js",
+    "sha256": "eb0eac472a383a8c9e9c538e87ab84ebd55fd5ad7370b3856a7c1c51319ce83f",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage57-native-contract.test.js",
+    "sha256": "d1c385e5e3b4475b43db044c4aeb01b393299fb20196aa20981762db72c77730",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage57-returning-projectiles.test.js",
+    "sha256": "3bd6f3261cf5f12fdd774761081be56aa97e4d0b1c6d02c99f0f078f15bda043",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "5fd555f9c65640ded97e53c2008cc6df52ba1db1ee9c0c7934c61c03f9872aaa",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE57_NATIVE_ASSETS.json",
+    "sha256": "25c2f2725cc384061b3fd737acda5de0ddd9ba8668f9772355dd0633db8ce2e1",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE57_RETURNS.json",
+    "sha256": "20fa45e0d10a5393f853374374457c86eae37eb2057ad62e360e06ade16a2e80",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE57_TESTS.log",
+    "sha256": "d6139e18264d6d0c27a95875132c96c468974bc3bccd2dc149c87c9c26407885",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE57_VALIDATION.json",
+    "sha256": "ea362241cfab2542f7a086340e8d2bbd60d9f3f6d81c84a8913382968d0958af",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE57_WALLS_FROM_STAGE44.json",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "a6e076ea9f71d181447fb6629b61dfafdd303c77dcf357810f5d3614b5c1e84b",
+    "change": "modified"
+  }
+]

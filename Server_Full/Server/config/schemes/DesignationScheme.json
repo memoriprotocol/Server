@@ -1,0 +1,119 @@
+{
+  "Designation": [
+    {
+      "ID": 1,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "Name": "默认",
+      "Desc": "默认称号",
+      "DesignationType": [],
+      "TargetArgs": [],
+      "ItemID": 301001,
+      "color": ""
+    },
+    {
+      "ID": 2,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "Name": "段位等级",
+      "Desc": "玩家段位达到第几段位获得",
+      "DesignationType": [
+        1
+      ],
+      "TargetArgs": [
+        "12"
+      ],
+      "ItemID": 301002,
+      "color": ""
+    },
+    {
+      "ID": 3,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 3,
+      "TimeArgs": 0,
+      "Name": "对应皮肤",
+      "Desc": "玩家获得对应皮肤解锁",
+      "DesignationType": [
+        2
+      ],
+      "TargetArgs": [
+        "503|903|2003"
+      ],
+      "ItemID": 301003,
+      "color": ""
+    },
+    {
+      "ID": 4,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 4,
+      "TimeArgs": 10,
+      "Name": "对应礼包",
+      "Desc": "玩家购买对应礼包解锁",
+      "DesignationType": [
+        3
+      ],
+      "TargetArgs": [
+        "1|1"
+      ],
+      "ItemID": 301004,
+      "color": ""
+    },
+    {
+      "ID": 5,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 2,
+      "TimeArgs": 0,
+      "Name": "吃鸡次数",
+      "Desc": "玩家吃鸡几次解锁",
+      "DesignationType": [
+        4
+      ],
+      "TargetArgs": [
+        "10"
+      ],
+      "ItemID": 301005,
+      "color": ""
+    },
+    {
+      "ID": 6,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "Name": "段位等级",
+      "Desc": "玩家段位达到第几段位获得",
+      "DesignationType": [
+        1
+      ],
+      "TargetArgs": [
+        "6"
+      ],
+      "ItemID": 301006,
+      "color": ""
+    },
+    {
+      "ID": 7,
+      "BackType": 0,
+      "isValid": true,
+      "TimeType": 0,
+      "TimeArgs": 0,
+      "Name": "段位等级",
+      "Desc": "玩家段位达到第几段位获得",
+      "DesignationType": [
+        1
+      ],
+      "TargetArgs": [
+        "8"
+      ],
+      "ItemID": 301007,
+      "color": ""
+    }
+  ]
+}

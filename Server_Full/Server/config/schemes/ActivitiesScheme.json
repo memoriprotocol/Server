@@ -1,0 +1,12 @@
+{
+  "Activities": [
+    {
+      "ID": 10001,
+      "name": "七天登录活动",
+      "activityType": 1,
+      "startTime": "",
+      "overTime": "",
+      "days": 30
+    }
+  ]
+}

@@ -1,0 +1,1691 @@
+{
+  "Constants": [
+    {
+      "ID": 1,
+      "name": "TheBaseMaxBuildDelays",
+      "content": [
+        "60000"
+      ]
+    },
+    {
+      "ID": 2,
+      "name": "reliveTimeParam",
+      "content": [
+        "900",
+        "15",
+        "15"
+      ]
+    },
+    {
+      "ID": 3,
+      "name": "TheBaseBuildingRangeRadius",
+      "content": [
+        "1_1000",
+        "2_1300",
+        "3_1600"
+      ]
+    },
+    {
+      "ID": 4,
+      "name": "TheBaseMaxBuildPlace",
+      "content": [
+        "1_999",
+        "2_999",
+        "3_999"
+      ]
+    },
+    {
+      "ID": 5,
+      "name": "PlayerKilledCoin",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 6,
+      "name": "PlayerKilledExp",
+      "content": [
+        "50"
+      ]
+    },
+    {
+      "ID": 7,
+      "name": "generatorDelayAppearMillis",
+      "content": [
+        "180000",
+        "180000",
+        "180000",
+        "180000"
+      ]
+    },
+    {
+      "ID": 8,
+      "name": "freeDiggerNum",
+      "content": [
+        "15"
+      ]
+    },
+    {
+      "ID": 9,
+      "name": "mvpCoinReward",
+      "content": [
+        "2000"
+      ]
+    },
+    {
+      "ID": 10,
+      "name": "rerollCost",
+      "content": [
+        "300"
+      ]
+    },
+    {
+      "ID": 11,
+      "name": "damageBaseReward",
+      "content": [
+        "250",
+        "1"
+      ]
+    },
+    {
+      "ID": 12,
+      "name": "slotMachineCost",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 13,
+      "name": "slotMachineFreeTimes",
+      "content": [
+        "2"
+      ]
+    },
+    {
+      "ID": 14,
+      "name": "nextFreeTime",
+      "content": [
+        "300"
+      ]
+    },
+    {
+      "ID": 15,
+      "name": "techCeil",
+      "content": [
+        "30"
+      ]
+    },
+    {
+      "ID": 16,
+      "name": "buildCD",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 17,
+      "name": "generateMineralInterval",
+      "content": [
+        "60000",
+        "60000",
+        "60000",
+        "60000"
+      ]
+    },
+    {
+      "ID": 18,
+      "name": "generateMineralCount",
+      "content": [
+        "6",
+        "6",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "ID": 19,
+      "name": "generateMineralID",
+      "content": [
+        "46",
+        "46",
+        "46",
+        "46"
+      ]
+    },
+    {
+      "ID": 20,
+      "name": "deathDropMineralPercent",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 21,
+      "name": "winRequireScore",
+      "content": [
+        "1000"
+      ]
+    },
+    {
+      "ID": 22,
+      "name": "holdingScoreRequireMillis",
+      "content": [
+        "20000"
+      ]
+    },
+    {
+      "ID": 23,
+      "name": "maxTameNum",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 24,
+      "name": "tameTime",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 25,
+      "name": "canTameRadius",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 26,
+      "name": "strength",
+      "content": [
+        "200"
+      ]
+    },
+    {
+      "ID": 27,
+      "name": "strengthMax",
+      "content": [
+        "200"
+      ]
+    },
+    {
+      "ID": 28,
+      "name": "strengthRecover",
+      "content": [
+        "25"
+      ]
+    },
+    {
+      "ID": 29,
+      "name": "oufOfFightTime",
+      "content": [
+        "2000"
+      ]
+    },
+    {
+      "ID": 30,
+      "name": "useItemInterval",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 31,
+      "name": "initEquipmentsID",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 32,
+      "name": "grainPrice",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 33,
+      "name": "resourceRetain",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 34,
+      "name": "changeEquipmentCD",
+      "content": [
+        "0"
+      ]
+    },
+    {
+      "ID": 35,
+      "name": "reapGrainPercent",
+      "content": [
+        "50"
+      ]
+    },
+    {
+      "ID": 36,
+      "name": "teamMaxMembers",
+      "content": [
+        "5"
+      ]
+    },
+    {
+      "ID": 37,
+      "name": "rebornProtectTime",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 38,
+      "name": "cookDuration",
+      "content": [
+        "2"
+      ]
+    },
+    {
+      "ID": 39,
+      "name": "useFoodInterval",
+      "content": [
+        "5000"
+      ]
+    },
+    {
+      "ID": 40,
+      "name": "missExpression",
+      "content": [
+        "300",
+        "0.7"
+      ]
+    },
+    {
+      "ID": 41,
+      "name": "worldChat",
+      "content": [
+        "10",
+        "5"
+      ]
+    },
+    {
+      "ID": 42,
+      "name": "currentChat",
+      "content": [
+        "10",
+        "5"
+      ]
+    },
+    {
+      "ID": 43,
+      "name": "forgeDuration",
+      "content": [
+        "2"
+      ]
+    },
+    {
+      "ID": 44,
+      "name": "sewingDuration",
+      "content": [
+        "2"
+      ]
+    },
+    {
+      "ID": 45,
+      "name": "initMapID",
+      "content": [
+        "2"
+      ]
+    },
+    {
+      "ID": 46,
+      "name": "seasonSwitchInterval",
+      "content": [
+        "1800"
+      ]
+    },
+    {
+      "ID": 47,
+      "name": "singleGameLife",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 48,
+      "name": "lifeCost",
+      "content": [
+        "20"
+      ]
+    },
+    {
+      "ID": 49,
+      "name": "settleCountdown",
+      "content": [
+        "30"
+      ]
+    },
+    {
+      "ID": 50,
+      "name": "resistantExpression",
+      "content": [
+        "300",
+        "0.9",
+        "300"
+      ]
+    },
+    {
+      "ID": 51,
+      "name": "towerAttDecrPer",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 52,
+      "name": "teleportReadyDuration",
+      "content": [
+        "7",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "ID": 53,
+      "name": "barStayLimit",
+      "content": [
+        "24"
+      ]
+    },
+    {
+      "ID": 54,
+      "name": "defaultWeapon",
+      "content": [
+        "611600"
+      ]
+    },
+    {
+      "ID": 55,
+      "name": "buildingToMonsterDmgReduce",
+      "content": [
+        "0.2",
+        "0.4",
+        "0.6"
+      ]
+    },
+    {
+      "ID": 56,
+      "name": "petOufOfFightTime",
+      "content": [
+        "3000"
+      ]
+    },
+    {
+      "ID": 57,
+      "name": "buyWarehouseGridsPrice",
+      "content": [
+        "50"
+      ]
+    },
+    {
+      "ID": 58,
+      "name": "warehouseMaxGrids",
+      "content": [
+        "52"
+      ]
+    },
+    {
+      "ID": 59,
+      "name": "warehouseInitGrids",
+      "content": [
+        "16"
+      ]
+    },
+    {
+      "ID": 60,
+      "name": "dismissFubenDurationLimit",
+      "content": [
+        "15"
+      ]
+    },
+    {
+      "ID": 61,
+      "name": "dropItemDestroyTime",
+      "content": [
+        "30"
+      ]
+    },
+    {
+      "ID": 62,
+      "name": "dropItemPublicTime",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 63,
+      "name": "pickUpArea",
+      "content": [
+        "300"
+      ]
+    },
+    {
+      "ID": 64,
+      "name": "killTreasureChestDropWeight",
+      "content": [
+        "950",
+        "50"
+      ]
+    },
+    {
+      "ID": 65,
+      "name": "miniMapMarkTime",
+      "content": [
+        "3000"
+      ]
+    },
+    {
+      "ID": 66,
+      "name": "petBagCapacity",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 67,
+      "name": "petDeadCD",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 68,
+      "name": "bossAddHpNum",
+      "content": [
+        "150"
+      ]
+    },
+    {
+      "ID": 69,
+      "name": "expToReputationRatio",
+      "content": [
+        "0.01"
+      ]
+    },
+    {
+      "ID": 70,
+      "name": "expToTitleRatio",
+      "content": [
+        "0.005"
+      ]
+    },
+    {
+      "ID": 71,
+      "name": "expToCoinRatio",
+      "content": [
+        "0.002"
+      ]
+    },
+    {
+      "ID": 72,
+      "name": "wellHealRatio",
+      "content": [
+        "0.5"
+      ]
+    },
+    {
+      "ID": 73,
+      "name": "wellHealCD",
+      "content": [
+        "60000"
+      ]
+    },
+    {
+      "ID": 74,
+      "name": "stoneStatueCD",
+      "content": [
+        "60000"
+      ]
+    },
+    {
+      "ID": 75,
+      "name": "streetLightRefreshCD",
+      "content": [
+        "30000"
+      ]
+    },
+    {
+      "ID": 76,
+      "name": "petInitLife",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 77,
+      "name": "warlockDemonLevelRatio",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 78,
+      "name": "demonMaxLevel",
+      "content": [
+        "200"
+      ]
+    },
+    {
+      "ID": 79,
+      "name": "weaponExps",
+      "content": [
+        "1,0",
+        "2,0",
+        "3,0",
+        "4,0",
+        "5,0",
+        "6,0"
+      ]
+    },
+    {
+      "ID": 80,
+      "name": "petMaxLevel",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 81,
+      "name": "TalentFishTreasureBox",
+      "content": [
+        "10001"
+      ]
+    },
+    {
+      "ID": 82,
+      "name": "heroSingleDrawCost",
+      "content": [
+        "1000"
+      ]
+    },
+    {
+      "ID": 83,
+      "name": "heroDrawHCost",
+      "content": [
+        "9000"
+      ]
+    },
+    {
+      "ID": 84,
+      "name": "petSingleDrawCost",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 85,
+      "name": "petDrawHCost",
+      "content": [
+        "4500"
+      ]
+    },
+    {
+      "ID": 86,
+      "name": "reliveCount",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 87,
+      "name": "recordSaveTime",
+      "content": [
+        "1728000"
+      ]
+    },
+    {
+      "ID": 88,
+      "name": "resetTalentCost",
+      "content": [
+        "1000"
+      ]
+    },
+    {
+      "ID": 89,
+      "name": "heroCardReturn",
+      "content": [
+        "2"
+      ]
+    },
+    {
+      "ID": 90,
+      "name": "petCardReturn",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 91,
+      "name": "inviteCodeReward",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 92,
+      "name": "safeAreaGuardsBornPos",
+      "content": [
+        "-2400,-800,180",
+        "-2400,600,180",
+        "2400,600,0",
+        "2400,-800,0",
+        "-850,1850,0",
+        "850,1850,180",
+        "-850,-2300,0",
+        "850,-2300,180"
+      ]
+    },
+    {
+      "ID": 93,
+      "name": "portalGuardsBornPos",
+      "content": [
+        "500,-14000,0",
+        "13850,-250,180",
+        "-1300,14247,0",
+        "-13000,-400,0"
+      ]
+    },
+    {
+      "ID": 94,
+      "name": "safeAreaGuardCID",
+      "content": [
+        "3001"
+      ]
+    },
+    {
+      "ID": 95,
+      "name": "portalGuardCID",
+      "content": [
+        "3002"
+      ]
+    },
+    {
+      "ID": 96,
+      "name": "onhookDuration",
+      "content": [
+        "3600000"
+      ]
+    },
+    {
+      "ID": 97,
+      "name": "newbieDuration",
+      "content": [
+        "1800000"
+      ]
+    },
+    {
+      "ID": 98,
+      "name": "newbieMaxDamage",
+      "content": [
+        "2000"
+      ]
+    },
+    {
+      "ID": 99,
+      "name": "expToReputationRatioNewbieServer",
+      "content": [
+        "0.005"
+      ]
+    },
+    {
+      "ID": 100,
+      "name": "expToTitleRatioNewbieServer",
+      "content": [
+        "0.0025"
+      ]
+    },
+    {
+      "ID": 101,
+      "name": "expToCoinRatioNewbieServer",
+      "content": [
+        "0.001"
+      ]
+    },
+    {
+      "ID": 102,
+      "name": "newbieDurationNewbieServer",
+      "content": [
+        "-1"
+      ]
+    },
+    {
+      "ID": 103,
+      "name": "newbieMaxDamageNewbieServer",
+      "content": [
+        "-1"
+      ]
+    },
+    {
+      "ID": 104,
+      "name": "resetNameCost",
+      "content": [
+        "500"
+      ]
+    },
+    {
+      "ID": 105,
+      "name": "language",
+      "content": [
+        "zh:简体中文:1",
+        "tc:繁体中文:2",
+        "en:英文:1",
+        "ja:日语:2",
+        "ko:韩语:2",
+        "th:泰语:2",
+        "vi:越南语:2",
+        "id:印尼语:2"
+      ]
+    },
+    {
+      "ID": 106,
+      "name": "rookieDanMax",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 108,
+      "name": "seasonIntervalHours",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 109,
+      "name": "luckyTamingTalentDropID",
+      "content": [
+        "106"
+      ]
+    },
+    {
+      "ID": 110,
+      "name": "newbieSkillLimitLv",
+      "content": [
+        "200"
+      ]
+    },
+    {
+      "ID": 111,
+      "name": "newbieSkillInitLv",
+      "content": [
+        "200"
+      ]
+    },
+    {
+      "ID": 112,
+      "name": "newbieSkillDeltaLv",
+      "content": [
+        "0"
+      ]
+    },
+    {
+      "ID": 113,
+      "name": "newbieSkillAutoUseHpPer",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 114,
+      "name": "newbieSkillAutoUseDanID",
+      "content": [
+        "0"
+      ]
+    },
+    {
+      "ID": 115,
+      "name": "undeadEnterCD",
+      "content": [
+        "300000"
+      ]
+    },
+    {
+      "ID": 116,
+      "name": "undeadEnterCost",
+      "content": [
+        "1000"
+      ]
+    },
+    {
+      "ID": 117,
+      "name": "changeHeroCD",
+      "content": [
+        "1800"
+      ]
+    },
+    {
+      "ID": 118,
+      "name": "changeHeroCoin",
+      "content": [
+        "888"
+      ]
+    },
+    {
+      "ID": 119,
+      "name": "heroDrawFiftyCost",
+      "content": [
+        "45000"
+      ]
+    },
+    {
+      "ID": 120,
+      "name": "PetDrawFiftyCost",
+      "content": [
+        "22500"
+      ]
+    },
+    {
+      "ID": 121,
+      "name": "MedalToExp",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 122,
+      "name": "MedalToContribution",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 123,
+      "name": "guildCreateNeedCoin",
+      "content": [
+        "20000"
+      ]
+    },
+    {
+      "ID": 124,
+      "name": "guildCreateNeedDan",
+      "content": [
+        "5"
+      ]
+    },
+    {
+      "ID": 125,
+      "name": "guildExitTimeLimit",
+      "content": [
+        "43200000"
+      ]
+    },
+    {
+      "ID": 126,
+      "name": "resetChangeHeroCDCost",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 127,
+      "name": "dungeonEnterCD",
+      "content": [
+        "300"
+      ]
+    },
+    {
+      "ID": 128,
+      "name": "resetDungeonEnterCDCost",
+      "content": [
+        "50"
+      ]
+    },
+    {
+      "ID": 129,
+      "name": "dungeonEnterLevelLimit",
+      "content": [
+        "80"
+      ]
+    },
+    {
+      "ID": 130,
+      "name": "PeaceGuardTimeRookie",
+      "content": [
+        "1,20",
+        "2,15",
+        "3,10",
+        "4,6",
+        "5,3",
+        "6,2",
+        "7,1"
+      ]
+    },
+    {
+      "ID": 131,
+      "name": "PeaceGuardTimeDefault",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 132,
+      "name": "UnlockEquipDonateLevel",
+      "content": [
+        "6"
+      ]
+    },
+    {
+      "ID": 133,
+      "name": "timeEquipDonateRefresh",
+      "content": [
+        "0 0 */8 * * *"
+      ]
+    },
+    {
+      "ID": 134,
+      "name": "guildDonateTimeLimit",
+      "content": [
+        "86400000"
+      ]
+    },
+    {
+      "ID": 135,
+      "name": "guildDissolveTime",
+      "content": [
+        "86400000"
+      ]
+    },
+    {
+      "ID": 136,
+      "name": "newbieMailReward",
+      "content": [
+        "300200:5",
+        "300400:5",
+        "301100:5"
+      ]
+    },
+    {
+      "ID": 137,
+      "name": "limitCmdNumPerSecond",
+      "content": [
+        "30"
+      ]
+    },
+    {
+      "ID": 138,
+      "name": "diggerSpeedMax",
+      "content": [
+        "2000"
+      ]
+    },
+    {
+      "ID": 139,
+      "name": "specialCloseAtkSkills",
+      "content": [
+        "3199"
+      ]
+    },
+    {
+      "ID": 140,
+      "name": "closeSwordGod",
+      "content": []
+    },
+    {
+      "ID": 141,
+      "name": "weaponDrawOnceCost",
+      "content": [
+        "50"
+      ]
+    },
+    {
+      "ID": 142,
+      "name": "weaponDrawTenCost",
+      "content": [
+        "450"
+      ]
+    },
+    {
+      "ID": 143,
+      "name": "weaponShardReturn",
+      "content": [
+        "25"
+      ]
+    },
+    {
+      "ID": 144,
+      "name": "closeWeaponMaster",
+      "content": [
+        "0"
+      ]
+    },
+    {
+      "ID": 145,
+      "name": "wireBreakCount",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 146,
+      "name": "swampIslandEnterLevel",
+      "content": [
+        "90"
+      ]
+    },
+    {
+      "ID": 147,
+      "name": "desertEnterLevel",
+      "content": [
+        "95"
+      ]
+    },
+    {
+      "ID": 148,
+      "name": "guildActiviteTimeLimit",
+      "content": [
+        "86400000"
+      ]
+    },
+    {
+      "ID": 149,
+      "name": "petMountCD",
+      "content": [
+        "5"
+      ]
+    },
+    {
+      "ID": 150,
+      "name": "useGoldRingSkillNeedCoin",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 151,
+      "name": "guildObeliskScore",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 152,
+      "name": "guildObeliskScoreDuration",
+      "content": [
+        "60"
+      ]
+    },
+    {
+      "ID": 153,
+      "name": "guildObeliskRevocer",
+      "content": [
+        "2000"
+      ]
+    },
+    {
+      "ID": 154,
+      "name": "crabEggBuffPool",
+      "content": [
+        "546:50",
+        "547:50",
+        "548:50",
+        "549:50"
+      ]
+    },
+    {
+      "ID": 155,
+      "name": "crabEggAddHp",
+      "content": [
+        "550:8"
+      ]
+    },
+    {
+      "ID": 156,
+      "name": "weaponEnhanceCostGold",
+      "content": [
+        "10000"
+      ]
+    },
+    {
+      "ID": 157,
+      "name": "weaponEnhanceCostStone",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 158,
+      "name": "weaponReEnhanceCostGold",
+      "content": [
+        "8000"
+      ]
+    },
+    {
+      "ID": 159,
+      "name": "weaponReEnhanceCostStone",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 160,
+      "name": "weaponReEnhanceCostGem",
+      "content": [
+        "200"
+      ]
+    },
+    {
+      "ID": 161,
+      "name": "weaponReEnhanceExtraGems",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 162,
+      "name": "changeAnimalIDs",
+      "content": [
+        "1230",
+        "1203",
+        "1204",
+        "1210",
+        "1211",
+        "1213",
+        "1227",
+        "1228",
+        "1235",
+        "1238"
+      ]
+    },
+    {
+      "ID": 163,
+      "name": "diggerSpeedMin",
+      "content": [
+        "300"
+      ]
+    },
+    {
+      "ID": 164,
+      "name": "brMatchTimeoutCount",
+      "content": [
+        "30"
+      ]
+    },
+    {
+      "ID": 165,
+      "name": "brMatchFullCount",
+      "content": [
+        "30"
+      ]
+    },
+    {
+      "ID": 166,
+      "name": "brNormalBoxParams",
+      "content": [
+        "5000,10034,1,120",
+        "5000,10034,1,121",
+        "5000,10034,1,122",
+        "5000,10034,1,123",
+        "5000,10034,1,124",
+        "5000,10034,1,125",
+        "5000,10034,1,126",
+        "5000,10034,1,127",
+        "5000,10034,1,128",
+        "5000,10034,1,129",
+        "5000,10034,1,130",
+        "5000,10034,1,131",
+        "5000,10034,1,132",
+        "5000,10034,1,133",
+        "5000,10034,1,134",
+        "5000,10034,1,135",
+        "5000,10034,1,136",
+        "5000,10034,1,137",
+        "5000,10034,1,138",
+        "5000,10034,1,139",
+        "5000,10034,1,140",
+        "5000,10034,1,141",
+        "5000,10034,1,142",
+        "5000,10034,1,143",
+        "5000,10034,1,144",
+        "5000,10034,1,145",
+        "5000,10034,1,146",
+        "5000,10034,1,147",
+        "5000,10034,1,148",
+        "5000,10034,1,149",
+        "5000,10034,1,150",
+        "5000,10034,1,151",
+        "5000,10034,1,152",
+        "5000,10034,1,153",
+        "5000,10034,1,154",
+        "5000,10034,1,155",
+        "5000,10034,1,156",
+        "5000,10034,1,157",
+        "5000,10034,1,158",
+        "5000,10034,1,159",
+        "5000,10034,1,160",
+        "5000,10034,1,161",
+        "5000,10034,1,162",
+        "5000,10034,1,163",
+        "5000,10034,1,164",
+        "5000,10034,1,165",
+        "5000,10034,1,166",
+        "5000,10034,1,167",
+        "5000,10034,2,168",
+        "5000,10034,2,169",
+        "5000,10034,2,170",
+        "5000,10034,2,171",
+        "5000,10034,2,172",
+        "5000,10034,2,173",
+        "5000,10034,2,174",
+        "5000,10034,2,175",
+        "5000,10034,2,176",
+        "5000,10034,2,177",
+        "5000,10034,2,178",
+        "5000,10034,2,179",
+        "5000,10034,2,180",
+        "5000,10034,2,181",
+        "5000,10034,2,182",
+        "5000,10034,2,183",
+        "5000,10034,2,184",
+        "5000,10034,2,185",
+        "5000,10034,2,186",
+        "5000,10034,2,187",
+        "5000,10034,2,188",
+        "5000,10034,2,189",
+        "5000,10034,2,190",
+        "240000,10035,1,191",
+        "240000,10035,1,192",
+        "240000,10035,1,193",
+        "240000,10035,1,194",
+        "240000,10035,1,195",
+        "240000,10035,1,196",
+        "240000,10035,1,197",
+        "240000,10035,1,198",
+        "240000,10035,1,199",
+        "240000,10035,1,200",
+        "240000,10035,1,201",
+        "240000,10035,1,202",
+        "240000,10035,1,203",
+        "240000,10035,1,204",
+        "240000,10035,1,205",
+        "240000,10035,1,206",
+        "240000,10035,1,207",
+        "240000,10035,1,208",
+        "240000,10035,1,209",
+        "240000,10035,1,210",
+        "240000,10035,1,211",
+        "240000,10035,1,212",
+        "240000,10035,1,213",
+        "240000,10035,1,214",
+        "240000,10035,1,215",
+        "390000,10036,1,216",
+        "390000,10036,1,217",
+        "390000,10036,1,218",
+        "390000,10036,1,219",
+        "390000,10036,1,220",
+        "390000,10036,1,221",
+        "390000,10036,1,222",
+        "390000,10036,1,223",
+        "390000,10036,1,224",
+        "390000,10036,1,225",
+        "390000,10036,1,226",
+        "390000,10036,1,227",
+        "390000,10036,1,228",
+        "390000,10036,1,229",
+        "390000,10036,1,230",
+        "390000,10036,1,231",
+        "390000,10036,1,232",
+        "390000,10036,1,233",
+        "390000,10036,1,234"
+      ]
+    },
+    {
+      "ID": 167,
+      "name": "brMysteryBoxParams",
+      "content": [
+        "330000,10091,5",
+        "450000,10092,3",
+        "570000,10093,2",
+        "720000,10093,2"
+      ]
+    },
+    {
+      "ID": 168,
+      "name": "beginnerStartTime",
+      "content": [
+        "1698681600000"
+      ]
+    },
+    {
+      "ID": 169,
+      "name": "graduateReward",
+      "content": [
+        "109,10000"
+      ]
+    },
+    {
+      "ID": 170,
+      "name": "beginnerDuration",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 171,
+      "name": "brRefreshHeroCost",
+      "content": [
+        "25",
+        "25",
+        "25"
+      ]
+    },
+    {
+      "ID": 172,
+      "name": "brIpPlayerCount",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 173,
+      "name": "brServerRoomCount",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 174,
+      "name": "reputationScoreMonster",
+      "content": [
+        "0"
+      ]
+    },
+    {
+      "ID": 175,
+      "name": "reputationScoreElite",
+      "content": [
+        "0"
+      ]
+    },
+    {
+      "ID": 176,
+      "name": "reputationScoreBoss",
+      "content": [
+        "20"
+      ]
+    },
+    {
+      "ID": 177,
+      "name": "reputationDan",
+      "content": [
+        "6"
+      ]
+    },
+    {
+      "ID": 178,
+      "name": "dailyReputationMax",
+      "content": [
+        "10000"
+      ]
+    },
+    {
+      "ID": 179,
+      "name": "serverMapIds",
+      "content": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "18"
+      ]
+    },
+    {
+      "ID": 180,
+      "name": "mountTime",
+      "content": [
+        "2000"
+      ]
+    },
+    {
+      "ID": 181,
+      "name": "weaponEnhanceMaterials",
+      "content": [
+        "6,1,320601",
+        "6,2,320602",
+        "6,3,320603",
+        "6,4,320604",
+        "6,5,320605",
+        "6,6,320606",
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "name": "stopContinueTime",
+      "content": [
+        "1100"
+      ]
+    },
+    {
+      "ID": 183,
+      "name": "fightingTime",
+      "content": [
+        "1100"
+      ]
+    },
+    {
+      "ID": 184,
+      "name": "stopFightingTime",
+      "content": [
+        "10000"
+      ]
+    },
+    {
+      "ID": 185,
+      "name": "atlanticEnterLevel",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 186,
+      "name": "br2SuperMysteryBoxParams",
+      "content": [
+        "1250",
+        "2",
+        "10096"
+      ]
+    },
+    {
+      "ID": 187,
+      "name": "vitalityCoefficient",
+      "content": [
+        "1:10",
+        "2:12",
+        "3:14",
+        "4:16",
+        "5:18",
+        "6:20",
+        "10:30",
+        "20:40",
+        "30:50"
+      ]
+    },
+    {
+      "ID": 188,
+      "name": "vitalityReduce",
+      "content": [
+        "7000"
+      ]
+    },
+    {
+      "ID": 189,
+      "name": "br2SpringWater",
+      "content": [
+        "11",
+        "21"
+      ]
+    },
+    {
+      "ID": 190,
+      "name": "seaClearEnterCDCost",
+      "content": [
+        "100"
+      ]
+    },
+    {
+      "ID": 191,
+      "name": "seaEnterCD",
+      "content": [
+        "1800"
+      ]
+    },
+    {
+      "ID": 192,
+      "name": "seaChestPrice",
+      "content": [
+        "1200"
+      ]
+    },
+    {
+      "ID": 193,
+      "name": "seaChestNum",
+      "content": [
+        "5"
+      ]
+    },
+    {
+      "ID": 194,
+      "name": "seaStayDuration",
+      "content": [
+        "3600"
+      ]
+    },
+    {
+      "ID": 195,
+      "name": "brRefreshHeroCount",
+      "content": [
+        "-1"
+      ]
+    },
+    {
+      "ID": 196,
+      "name": "tdRefreshHeroCount",
+      "content": [
+        "-1"
+      ]
+    },
+    {
+      "ID": 197,
+      "name": "kingsEnterLevel",
+      "content": [
+        "80"
+      ]
+    },
+    {
+      "ID": 198,
+      "name": "vitalityBossWeight",
+      "content": [
+        "20"
+      ]
+    },
+    {
+      "ID": 199,
+      "name": "vitalityOnlineWeight",
+      "content": [
+        "10"
+      ]
+    },
+    {
+      "ID": 200,
+      "name": "vitalityMin",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 201,
+      "name": "vitalityMax",
+      "content": [
+        "1000"
+      ]
+    },
+    {
+      "ID": 202,
+      "name": "ipStrategyTime",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 203,
+      "name": "vitalityStrategyTime",
+      "content": [
+        "7"
+      ]
+    },
+    {
+      "ID": 204,
+      "name": "antiFraudLimitPer",
+      "content": [
+        "1"
+      ]
+    },
+    {
+      "ID": 205,
+      "name": "antiFraudLimitMax",
+      "content": [
+        "10000"
+      ]
+    },
+    {
+      "ID": 206,
+      "name": "requestMax",
+      "content": [
+        "3"
+      ]
+    },
+    {
+      "ID": 207,
+      "name": "bayStayDuration",
+      "content": [
+        "3600"
+      ]
+    },
+    {
+      "ID": 208,
+      "name": "bayClearEnterCDCost",
+      "content": [
+        "20"
+      ]
+    },
+    {
+      "ID": 209,
+      "name": "bayEnterCD",
+      "content": [
+        "360"
+      ]
+    },
+    {
+      "ID": 210,
+      "name": "bayEnterLevel",
+      "content": [
+        "60"
+      ]
+    },
+    {
+      "ID": 0,
+      "name": "iceLandStayDuration",
+      "content": [
+        "3600"
+      ]
+    }
+  ]
+}

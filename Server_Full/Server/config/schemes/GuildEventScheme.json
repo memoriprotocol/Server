@@ -1,0 +1,366 @@
+{
+  "GuildEvent": [
+    {
+      "ID": 1,
+      "Event": 1,
+      "EventSort": 0,
+      "CostIDs": [
+        109
+      ],
+      "CostNums": [
+        500
+      ],
+      "AwardIDs": [],
+      "AwardNums": [],
+      "GuildExp": [
+        100
+      ],
+      "GuildMoney": 0,
+      "GiftAward": 8888,
+      "GiftNums": 5,
+      "Donation": [
+        100
+      ]
+    },
+    {
+      "ID": 2,
+      "Event": 1,
+      "EventSort": 0,
+      "CostIDs": [
+        109
+      ],
+      "CostNums": [
+        1000
+      ],
+      "AwardIDs": [],
+      "AwardNums": [],
+      "GuildExp": [
+        200
+      ],
+      "GuildMoney": 0,
+      "GiftAward": 18888,
+      "GiftNums": 10,
+      "Donation": [
+        200
+      ]
+    },
+    {
+      "ID": 3,
+      "Event": 1,
+      "EventSort": 0,
+      "CostIDs": [
+        109
+      ],
+      "CostNums": [
+        2000
+      ],
+      "AwardIDs": [],
+      "AwardNums": [],
+      "GuildExp": [
+        300
+      ],
+      "GuildMoney": 0,
+      "GiftAward": 38888,
+      "GiftNums": 15,
+      "Donation": [
+        300
+      ]
+    },
+    {
+      "ID": 4,
+      "Event": 4,
+      "EventSort": 0,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [],
+      "AwardNums": [],
+      "GuildExp": [
+        10,
+        20,
+        30,
+        60,
+        100,
+        200
+      ],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": [
+        10,
+        20,
+        30,
+        60,
+        100,
+        200
+      ]
+    },
+    {
+      "ID": 5,
+      "Event": 5,
+      "EventSort": 0,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [],
+      "AwardNums": [],
+      "GuildExp": [
+        30,
+        60,
+        90,
+        180,
+        300,
+        600
+      ],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": [
+        30,
+        60,
+        90,
+        180,
+        300,
+        600
+      ]
+    },
+    {
+      "ID": 11,
+      "Event": 3,
+      "EventSort": 1,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        9999,
+        1500
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 12,
+      "Event": 3,
+      "EventSort": 2,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        8888,
+        1200
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 13,
+      "Event": 3,
+      "EventSort": 3,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        6666,
+        1000
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 14,
+      "Event": 3,
+      "EventSort": 4,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        5000,
+        900
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 15,
+      "Event": 3,
+      "EventSort": 5,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        5000,
+        800
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 16,
+      "Event": 3,
+      "EventSort": 10,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        2500,
+        750
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 17,
+      "Event": 3,
+      "EventSort": 20,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        2000,
+        700
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 18,
+      "Event": 3,
+      "EventSort": 50,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        1500,
+        650
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 19,
+      "Event": 3,
+      "EventSort": 100,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        1000,
+        600
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 20,
+      "Event": 3,
+      "EventSort": 500,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        1000,
+        550
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 21,
+      "Event": 3,
+      "EventSort": 1000,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        1000,
+        500
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    },
+    {
+      "ID": 22,
+      "Event": 3,
+      "EventSort": 10000,
+      "CostIDs": [],
+      "CostNums": [],
+      "AwardIDs": [
+        109,
+        13
+      ],
+      "AwardNums": [
+        1000,
+        500
+      ],
+      "GuildExp": [],
+      "GuildMoney": 0,
+      "GiftAward": 0,
+      "GiftNums": 0,
+      "Donation": []
+    }
+  ]
+}

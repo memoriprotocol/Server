@@ -1,0 +1,287 @@
+[
+  {
+    "path": "ISSUES_STAGE46_RU.txt",
+    "sha256": "6b978203104bcfda1658bcde8b989b6d27e7d6e8b1f6bfaf7b221457dd96b2d9",
+    "change": "added"
+  },
+  {
+    "path": "README_STAGE46_RU.txt",
+    "sha256": "02a059406052f8e668aea98011cd271323b6a2c38264b07f3cb7a5fbab0a932e",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/README_STAGE46_RU.txt",
+    "sha256": "02a059406052f8e668aea98011cd271323b6a2c38264b07f3cb7a5fbab0a932e",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/config/map2-verified-prefabs-3127.json",
+    "sha256": "cc4e454731e64e855443727c4c5dc254aa23db9da133d0b0a38ebe551212e29d",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/config/weapon-vfx-3127.json",
+    "sha256": "43182daeb4a3d603668aad6daaab86ac156942540a57c5acd9d9bcfdea0103df",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/config/world-content-3127.json",
+    "sha256": "8809ef394798eda375a007001123705f6ba12cb0ed5bff5c1e92d188bc6e8d9e",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/actions-3127.js",
+    "sha256": "ca7f8b14a57087f650ff754edb8c6f946a0a2197a84322d21b4e7c2438c995dc",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/city-3127.js",
+    "sha256": "d22f6532a45b2619d7bd62cf3162e3c7fe6e006b08c8d548092f5001070ab8ef",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/collection-3127.js",
+    "sha256": "3357b54af70b3deee63ff4047a9f6035b24c5728a97ddbf1d0bdc236ba91f870",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "sha256": "49ad2e974ca634cd7d62c5e424a3b7b6eadcd722b3e33c35d67718c1396f9d2c",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/commerce-3127.js",
+    "sha256": "3b3fda321629f0ad7e813acc9dd9e1c8a36e620ee47c966b2b9fff64a3fa5c39",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/damage-3127.js",
+    "sha256": "9b2d9ac5612d8852a818e897109098e971b81bce4016b512608f34f3812ae66e",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "sha256": "893f62ab23a8271c17acc634ff2100e8d2938c508db58362d3200c9dd5d0e895",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-switch-3127.js",
+    "sha256": "0c56fd499776f977a567f90490648e967d83dfb403e8e307bfc9542d7e4c35da",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "sha256": "24a45f7e1cebf301a9182e73c1bdfa3dfb790fb9e469263eea6b32c5d47732eb",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/inventory.js",
+    "sha256": "6693190646a0b09f8a88328e5243708ee4e2f68c115928580c116d7f768bb5bd",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/monster-skills-3127.js",
+    "sha256": "0127b27ed26015316ed9fcd11a25fbefffe60710a03fb3b0424e78560eec9a21",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/mounts-3127.js",
+    "sha256": "e11ac5c77e59b4c54d1ec785e066550e668355bcf19c01245e983c109b283e3d",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/newbie-3127.js",
+    "sha256": "f4ceb292310fa2b11a001d29262664af8cd8a622faf4fe1d10150c1af2fdec01",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "sha256": "375f7d88ab31bc4b4055a151bfa7fe647eb63b29bad6680ae80deca1209b041c",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/progression-3127.js",
+    "sha256": "d500b88e263d75b0aa88f1f0fc653704d4583202053ea8bdf5446c7ec1046bdd",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/projectiles-3127.js",
+    "sha256": "bee62617e24d9bbb3a5d1728dda14b1408d86969c0fcf8914dadb6f5b9743c48",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/talents-3127.js",
+    "sha256": "1046982c2fddbdc739b225dd893fb40d3a9d62fa96542eaa5589c5cb633c46e2",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/lib/weapon-vfx-3127.js",
+    "sha256": "6554e7eceb532f96287c6a0b9e3c412f51c755c24efe14a8b48959159bafeb68",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "sha256": "626f34a0e843f997f74599f8001a6aa3d66346f7b91c427ce1ddabe6abd639d9",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage43-fixture.js",
+    "sha256": "1fa1c28a530db3db3b7d08c6260faf11fc04d28ac9ceee607da557063121c540",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage21-visible-city.test.js",
+    "sha256": "5b4015e185af4d84c6943e6ca4c5834bc8d2d065ab359419efe5a48a723dc190",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage27-admin-world.test.js",
+    "sha256": "f9258133d22113bfbf120d882393ab19439a2ae8ac5689b226e67e02dd23fb19",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage42-restoration.test.js",
+    "sha256": "2248a58629f0f7b5d164acb54d7eb46197e46a32c0ae6205720dd50206732675",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage44-collection-mounts.test.js",
+    "sha256": "44b62c9d05620c92a4068f1f093f68bd4e39ca0373c56520b2d355980e893e10",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage45-city-stream.test.js",
+    "sha256": "eec43ed21ea91f63b186a36c7ec112f92ab9baf6c1045e2130bc7e40e5d77699",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage46-regressions.test.js",
+    "sha256": "d822d083fb7eb05b36ad56471e44873451cab38c2a730da38634d7d45cfba6d0",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage93-key-bindings.test.js",
+    "sha256": "f98c3d2668e92ab216b9620a448cd69232fc1990046057942c9fcd875d843a7c",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "sha256": "bb645255267af29b8dc4820d1007eaeebc172c546c7c92e88acd3434cb585e83",
+    "change": "modified"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE46_VALIDATION.json",
+    "sha256": "11b3dde713e044f0bb0f077bcea585d509d7fe17918f42a8ae3de665c37b6ddf",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE46_WALLS_FROM_STAGE44.json",
+    "sha256": "bee5194961753f6d39dee1778b3855559467e77748fb7e00f3f2d1f747a6c462",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE46_WEAPON_VFX.json",
+    "sha256": "301e2a17acd6e7c8ec3535a7f5c64ebab2bf3a6e3016e8c9b601272786f06126",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE46_final-tests.log",
+    "sha256": "48ace2743516c25aa28337761931ae99049d60344f7f8c9a4a93c95fc485672b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE46_new-tests-weapon.log",
+    "sha256": "bd563dc806b35e2d43c046c51271dc31eddc0ba4ab3d64d7a787a5c6139c006a",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE46_smoke.json",
+    "sha256": "1c11511ed2c878503d60afe4e1a8a2fc29e711ad1bb1fa3b90809888cf44dbcf",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCCactusWeaponSkill.ts",
+    "sha256": "a7ad12716caaaab46ab9b5510ba8f99335e1ff2f98c6352c9828a0f9c08666c9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCChristmasTree.ts",
+    "sha256": "43eda7feb02c6b03cc0fbd76767905a885041d8c2ddd3aa0f5d56e5dd11f0ab4",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCCrabClaws.ts",
+    "sha256": "2835acdd95d73bb1237351fc26b72e05fcb5bc565dbcfc36cf962d3f948298df",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCFairylandLampSkill.ts",
+    "sha256": "33479837f8f30d0666ee6b554260978d61e5c3e2ab56dc5f20d6abf1c2d5ed9a",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCGuardianSwordSkill.ts",
+    "sha256": "7bef5941a41ce41391a84344a3de410cea40d2628f3c4278c08da036372cc608",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCIcespearWind.ts",
+    "sha256": "eae1c4ebc26db354c2a929d87ea48582aa8812c268b9220f21353e4c25005ce9",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCIcicle.ts",
+    "sha256": "0aea646e14ca52e4a58d4e659c87e54727f9002f6446d6f3bd8a2333e0980266",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCInputCtrlComp.ts",
+    "sha256": "99fb444ec6d37be9de59a6c8a42b0fe001a65a498c7c7e9e7eaa25aede21f792",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCLeiShenChui.ts",
+    "sha256": "c43c4bae784751e5de05901fa770ee4aad65878388c15a08e4525c2559e68809",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCMiniBlackHole.ts",
+    "sha256": "c325321f21ba9362268ebdb6e0f049abe0c1e59ca66d3948bb1c41590595dad8",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCMobileOrStickInputCtrlComp.ts",
+    "sha256": "5820a7c6c77c9cc224602f674b09d4ed5b45d5fb5692b67286183fc5b5b156a3",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCPoisonDart.ts",
+    "sha256": "f36003159ebca7a8a25e6c6a4fa68523d63f6da02901ccd48788752c22729fac",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCStoneStatue.ts",
+    "sha256": "29f6720c84d7119de6c77d2c128e2adab7c4ead4777d4e640b24fd2723d3f24b",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/CCWitchPotion.ts",
+    "sha256": "fe8ea8bd301306ee83bde6cdd32848dd54d6d01c6df84713afb5735576a49c54",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage46/FriendController.ts",
+    "sha256": "ddf7ee47d6d3436497df8a08ee8107db87215df54869a71d616dd2f158411a12",
+    "change": "added"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "sha256": "ea022e6fe3014658f48d6af5d97ed78f44a15c76487abe16ae43a522b8d15d28",
+    "change": "modified"
+  },
+  {
+    "path": "WEBSITE_STAGE46_CHANGED_FILES.json",
+    "sha256": "9409f92a282a3cfa17940af25f522c3ba6be65cbb887ffe5f28d263ff8e24ac1",
+    "change": "added"
+  }
+]

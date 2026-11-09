@@ -1,0 +1,85 @@
+{
+  "stage": 60,
+  "version": "0.38.0-stage60-world-events-payments",
+  "tests": {
+    "tests": 1023,
+    "pass": 1023,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage60": 68,
+    "updatedPriorTests": 1,
+    "updatedPriorTestReason": "isolate Moonshard release timing from random patrol collision in same frame"
+  },
+  "syntax": {
+    "status": "PASS",
+    "changedJSFiles": 28,
+    "files": [
+      "stage60/Client_Payment_Addon/resources/app/cocosExport/web-desktop/local-bootstrap.js",
+      "stage60/Server_Full/Server/lib/actions-3127.js",
+      "stage60/Server_Full/Server/lib/activities-3127.js",
+      "stage60/Server_Full/Server/lib/admin-3127.js",
+      "stage60/Server_Full/Server/lib/combat-input-3127.js",
+      "stage60/Server_Full/Server/lib/environment-3127.js",
+      "stage60/Server_Full/Server/lib/event-window-3127.js",
+      "stage60/Server_Full/Server/lib/event-window-adapter-3127.js",
+      "stage60/Server_Full/Server/lib/fishing-3127.js",
+      "stage60/Server_Full/Server/lib/frozen-armor-3127.js",
+      "stage60/Server_Full/Server/lib/game.js",
+      "stage60/Server_Full/Server/lib/hero-vfx-3127.js",
+      "stage60/Server_Full/Server/lib/location-catalog-3127.js",
+      "stage60/Server_Full/Server/lib/monster-effects-3127.js",
+      "stage60/Server_Full/Server/lib/navigation-3127.js",
+      "stage60/Server_Full/Server/lib/payments-3127.js",
+      "stage60/Server_Full/Server/lib/pets-3127.js",
+      "stage60/Server_Full/Server/lib/player-skills-3127.js",
+      "stage60/Server_Full/Server/lib/quests-3127.js",
+      "stage60/Server_Full/Server/lib/talents-3127.js",
+      "stage60/Server_Full/Server/lib/weapon-primary-3127.js",
+      "stage60/Server_Full/Server/tests/stage56-primary-timing.test.js",
+      "stage60/Server_Full/Server/tests/stage60-events-payments.test.js",
+      "stage60/Server_Full/Server/tests/stage60-frozen-armor.test.js",
+      "stage60/Server_Full/Server/tests/stage60-native-contract.test.js",
+      "stage60/Server_Full/Server/tests/stage60-world-systems.test.js",
+      "stage60/Server_Full/server.js",
+      "stage60/Website_Full/server.js"
+    ]
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.38.0-stage60-world-events-payments",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "preservedFiles": [
+      "Server_Full/Server/lib/city-3127.js",
+      "Server_Full/Server/config/portals-3127.json",
+      "Server_Full/Server/lib/dungeons-3127.js",
+      "Server_Full/Server/lib/monster-ai-3127.js",
+      "Server_Full/Server/lib/monster-recovery-3127.js",
+      "Server_Full/Server/config/map2-monster-recovery-3127.json"
+    ],
+    "originalClientIndexUntouched": true,
+    "addonPreviousBytesPreservedPrefix": true,
+    "websitePatchChanged": true,
+    "newMapEntryNotEnabled": true
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

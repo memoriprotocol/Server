@@ -1,0 +1,31 @@
+{
+  "ResourceChest": [
+    {
+      "Type": 1,
+      "ConsumeID": 102,
+      "ConsumeNum": 100,
+      "ResourceIDs": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "ResourceNum": [
+        2,
+        3,
+        4
+      ],
+      "ResourceNumProb": [
+        30,
+        50,
+        20
+      ],
+      "NumProb": [
+        "500-700",
+        "500-700",
+        "500-700",
+        "500-700"
+      ]
+    }
+  ]
+}

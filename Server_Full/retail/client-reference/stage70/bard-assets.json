@@ -1,0 +1,146 @@
+[
+  {
+    "path": "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a01_2",
+    "index": 23473,
+    "pack": "07c24c74d",
+    "sha256": "581c3b5c4014db577a7dc1c3ce4cf3397d0822118643750a707e31f8583336f2"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a02_2",
+    "index": 20776,
+    "pack": "0bdf01e19",
+    "sha256": "fa82c993b6ba5df5e729498272c67163361ae255180ff41bbbd04b67f317973c"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a03_2",
+    "index": 15878,
+    "pack": "0d836f865",
+    "sha256": "aa3b11cc6931619ac62d63040fc8b6b4dccc606a87f0633fd328accc167bb75a"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a04_2",
+    "index": 49268,
+    "pack": "8df25ffd-c005-4d64-a806-0f5af44ad240",
+    "sha256": "43de94177fe3ccb75c3d9cf64adb76c980e5a356f43a6f6e89f40d9d0d5789cd"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a05_2",
+    "index": 20994,
+    "pack": "0a38de324",
+    "sha256": "df680c2a75f3dcae8526e6bea225701351a64cf472c15d5ec206a27eea3931a2"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx/prefab/301300_skill_tx_a06_2",
+    "index": 46447,
+    "pack": "5927e8e7-23ac-4f07-9c94-eadb06322c21",
+    "sha256": "27bd91cc791d742d37285ad5dc41527d2af0a6573da37b7c8f564d0902dd298e"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a01_2",
+    "index": 45315,
+    "pack": "450bb835-9f31-47a6-8a57-f7e3205cec73",
+    "sha256": "43c37f20f31080a367b24b0aaaf4ca49249c645e3f5f5e694967399b8b6e244a"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a02_2",
+    "index": 47997,
+    "pack": "760028c4-946c-4876-bb19-2b27ab19ac0c",
+    "sha256": "6de5ebf87809e1df2f6fe83e2a2fac0c81d2b94163257df5b0cac06e13afb36d"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a03_2",
+    "index": 42057,
+    "pack": "13ef018f-1469-49b6-9571-a07890df50f1",
+    "sha256": "cec90a67fc55846f3e01489bf614b952c49e886e8bfd799309e88502bd15b124"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a04_2",
+    "index": 47140,
+    "pack": "66964af7-23b7-4e57-9c62-f7f9960dec33",
+    "sha256": "a7364f0c8e26f91f18d05c29b12553c4021d27a36c1df563f31865d326515943"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a05_2",
+    "index": 49189,
+    "pack": "8c37efc7-c847-4691-82fa-999766e5c116",
+    "sha256": "179d4bc39b4ec3d1afc168d71345ef7336aa92fa20079bb202a5f0279b9f9254"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1302/prefab/301300_skill_tx_a06_2",
+    "index": 49875,
+    "pack": "9920ce8a-1fde-434c-8e47-80fc53fade35",
+    "sha256": "57dc6c0874451dcd9a3e444bf5d4fa00fab9e5de599c9ae87378b667f277888f"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a01_2",
+    "index": 45636,
+    "pack": "4a61f9f0-3015-4b81-9dda-6606f2e28962",
+    "sha256": "43c37f20f31080a367b24b0aaaf4ca49249c645e3f5f5e694967399b8b6e244a"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a02_2",
+    "index": 52411,
+    "pack": "c659a8d4-8092-4a5a-ba7e-3405fbb79129",
+    "sha256": "b03a64aa40e0742ca00a2e843fa8d52ad28a16eed621e48a01c0568c9df66744"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a03_2",
+    "index": 47296,
+    "pack": "694418d3-a817-4723-99cc-b00e1b38c450",
+    "sha256": "2077f5567a8180785b116f512335823f8eccddf1880cda9c777cbb9864be35da"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a04_2",
+    "index": 51076,
+    "pack": "aeb29041-2fb3-43a3-ab02-b7a7e8c78c55",
+    "sha256": "808a8aec79e5b6ec8eeb9dc32a2f75703e6c87315575a691ec1e35b48104685b"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a05_2",
+    "index": 46639,
+    "pack": "5c35a472-d131-4085-9409-3b252630d591",
+    "sha256": "5bb8f16319e5a25b4b85e151c1cf5dcb78c55ea4eef070560bc983f992b062e2"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1303/prefab/301300_skill_tx_a06_2",
+    "index": 54240,
+    "pack": "e81ca281-fa69-4f57-a5a6-404b8def8468",
+    "sha256": "71ad243bd45d1ae1a3074696bfcc2856559f1c47a7ea676fa3ab168508f67b43"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a01_2",
+    "index": 45147,
+    "pack": "41e5f9ec-067d-463c-aca4-c1bd5c0cacb8",
+    "sha256": "2cadbdcad4a7f8879f4657450b4fe0a57a204bd84eea4430807444cf338b34f5"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a02_2",
+    "index": 46855,
+    "pack": "608945b1-e286-4bc7-bdcf-99c729d52b04",
+    "sha256": "0ef7c27fbdc91f31e35fc6501aafc9861d513768760f5320fdf4f787cb00539c"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a03_2",
+    "index": 1105,
+    "pack": "02d5e216-74a8-4af9-b128-3fc41215fccd",
+    "sha256": "24a099b3b1a30e0449aa1d94e482b0d712868d1770637ee02ea7717c2455bf1d"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a04_2",
+    "index": 52120,
+    "pack": "c0d022a1-d089-4165-aaed-2cec33680883",
+    "sha256": "5a2d1f1a080202dd19d4ee27bb7728a713aaf4aabf380418fe89c49e541166ae"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a05_2",
+    "index": 43360,
+    "pack": "21e130eb-bfae-4c03-94ab-3da79a425597",
+    "sha256": "5de1ce17461cd77cd955e60eadc82d35ce50d04aa44ea19f72c29f1689001b8c"
+  },
+  {
+    "path": "arena/heroskill/301300_skill_tx_1304/prefab/301300_skill_tx_a06_2",
+    "index": 55073,
+    "pack": "f77a0963-c999-451d-bff0-58e9a28f7195",
+    "sha256": "fe71333396c5f3fe654d3368b0638572ee5ce1ad8f385f17aa8d424004c5e205"
+  }
+]

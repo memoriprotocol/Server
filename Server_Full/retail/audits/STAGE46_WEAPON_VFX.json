@@ -1,0 +1,192 @@
+{
+  "families": 11,
+  "nativeSkillIDs": 226,
+  "nativeVfxSkillIDs": 40,
+  "prefabs": 28,
+  "verifiedImports": {
+    "090b86c53": {
+      "crc32": "d14a37c2",
+      "sha256": "df567fbe8288a428b454b2c6607728c9e0e08a993646553e2986040f3199862c",
+      "volume": 0
+    },
+    "08085fa74": {
+      "crc32": "66a86ec2",
+      "sha256": "b9ca63f3c07e74d009428a89d3a0b8036ed42b480b340e200f56ed5954ba0b55",
+      "volume": 0
+    },
+    "0256acd31": {
+      "crc32": "8eef88ba",
+      "sha256": "dcfb24a598e6dee6fd1d88418c0bd5954407fce4a9a7babb5f9ff3991e66460c",
+      "volume": 0
+    },
+    "07ffbf937": {
+      "crc32": "d611c034",
+      "sha256": "9c11328114da01afa200bfb5e256b8b8db5621b6e539b7d5d9b5b5c7227efa93",
+      "volume": 0
+    },
+    "0c5d95c90": {
+      "crc32": "1a7d4b61",
+      "sha256": "b888bb78b4a219e7a1886e2e814c17ae00f6b7a8a7f919e6ca2477ec7414bd77",
+      "volume": 0
+    },
+    "09b18ea2d": {
+      "crc32": "3c46d77a",
+      "sha256": "7b343715e8bd8d690bb9a9f88e2f913f33277ac93f4b9f74a33d187035e0aa0c",
+      "volume": 0
+    },
+    "7e25311c-23cc-44cd-97a0-ff97eecad0df": {
+      "crc32": "11114fbf",
+      "sha256": "8fad7e95fc502800d32c1b7f10f33729d3504bce44dc4a971d8626f1cf6aa99b",
+      "volume": 0
+    },
+    "a12dd9b6-94c6-403c-a0a5-96e439fa1b08": {
+      "crc32": "c0981123",
+      "sha256": "6103cdb9ee75d7ba225ea1ce2edfc07bfd794363b43ab6f6aab593d19155c886",
+      "volume": 0
+    },
+    "fc5f3be4-4f24-4dbc-b280-4caf0b202645": {
+      "crc32": "495b6132",
+      "sha256": "d2d7d705f2ea82cbcc7503e1696dca84f74b9510c6a7e4341bd7dbe4d2c1473f",
+      "volume": 0
+    },
+    "5054ba4a-8929-4ad1-ab69-916e553f54d6": {
+      "crc32": "12aa1ad8",
+      "sha256": "a1329b8cfa41c49280fae6a632de4eb72909c36ed467fac44b67a6e3beb68d85",
+      "volume": 0
+    },
+    "4bd41db1-1ff2-4160-82a8-3b0bc8934a3e": {
+      "crc32": "cd012170",
+      "sha256": "fcb6fee41ff82f0998d0dbe7c00c0ffc3d303cb2bf7d32c6eb27b1c3755adf2e",
+      "volume": 0
+    },
+    "4ad9c82d-f9ec-41e8-9b7f-11a1f3e994a6": {
+      "crc32": "0edc517e",
+      "sha256": "f62ecaa990b30494a8bd89a92cc4432d18f1c07476e1ff8460f2d6dda8abb1da",
+      "volume": 0
+    },
+    "03906d633": {
+      "crc32": "81fd0c70",
+      "sha256": "1ee4fa7552bfd6ce64ca3aac717218b49633da07ebd67ff465420d820a81f319",
+      "volume": 0
+    },
+    "0ddd7955c": {
+      "crc32": "379e9c93",
+      "sha256": "db4278b77626a12dfa2400537b334d21fd0830a1a5e1efd69c151b0a4cc9cf70",
+      "volume": 0
+    },
+    "0a9a13085": {
+      "crc32": "4ccdc928",
+      "sha256": "70852d11c8f4573b4c0e1c3bb5b2581218acef700fc094475a2f988cfba0d4ff",
+      "volume": 0
+    },
+    "01946d069": {
+      "crc32": "fd77db73",
+      "sha256": "dd2de95c8f2b2438a298a918e040801d4f26ca91e2a45679dffb4f44a959cbea",
+      "volume": 0
+    },
+    "0226c8905": {
+      "crc32": "3fcfff9d",
+      "sha256": "ac95e30e419130d165de27b8ae081dcc7fd99c22be860c3d91b1407c12239464",
+      "volume": 0
+    },
+    "0e5c454c7": {
+      "crc32": "bb673f9c",
+      "sha256": "1c12771bd4433fc7457dae2d8ee8ff14085f39811a5d8301d288341a15654fe9",
+      "volume": 0
+    },
+    "0e4ba4aba": {
+      "crc32": "a72ba6b7",
+      "sha256": "9919fc4a09b8f041c3a3aac4271815b6b677f9e28337fa5a437a599facd067d4",
+      "volume": 0
+    },
+    "0f283d514": {
+      "crc32": "4296a63a",
+      "sha256": "985c7cfb5a084bd2cf5ba07e8974702ff84a16ae8d7defee75a8729553907cac",
+      "volume": 0
+    },
+    "0643b1c51": {
+      "crc32": "7a75c45f",
+      "sha256": "fda7055cf7201f10947b8b4c6e82561a09fb35775099a37ff91d312c6b1a2bab",
+      "volume": 0
+    },
+    "060200df4": {
+      "crc32": "c323561a",
+      "sha256": "c951c870921a54f38aa05b7fb0a5b798de6684e38eb3f474b835b6c7f04922af",
+      "volume": 0
+    },
+    "083660e00": {
+      "crc32": "de017de5",
+      "sha256": "1e030dba8ae2ff5848e68a356527bcdfdc2fd8bcd8a64663f1b705066211d312",
+      "volume": 0
+    },
+    "0576307f5": {
+      "crc32": "5bf34056",
+      "sha256": "ca115a060570173381cd134d291dc865b175cba1cdbcc649423a9a6c493f96c7",
+      "volume": 0
+    },
+    "023fae8d1": {
+      "crc32": "ac9ea1d0",
+      "sha256": "55352c7eabcc84ac31a85d3b2460142e82c421a06b16b7ba52f7515970ffc094",
+      "volume": 0
+    },
+    "b1e798ad-875b-4786-9e7c-84b495e9ef70": {
+      "crc32": "a04dea9f",
+      "sha256": "fb33b8a39159d0bf7aea0df501cb164827ec6d4f3c9a6783fcce8e4620717174",
+      "volume": 0
+    },
+    "0bbe79847": {
+      "crc32": "1bff408d",
+      "sha256": "445b531e98287f242f5e81d7f1b56400d77c91d42f47c976cbf4102235bb0520",
+      "volume": 0
+    },
+    "94e7be89-c940-4720-b3f6-10547f90dce8": {
+      "crc32": "546d547a",
+      "sha256": "8df954b29299403d552f5486d47e3fd5c77d91a910991f970f3bf35274f89d9c",
+      "volume": 0
+    }
+  },
+  "nativeInput": "RMB: CommandCannonRotateTo + CommandUseSkill(id=WeaponScheme.skill2). Command11 is EquipSkill; previous local mapping was wrong.",
+  "limitations": [
+    "Only the listed eleven non-projectile visual families are added here.",
+    "Generic projectile asset mapping and complex gameplay behaviour are separate; this is not full visual coverage of every weapon.",
+    "Windows/Cocos rendering not verified."
+  ],
+  "mainBundleSHA256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "resourcesConfigSHA256": "3c101918ae592ba59ddd9c6cdf3cbc98ecc1adb756af0c5d3b0a96156a6bf5b7",
+  "nativeUserdataAdapters": {
+    "CCWitchPotion": [
+      "ownerX",
+      "ownerY",
+      "radius"
+    ],
+    "CCIcicle": [
+      "duration",
+      "campID"
+    ],
+    "CCIcespearWind": [
+      "scale"
+    ],
+    "CCPoisonDart": [
+      "scale"
+    ],
+    "CCCactusWeaponSkill": [
+      "originPos",
+      "targetPos"
+    ],
+    "CCCrabClaws": [
+      "originPos",
+      "targetPos",
+      "moveTime",
+      "isMiss"
+    ],
+    "CCGuardianSwordSkill": [
+      "skillStage",
+      "scale",
+      "isFull"
+    ],
+    "CCChristmasTree": [
+      "ownerID",
+      "radius"
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+[
+  {
+    "cid": 1404,
+    "path": "arena_3d/monsters/monster_1404/a/monster",
+    "index": 48111,
+    "pack": "77fa6869-c195-4e01-b43b-e6d8a0932132",
+    "importSHA256": "6fb0dc20336403409182e058a19e88906dcbd560bcda5da8ded75a7d14dc78cc",
+    "crcVerified": true
+  },
+  {
+    "cid": 1404,
+    "path": "arena_3d/monsters/monster_1404/b/monster",
+    "index": 25278,
+    "pack": "02f959448",
+    "importSHA256": "c80b08ef431faad6b2124cb01e5b9997d37840b46f7e511fef9693ff2118e157",
+    "crcVerified": true
+  },
+  {
+    "cid": 1404,
+    "path": "arena_3d/monsters/monster_1404/c/monster",
+    "index": 44338,
+    "pack": "335c6761-52bb-4f6b-8516-b9f6b983d5df",
+    "importSHA256": "0f1d1a8976e78f418d8f52b2220a06f8e2a66b60730ef11d5b80fffa82619cfd",
+    "crcVerified": true
+  },
+  {
+    "cid": 1427,
+    "path": "arena_3d/monsters/monster_1427/a/monster",
+    "index": 45398,
+    "pack": "465f002d-5edc-4a47-8e7f-eabbefc4e5eb",
+    "importSHA256": "97f6b28703238d98abe2fba087bb6204b61839a2b8a48cfbd0ad88cba04c3980",
+    "crcVerified": true
+  },
+  {
+    "cid": 1427,
+    "path": "arena_3d/monsters/monster_1427/b/monster",
+    "index": 6193,
+    "pack": "0305faa7f",
+    "importSHA256": "74ec42c2bcacb5a93f56ac8e7fb8d2eb41fa0ceaaf7704f7092739cdfcdb8130",
+    "crcVerified": true
+  },
+  {
+    "cid": 1427,
+    "path": "arena_3d/monsters/monster_1427/c/monster",
+    "index": 36987,
+    "pack": "08bd8c561",
+    "importSHA256": "443b8bb66524776e00b999fd7b0a962a08e267165082c9c5ededc71b5d241e47",
+    "crcVerified": true
+  },
+  {
+    "cid": 1411,
+    "path": "arena_3d/monsters/monster_1411/a/monster",
+    "index": 50572,
+    "pack": "a607bafa-e3a7-44c4-9d44-c8f90d2b5240",
+    "importSHA256": "cbdf43713ed9ec5d185cd5bde1f24c27385b97d6616bbc685ab67f0b051f3d7b",
+    "crcVerified": true
+  },
+  {
+    "cid": 1411,
+    "path": "arena_3d/monsters/monster_1411/b/monster",
+    "index": 52743,
+    "pack": "cc7c2bdf-fe3d-4436-b81c-e0cffb93b4de",
+    "importSHA256": "953a65c2243f9f43d39c72a7e84f0ce12453bf570b63c0c2cfccb2f7a4eaa7ab",
+    "crcVerified": true
+  },
+  {
+    "cid": 1411,
+    "path": "arena_3d/monsters/monster_1411/c/monster",
+    "index": 43669,
+    "pack": "26e4ecef-49f8-4af2-b5dd-4deb87f0d3ed",
+    "importSHA256": "d10a5ee0b657b5ac9f2a1581ffd0fb68793eee14fd068bfbd4c847908438c308",
+    "crcVerified": true
+  },
+  {
+    "cid": 1413,
+    "path": "arena_3d/monsters/monster_1413/a/monster",
+    "index": 54975,
+    "pack": "f5be18c3-8445-47eb-b7c4-df673171d377",
+    "importSHA256": "07505d8da62025ba868d16ab0ade1b7bf744260b89b096e7637eb9913365c9b6",
+    "crcVerified": true
+  },
+  {
+    "cid": 1413,
+    "path": "arena_3d/monsters/monster_1413/b/monster",
+    "index": 46709,
+    "pack": "5db5afb1-4ddb-4de5-a79d-15f96a099a0b",
+    "importSHA256": "7d60a54060f76e69757c0166ec0c7e1ad78c7a98a34625eb1a58c0c0ec5185d0",
+    "crcVerified": true
+  },
+  {
+    "cid": 1413,
+    "path": "arena_3d/monsters/monster_1413/c/monster",
+    "index": 2441,
+    "pack": "05dd0278-9405-4cac-80b9-6cd214f13261",
+    "importSHA256": "4f481e4c9cc49e0fda4909246dc32c39d667c00f981b36a591e1bfe7049a142d",
+    "crcVerified": true
+  },
+  {
+    "cid": 1403,
+    "path": "arena_3d/monsters/monster_1403/a/monster",
+    "index": 50996,
+    "pack": "ad64a39b-5667-4d04-935c-99e15db2b40f",
+    "importSHA256": "1707043f18c6dad33cd9f4020928817bfa7fdf169b33dd0d11a6aa0ba8b6ed43",
+    "crcVerified": true
+  },
+  {
+    "cid": 1403,
+    "path": "arena_3d/monsters/monster_1403/b/monster",
+    "index": 48437,
+    "pack": "7e06e584-4e87-4f24-940f-d8246276453b",
+    "importSHA256": "98abd46d013a937756f979c66426e4fd63de14e4eaa9af0744f9f6257d7ac133",
+    "crcVerified": true
+  },
+  {
+    "cid": 1403,
+    "path": "arena_3d/monsters/monster_1403/c/monster",
+    "index": 51173,
+    "pack": "b05bc6e9-faad-49a7-811b-c36a21046214",
+    "importSHA256": "001b0b00e2c0da1e4744339aa239da01a7f388469d13aa4266f17dec4f1a2dfd",
+    "crcVerified": true
+  },
+  {
+    "cid": 1438,
+    "path": "arena_3d/monsters/monster_1438/a/monster",
+    "index": 52842,
+    "pack": "cdfca111-9600-4d69-bde9-8d88cf274508",
+    "importSHA256": "89eeba224e913270bf0cb942b5a976714e78e02f8faa64ab5563606afa7a7e2e",
+    "crcVerified": true
+  },
+  {
+    "cid": 1438,
+    "path": "arena_3d/monsters/monster_1438/b/monster",
+    "index": 41732,
+    "pack": "1136da85-1c6a-40e8-9765-041305127d30",
+    "importSHA256": "b0aaffdd3e15a2fca72347e9a13f33fc5da7ac9ac09d75083125f695894e313b",
+    "crcVerified": true
+  },
+  {
+    "cid": 1438,
+    "path": "arena_3d/monsters/monster_1438/c/monster",
+    "index": 43832,
+    "pack": "2996807c-accd-46ff-abd7-0c5d5e608a81",
+    "importSHA256": "226030792194fd66087d2c068c172a4522b7ba15bd547fb4860d65825e0688b1",
+    "crcVerified": true
+  },
+  {
+    "cid": 1410,
+    "path": "arena_3d/monsters/monster_1410/a/monster",
+    "index": 43989,
+    "pack": "2cadcc96-c748-4e94-9354-92be56445d8c",
+    "importSHA256": "d513b027f1e7bcd926b72967e43321f774b2cc39a302877b806427b98a416b98",
+    "crcVerified": true
+  },
+  {
+    "cid": 1410,
+    "path": "arena_3d/monsters/monster_1410/b/monster",
+    "index": 53052,
+    "pack": "d25be3c4-858c-406c-bae0-0e283c9d7b89",
+    "importSHA256": "c214f8575f574c8ecfb0217adb2e4c02762a0944e0f5aeea53c502f44e48b666",
+    "crcVerified": true
+  },
+  {
+    "cid": 1410,
+    "path": "arena_3d/monsters/monster_1410/c/monster",
+    "index": 50287,
+    "pack": "a07fa512-d0a8-47ca-9508-3e8a7f8496c0",
+    "importSHA256": "0c2450c0f61e4d4e558bcdc5fffa3d4ccfbd557ba1c2d10cd2d9ffbdf0df14db",
+    "crcVerified": true
+  },
+  {
+    "cid": 1420,
+    "path": "arena_3d/monsters/monster_1420/a/monster",
+    "index": 45619,
+    "pack": "4a062b1f-2bed-4875-9427-86538d44d232",
+    "importSHA256": "254489bc017b071b725b8298fa291f6354d05314992270388f7a4cc0a2e74450",
+    "crcVerified": true
+  },
+  {
+    "cid": 1420,
+    "path": "arena_3d/monsters/monster_1420/b/monster",
+    "index": 44956,
+    "pack": "3e3a7718-e48e-4344-bde7-439b032ba592",
+    "importSHA256": "c031df1b1a433b5bc91206693829560885f2ead8730c6232ece7a74409faeeda",
+    "crcVerified": true
+  },
+  {
+    "cid": 1420,
+    "path": "arena_3d/monsters/monster_1420/c/monster",
+    "index": 46216,
+    "pack": "54b6fd03-e525-4ef2-ad0e-c48b566a947d",
+    "importSHA256": "140da7a812e6b1ba0948e2a25097e29cd166343810f1c4ba5cbab8dd465fce38",
+    "crcVerified": true
+  },
+  {
+    "cid": 1428,
+    "path": "arena_3d/monsters/monster_1428/a/monster",
+    "index": 29572,
+    "pack": "0abe4fd93",
+    "importSHA256": "609964d6c356f939da8ddad6b5af2c9294ab00693f4b6520392864cd5a7033c9",
+    "crcVerified": true
+  },
+  {
+    "cid": 1428,
+    "path": "arena_3d/monsters/monster_1428/b/monster",
+    "index": 8220,
+    "pack": "088ba5086",
+    "importSHA256": "15bcca3989ba847ccdbc03889b47a914fd0e9b5330b8d0e96b64d3f3a2349087",
+    "crcVerified": true
+  },
+  {
+    "cid": 1428,
+    "path": "arena_3d/monsters/monster_1428/c/monster",
+    "index": 39951,
+    "pack": "0ea6fc527",
+    "importSHA256": "10633486f1b1d701eeeb2a64fbee5bf8d683376d6418ded07b3195a92c13c1b0",
+    "crcVerified": true
+  },
+  {
+    "cid": 1426,
+    "path": "arena_3d/monsters/monster_1426/a/monster",
+    "index": 53818,
+    "pack": "e024cc97-010c-476f-a436-c01f56c24190",
+    "importSHA256": "e21804b22caec03d0ec103fe30feca946e1a4df10a5916a58dcb01d1e1a03b8d",
+    "crcVerified": true
+  },
+  {
+    "cid": 1426,
+    "path": "arena_3d/monsters/monster_1426/b/monster",
+    "index": 45431,
+    "pack": "46bf999a-865a-4c9f-9ba6-1d48da4c7941",
+    "importSHA256": "cfc9064a414589f76dd931afdfe64588123300878bb80f6423865ec4e15829c4",
+    "crcVerified": true
+  },
+  {
+    "cid": 1426,
+    "path": "arena_3d/monsters/monster_1426/c/monster",
+    "index": 49357,
+    "pack": "8f765651-9578-4b4f-a1b0-56075097a92a",
+    "importSHA256": "b5c4fa76df25a9d96ea3fa8332c276d3c47932f727b2c5a7a9bbf06b83d4c19c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1435,
+    "path": "arena_3d/monsters/monster_1435/a/monster",
+    "index": 51293,
+    "pack": "b2ad8e59-4797-4576-a2cd-77760e464c1a",
+    "importSHA256": "c3fbbed3d3f80d1fbeb23e59c8d171a9e533c478490facbfd996c6f1caa625ba",
+    "crcVerified": true
+  },
+  {
+    "cid": 1435,
+    "path": "arena_3d/monsters/monster_1435/b/monster",
+    "index": 50084,
+    "pack": "9cc8d5b2-caba-4909-9773-2daf0a5c5c07",
+    "importSHA256": "aa50622fdaa2defbbc469ca117da02fedc910a55b6acad9acc8309b3e173d53c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1435,
+    "path": "arena_3d/monsters/monster_1435/c/monster",
+    "index": 44881,
+    "pack": "3d060277-81af-4693-8bf9-13a325bd7721",
+    "importSHA256": "5c321bc219af4b2fa5e3b3570bf884fc43c516cca1e821c42528b7622a8cb31c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1430,
+    "path": "arena_3d/monsters/monster_1430/a/monster",
+    "index": 39355,
+    "pack": "0e2afa70e",
+    "importSHA256": "e32068746319d7d2e54779eeba7bcef39a9dd5e9ee189b5cbfdcce948f351eed",
+    "crcVerified": true
+  },
+  {
+    "cid": 1430,
+    "path": "arena_3d/monsters/monster_1430/b/monster",
+    "index": 48227,
+    "pack": "79e3fd1b-8dbe-4dbf-abfc-5529befd7a22",
+    "importSHA256": "e108572a507bdf2d8b954aae66c6b18d86c00672d17e8276066ecefb4dea5c79",
+    "crcVerified": true
+  },
+  {
+    "cid": 1430,
+    "path": "arena_3d/monsters/monster_1430/c/monster",
+    "index": 54888,
+    "pack": "f4390d62-8b7a-4ca1-9600-cd9d9e0704f1",
+    "importSHA256": "96aafcb2ebe8041f45cc0e7303013dcea9bb569902c52f5bded072dd35994ab4",
+    "crcVerified": true
+  },
+  {
+    "cid": 1443,
+    "path": "arena_3d/monsters/monster_1443/a/monster",
+    "index": 33696,
+    "pack": "02c441055",
+    "importSHA256": "fccd4ae54f0d67a1dcf701c81ad5c507e1506130e1321cee1b1cc9414438b680",
+    "crcVerified": true
+  },
+  {
+    "cid": 1443,
+    "path": "arena_3d/monsters/monster_1443/b/monster",
+    "index": 12213,
+    "pack": "0287e7481",
+    "importSHA256": "90b041b4c8c12e1b9799c4c80d1a7fe5d2561e45f8d6e5ad125fd8cf4843c911",
+    "crcVerified": true
+  },
+  {
+    "cid": 1443,
+    "path": "arena_3d/monsters/monster_1443/c/monster",
+    "index": 6070,
+    "pack": "06a34d2c0",
+    "importSHA256": "279091d134ce005642e80c8bd2df813ed0df971a5d12b425f2c017bb8e59c3aa",
+    "crcVerified": true
+  },
+  {
+    "cid": 1464,
+    "path": "arena_3d/monsters/monster_1464/a/monster",
+    "index": 50805,
+    "pack": "aa0b0e9d-ddc4-4c92-bcde-d12842374c67",
+    "importSHA256": "29a3721cf9ae16a359c974a65c82ddc4bca886889b84c9c9b6e433f1451f7a24",
+    "crcVerified": true
+  },
+  {
+    "cid": 1464,
+    "path": "arena_3d/monsters/monster_1464/b/monster",
+    "index": 47761,
+    "pack": "714cbbb5-2606-4f73-9150-7591910f28fd",
+    "importSHA256": "5a703c49054aaf865540a5e8625d86a05dfc165f5178e8b74ee38fa43e4818ca",
+    "crcVerified": true
+  },
+  {
+    "cid": 1464,
+    "path": "arena_3d/monsters/monster_1464/c/monster",
+    "index": 51339,
+    "pack": "b36e44c2-caef-4a31-b8ed-eb09b8dc0d7b",
+    "importSHA256": "7a2306184ee112396401374499adeeb7b2dfaeec3ce156598d5bfb1eedec4224",
+    "crcVerified": true
+  },
+  {
+    "cid": 1444,
+    "path": "arena_3d/monsters/monster_1444/a/monster",
+    "index": 37191,
+    "pack": "031e0e6b4",
+    "importSHA256": "bd534bc7f04d80b46cd3421383760896b7d9df91b506b05ee7a4ef495c9929e5",
+    "crcVerified": true
+  },
+  {
+    "cid": 1444,
+    "path": "arena_3d/monsters/monster_1444/b/monster",
+    "index": 4703,
+    "pack": "0b94a9cc0",
+    "importSHA256": "9d5a0ba750c24c72d9dff7993338e0fc2731991cbf7acebd9d2a62d9bba45320",
+    "crcVerified": true
+  },
+  {
+    "cid": 1444,
+    "path": "arena_3d/monsters/monster_1444/c/monster",
+    "index": 34037,
+    "pack": "0673f1329",
+    "importSHA256": "15992f64b57f88e4172c9cd1ae371fb907a17fa204e6680fe5839aea52b54968",
+    "crcVerified": true
+  },
+  {
+    "cid": 1444,
+    "path": "arena_3d/monsters/monster_1444/d/monster",
+    "index": 40239,
+    "pack": "0f192aff6",
+    "importSHA256": "85ac3a308161a6d62e4699ee6e7c7198734407985748b7b7b48e074e531adc4b",
+    "crcVerified": true
+  },
+  {
+    "cid": 1445,
+    "path": "arena_3d/monsters/monster_1445/a/monster",
+    "index": 33966,
+    "pack": "053231ff0",
+    "importSHA256": "8901aafb049ce7dc6efa9656b4902754d9249e30097d05e8283b71ec58423b30",
+    "crcVerified": true
+  },
+  {
+    "cid": 1445,
+    "path": "arena_3d/monsters/monster_1445/b/monster",
+    "index": 11064,
+    "pack": "0c0d94858",
+    "importSHA256": "425bf4e16e54869a4676cc1b1791910c1e3f7d2a741d9081dc3e2d082e1176ba",
+    "crcVerified": true
+  },
+  {
+    "cid": 1445,
+    "path": "arena_3d/monsters/monster_1445/c/monster",
+    "index": 18323,
+    "pack": "0ed49a86a",
+    "importSHA256": "1afce6b0d931ce22475c5a92a609d7a07bba6bc72ad2959cf936095b8ebc7028",
+    "crcVerified": true
+  },
+  {
+    "cid": 1445,
+    "path": "arena_3d/monsters/monster_1445/d/monster",
+    "index": 54914,
+    "pack": "f485cd10-924c-4a8e-be80-39ff15b66623",
+    "importSHA256": "b825d7948e2851b40245efd32e20356515c32452766d833720534fcc93dfc7cd",
+    "crcVerified": true
+  },
+  {
+    "cid": 1446,
+    "path": "arena_3d/monsters/monster_1446/a/monster",
+    "index": 34865,
+    "pack": "063c839bf",
+    "importSHA256": "ffc78ca5c42fb4d65007192e2e012921a6bba1aa24101d085234063491c718b7",
+    "crcVerified": true
+  },
+  {
+    "cid": 1446,
+    "path": "arena_3d/monsters/monster_1446/b/monster",
+    "index": 9342,
+    "pack": "037c3c2d1",
+    "importSHA256": "ca81f0b4875543a1d14d5f3fa3859f48789dfdbcafe534109c720b38891dffdc",
+    "crcVerified": true
+  },
+  {
+    "cid": 1446,
+    "path": "arena_3d/monsters/monster_1446/c/monster",
+    "index": 39539,
+    "pack": "015b67191",
+    "importSHA256": "568f636b7d226bb982dbc464a19d6b4b3a3a1dcbfe44d5141b00769a1edfc60a",
+    "crcVerified": true
+  },
+  {
+    "cid": 1446,
+    "path": "arena_3d/monsters/monster_1446/d/monster",
+    "index": 31691,
+    "pack": "03b562711",
+    "importSHA256": "7c05524c36b86811b7b21d8c13713607d71b4cffcd3020c3b5181257b6d368c0",
+    "crcVerified": true
+  },
+  {
+    "cid": 1447,
+    "path": "arena_3d/monsters/monster_1447/a/monster",
+    "index": 36092,
+    "pack": "02dc62a13",
+    "importSHA256": "1ad7c15cc31f30074f6c854b82ba07d70609f1605857fbca0b77abc74bc61dc4",
+    "crcVerified": true
+  },
+  {
+    "cid": 1447,
+    "path": "arena_3d/monsters/monster_1447/b/monster",
+    "index": 22505,
+    "pack": "081c5aaaa",
+    "importSHA256": "d12fc74054d2288d312c811beb4aa81f024f52605b569fb9e0e52acafacedc2c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1447,
+    "path": "arena_3d/monsters/monster_1447/c/monster",
+    "index": 37289,
+    "pack": "08bc52f65",
+    "importSHA256": "72f668f434287a6338eab76cfcc49c1302b63bf3c60184dc1218cb8d07192c44",
+    "crcVerified": true
+  },
+  {
+    "cid": 1447,
+    "path": "arena_3d/monsters/monster_1447/d/monster",
+    "index": 37231,
+    "pack": "0a781b4c7",
+    "importSHA256": "9634f16610471a346046030567ba1dd49c835da6518b727364bcc0a62e049bfc",
+    "crcVerified": true
+  },
+  {
+    "cid": 1448,
+    "path": "arena_3d/monsters/monster_1448/a/monster",
+    "index": 41212,
+    "pack": "0ee2657f3",
+    "importSHA256": "58432909d2f0ac6e9f3351dc26a4bd890c8ab6a656bee562c8c824198337aa5e",
+    "crcVerified": true
+  },
+  {
+    "cid": 1448,
+    "path": "arena_3d/monsters/monster_1448/b/monster",
+    "index": 31963,
+    "pack": "0a1d5371e",
+    "importSHA256": "57c166894cf41de5c55d4ef45c3781923bebc822d59d9b01e420de5004ac5a1c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1448,
+    "path": "arena_3d/monsters/monster_1448/c/monster",
+    "index": 34750,
+    "pack": "014184cc4",
+    "importSHA256": "9cb2683a2bbd405f383ce9b0fd52492d4d9299f8849844a8b93ddfabe2485b7c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1448,
+    "path": "arena_3d/monsters/monster_1448/d/monster",
+    "index": 23327,
+    "pack": "0af127fe0",
+    "importSHA256": "ba2eb1b5c4e5942722507fc6a7d289efe1b4647f48d35816af1a8d32b82fef5c",
+    "crcVerified": true
+  },
+  {
+    "cid": 1449,
+    "path": "arena_3d/monsters/monster_1449/a/monster",
+    "index": 10876,
+    "pack": "08c461fd6",
+    "importSHA256": "a4cb9fdf5d26eed09accbb6aace61e48f3fcde3ce882c2324a9175e2fc3d7d72",
+    "crcVerified": true
+  },
+  {
+    "cid": 1449,
+    "path": "arena_3d/monsters/monster_1449/b/monster",
+    "index": 16342,
+    "pack": "058da4234",
+    "importSHA256": "71dc332ad187b0dd81a224289fb87e2bc310ac4ff7f6ed296815a97aff62080b",
+    "crcVerified": true
+  },
+  {
+    "cid": 1449,
+    "path": "arena_3d/monsters/monster_1449/c/monster",
+    "index": 17650,
+    "pack": "029f09c20",
+    "importSHA256": "8a827881e510503a4f90810d91d123620787f9cc474d3148299ff99ba41b570f",
+    "crcVerified": true
+  },
+  {
+    "cid": 1449,
+    "path": "arena_3d/monsters/monster_1449/d/monster",
+    "index": 18435,
+    "pack": "0a30a8513",
+    "importSHA256": "ff7819b127b5bae41c881a405b662aef107c1959b68ee6ecd88d734d8b01d1cd",
+    "crcVerified": true
+  },
+  {
+    "cid": 1451,
+    "path": "arena_3d/monsters/monster_1451/a/monster",
+    "index": 30806,
+    "pack": "09c9d3632",
+    "importSHA256": "289278d2c439c18841dddff48b1698b00f6a02e0a706f092aad606c2800e482e",
+    "crcVerified": true
+  },
+  {
+    "cid": 1451,
+    "path": "arena_3d/monsters/monster_1451/b/monster",
+    "index": 37514,
+    "pack": "06cd3fa4d",
+    "importSHA256": "278606a5cadaf0a0d074389696dc9b07dc58e8b53fdb30736fe33d973b6e54a5",
+    "crcVerified": true
+  },
+  {
+    "cid": 1451,
+    "path": "arena_3d/monsters/monster_1451/c/monster",
+    "index": 7875,
+    "pack": "038dc68ef",
+    "importSHA256": "df7093f1475ca1ff750e44ae8544eeeadd74557a9ad01cdeaa85ebc934182485",
+    "crcVerified": true
+  },
+  {
+    "cid": 1451,
+    "path": "arena_3d/monsters/monster_1451/d/monster",
+    "index": 38614,
+    "pack": "0e2a405ba",
+    "importSHA256": "a7ec1de37f29acde0279835c187938becab9215a1c2e95cf1fcb9f21099fb627",
+    "crcVerified": true
+  },
+  {
+    "cid": 1452,
+    "path": "arena_3d/monsters/monster_1452/a/monster",
+    "index": 20178,
+    "pack": "0cc44a87e",
+    "importSHA256": "81b71befdc201a9d2926374aa1b84ff9280011f0223cd99d90467c2bc3e13e8f",
+    "crcVerified": true
+  },
+  {
+    "cid": 1452,
+    "path": "arena_3d/monsters/monster_1452/b/monster",
+    "index": 15064,
+    "pack": "06e3e48ce",
+    "importSHA256": "d8a5902bdfc02635b91f6f2315a867a9aebf02b46c23cbe3bea4708ce51a42f3",
+    "crcVerified": true
+  },
+  {
+    "cid": 1452,
+    "path": "arena_3d/monsters/monster_1452/c/monster",
+    "index": 31036,
+    "pack": "0d0bb1c98",
+    "importSHA256": "00c9e44934dd27eb56712bcc79da17272e776440d6ac0f97c6ccca0c35a56ed5",
+    "crcVerified": true
+  },
+  {
+    "cid": 1452,
+    "path": "arena_3d/monsters/monster_1452/d/monster",
+    "index": 38910,
+    "pack": "0f4df3f33",
+    "importSHA256": "2931aeb9e34122a2d58badec3365a6581f709a197f8649861806926022196a53",
+    "crcVerified": true
+  }
+]

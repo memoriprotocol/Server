@@ -1,0 +1,613 @@
+{
+  "PVPBoardReplaced": false,
+  "PVPBoardRemoved": false,
+  "originalClientIndexEdited": false,
+  "cityPlacementCodeUnchanged": true,
+  "allServerConfigsAndClientAddonAndWebsiteByteIdenticalToStage63": true,
+  "files": [
+    {
+      "path": "Client_Payment_Addon/resources/app/cocosExport/web-desktop/local-bootstrap.js",
+      "sha256": "be28b30d14fd423e04f82efe7fd2dcc1a595c040d775180c57fd7a692b6f5f0f"
+    },
+    {
+      "path": "Client_Payment_Addon/resources/app/local-steam-adapter.js",
+      "sha256": "e47aaa20eb9b1df3670c5cce099c87a93ac44ba6d58bc15cd9ec1fd09be73c75"
+    },
+    {
+      "path": "Server_Full/Server/config/account-rank-policy-3127.json",
+      "sha256": "ed9d2953924bbf8f75bcb7d943591a12d361ec56a8e2131fd434aa899712179a"
+    },
+    {
+      "path": "Server_Full/Server/config/admin-item-metadata-3127.json",
+      "sha256": "3f8084d8e72088a87bef0262d5cb8bd7ca7b52b497dd3a8ad542d2c5e018035f"
+    },
+    {
+      "path": "Server_Full/Server/config/buff-names-3127.json",
+      "sha256": "6a60f40a66f96efe9cdbb9ff5a7b1320ac732539f195c1a9e3a84946710da32b"
+    },
+    {
+      "path": "Server_Full/Server/config/city-main-3127.json",
+      "sha256": "72b5f5ff9e1ad900272d1caf96bab5ae92c6d082d5b32416cb2c213216758730"
+    },
+    {
+      "path": "Server_Full/Server/config/hero-vfx-3127.json",
+      "sha256": "809c279136ee66f1b32b4a0276b286db201ad0f664cf3d224609c346f8f6bf20"
+    },
+    {
+      "path": "Server_Full/Server/config/local-commerce-3127.json",
+      "sha256": "c5e21c50cc7de5e321d49cdda2fd6f9423d42cd69e2f36a3cf4cc2678005d145"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-boss-arena-footprints-3127.json",
+      "sha256": "e5ff791cbdc8fd262f40935121e504ebad2b468b722c34e36a52ca58427bfcf5"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-city-objects-3127.json",
+      "sha256": "4e0fe572d2cb8d33aca7b6ce480c685bc5de098431f992b6225684cff2bb8bfa"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-client-scenery-3127.json",
+      "sha256": "944effd8153875de815bdea161c6cc495d94c13b4ecf9826569141927b3edb33"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-monster-recovery-3127.json",
+      "sha256": "6bfb9bef99b27c1a4118f3314700b7915a4b58ff88b745d67eaef6a02f025aab"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-native-npcs-3127.json",
+      "sha256": "e527a10f4bb1ecf103a386f9706b9cd328236297b690344b209a9e746af45245"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-spawn-regions-3127.json",
+      "sha256": "e848b54b1d0132e1659d6347394a77a389b7b67d7c01059a9a8101b461b8b1f7"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-verified-prefabs-3127.json",
+      "sha256": "cc4e454731e64e855443727c4c5dc254aa23db9da133d0b0a38ebe551212e29d"
+    },
+    {
+      "path": "Server_Full/Server/config/map2-water-3127.json",
+      "sha256": "d1103188053cdc4e9d8fb2e4021d925afc61db6da42e0d00e25f70ce61ddf856"
+    },
+    {
+      "path": "Server_Full/Server/config/map5-spawn-regions-3127.json",
+      "sha256": "30fa9ee555182eca79f8076a7d78d844475eb56a145239f5e3100f748536d63c"
+    },
+    {
+      "path": "Server_Full/Server/config/monster-models-3127.json",
+      "sha256": "d1636f20feed0193b6975f2d0e5260984ec8675fffb3b3255291a4caa7946458"
+    },
+    {
+      "path": "Server_Full/Server/config/mount-assets-3127.json",
+      "sha256": "685f976122b13e104e27151823da02186e4a6ee0dc6b7d11282fab89dd6ea4a9"
+    },
+    {
+      "path": "Server_Full/Server/config/portals-3127.json",
+      "sha256": "9e10481a5ad6468342ebcf612ea88d4ebfdee8dd79afe5ce81b78e5858ffdab6"
+    },
+    {
+      "path": "Server_Full/Server/config/projectile-assets-3127.json",
+      "sha256": "ccf49b4e3a82260dce6d42e584bae8cdc7ac7f997d680e96b6b0cff16a035182"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/AchievementPointsScheme.json",
+      "sha256": "1ea87a80d6be83e200f01b42f5d2f87e4f4bbaa1eca6df7ceeecc7e6de00299e"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/AchievementScheme.json",
+      "sha256": "c3ba15b812e1ff15023a829c29ad56af1714e0866b06b8856371b846cb8419f0"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ActivitiesScheme.json",
+      "sha256": "c94924edde2f288e3574c2a09f075f6b77309368773be624877d3bc876b7b613"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BackPackScheme.json",
+      "sha256": "1f62b6fcb93adb9214ac13af657e572bf3280758392a10d61ca42d385121e1bb"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BattleRoyaleScheme.json",
+      "sha256": "b7d180d528b9767f845c0ab24dbab3c0a36eb9fea735afb5df633a07bf8665e2"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BubbleScheme.json",
+      "sha256": "0884ccd23a212d017df0063d20137745ab6ee754629a4736ff695e301f3e8969"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BuffScheme.json",
+      "sha256": "4294f8383738629bbc825b25c342597ddf0d1383841937d10700562817fbf4ce"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BuffSoundScheme.json",
+      "sha256": "2e579df9b612ffc4248aad1bac14eb6fd280bf7a074fb52cd79dcbb96ee8c1f6"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BuildingScheme.json",
+      "sha256": "8fa040626072e9b5b3d130004f2d9294b8dad4bc714ed07db6a75598895db942"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/BuildingsLeahScheme.json",
+      "sha256": "b69ac82fcb1e691c114d92fd1cc66371bd5d4fc701340bfa18bef4c0206f40e5"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CareerScheme.json",
+      "sha256": "022bd1aabb8ed4d58f823ef9e32a939f31a51ace75a8929bcb0ee80f0a8dcb14"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CoinContinueScheme.json",
+      "sha256": "d7c9b78ffe20d10c427dc572e008b2f40eb9594b5a8c9ac7c35cc900ba0d2ae4"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CollectionStarScheme.json",
+      "sha256": "203e385afad07a788650efa437d34316bb726d88451ba893425ba0744e1f57ec"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CollectionTaskScheme.json",
+      "sha256": "e8f8d7a75e293cd3bd07a10b14aae742a5afebf7a53cddcd3d186dff013d6d5b"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CollectionsScheme.json",
+      "sha256": "87a061e53b142c9eac573b88032d36eea72cc22339adff087cb626527d2ff49b"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ConstantsScheme.json",
+      "sha256": "e95808945afb824f50777ad4ac4664fe6f811f9e01358805943e381af09011be"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CookBookScheme.json",
+      "sha256": "3a1958ef3c790d56b51819617caa187bb0d3a2bb8f68466d95400ef02ac7e7b6"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/CreatureScheme.json",
+      "sha256": "7548de9c6755a3cc988d8fc448e201d84c2b3846fdbc163bedef92a493223d63"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DanBrScheme.json",
+      "sha256": "ec4adc3e4a3a6c8e7367c135e8d1b50dd18139a88fa09c05b9a38ed827c0be56"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DanScheme.json",
+      "sha256": "8362fd1ff956f126348ac9e145b6ad3ae07a291b7c6af5f94544efc1f39084b0"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DecorationsScheme.json",
+      "sha256": "0bd92a698ea853f806afbf7eba6384f2c8c5e2dae3042a0464b0a53c8c1ffed6"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DefeatDropScheme.json",
+      "sha256": "311c71a90101064ba9ad4fdc96ed9c2ad18d775eb8b5fa663605ef83333dd8df"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DesignationScheme.json",
+      "sha256": "48793f199365ee08a6a843b51660d483c7e88ee8c5d02c467f6ee38b37d0f886"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DoubleActivityScheme.json",
+      "sha256": "07aa6a7b71ec0e3fefc240a82043c16140b468ededa79eb9a70054d24e3dd9bf"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DropDeathScheme.json",
+      "sha256": "32022424b8b3b0cfee258c9bc69272f6f9efc648b6fde90c68706a7ee82f51fb"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DropGroupScheme.json",
+      "sha256": "5a404ecc90512c1614272894f18be2ed1551a64a9b6be7153b84b53d4a3918ca"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/DropScheme.json",
+      "sha256": "b4157022423d6ea726edcc6df944920f9551ca7addb7bd408219afb1a3e253e6"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/EmojiScheme.json",
+      "sha256": "4e80ad231f485a83ec43766a16f7efd3ebab812049363e9b6566fee0521295e2"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/EntityBlockScheme.json",
+      "sha256": "89613a98010a644e2a7b5febb858d969281105c8557af4e4de2b044305273246"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/EntityCategoryScheme.json",
+      "sha256": "e019fad1f10b2db6c61c79cc7fac13f10815cd20e3f9b60da8ea7ab6cdbf47db"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/EntityCollisionScheme.json",
+      "sha256": "e4d242987a13076b0d78394f33e0945dd59728fd7e39e1638183678b192003be"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/EquipmentChestsScheme.json",
+      "sha256": "1cd394279a1e4860b71ef1656269cccadec71f4c57040e5d591220b059bc5182"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/EquipmentScheme.json",
+      "sha256": "672bb6ccd1b299709ce7a733d76c9fbdb5b94c1d97f45f4569c7672354a2f735"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ExchangeScheme.json",
+      "sha256": "29027f3662a8507cd9cfdcb2c3b9a28a88f149eac2b1f77634bb562ef4e461f2"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/FeatsScheme.json",
+      "sha256": "00081f84e13c8f63ae26eceeb467f627f8793d0449c42dc21dba88f538faf512"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/FishPondScheme.json",
+      "sha256": "912d11248e1ee9f79abd46c5b8a3c9f4a2c6e60eab09528f2233e37ede6b0cbd"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/GiftScheme.json",
+      "sha256": "2ca1be340ef5b54cf1b26011d39f59650bf0b4bd724ebb513dab016000301e16"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/GuildBadgeScheme.json",
+      "sha256": "a24d7d53a9815d5596e0a8721ff8f3f48b6751d74b8548a0562b51dc314247d7"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/GuildEventScheme.json",
+      "sha256": "24408908641a6e8ddb8d2a0a496013ed488b20ab1049ff585fc9092452be648b"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/GuildLevelScheme.json",
+      "sha256": "847ad373bc0e9cbd12792db4f67d50675a37843e5ddccd83f8642897ad0d6ac4"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/GuildPowerScheme.json",
+      "sha256": "9a7a25eccfcaf7a14ffe50cd56c785d10b5ab2d7405892b8c4ccda0844f91789"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/HeroPropScheme.json",
+      "sha256": "47327456f1fc309a48d3853a5282597dca7187217b3ff42822078890b922ab05"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/HeroScheme.json",
+      "sha256": "737677d360fc7891bcabf7d1411ff2a9c4efa67be07a5896fe7cd021b7285d88"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/IngredientsScheme.json",
+      "sha256": "0784030aae6d1622e5e28648012f88704075b45bca311676aedc3ce15f50a543"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/InvitationRewardsScheme.json",
+      "sha256": "b85824fd788d86ecb07868d101e8ec61c93c194c2870459a9a51bfeb459cbc43"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ItemScheme.json",
+      "sha256": "d80e66186265a2032911094de5e23439b4d601664cc767ce650b89c1890b5936"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ItemTypScheme.json",
+      "sha256": "54c3979c783cbea55768f6c19e9027936358a639380612622df835509db2c385"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/JewelScheme.json",
+      "sha256": "f362df3e1c29e95fca4775b0fdaab3a17dcfbcd6ce8262808d8b3a167fa9053f"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/LanguageScheme.json",
+      "sha256": "6c48ee0ab160167df5a898467571ca63e114b67682b4c164198fe541a65e39c0"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/Level2CoinScheme.json",
+      "sha256": "80d1f80c026d77859b25f09e8a7d952fd789cd5f8bb0be945238fb063891ab40"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/LevelExpScheme.json",
+      "sha256": "68075255ba957eb6ed578acb3c7ff1b18c938b830de292f0185b78e83ee441ea"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MapGenerateScheme.json",
+      "sha256": "ddb0bc9b8e09a28c85de6ada07e49d71fc58ffefa583f4a045ce628492c43554"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MapProductionScheme.json",
+      "sha256": "793fd8080667a100caf6fff82b38a3ab92211c18c2a631ade995f7db12e683f0"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MapScheme.json",
+      "sha256": "2e999588503885c439d829772fd990e6af49d00c308b069d8ba7cb20efadc21b"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MeditateCfg.json",
+      "sha256": "2a8e4833a6a2215c6f16297bba0fa87f8d392b446cefad939a64692ad6897d21"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MonsterContent.json",
+      "sha256": "b805cfa3e12b739d0905d74c3517b33ada3cf99dc07c5e7f060fbc487d9d2615"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MonsterLevelExpScheme.json",
+      "sha256": "72effbc51cad39c87b2ab700002c8767a55a1d915bcd21a2830ab329f662aa39"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/MountScheme.json",
+      "sha256": "e510e9a3bacc7dc9639d217fcd84019816cb92b9d5059c1551b82efc5a938b6f"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/NPCTalkScheme.json",
+      "sha256": "7f5a93365c23407bee8ca71c8785187599bb6e0f07177375a16650e2ca8c594a"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/NameScheme.json",
+      "sha256": "c162e570d291dd5ba3b416cb3c095c4d545c37453cd6b5c2f893970dd54c8a7c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PVEScheme.json",
+      "sha256": "3852d42921516c7e85736faa537eb0859718d1936f90135cd78fc486c2ef1411"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PassAwardScheme.json",
+      "sha256": "0841268d2ca2bc162f735a603e86ca923687c17b6fa81796dc792fe51c9e9cda"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PassScheme.json",
+      "sha256": "d0cd9ef7538ad4dd30d095de017811d8a799b4dd2883edcecf713f3c604e807c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PassShopScheme.json",
+      "sha256": "0cdace3daf6630fdb3365cd07c1c108aea1edf65e86d8a47ae751bfc20034979"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PassTaskScheme.json",
+      "sha256": "3bfb2248db67edead03494a43d3c6ab29154dd0d53ec7822a9af866ec20e84b2"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PayProductionScheme.json",
+      "sha256": "1a8bd9001b537dbf1012e1f83a539925112cb21edf3171afa159d6a3ba015b5c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PetAffectionScheme.json",
+      "sha256": "b1bed40ef71de5da3c87a8e0e1a6332ecd31ab7917a8bd31c5213786ed709b75"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PetBookScheme.json",
+      "sha256": "cc9ef672670fa10d6cdcc4e473656a97452b5250e613c1ddf7cfd20147643843"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PetContent.json",
+      "sha256": "efa7686aba83f24fa9a3163e3f06cde54d9543366d6b64523cc63040ec131cbf"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PetEggsScheme.json",
+      "sha256": "969ec5344037c5fcbefe65ad40cae29b8b7b0b293457646f1baa32040d0824b5"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PetShardsScheme.json",
+      "sha256": "c22b3237709a179a39463ffce954b242e0c153e8935d5668140162fafbbd936d"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PlayerActionScheme.json",
+      "sha256": "ed0fa9eb38d72903b846cca410d197b3e678adbf999353c457500b1f7ae8443a"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PlayerHeadFrameScheme.json",
+      "sha256": "e5be285c3c31bc26fd8ff12bcf913198960e060a4eb978bd0441a6c3f44668ad"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PlayerHeadScheme.json",
+      "sha256": "c4d16b13d9f855b7d2a3f6d2004892b4c04a5a04a1cf2f823f45e1d1f7a171a6"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PropLevelsScheme.json",
+      "sha256": "d806392d47e9da6daba18eccfade9953080a78812398cfd4d14b00f937fb3f74"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/PropertyScheme.json",
+      "sha256": "38ed6e17b245359eecf8b7aeef89256a05599c83a744ba459d55b50b58d68f63"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ReputationAwardScheme.json",
+      "sha256": "83a6f18a3800dbe3680ac5a681921ffa7d9253400f66d4c364392cf3a42ac7d3"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ReputationScoreScheme.json",
+      "sha256": "9c5d63456c0d71d884db2e0120be60e81a17b194c6897d6150974530e330b240"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ResourceChestScheme.json",
+      "sha256": "5ee20c1ea0aed90f5b778783ee3ad02971302d646a11dcd5b2b02716600dd789"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ResourceScheme.json",
+      "sha256": "343603654352841bb5cf1cc24a0734b919127c18b2f69a92d9a776715fa8d1a7"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/RewardSevenDayScheme.json",
+      "sha256": "0cdc4312060ae7ba35979411735c01e9dd30ec0db171ba5392a3e4b7e7ae0809"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/RiseHeroScheme.json",
+      "sha256": "a18cc2e8f8948bf34d82dde27e2e7f1402850a342ef0c217749d5cc38ae6b40c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SandboxScheme.json",
+      "sha256": "e7269167303b513b13d8fbb958d6311ce8716f28c8c50876ca75c1f30b1f7230"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/ShardsScheme.json",
+      "sha256": "3f4894b81ff717e60aad01faec810d82564f37689eec72321a5ce3802a769bf7"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SkillScheme.json",
+      "sha256": "12865f69e7bb96b93030d7d4ffc0cbd9f41daceafa310b2ea0fee277420a5f1e"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SkillSoundScheme.json",
+      "sha256": "841be90a8af77b60d6ced64ae975f1fa44623762ea67863e8fb7ff430edf2409"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SkinScheme.json",
+      "sha256": "31368803878b4eee6b753fc211da3f3bf04211278213d75e2958946a1bfe28a1"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SteamAchievementScheme.json",
+      "sha256": "7d1af164a52e936173d35bf2f17396c8b79c298db7b3c50c691415bcd4a1bd5d"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/StoreHouseScheme.json",
+      "sha256": "b4defa8b572615ddd22222c1efbedf4e4a59a27fa91381e89b14ae6a89b7e47c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/StoreScheme.json",
+      "sha256": "3abea48c6ad60af17c162f209f7d9285f05df98e29b0d7cdeb1d1a8b77bf76fd"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SuitScheme.json",
+      "sha256": "a5ce943838afb143ab258bf62329ecfcc11561219a52391b7c481a7e79ff63e8"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/SwitchScheme.json",
+      "sha256": "6b47b32ddda3d97c80fcea23ce803a0f722ec7bcc8d3e36371811a29ffa1c675"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TDLevelTalentScheme.json",
+      "sha256": "a80aa91b90c575f1d5bea6cd01b8a1ab7f467a7882583b8695ed345f146e9a0c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TDMonsterDamageScheme.json",
+      "sha256": "758dcd14b6f721946a6e697f203ba4924171dae69437c10a76a7a5d583035245"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TDTalentBoxScheme.json",
+      "sha256": "b35b623cae33ad4a872f912eb6e51b0cb4018a98fd6ebb9fc2c29eb399f4877c"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TDTalentScheme.json",
+      "sha256": "1911a8eca9ea1a7b7718dc0668d0e47aac7016cb9471b29f4bd3e07205441d38"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TalentBuffScheme.json",
+      "sha256": "22c6bbdec0394696573cf132b17fd8163a57a99fa3ccdd6953a9a551f7d32b38"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TalentScheme.json",
+      "sha256": "bd368bbb916af7010708233a1323edf257f3b2d9f151a7afcabab40e7975257a"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TaskScheme.json",
+      "sha256": "3cde4f5aabc2b338b0a22a25065928e747d49e66fa779af8bf57249da9a5f31b"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TitleScheme.json",
+      "sha256": "ea569592b9bac4f94852b9d91c623943de6dfffbdb14da11ce0db5bf9df25e33"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TowerDefenseBlackShopScheme.json",
+      "sha256": "20279945ac0e1bd03e7b513bf723d10b062b7d0086105b154ed4225ee1fa1695"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TowerDefenseWaveMonsterScheme.json",
+      "sha256": "a741666f0c44bffe6bf88478c097ef3e2e467e8b6694b11c5e0b8a6166dd2edc"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TowerDefenseWaveScheme.json",
+      "sha256": "cccf0cdf504a3600d27b3bf0049a7fd13b2a043f17ecf3e864fce01e5c636fb3"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TowerDefenseWaveShopScheme.json",
+      "sha256": "9c9c3f835269726f74c44e1f1aac98190ce76ac71a1cb79a6f5ec4a62709f752"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TraderDrawDropScheme.json",
+      "sha256": "8a2911fd9fc0572aca59d73e4ddc1e85c1b9913ed9e4d84804cfc582c9ceb881"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TraderDrawScheme.json",
+      "sha256": "211e94a617ee58600358167b46887503b1e8157809465026767fd4e9a37aaeb9"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/TriggerTipsScheme.json",
+      "sha256": "5e6db56e825058d1aa358980d85140e0aec0495c0af1e2e0af0c101831571371"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/UISoundScheme.json",
+      "sha256": "16d5a62eb080dcdf45a42048e8485ef4726726e0c4bd88059ad79902f4ea4188"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WarehouseScheme.json",
+      "sha256": "c971f851d6617d149b5c9f31b8b7677e6d6c80d49edff7abd1be62739529c6ef"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WeaponEnhanceScheme.json",
+      "sha256": "ed7d0d269e2128849b421afcb07a3aeb2476e517939e1e3302c36e4fd57f95f5"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WeaponForgeScheme.json",
+      "sha256": "13eca8b64b1229edb6cc0425388f2d189e26fdea96462df7705cd288d8437be5"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WeaponMasterScheme.json",
+      "sha256": "3721170da3de2c2af5fe658a37e52f003af05dd5632c22cb6b3b0813900a9ac2"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WeaponScheme.json",
+      "sha256": "d861a1a567d75eb66f9dc9f9fd605995fae883ab86f1fedaec88bc14048fd9ff"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WwiseEventSoundScheme.json",
+      "sha256": "c9c5526ed1398a55cd9bd4f9c3290124eb1fdbd142dce2037cfc1a018ff9ddfd"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/WwiseSoundScheme.json",
+      "sha256": "8876a8712e321de6f0f9d788acca2b62e41c932a9131f24a6f2044adc4693dbb"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/serverScheme.json",
+      "sha256": "e51a8d1f2f1b62e90cc33b9c2f1e6711ceda3450756bf5c1ea1ecf56044753d0"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/weaponShardsScheme.json",
+      "sha256": "ef2904c0ce57cf270f34cb9d21cad0cf156092f2932aba30d1441768e6b6ba73"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/welfareAwardScheme.json",
+      "sha256": "843c716f5410e59208c1309dd5ba0a2f396e87899fb65fcfd5808292d215e730"
+    },
+    {
+      "path": "Server_Full/Server/config/schemes/welfareScheme.json",
+      "sha256": "966dd207534fc884128b809d455e9d0a8396e35cfaa836ab45ebba4d26d21bc2"
+    },
+    {
+      "path": "Server_Full/Server/config/weapon-vfx-3127.json",
+      "sha256": "43182daeb4a3d603668aad6daaab86ac156942540a57c5acd9d9bcfdea0103df"
+    },
+    {
+      "path": "Server_Full/Server/config/world-content-3127.json",
+      "sha256": "8809ef394798eda375a007001123705f6ba12cb0ed5bff5c1e92d188bc6e8d9e"
+    },
+    {
+      "path": "Website_Full/lib/user-ingame-page.js",
+      "sha256": "150871fef2d94fd9783634cd0be5d03f2c36c83f3273fa8163ca8ff544bf4715"
+    },
+    {
+      "path": "Website_Full/public/admin-console.js",
+      "sha256": "77021e33cc4e0a2f5e4c4e078de9e0a6e67fe9771b228d5070f4fc64596c24ed"
+    },
+    {
+      "path": "Website_Full/public/admin-mail.js",
+      "sha256": "83b1e4ed039bdc3e4246346c46d83d3c10467f4e57bfec0495c126dee3ee80eb"
+    },
+    {
+      "path": "Website_Full/public/shop-assets/items.json",
+      "sha256": "8ac51d0857584c59aa1057b5c882bae1411b30d407ff455493015ec1d4cc5bc9"
+    },
+    {
+      "path": "Website_Full/public/user-ingame.js",
+      "sha256": "98c4e621069ac160636c2661c793c234556cb17f7712ab935de95725f3581cc0"
+    },
+    {
+      "path": "Website_Full/public/user-mounts.js",
+      "sha256": "df427e4c2fc36bd3f8759e6d76af0568e92793be5308e205e9aca3c12cf5e97f"
+    },
+    {
+      "path": "Website_Full/server.js",
+      "sha256": "df6254e52085ef47adfe583f17362c42ca228efe40aabb3a94e21dda8b4a78d1"
+    },
+    {
+      "path": "Website_Full/tests/admin-mail-browser.test.js",
+      "sha256": "4f0fc2f8561813fd9079793fd55cafe02c0494f00f3e03a36c7683b1cb00973f"
+    },
+    {
+      "path": "Website_Full/tests/mail-browser-harness.js",
+      "sha256": "8755c97367a4f28e0932ddcfc5e0943e8943787a700f68fbc93a7e0b634ffc84"
+    }
+  ]
+}

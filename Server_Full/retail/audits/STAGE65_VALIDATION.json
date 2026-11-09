@@ -1,0 +1,113 @@
+{
+  "stage": 65,
+  "version": "0.43.0-stage65-hero-weapon-storm-skills",
+  "tests": {
+    "tests": 1226,
+    "pass": 1226,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage65": 37,
+    "updatedPriorScenarios": 4,
+    "updatedPriorReason": "native200ms cast point replaces instant wizard/vortex VFX expectations",
+    "command": "node --test --test-concurrency=4 stage65/Server_Full/Server/tests/*.test.js"
+  },
+  "syntax": {
+    "status": "PASS",
+    "count": 13,
+    "files": [
+      "Server_Full/server.js",
+      "Server_Full/Server/tests/stage43-hero-vfx.test.js",
+      "Server_Full/Server/tests/stage65-storm-skills.test.js",
+      "Server_Full/Server/tests/stage46-regressions.test.js",
+      "Server_Full/Server/tests/stage43-ai-skills.test.js",
+      "Server_Full/Server/tests/stage65-native-storms.test.js",
+      "Server_Full/Server/lib/weapon-vfx-3127.js",
+      "Server_Full/Server/lib/storm-skills-3127.js",
+      "Server_Full/Server/lib/combat-input-3127.js",
+      "Server_Full/Server/lib/actions-3127.js",
+      "Server_Full/Server/lib/hero-vfx-3127.js",
+      "Server_Full/Server/lib/world.js",
+      "Server_Full/Server/tests/helpers/stage65-native.js"
+    ]
+  },
+  "smoke": {
+    "stage65": {
+      "nativeHeroF": true,
+      "nativeWeaponRMB": true,
+      "delayedFieldCreation": true,
+      "wizardPulseDamage": true,
+      "vortex500DamageCap": true,
+      "nativeEffect107And1065": true,
+      "variantScale12": true
+    },
+    "stage64Regression": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.43.0-stage65-hero-weapon-storm-skills",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "PVPBoardNotRemovedOrReplaced": true,
+    "allConfigSchemesByteIdenticalToStage64": true,
+    "clientAddonWebsiteByteIdenticalToStage64": true,
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

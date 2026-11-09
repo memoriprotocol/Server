@@ -1,0 +1,7 @@
+ 'use strict';
+// Keep a failing simulation subsystem from starving rank/event delivery.
+function tick(game,time=Date.now()){
+ const jobs=[['levels',()=>require('./level-delivery-3127').tick(game,time)],['dan',()=>require('./dan-3127').tick(game,time)],['mummy',()=>require('./mummy-3127').tick(game,time)],['witch',()=>require('./witch-3127').tick(game,time)],['treant',()=>require('./treant-3127').tick(game,time)],['fishing-delivery',()=>require('./fishing-delivery-3127').tick(game,time)],['bard-support',()=>require('./bard-3127').tick(game,time)],['relic-archive',()=>require('./relics-3127').tick(game,time)],['payments',()=>require('./payments-3127').tick(game,time)],['passes',()=>require('./passes-3127').tick(game,time)],['activities',()=>require('./activities-3127').tick(game,time)],['economy',()=>require('./account-economy-3127').tick(game,time)],['event-controls',()=>require('./event-window-3127').tick(game,time)],['map-ranks',()=>require('./room-rank-3127').tick(game,time)],['account-ranks',()=>require('./rankings-3127').tick(game,time)],['world',()=>require('./world').tickWorld(game,0.05)]];
+ for(const [name,run] of jobs)try{run();}catch(error){game.runtimeFailures||=new Map();const previous=game.runtimeFailures.get(name)||{count:0,lastLog:0};previous.count++;previous.error=String(error.message||error).slice(0,240);if(!previous.lastLog||time-previous.lastLog>=5000){previous.lastLog=time;console.warn('[TICK '+name+']',previous.error);}game.runtimeFailures.set(name,previous);}
+}
+module.exports={tick};

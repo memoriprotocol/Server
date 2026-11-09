@@ -1,0 +1,1011 @@
+{
+  "client": "3.12.7",
+  "heroSkillsCompared": 21,
+  "comparison": [
+    {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs",
+        "args"
+      ],
+      "differences": {}
+    },
+    {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "args": {
+          "client3127": [
+            "damage:13000",
+            "num:0",
+            "hpArgs:0",
+            "interval:1500",
+            "duration:5000",
+            "rebound:0",
+            "atkArgs:45",
+            "physicalBurn:15"
+          ],
+          "later": [
+            "damage:13000",
+            "num:0",
+            "hpArgs:0",
+            "interval:1250",
+            "duration:5000",
+            "rebound:0",
+            "atkArgs:45",
+            "physicalBurn:15"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 1,
+      "skillID": 6013,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "args": {
+          "client3127": [
+            "damage:13000",
+            "num:0",
+            "hpArgs:0",
+            "interval:1500",
+            "duration:5000",
+            "rebound:0",
+            "atkArgs:45",
+            "defence:30",
+            "physicalBurn:15"
+          ],
+          "later": [
+            "damage:13000",
+            "num:0",
+            "hpArgs:0",
+            "interval:1000",
+            "duration:5000",
+            "rebound:0",
+            "atkArgs:45",
+            "defence:30",
+            "physicalBurn:15"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 70000,
+          "later": 60000
+        },
+        "duration": {
+          "client3127": 6000,
+          "later": 7000
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:8",
+            "duration:6000",
+            "atkArgs:0",
+            "hpArgs2:0"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:8",
+            "duration:7000",
+            "atkArgs:0",
+            "hpArgs2:0"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 70000,
+          "later": 60000
+        },
+        "duration": {
+          "client3127": 6000,
+          "later": 7000
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:9",
+            "duration:6000",
+            "atkArgs:0",
+            "hpArgs2:35"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:9",
+            "duration:7000",
+            "atkArgs:0",
+            "hpArgs2:35"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 2,
+      "skillID": 6006,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 70000,
+          "later": 60000
+        },
+        "duration": {
+          "client3127": 6000,
+          "later": 7000
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:10",
+            "duration:6000",
+            "atkArgs:0",
+            "hpArgs2:40",
+            "defence:30"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:10",
+            "duration:7000",
+            "atkArgs:0",
+            "hpArgs2:40",
+            "defence:30"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "effectSize",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "duration": {
+          "client3127": 5000,
+          "later": 10000
+        },
+        "maxDistance": {
+          "client3127": 800,
+          "later": 2000
+        },
+        "attribute": {
+          "client3127": 1,
+          "later": 4
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "invincibleTime:3000",
+            "damDuration:3000",
+            "atkArgs:90",
+            "healRate:3"
+          ],
+          "later": [
+            "damage:0",
+            "invincibleTime:3000",
+            "restoreHpDuration:0",
+            "damDuration:3000",
+            "atkArgs:90",
+            "healRate:3",
+            "baseShield:5"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "effectSize",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "duration": {
+          "client3127": 5000,
+          "later": 10000
+        },
+        "maxDistance": {
+          "client3127": 800,
+          "later": 2000
+        },
+        "attribute": {
+          "client3127": 1,
+          "later": 4
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "invincibleTime:4000",
+            "restoreHpDuration:4000",
+            "hpArgs:10",
+            "damDuration:4000",
+            "atkArgs:90",
+            "healRate:6"
+          ],
+          "later": [
+            "damage:0",
+            "invincibleTime:4000",
+            "restoreHpDuration:4000",
+            "hpArgs:2.5",
+            "damDuration:4000",
+            "atkArgs:90",
+            "healRate:6",
+            "baseShield:10",
+            "hpHealArgs:30"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 3,
+      "skillID": 6003,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "effectSize",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "duration": {
+          "client3127": 5000,
+          "later": 10000
+        },
+        "maxDistance": {
+          "client3127": 800,
+          "later": 2000
+        },
+        "attribute": {
+          "client3127": 1,
+          "later": 4
+        },
+        "args": {
+          "client3127": [
+            "damage:5000",
+            "invincibleTime:5000",
+            "restoreHpDuration:5000",
+            "hpArgs:15",
+            "damDuration:5000",
+            "atkArgs:90",
+            "healRate:10"
+          ],
+          "later": [
+            "damage:5000",
+            "invincibleTime:5000",
+            "restoreHpDuration:5000",
+            "hpArgs:5",
+            "damDuration:5000",
+            "atkArgs:90",
+            "healRate:10",
+            "baseShield:15",
+            "hpHealArgs:50"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute"
+      ],
+      "differences": {
+        "damaga": {
+          "client3127": 3000,
+          "later": 3500
+        },
+        "atkargs": {
+          "client3127": 30,
+          "later": 35
+        },
+        "args": {
+          "client3127": [
+            "damage:3000",
+            "duration:4000",
+            "atkArgs:30",
+            "hitCd:500",
+            "cdArgs:6"
+          ],
+          "later": [
+            "damage:3500",
+            "duration:4000",
+            "atkArgs:35",
+            "hitCd:500",
+            "cdArgs:6",
+            "damageTickInterval:3000"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute"
+      ],
+      "differences": {
+        "damaga": {
+          "client3127": 4000,
+          "later": 4600
+        },
+        "atkargs": {
+          "client3127": 45,
+          "later": 52
+        },
+        "args": {
+          "client3127": [
+            "damage:4000",
+            "duration:4500",
+            "atkArgs:45",
+            "hitCd:500",
+            "cdArgs:12"
+          ],
+          "later": [
+            "damage:4600",
+            "duration:4600",
+            "atkArgs:52",
+            "hitCd:500",
+            "cdArgs:12",
+            "damageTickInterval:3000"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 4,
+      "skillID": 6004,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute"
+      ],
+      "differences": {
+        "damaga": {
+          "client3127": 5000,
+          "later": 5800
+        },
+        "atkargs": {
+          "client3127": 60,
+          "later": 70
+        },
+        "args": {
+          "client3127": [
+            "damage:5000",
+            "duration:5000",
+            "atkArgs:60",
+            "hitCd:500",
+            "freezeNum:7",
+            "freezeDuration:1500",
+            "cdArgs:20"
+          ],
+          "later": [
+            "damage:5800",
+            "duration:5000",
+            "atkArgs:70",
+            "hitCd:500",
+            "freezeNum:6",
+            "freezeDuration:1500",
+            "cdArgs:20",
+            "damageTickInterval:3000"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "duration": {
+          "client3127": 6000,
+          "later": 4500
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:30",
+            "duration:6000",
+            "atkArgs:0"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:45",
+            "duration:4500",
+            "atkArgs:0",
+            "skillActivedRate:10",
+            "buffDam:500"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "duration": {
+          "client3127": 6000,
+          "later": 4500
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:35",
+            "duration:6000",
+            "atkArgs:0"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:45",
+            "duration:4500",
+            "atkArgs:0",
+            "skillActivedRate:15",
+            "buffDam:750"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 6,
+      "skillID": 6005,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "maxDistance",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "duration": {
+          "client3127": 6000,
+          "later": 4500
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:40",
+            "duration:6000",
+            "atkArgs:0"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:45",
+            "duration:4500",
+            "atkArgs:0",
+            "skillActivedRate:20",
+            "buffDam:1000"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 70000,
+          "later": 30000
+        },
+        "damaga": {
+          "client3127": 5000,
+          "later": 4500
+        },
+        "atkargs": {
+          "client3127": 60,
+          "later": 54
+        },
+        "args": {
+          "client3127": [
+            "damage:5000",
+            "atkArgs:60",
+            "num:4",
+            "angle:90",
+            "moveDistance:1000",
+            "heroSkillCD:30",
+            "weaponSkillCD:30"
+          ],
+          "later": [
+            "damage:4500",
+            "atkArgs:54",
+            "num:4",
+            "angle:90",
+            "moveDistance:1000",
+            "heroSkillCD:30",
+            "weaponSkillCD:30"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 70000,
+          "later": 30000
+        },
+        "damaga": {
+          "client3127": 5000,
+          "later": 4500
+        },
+        "atkargs": {
+          "client3127": 60,
+          "later": 54
+        },
+        "args": {
+          "client3127": [
+            "damage:5000",
+            "atkArgs:60",
+            "num:6",
+            "angle:60",
+            "hpArgs:5",
+            "moveDistance:1500",
+            "heroSkillCD:50",
+            "weaponSkillCD:50"
+          ],
+          "later": [
+            "damage:4500",
+            "atkArgs:54",
+            "num:6",
+            "angle:60",
+            "hpArgs:5",
+            "moveDistance:1500",
+            "heroSkillCD:50",
+            "weaponSkillCD:50"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 12,
+      "skillID": 6014,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "duration",
+        "maxDistance",
+        "effectSize",
+        "attribute"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 70000,
+          "later": 30000
+        },
+        "damaga": {
+          "client3127": 5000,
+          "later": 4500
+        },
+        "atkargs": {
+          "client3127": 60,
+          "later": 54
+        },
+        "args": {
+          "client3127": [
+            "damage:5000",
+            "atkArgs:60",
+            "num:8",
+            "angle:45",
+            "hpArgs:5",
+            "moveDistance:2000",
+            "heroSkillCD:70",
+            "weaponSkillCD:70"
+          ],
+          "later": [
+            "damage:4500",
+            "atkArgs:54",
+            "num:8",
+            "angle:45",
+            "hpArgs:5",
+            "moveDistance:2000",
+            "heroSkillCD:70",
+            "weaponSkillCD:70"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 1,
+      "equalFields": [
+        "skillType",
+        "cd",
+        "duration",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "maxDistance": {
+          "client3127": 1000,
+          "later": 2000
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:6",
+            "interval:1000",
+            "duration:10000",
+            "atkArgs:0",
+            "attackArgs:3",
+            "speedArgs:200"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:6",
+            "interval:1000",
+            "duration:10000",
+            "atkArgs:0",
+            "attackArgs:3",
+            "speedArgs:200",
+            "attackSpeedPer:0"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 2,
+      "equalFields": [
+        "skillType",
+        "duration",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 90000,
+          "later": 75000
+        },
+        "maxDistance": {
+          "client3127": 1000,
+          "later": 2000
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:7",
+            "interval:1000",
+            "duration:10000",
+            "atkArgs:0",
+            "attackArgs:6",
+            "speedArgs:250"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:7",
+            "interval:1000",
+            "duration:10000",
+            "atkArgs:0",
+            "attackArgs:6",
+            "speedArgs:250",
+            "attackSpeedPer:0"
+          ]
+        }
+      }
+    },
+    {
+      "heroId": 13,
+      "skillID": 6015,
+      "star": 3,
+      "equalFields": [
+        "skillType",
+        "duration",
+        "effectSize",
+        "attribute",
+        "damaga",
+        "atkargs"
+      ],
+      "differences": {
+        "cd": {
+          "client3127": 90000,
+          "later": 60000
+        },
+        "maxDistance": {
+          "client3127": 1000,
+          "later": 2000
+        },
+        "args": {
+          "client3127": [
+            "damage:0",
+            "hpArgs:8",
+            "interval:1000",
+            "duration:10000",
+            "atkArgs:0",
+            "attackArgs:10",
+            "speedArgs:300"
+          ],
+          "later": [
+            "damage:0",
+            "hpArgs:8",
+            "interval:1000",
+            "duration:10000",
+            "atkArgs:0",
+            "attackArgs:10",
+            "speedArgs:300",
+            "attackSpeedPer:0"
+          ]
+        }
+      }
+    }
+  ],
+  "plans": 81,
+  "verifiedPlans": 79,
+  "missingPlans": {
+    "6003:2:303": [
+      "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a02_2"
+    ],
+    "6003:3:303": [
+      "arena/heroskill/300300_skill_tx_303/prefab/300300_skill_tx_a02_3"
+    ]
+  },
+  "missingOptionalAssets": [
+    "arena/heroskill/mofashi/prefab/sound"
+  ],
+  "verifiedImportPacks": {
+    "0a00ba123": "7740a4ab56641bb82e2dc3cdf7f538f7c5311c696d789d63b5710c7cb0437841",
+    "86e06558-93c9-40ce-8b25-58c3eb5f34f6": "e165d8f452fae2eea9c7f43aa4ab62e21cbc7037b9dd162689706c7885278b2d",
+    "cf4bd21f-8a71-41c6-854b-33c14cb490c3": "0c7ce9cd99cb8956db9955d34f97dd564699390058b48bfd55f123030aeaf67e",
+    "e43d2e14-5e3a-4bf2-822e-7afa45513310": "5cd7dd62f3752ee1b19e07819fd6a62405fd5e1e3259d717352535d0fa74db93",
+    "f056e00a-d5ce-4fa4-bab6-d551190627da": "ac1d38facbb8b27fb0730ada6581d924c1343ada3ea23b64fd3904beee256490",
+    "5d26e07c-f567-4072-8ce7-a141e241e417": "6b3995625d633898499d1e4e5f6f959327b0edf4460e4f7cca425f0b9c11c8de",
+    "9d398e9d-25cf-473e-8d7b-c335e93062ef": "f3f2d6944a832a72f7bbba66e0fef0be768c43d29b31236859033ef3275b928d",
+    "39d84510-af08-48d0-bf3c-8ede386aaf77": "70effa7ab287732d8ba69a472b758698bdee9cd78a26ea2f02968fa62b3d782e",
+    "fd9d80d9-fc43-41bb-bb5a-be0212a2148a": "e6cf5bb233ac08604975156386309d56ac9a8bbe017f58881194727f1a66a438",
+    "656c1c97-3935-4d2f-ba41-d5eaefd1c677": "6f614265b110ba1d17d93bd3f78985175fa4a10989ea43260bcc5c63d725b2f7",
+    "2f0eadcc-e6c7-46d9-afc8-79764b23ce45": "e165d8f452fae2eea9c7f43aa4ab62e21cbc7037b9dd162689706c7885278b2d",
+    "843d691b-607a-4a61-a74b-70c618371b40": "0c7ce9cd99cb8956db9955d34f97dd564699390058b48bfd55f123030aeaf67e",
+    "882e7c82-6808-403e-8481-5ae358b4da9a": "c51e4b0eb07dab990c1f716242b2a94f085737112074c3c087b70fd50e6a3c6c",
+    "806d8322-5e0e-4341-9cf0-bdd7d03d930a": "e165d8f452fae2eea9c7f43aa4ab62e21cbc7037b9dd162689706c7885278b2d",
+    "9bd44231-7d61-47b9-a44e-4d12227776b8": "0c7ce9cd99cb8956db9955d34f97dd564699390058b48bfd55f123030aeaf67e",
+    "0187f5d21": "bb76b1ad67059f552c4d132b40b67ac0bb422c900f81afae1b84ceac89e94ade",
+    "0832e7ebb": "63873e1479cc3b60cf0670f21cc566adcb36a171ff95e22fa15afb12b5310b41",
+    "e215fc57-b444-4237-8329-6c2e4a6d8930": "c96103506f4c8d385786bf98f5b2b99a8d96e99cb26dacb489b5572979bf064f",
+    "0237f9d8c": "7e92cdb825f11b6a64a935ba60f9872c1f6223e21a2cc850b083237d1a53c906",
+    "0ee4d7c98": "e02ee7a01724b7074a92f9aa7dac1bcc7ddff7e90ee32e05b2d40fed51d2bbbc",
+    "bc9a26f3-143b-4080-bdf8-f72b1a0cf77c": "c96103506f4c8d385786bf98f5b2b99a8d96e99cb26dacb489b5572979bf064f",
+    "9049af25-646c-47fc-81a4-dffbeb09ee26": "3971ea52552670d2479d9fbd31fded1cef5a12b7f195a62f75e8c6f40c196867",
+    "4af27884-1a3e-4bb8-b11a-24bde1b4baa9": "6dc30b10f301394834a00bcf7fb68cc35b175aa3c1baf3aae3cbaf4863bf85df",
+    "e3faaae5-bd0c-423c-886e-15ad41c1f267": "77a7cd22d5e83baa847b5f1741b4ccdb1af30aae0c0b9d7bafebd0d9fe111202",
+    "09e33605d": "856971e29701ebe86f5de9b5e9b560b3dbd18b85ee990519c694860b19d9d4ce",
+    "ee7bdde0-4405-4f56-a2a1-8ad0bdd177ad": "e4e82c19c8f1da192ff448b3c5cebc93c3d4a3b697e002a19aa6a84a2d02560c",
+    "77e25b6d-27e9-412e-89e0-6d92934d6666": "81de41b355c667b3005e7053b0387932318e42fff7eba47de0077e095a652f9b",
+    "0f3598d82": "587f00ea3ef798a12cd0758ce8a214f925c25b8b8a647fa0286ebb853d3a97e1",
+    "01f5bd530": "f43d453c393a1739159467c57854ac9257117eb76831adc455dc4f2c2dae5de0",
+    "8506d48f-991e-4bd1-9ddc-24d91f92b159": "81de41b355c667b3005e7053b0387932318e42fff7eba47de0077e095a652f9b",
+    "e9f8bfd2-1975-447f-85dc-93571112b49d": "09108e78c906e976dec6ac209dfc75e029f46575b2aac57c4b3c4d1896bc5c93",
+    "7e206363-3eb6-49e9-939b-1d3d7ad4f905": "9fa7a9d96f66d145c7a204b64c3524731cf78900cf37b1ae980278a29361695b",
+    "3d2c349d-d6cc-4177-b282-c309aacc5f73": "efecd1530f896dc82d9336e6a29e9a2c2167b30071afb76ac9fb7e43e16b487d",
+    "010dc0157": "961ab20c85d22673724942a2375a7fcf64de99dd5cf1328c1b64d673cb6fc5d3",
+    "6a3094f3-1220-4a1b-a8f9-fb4ac7593c55": "6892bf37b190b9acfe8bed1d878b9aae4aa783dd96f996e44137f5f02dfd556e",
+    "1ce2b2c5-f581-4d96-b5a1-45c66aa529e3": "52e4a7296db385258e374ddd59501b359041d73d6ae25daa6c4557013862a5a8",
+    "0bd575d76": "bca49dc37aad84df853881ff445e419a3e26c1c74b6afe5ee5b1e867fb41b7c0",
+    "0a45bf9dc": "1dd67410a5b32df510ad336663320337144005777ebf0095f1f2dc6e12d055e9",
+    "43cb4422-c687-4703-87a4-ba475983fd37": "52e4a7296db385258e374ddd59501b359041d73d6ae25daa6c4557013862a5a8",
+    "d5765ba4-d518-463f-b9de-e48012d8ed8a": "fd54d32f74bf8ef1107b2170457e798e913e4f63dd6fe397d9d63269c673fe14",
+    "b614d00d-4945-4123-bbb1-8e75f827ef4e": "6397637fa1e05591b54a25fced2358811750c3a267282b5ea3d3a6cacd414d63",
+    "95146254-56f4-4286-9251-d22e3de4aefd": "7c85a7b5d15b9e7616991963c0dcdd23097d62e84318b3fd6a5eaf5337b58848",
+    "365e3cd4-6ca3-4b50-8ff8-0cdaed3084cc": "78d1d3a3cf579fbb957cb572ba19385977f5ecb3d738c26499dd763bf0b5e092",
+    "c4df18d2-2b9c-48b0-994a-463d81af06e4": "e4c154e0caa374cd9f4c3ac2ecf0594cac949d023e623021d3f546ea74fcb8e1",
+    "0254061c7": "767b3bad53e70e4adffba6141c782ce25d63e6a99a8d15adcb26a4d3f1adb55c",
+    "a1122cc5-0f2b-4b1f-824c-aec0ab4c6fa9": "942053b706c1e724d1ec14002c0fb9fa4644c23fd1a283b65c9c1b360575adbf",
+    "011d0abf5": "098a5fa386760c4f8c46f01432f9b50dc2f61a68ef7cb198292db0c413b9c7bf",
+    "286d86c3-a1b8-405b-b305-4af0e5604167": "6faecaf0c4c25def8919e6344cae8c28bb2e0d6b37ae3337ab3286e41be516de",
+    "59a6a0f6-bbc5-4ed3-b937-18ecde0c27b5": "b3e73c981cf75014a1ea6422aa513becc22994c5d110407d4451f9ce2f438015",
+    "c3369be1-8fc8-4cf5-ad45-db4ba3d8f1ea": "6a3c903e43888a164a0a038bdbc5e823f9940f04219c939cf7ccb73a53ae15da",
+    "020066554": "86f80afba3b46d393cf8da3dbfd48a55d8056c92c3c4a811d18d13f8a7bd61c7",
+    "0cc4ab220": "ded91e18d4cb12bc0db46a34665a495d10626ae0e0ecb451e69bc0d015acd308",
+    "5473c150-3a6b-4db8-a3b2-5faf7736a104": "8d8a6e0c17177341b3b5c0fb20cb8c7b1871e35a2aafcf58a623aea96e3067f2",
+    "04845619a": "97c2b07142fad461881136a77fee7d6b6a1ef42626ba4e37ade7df9cc6fe4058",
+    "aee6f9f5-6087-46a6-9110-6156e6a0ac58": "31bc37355c52cef910f82a2eebff0f639ca14977bc40024b54e7b2d52b204092",
+    "055c2d3ae": "e9d5f6aaf31b8cffb0b2cdd07c85eac81a6831a262329e9f0630217d92e2f4dc",
+    "92fd200b-4fc4-4d90-9d0e-71ecb9019f21": "bb4e9722e7e4c36bf82c6b16a4999be67888f606145ddf0ba811752732cc359c",
+    "8981dc99-821d-42d2-b529-04ea1b787c83": "6335e02a89133ef996eb627f1c85f3f614f3af317983f53ac62bd8977dc65a17",
+    "ae19ae89-e0d1-481b-87ac-dc56f71a27dd": "cf384f5ac1aa153d80cccd14a6316a0668269c5e13866e9d5539d15605086300",
+    "036cafe81": "f3a6075eda8a7129bdcb43f5cf4894529d0ba916b8170f2b56961914a62a26f2",
+    "0605735d-f349-44cf-8c93-490c2afb9c0f": "8795655b811f62eb77b7d9f49eaa94b6403b77e50579b2e13dce96e38072f2a3",
+    "0add7c9f3": "4a699d701bb72a49e677d521ab95650e9ca3d7c474cef19bd8341ee77ef1aac7",
+    "f84f4b5e-e09e-41b7-836d-11345f162248": "ef34e3c54f4d3efc4c9f0ec1d87083e9ee45487a192e25121ccbbc7a24ce3184",
+    "04f85cf70": "7b075101fb4dff90af3ba2e8046c95d3444e46e22a2514cd3a97c09ff4a75402",
+    "025cd3a96": "297081d3c3d9951e2d7b964747a69e8ffcbaffc8791edef996e942bd73281ebd",
+    "04745deb-4e17-4934-b0c1-29f22f4ac778": "1ee56227e81af43f9102ac690e7ecd1b8fa26cbd38bed6e03d4e4b7dff6b30c3",
+    "04cd8a9ff": "6751b998b66b33bf0a5fe97dd624ae67f30f69abbab7435345d370d83b10fd3b",
+    "13df54c3-4ee3-4c77-a4a2-c2895cc89f36": "60588b06a58521ce54a43513c0137556e022a0c632dcbd39ddf1fb309420bb48",
+    "406c59d4-e77c-4783-868a-dbf9ac46926c": "2c42475b645d2713d6d405ebd425f2f6c7867770cb00b2291ee6458664f55532",
+    "feedf5da-a87b-49cb-ba70-bb644dbc14bd": "419c85347a87f85e4207fb35ae7462749f65eb8137744a4f310a1db079d6c88d",
+    "b1c96d4c-9af2-4b29-b886-733d0796978a": "a2291f05dc3575b80b666738312d29ec91922fbb5b23854892bc75f708fcbc4f",
+    "0fd6b70c-126b-43db-9cc5-d7e553be1c16": "999955a61cf5f7a6017cffcfa8ae6c8d83344706809036f496b3dd52ab8b9d88",
+    "0e858e8ee": "5e845917d4e800fdeec3c47aa1f0942ff395a3f2131f80c3eadfdb433bcaed46",
+    "cbb93f1e-b825-4b0d-abb4-54fe2d43bfa1": "4aae6454603dc1cadab68ece55b7225beb29705f64b40650a58e1be8563ece27",
+    "02664c1ea": "656a4d778cc0b1751a1316fbfceae9760c89b02c10cefb23dbc488616f86d436",
+    "61f8da25-0953-4e56-a377-b8bb9cf7efa5": "6d8b94e02c565c4e973697d50741e3a76a671db34518dab0c55a7c37eb67b5f7",
+    "06fdcc636": "ffadbea8f91ee82c3db10b43680568ec4275e7682ba623c712c81ea61bbc2a64",
+    "edfbbb24-9130-4aa1-87e9-c4ab21541293": "c1974cf9e9395a896caf074cb99781cfc37269b952a5628400ab746624a99582",
+    "0ec8b80e8": "0cf5a8b6b5f3a33d68dda1af2b6f774679c7ecf65942fdb704495a515a9dfa60",
+    "050983db1": "bb867a6e99859c325ed878ead02fe5863cde7bd792ef0af567c40ba2a017939f",
+    "679e88b0-22fb-4e01-b43c-e23bcbf5852a": "0d2fbb5d617e695e68d7751edea2253a4aae6fc10261fa214931e4cc7ec37c82",
+    "067e5f341": "4bd899441c9b6cba87aa449363469deca1842db4d5dc30e09bb3fd2026732ceb",
+    "3278123b-6db4-4c2b-8790-1daf09edd33e": "6b146fe74c80715470f5e527fdc6b40f16374dcd2924817daae003b502749485",
+    "034d6906c": "56f6c4a722bb6cb342c860ba0ebcd837ca193218a98604453fa925f4320754b6",
+    "a0c08f38-eac6-4bad-b424-1e18358a6930": "941c755b0200610428bc61a7135cb8f3c7cf3ec3fceac15702bcda4693ff55fc",
+    "36e3de16-3a99-4ed0-a666-2f5f9a3c6318": "e47a245744f56aba540fbbd89914a006e86188f76e5fd9281fba4619eeb72f3d",
+    "0e303fcb1": "eb4a5bbc3adea2fcbb5af82c2c1940160a779f1a9acaaaca029054cb4cde6eb3",
+    "0cf80cf05": "f3f4343235d1331d66a1d08fbc5437e9a33eb50a50bef7675d5cdd2e081b038c",
+    "0925f7fc3": "4f8cf95e6aacb29e47c4e15fb0cb59afd23979e0475738a2926660f3b2b67de9",
+    "0dfa194d0": "bcca130d7ea62076ee0de687fdcd27d421a27d79f528f920ce0c6f74290c812b",
+    "085722388": "bbad7e7341dbdfccdcc57b5ced28922860c68f61a479e46325f71de508981208",
+    "0c1eb8847": "8acbe4d30389777e194014339427a880af273e250394cf2b10d933f022128d17",
+    "31ce1bb8-4ae0-490e-8404-35ff8173c709": "bdf3abbbcc2f71b4e6a167703cfd2f445e69abfd79d49f65f29788dec9388830",
+    "0a2717cd-ba80-4162-bb48-6f40569619c2": "384d2d62952b0f02c2d02b7293edfc0ed863f03388dbab56add71cd9a2eafcf6",
+    "0d9de94b6": "d594ab4b6b6bff0cbe09da4d5e01b6f82ed5ec71a4e5fccf976c6aeb02726b51",
+    "0f3b1a3fd": "be0055d026e15ca5fb156c0bc15b3fd0229d4af46f513ddcc4ed11cf604ed70e",
+    "7b2b5f7b-68a4-45f1-b628-e5b1a63d64d9": "78177e45d9456ad9aaec2e925ef9240ff7a8cff106e5d24c5c3a9ab28654abf7",
+    "01d8dd38b": "28205439ca0d01cbb4993b21bd54d24ba31ed9f7c57ef474d3482cd36091a591",
+    "0779d7816": "aa8281225be63cc5806be7c91f9fb3203aa476eeb92cb5e98494c18a368d0991",
+    "0852aeda0": "e298b5698168edc87a684cb8641df6fb4a50d9983cebc2ea9582d5b2681d38e6",
+    "397ba776-f977-40e1-ba2e-23731e9780b5": "c141cef0a63e10da2ff9b5922d66ec002524142d983631d2da9a297c39b941bd",
+    "76e200f2-f954-4deb-8ee2-7b1396fef9c6": "39d556fc3e0ae325822e31229700b904d71e2584d8d226d9ec64c0e587da32c4",
+    "013af3fbb": "c466fda1ef276246f6307970e21c2ec481fe3137dd9399a2d96b195406f28c35",
+    "805b4586-47d8-4f14-bbd4-998c60d58f7f": "530b0e77bb7df8a051155842c141eed55b26af90613749f34ea7cc688515af2f",
+    "752e0b8f-f25f-46d5-8537-4bb926fc0df7": "c4acd2bddf45eb0ffdbcbb777b407a16760f65bbfd559751fdfb648b4103e1ca",
+    "031f12fae": "d9e0a0a1ca2eb0de7fa44f6d85b008cf2cbf1e8d5f0a73fea48686d3f208ca53",
+    "07c24c74d": "581c3b5c4014db577a7dc1c3ce4cf3397d0822118643750a707e31f8583336f2",
+    "0bdf01e19": "fa82c993b6ba5df5e729498272c67163361ae255180ff41bbbd04b67f317973c",
+    "41e5f9ec-067d-463c-aca4-c1bd5c0cacb8": "2cadbdcad4a7f8879f4657450b4fe0a57a204bd84eea4430807444cf338b34f5",
+    "608945b1-e286-4bc7-bdcf-99c729d52b04": "0ef7c27fbdc91f31e35fc6501aafc9861d513768760f5320fdf4f787cb00539c",
+    "4a61f9f0-3015-4b81-9dda-6606f2e28962": "43c37f20f31080a367b24b0aaaf4ca49249c645e3f5f5e694967399b8b6e244a",
+    "c659a8d4-8092-4a5a-ba7e-3405fbb79129": "b03a64aa40e0742ca00a2e843fa8d52ad28a16eed621e48a01c0568c9df66744",
+    "450bb835-9f31-47a6-8a57-f7e3205cec73": "43c37f20f31080a367b24b0aaaf4ca49249c645e3f5f5e694967399b8b6e244a",
+    "760028c4-946c-4876-bb19-2b27ab19ac0c": "6de5ebf87809e1df2f6fe83e2a2fac0c81d2b94163257df5b0cac06e13afb36d",
+    "0d836f865": "aa3b11cc6931619ac62d63040fc8b6b4dccc606a87f0633fd328accc167bb75a",
+    "8df25ffd-c005-4d64-a806-0f5af44ad240": "43de94177fe3ccb75c3d9cf64adb76c980e5a356f43a6f6e89f40d9d0d5789cd",
+    "02d5e216-74a8-4af9-b128-3fc41215fccd": "24a099b3b1a30e0449aa1d94e482b0d712868d1770637ee02ea7717c2455bf1d",
+    "c0d022a1-d089-4165-aaed-2cec33680883": "5a2d1f1a080202dd19d4ee27bb7728a713aaf4aabf380418fe89c49e541166ae",
+    "694418d3-a817-4723-99cc-b00e1b38c450": "2077f5567a8180785b116f512335823f8eccddf1880cda9c777cbb9864be35da",
+    "aeb29041-2fb3-43a3-ab02-b7a7e8c78c55": "808a8aec79e5b6ec8eeb9dc32a2f75703e6c87315575a691ec1e35b48104685b",
+    "13ef018f-1469-49b6-9571-a07890df50f1": "cec90a67fc55846f3e01489bf614b952c49e886e8bfd799309e88502bd15b124",
+    "66964af7-23b7-4e57-9c62-f7f9960dec33": "a7364f0c8e26f91f18d05c29b12553c4021d27a36c1df563f31865d326515943",
+    "0a38de324": "df680c2a75f3dcae8526e6bea225701351a64cf472c15d5ec206a27eea3931a2",
+    "5927e8e7-23ac-4f07-9c94-eadb06322c21": "27bd91cc791d742d37285ad5dc41527d2af0a6573da37b7c8f564d0902dd298e",
+    "21e130eb-bfae-4c03-94ab-3da79a425597": "5de1ce17461cd77cd955e60eadc82d35ce50d04aa44ea19f72c29f1689001b8c",
+    "f77a0963-c999-451d-bff0-58e9a28f7195": "fe71333396c5f3fe654d3368b0638572ee5ce1ad8f385f17aa8d424004c5e205",
+    "5c35a472-d131-4085-9409-3b252630d591": "5bb8f16319e5a25b4b85e151c1cf5dcb78c55ea4eef070560bc983f992b062e2",
+    "e81ca281-fa69-4f57-a5a6-404b8def8468": "71ad243bd45d1ae1a3074696bfcc2856559f1c47a7ea676fa3ab168508f67b43",
+    "8c37efc7-c847-4691-82fa-999766e5c116": "179d4bc39b4ec3d1afc168d71345ef7336aa92fa20079bb202a5f0279b9f9254",
+    "9920ce8a-1fde-434c-8e47-80fc53fade35": "57dc6c0874451dcd9a3e444bf5d4fa00fab9e5de599c9ae87378b667f277888f"
+  },
+  "obsoleteSpartaEntityRejected": "1031 references missing base skill_tx; use native buffs 586/705 with origin skin paths."
+}

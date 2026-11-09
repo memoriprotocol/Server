@@ -1,0 +1,212 @@
+[
+  {
+    "path": "Client_Payment_Addon/resources/app/cocosExport/web-desktop/local-bootstrap.js",
+    "change": "modified",
+    "sha256": "be28b30d14fd423e04f82efe7fd2dcc1a595c040d775180c57fd7a692b6f5f0f"
+  },
+  {
+    "path": "ISSUES_STAGE63_RU.txt",
+    "change": "added",
+    "sha256": "0bac9ee46f0b03c665a349959486cee4a96bd73416e4fed0cc62b1f249cdac20"
+  },
+  {
+    "path": "README_STAGE63_RU.txt",
+    "change": "added",
+    "sha256": "b9ae374a16edca9bd285eacfab7ebd8a282641731d62c26641726ee779a8c6ec"
+  },
+  {
+    "path": "Server_Full/README_STAGE63_RU.txt",
+    "change": "added",
+    "sha256": "b9ae374a16edca9bd285eacfab7ebd8a282641731d62c26641726ee779a8c6ec"
+  },
+  {
+    "path": "Server_Full/Server/config/account-rank-policy-3127.json",
+    "change": "added",
+    "sha256": "ed9d2953924bbf8f75bcb7d943591a12d361ec56a8e2131fd434aa899712179a"
+  },
+  {
+    "path": "Server_Full/Server/lib/account-economy-3127.js",
+    "change": "added",
+    "sha256": "9ae1620373f6953c80e25429f4ffedf77478cae77dd3dce774adb8c299df324f"
+  },
+  {
+    "path": "Server_Full/Server/lib/activities-3127.js",
+    "change": "modified",
+    "sha256": "bdd9e8b688b16227b06043faa32e317f4174ba50531d9be4789ed8ae58f07f92"
+  },
+  {
+    "path": "Server_Full/Server/lib/admin-3127.js",
+    "change": "modified",
+    "sha256": "cf0a5077173d7607548c552dcff02269fc0f6224416e2958794e30762bc5addd"
+  },
+  {
+    "path": "Server_Full/Server/lib/event-window-3127.js",
+    "change": "modified",
+    "sha256": "d1b5f39c565a3bb01ba9e3f583426dfa1cf7235f71daa774af6529be20b452cf"
+  },
+  {
+    "path": "Server_Full/Server/lib/event-window-adapter-3127.js",
+    "change": "modified",
+    "sha256": "be7e6a622d4a302a1084d80fac67e9b401598d83ba1f310eeb832a265f70700b"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "change": "modified",
+    "sha256": "d62c4ecfb63a4b58cd175016e284f731d09ad4c9da530b9febd3cf17d53557bb"
+  },
+  {
+    "path": "Server_Full/Server/lib/life-3127.js",
+    "change": "modified",
+    "sha256": "0023d72b994cecb223993414161305df9b2c9a3ec8aaa4085b17aa354ddb0f23"
+  },
+  {
+    "path": "Server_Full/Server/lib/profile.js",
+    "change": "modified",
+    "sha256": "b6760ee9b08ae7585cb3965fd6114ce4fd15e8aab217fa166188f341f5eb644a"
+  },
+  {
+    "path": "Server_Full/Server/lib/room-rank-3127.js",
+    "change": "added",
+    "sha256": "edd77761c8169c75fda215bef1b9d6ec166fb9d2d77b7e628dfadf9159ef94c3"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "f4dd067ae5d1ee237392a9d2bf534fa9f93d0bd17b3fdb8a41749953c4098270"
+  },
+  {
+    "path": "Server_Full/Server/tests/inventory-stage7.test.js",
+    "change": "modified",
+    "sha256": "a8438ee6d0ef1896c5760ed6f67dd4d294f8f7f0b815541c709b5fe21df6ec7f"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage42-restoration.test.js",
+    "change": "modified",
+    "sha256": "7e47dff3339ecd674ac1373a104dd4c65209219cd7bb210644e5e1620913fd1c"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage63-account-hall-rank.test.js",
+    "change": "added",
+    "sha256": "d977b373dca4909f51d9a2a6cfdbe25ce653d60e604049433f734ecbba61a010"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage63-native-hot-events.test.js",
+    "change": "added",
+    "sha256": "1509c751777abede2138a9c725b8effa924cc9edb5fcbbc55f3bae4052e4c142"
+  },
+  {
+    "path": "Server_Full/Server/tests/world-network-stage7.test.js",
+    "change": "modified",
+    "sha256": "fe301faedb6b9c91d1899934cc457f40a8d181dd19c2b85dda3664372d6cd758"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "a6a2c7e9e8f8a162379a45d1526477deb3c3141d130af33df0419461ba4dd140"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE63_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "52af6a5977d06901f72ef508fa91c015cb0d9d94e45bc2beea1fc3a994f364d3"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE63_RESTORATION.json",
+    "change": "added",
+    "sha256": "f67b8f8decaac55ef68a74a5546378222b721180c6b8b27f491fb9751f51c062"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE63_SMOKE.log",
+    "change": "added",
+    "sha256": "cb1868c73908b7f4fa7428dd452df4006cfe4933970493b758dac6df3fae03ea"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE63_TESTS.log",
+    "change": "added",
+    "sha256": "a94181a7d4c7900e152bdfa9dbd3f7b3d3af9e73dd4541dc6f8f5f6f922c17c9"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE63_VALIDATION.json",
+    "change": "added",
+    "sha256": "965fd4541db9c36d86731f19c12cee5f22f4dc732267c9908fd51feeeb2e83e6"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE63_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/CCDigger.ts",
+    "change": "added",
+    "sha256": "c6a158e48374ad6ab8a255d894094b23099fcf0b25127b5c844e08f81986b2a3"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/CCRankSystem.ts",
+    "change": "added",
+    "sha256": "c4eaf223cfc2bc4f8362cc286cc299a8d7e851564516bf3141697aae19c365b4"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/CCSettingArena.ts",
+    "change": "added",
+    "sha256": "dee01850593972abc1ae4e4f783570769203e7af6e01e96975de9176c5ca0db2"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/DanManager.ts",
+    "change": "added",
+    "sha256": "deac3f8ff6c3a9979e5ef97852b93248dfd5e1f3ead3fee1b612e6781dbf0cfe"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/PassShop.ts",
+    "change": "added",
+    "sha256": "64fc269792a194e3dca0672123290c6b3f3fc553d443ceaae5634a343121d30c"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/PassShopManager.ts",
+    "change": "added",
+    "sha256": "0299c2b28c245a28c7046376c9445061dc1f9581ed18b5a8ea0b778f799ad145"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/PassTask.ts",
+    "change": "added",
+    "sha256": "1e9b627ac30cc84505dec860f1c675093ab6dbe6fb2800586b41ec6f491d6d7a"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/PassTaskManager.ts",
+    "change": "added",
+    "sha256": "f17cd41f59ad3ff33e114bdc42c942e314ecd4666dc06305b6f4c5d23383fab2"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/RankInfoView.ts",
+    "change": "added",
+    "sha256": "49be4d2f4e1db01526bf4c329f7750fda219eb47cec47ca8b4aeb2bf5f763665"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/ReputationController.ts",
+    "change": "added",
+    "sha256": "5ab5568dec9ef441c701289ad2698f1947d9244825ec9a168ab8b8f7d35e3f08"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/ReputationModel.ts",
+    "change": "added",
+    "sha256": "2e619e534b2f4be8f409ac79f768d1e273da1322caf425f4f8c0c90f8f693079"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/ReputationNetWork.ts",
+    "change": "added",
+    "sha256": "6af9ffc0d3bc4ff0905ed0fe14f539cbb1aa8f0ddbc5805ad4cb5cc180c59175"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage63/StoreView.ts",
+    "change": "added",
+    "sha256": "dbefd1d30c7b160e241419e1ad889cc1bfe97b623655d92a34da106799155ca7"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "f80700102187dfba2de9b66f550ea46511c9334493202bc3dc90ecb97c8f0744"
+  },
+  {
+    "path": "Website_Full/public/admin-console.js",
+    "change": "modified",
+    "sha256": "77021e33cc4e0a2f5e4c4e078de9e0a6e67fe9771b228d5070f4fc64596c24ed"
+  }
+]

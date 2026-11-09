@@ -1,0 +1,98 @@
+{
+  "baseSHA256": "b5a40bedb1eef64a5a2465ba7201cf7d7323488658cfd35fbcbcf6f3d5ebf467",
+  "changed": [
+    {
+      "path": "Server_Full/package.json",
+      "before": "33a58b2115d4b9d1abca76271673577146fa185f0a54daf25b3f125fb3d267eb",
+      "after": "4fc8939b84ad8faf6a48f45132a84b84e8dbda7fa823e3440d6fffdf11faf261"
+    },
+    {
+      "path": "Server_Full/Server/lib/progression-3127.js",
+      "before": "58ecaac30404923998417ebd060fa5dfb2d6ae055a1ede778abec302bd97056a",
+      "after": "21ea9be4a0ac8a416a503810bed60b1e0f97cff7e2d1a83838786653c585c608"
+    },
+    {
+      "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+      "before": "e724cd970279322127f1a392e49d7160c06e37fe98ae084f9975c1038b1268b5",
+      "after": "4f00ac3cbecf5940902bfe29631cec0bc8d7d64857733522c369ada26d1ec459"
+    },
+    {
+      "path": "Server_Full/Server/lib/hamster-3127.js",
+      "before": "a42e03670d4d8ee65269eef4417554f7b5709486b0c78f3561b4a6ade414248e",
+      "after": "d9437b34a8593dc91b695506b0df90ba324a26ae75080a3c22f303fb1d39ce1f"
+    },
+    {
+      "path": "Server_Full/Server/lib/monster-effects-3127.js",
+      "before": "90c69d4b45fad2ad92636726268b43784a0e3e09fbd1e9097f9461a5a3d34526",
+      "after": "d48a9ad10ec1ec866d0f282a317aef505bca4daaefc98bdd4a13088631a37eca"
+    },
+    {
+      "path": "Server_Full/Server/lib/combat-input-3127.js",
+      "before": "ec76ac371f1d56a0e1a1aed0ef3b5d0673e1867880ac4198c33ee648e9b7c290",
+      "after": "17147f81bec746e17d9699cf65c8e97e1b187c7caf8cf41c5e4886d13fea4190"
+    },
+    {
+      "path": "Server_Full/Server/lib/player-skills-3127.js",
+      "before": "bdd7dbb9b55fb52e5a1a4938df76254ca3d63a9306c2912a42fd43197979ff41",
+      "after": "0394d77287e5e2dba22ce72d0ad4ebf59a35839690e1671d1bcd501dfd9a7657"
+    },
+    {
+      "path": "Server_Full/Server/lib/mob-control-3127.js",
+      "before": "85f4d9e02e4698fa4b2f261ef798486268ebbff40af2cea4dccef82e4ad0cc37",
+      "after": "29320ed85cb0d5a6ff14dcb712f9578daecb708eb71c559b1f51b86c95d531ce"
+    },
+    {
+      "path": "Server_Full/Server/lib/hero-passives-3127.js",
+      "before": "8e1e46b57bd6c7447a0fbd66f6295a5434c3ba8c161c65dc2f12dafde4dd4ba1",
+      "after": "87bf37f055cf93ad9780d4bb9b47ca7110b74df9c86a1403143c9d178884afcc"
+    },
+    {
+      "path": "Server_Full/Server/lib/actions-3127.js",
+      "before": "09dd04206315a873a1e0d187824d13eb54f33603b76375b9b6469350e0458ee3",
+      "after": "d1862217c5cdd7ba56ab2b55d531baae406bb336892bd1011beb519106a41777"
+    },
+    {
+      "path": "Server_Full/Server/lib/hero-switch-3127.js",
+      "before": "900be726ec24093a830764a5a208e87a90c00cf2c6b8cc7e1cdfa2772d9d9a3f",
+      "after": "c76c4b4d5d01022559a36896f23414007cdc4082c8d4f6217c3cffbb4b3f7bde"
+    }
+  ],
+  "addedBeforeThisManifest": [
+    "Server_Full/README_STAGE85_RU.txt",
+    "Server_Full/Server/lib/devil-3127.js",
+    "Server_Full/Server/lib/dragon-prince-3127.js",
+    "Server_Full/Server/lib/hero-native-passives-3127.js",
+    "Server_Full/Server/lib/rabbit-3127.js",
+    "Server_Full/Server/tests/helpers/stage85-native.js",
+    "Server_Full/Server/tests/stage85-devil.test.js",
+    "Server_Full/Server/tests/stage85-dragon-prince.test.js",
+    "Server_Full/Server/tests/stage85-hero-passives.test.js",
+    "Server_Full/Server/tests/stage85-native-hero-vfx.test.js",
+    "Server_Full/Server/tests/stage85-rabbit-roster.test.js",
+    "Server_Full/retail/audits/STAGE85_ALL_HEROES_STATUS.csv",
+    "Server_Full/retail/audits/STAGE85_ALL_HEROES_STATUS.json",
+    "Server_Full/retail/audits/STAGE85_ALL_TESTS.log",
+    "Server_Full/retail/audits/STAGE85_CLIENT_TO_SERVER_AUDIT.json",
+    "Server_Full/retail/audits/STAGE85_FOCUSED_TESTS.log",
+    "Server_Full/retail/audits/STAGE85_NATIVE_HERO_ASSETS.json",
+    "Server_Full/retail/audits/STAGE85_NETWORK_SMOKE.js",
+    "Server_Full/retail/audits/STAGE85_NETWORK_SMOKE.json",
+    "Server_Full/retail/audits/STAGE85_NETWORK_SMOKE.log",
+    "Server_Full/retail/audits/STAGE85_SYNTAX.json",
+    "Server_Full/retail/client-reference/stage85/CCArmoredMan.ts",
+    "Server_Full/retail/client-reference/stage85/CCBuffComp.ts",
+    "Server_Full/retail/client-reference/stage85/CCDevilSkill.ts",
+    "Server_Full/retail/client-reference/stage85/CCDragonPrinceThundercloud.ts",
+    "Server_Full/retail/client-reference/stage85/CCFlowerFairyPullWire.ts",
+    "Server_Full/retail/client-reference/stage85/CCLightingRabbit.ts",
+    "Server_Full/retail/client-reference/stage85/CCVikingSkill.ts",
+    "Server_Full/retail/client-reference/stage85/Weapon.ts",
+    "Server_Full/retail/client-reference/stage85/ccImpSkillEffect.ts",
+    "Server_Full/retail/client-reference/stage85/en.ts",
+    "Server_Full/retail/client-reference/stage85/native-hero-descriptions.json",
+    "Server_Full/retail/client-reference/stage85/zh.ts"
+  ],
+  "removed": [],
+  "oldTestsByteIdentical": true,
+  "nativeConfigsByteIdentical": true
+}

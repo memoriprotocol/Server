@@ -1,0 +1,23 @@
+{
+  "stage": 47,
+  "version": "0.25.0-stage47-saved-changes",
+  "serverTests": {
+    "tests": 427,
+    "pass": 427,
+    "fail": 0
+  },
+  "websiteSelectedTests": {
+    "tests": 8,
+    "pass": 8,
+    "fail": 0
+  },
+  "clientIndexesModified": false,
+  "originalCityWallsPreserved": true,
+  "paymentLiveProviderTested": false,
+  "windowsClientRendered": false,
+  "newFeatures": "See README_STAGE47_RU.txt for implementation details and limitations",
+  "paymentRewardPolicy": "StoreScheme.ItemNum + Extra, fixed at order creation; original retail fulfillment not verified",
+  "noticeAudience": "all sceneReady game worlds; waits for loadingFinished when explicitly false; no lobby rm",
+  "summonsImplementedThisStage": false,
+  "portalsDungeonsAndMap2LeaderboardsImplementedThisStage": false
+}

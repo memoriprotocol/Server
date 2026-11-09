@@ -1,0 +1,38 @@
+{
+  "stage": 54,
+  "version": "0.32.0-stage54-map2-windforce",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 705,
+    "passed": 705,
+    "failed": 0,
+    "newStage54": 44,
+    "nativeVMTests": 2,
+    "nativeAssetImportsVerified": 3
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.32.0-stage54-map2-windforce",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "windforceWeapons": [
+      618100,
+      618101,
+      618102,
+      618103,
+      618104,
+      618150
+    ],
+    "windforceStatus": "NATIVE_COUNTERS_COUNTS_WINDUP_LOCAL_SCHEDULING_AND_COOLDOWN_POLICY",
+    "windowsClientRendered": false
+  }
+}

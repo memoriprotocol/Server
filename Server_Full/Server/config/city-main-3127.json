@@ -1,0 +1,691 @@
+{
+  "schema": "map2-maincity-stage26-operator-layout",
+  "mapId": 2,
+  "provenance": {
+    "map": "2024-02-22 client resources asset arena/maps/map_2, Cocos packed import 01ba3b118.json",
+    "safeAreas": "Original 2024 prefab node safe_areas extracted from arena/maps/map_2",
+    "npcPositions": "Operator-authorized editable ring inside main city. Roster limited to six NPC prefabs present in Map2 preload.",
+    "townObjectPositions": "Operator-requested square on original Map2 central safe-zone edges; bridges on moat inferred from original map ground tile positions.",
+    "assets": "All wall and bridge prefab paths exist in the February 2024 client asset catalog. Placement is manual, not extracted from late-version server."
+  },
+  "safeAreas": [
+    {
+      "id": "center",
+      "minX": -4425.049,
+      "maxX": 4506.714,
+      "minY": -4731.5916,
+      "maxY": 4004.3281,
+      "sourceNodeIndex": 51
+    },
+    {
+      "id": "center-001",
+      "minX": -662.1975,
+      "maxX": 675.4275,
+      "minY": 19526.3961,
+      "maxY": 20898.217,
+      "sourceNodeIndex": 52
+    },
+    {
+      "id": "center-002",
+      "minX": -555.1805,
+      "maxX": 782.4445,
+      "minY": -17260.0151,
+      "maxY": -15875.6363,
+      "sourceNodeIndex": 53
+    },
+    {
+      "id": "center-003",
+      "minX": -16495.9735,
+      "maxX": -15158.3485,
+      "minY": -817.7238,
+      "maxY": 566.655,
+      "sourceNodeIndex": 54
+    },
+    {
+      "id": "center-004",
+      "minX": 15959.1125,
+      "maxX": 17296.7375,
+      "minY": -817.7238,
+      "maxY": 566.655,
+      "sourceNodeIndex": 55
+    }
+  ],
+  "npcs": [],
+  "townObjects": [
+    {
+      "sourceId": 26001,
+      "cid": 0,
+      "type": 1005,
+      "x": -4035.049,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 1 A",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26002,
+      "cid": 0,
+      "type": 1005,
+      "x": -3255.049,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 2 A",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26003,
+      "cid": 0,
+      "type": 1005,
+      "x": -2475.049,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 3 A",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26004,
+      "cid": 0,
+      "type": 1005,
+      "x": -1695.049,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 4 A",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26007,
+      "cid": 0,
+      "type": 1005,
+      "x": 1776.714,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 2 B",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26008,
+      "cid": 0,
+      "type": 1005,
+      "x": 2556.714,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 3 B",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26009,
+      "cid": 0,
+      "type": 1005,
+      "x": 3336.714,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 4 B",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26010,
+      "cid": 0,
+      "type": 1005,
+      "x": 4116.714,
+      "y": 4004.3281,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "north fence 5 B",
+      "placementKind": "wall",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26011,
+      "cid": 0,
+      "type": 1005,
+      "x": -4035.049,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 1 A",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26012,
+      "cid": 0,
+      "type": 1005,
+      "x": -3255.049,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 2 A",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26013,
+      "cid": 0,
+      "type": 1005,
+      "x": -2475.049,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 3 A",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26014,
+      "cid": 0,
+      "type": 1005,
+      "x": -1695.049,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 4 A",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26017,
+      "cid": 0,
+      "type": 1005,
+      "x": 1776.714,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 2 B",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26018,
+      "cid": 0,
+      "type": 1005,
+      "x": 2556.714,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 3 B",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26019,
+      "cid": 0,
+      "type": 1005,
+      "x": 3336.714,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 4 B",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26020,
+      "cid": 0,
+      "type": 1005,
+      "x": 4116.714,
+      "y": -4731.5916,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "label": "south fence 5 B",
+      "placementKind": "wall",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        780,
+        115.4
+      ]
+    },
+    {
+      "sourceId": 26021,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": -4339.392006,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 1 A",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26022,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": -3554.992818,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 2 A",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26023,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": -2770.59363,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 3 A",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26024,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": -1986.194442,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 4 A",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26027,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": 1258.930942,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 2 B",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26028,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": 2043.33013,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 3 B",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26029,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": 2827.729318,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 4 B",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26030,
+      "cid": 0,
+      "type": 1005,
+      "x": -4425.049,
+      "y": 3612.128506,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "west fence 5 B",
+      "placementKind": "wall",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26031,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": -4339.392006,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 1 A",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26032,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": -3554.992818,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 2 A",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26033,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": -2770.59363,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 3 A",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26034,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": -1986.194442,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 4 A",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26037,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": 1258.930942,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 2 B",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26038,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": 2043.33013,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 3 B",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26039,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": 2827.729318,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 4 B",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26040,
+      "cid": 0,
+      "type": 1005,
+      "x": 4506.714,
+      "y": 3612.128506,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "label": "east fence 5 B",
+      "placementKind": "wall",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "colliderSize": [
+        83.696,
+        784.3991879999999
+      ]
+    },
+    {
+      "sourceId": 26041,
+      "cid": 0,
+      "type": 1005,
+      "x": 40.8325,
+      "y": 2680.742,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001",
+      "label": "north moat bridge",
+      "placementKind": "bridge",
+      "side": "north",
+      "placementStatus": "operator-maincity-layout",
+      "walkSize": [
+        721.008,
+        1589.8588759999998
+      ],
+      "coordinateSource": "centered on the gate axis; moat bank estimate from native Map2 ground JsonAsset"
+    },
+    {
+      "sourceId": 26042,
+      "cid": 0,
+      "type": 1005,
+      "x": 40.8325,
+      "y": -3235.064,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_001",
+      "label": "south moat bridge",
+      "placementKind": "bridge",
+      "side": "south",
+      "placementStatus": "operator-maincity-layout",
+      "walkSize": [
+        721.008,
+        1589.8588759999998
+      ],
+      "coordinateSource": "Operator screenshot stage28: south bridge +130 world-Y to hide exposed water at lower edge; field-test pending",
+      "previousY": -3365.064
+    },
+    {
+      "sourceId": 26043,
+      "cid": 0,
+      "type": 1005,
+      "x": -2837.0,
+      "y": -363.63175,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_002-2",
+      "label": "west moat bridge",
+      "placementKind": "bridge",
+      "side": "west",
+      "placementStatus": "operator-maincity-layout",
+      "walkSize": [
+        1486.879,
+        646.1511419999999
+      ],
+      "coordinateSource": "centered on the gate axis; moat bank estimate from native Map2 ground JsonAsset"
+    },
+    {
+      "sourceId": 26044,
+      "cid": 0,
+      "type": 1005,
+      "x": 2871.5,
+      "y": -363.63175,
+      "angle": 0,
+      "prefab_path": "arena/maps/universe-new/objects/grass/安全区护城河/LD_hchq_002-2",
+      "label": "east moat bridge",
+      "placementKind": "bridge",
+      "side": "east",
+      "placementStatus": "operator-maincity-layout",
+      "walkSize": [
+        1486.879,
+        646.1511419999999
+      ],
+      "coordinateSource": "centered on the gate axis; moat bank estimate from native Map2 ground JsonAsset"
+    }
+  ],
+  "replacementPolicy": "Operator-requested main city layout using 3.12.7 native prefab paths; positions editable, not asserted retail positions.",
+  "manualLayout": {
+    "horizontalGateWidth": 1131.763,
+    "verticalGateWidth": 891.92782,
+    "fenceSegmentsPerSide": 8,
+    "nativePrefabYScale": 1.154,
+    "description": "Removed two gate-adjacent fence prefabs per entrance (eight total) to prevent visual obstruction. 32 walls, four bridges; southern bridge shifted +130 Y.",
+    "removedGateFenceIds": [
+      26005,
+      26006,
+      26015,
+      26016,
+      26025,
+      26026,
+      26035,
+      26036
+    ]
+  }
+}

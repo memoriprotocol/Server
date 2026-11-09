@@ -1,0 +1,25 @@
+{
+  "healing": {
+    "fix": "removed second legacy buff16 lastRegen path, retained single nextHealAt clock",
+    "buff16": "native BuffScheme200HP/1000ms while active; no immediate extra tick/no catchup burst; expiry first",
+    "safeZones": "existing200HP/1500ms unchanged and tested",
+    "campfires": "existing150HP/1500ms, multiple fires do not stack; tested"
+  },
+  "fishing": {
+    "before": "catch animation advanced before reward save, failed persistence lost the catch",
+    "after": "roll catch/rewards once; one commit reward+XP+quest(type8/type2)+pass(type7)+settled marker; failed save retains plan and retries1000ms; postcommit delivery failure never re-credits",
+    "limits": "unpaid plan is session memory, cancelled on movement/logout; existing shore/12sec/catch-size/probability rules remain reconstructed, not full animation parity proof"
+  },
+  "quests": {
+    "fixes": [
+      "pure planRecord/planRecords for shared reward transactions",
+      "successor tasks activate immediately on successful submission",
+      "actor task snapshot committed with quest progress",
+      "XP isLevelUp compares pre-recompute level",
+      "save failure rolls rewards, successors and progress back"
+    ],
+    "limits": "all native quest types/conditions and all-map objectives not proven complete"
+  },
+  "locations": "STAGE60_LOCATIONS.json inventories all19 MapScheme records:17 open and2 reserved. It is a read-only checklist and does not enable unfinished locations.",
+  "restorationComplete": false
+}

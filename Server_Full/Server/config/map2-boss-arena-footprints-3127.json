@@ -1,0 +1,24 @@
+{
+  "source": "arena/maps/map_2 ground JSON, 05094e101 pack, client export 2024/2/22; ground positions/bounds already in map coordinates",
+  "rects": [
+    {
+      "cid": 1306,
+      "x": 11345.655999999999,
+      "y": -15248.073424,
+      "w": 9000.0,
+      "h": 9232.0,
+      "prefab": "arena/maps/universe-new/objects/grass/矿区-renew/地面",
+      "sourcePosition": {
+        "x": 12596,
+        "y": -15182
+      },
+      "sourceBoundBox": {
+        "xMin": -5750.344,
+        "xMax": 3249.656,
+        "yMin": -4682.073423999999,
+        "yMax": 4549.926576
+      }
+    }
+  ],
+  "remainingArenaBoundaries": "Conservative 4500-unit exclusion around MapProduction boss spawn polygons; exact arena collision polygons not recovered."
+}

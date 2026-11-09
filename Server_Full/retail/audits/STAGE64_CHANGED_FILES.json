@@ -1,0 +1,232 @@
+[
+  {
+    "path": "ISSUES_STAGE64_RU.txt",
+    "change": "added",
+    "sha256": "e6af0cb79cafbfc4eddbeb566a8f3358517de376876756d62cbcbc42532b7f56"
+  },
+  {
+    "path": "README_STAGE64_RU.txt",
+    "change": "added",
+    "sha256": "97958d10fc39b5dd584cd8a731113f4c216682e36fdbc286eb2fecaf79a87a2d"
+  },
+  {
+    "path": "Server_Full/README_STAGE64_RU.txt",
+    "change": "added",
+    "sha256": "97958d10fc39b5dd584cd8a731113f4c216682e36fdbc286eb2fecaf79a87a2d"
+  },
+  {
+    "path": "Server_Full/Server/lib/environment-3127.js",
+    "change": "modified",
+    "sha256": "ac6f49447ed38c66dbaaa67591a726e43568c9df055468bacb35ad4c4079d0e6"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "change": "modified",
+    "sha256": "639f74060a23eb5300a605103bae95881c50a3e0f57af6cd959c74fcab217171"
+  },
+  {
+    "path": "Server_Full/Server/lib/healing-3127.js",
+    "change": "modified",
+    "sha256": "53af0bff1588bbb1dfc51557a92e212caf97b9cf6889a6c4ab66c8821444b16f"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-switch-3127.js",
+    "change": "modified",
+    "sha256": "405cb954e5c00a9600822f1a9d0c2ef7c303280530ebd81a47e8c1d5e348f78f"
+  },
+  {
+    "path": "Server_Full/Server/lib/navigation-3127.js",
+    "change": "modified",
+    "sha256": "cddd4c49dda4e3e64ac4a2e868ece4d26642468bc1d70f6169a9e6b3cf2d0786"
+  },
+  {
+    "path": "Server_Full/Server/lib/progression-3127.js",
+    "change": "modified",
+    "sha256": "c76a2dfe22dc9773c82807443c5c6fa5641d16dc2a864eb243e065f2d5a54193"
+  },
+  {
+    "path": "Server_Full/Server/lib/quest-restoration-3127.js",
+    "change": "added",
+    "sha256": "dfb0102dbdf9d069c9022257019398bb9ae3f49fa3ba43ccbf9f95ea12f41266"
+  },
+  {
+    "path": "Server_Full/Server/lib/quests-3127.js",
+    "change": "modified",
+    "sha256": "3f26fe9ffe14dbd1b2ec10fb41100b515ed6d6680c6f7c774ddeb758857a65d0"
+  },
+  {
+    "path": "Server_Full/Server/lib/rankings-3127.js",
+    "change": "modified",
+    "sha256": "599b5692b0ced74805b658a46bbc696cb531a068baf74093750aaed4ea18d266"
+  },
+  {
+    "path": "Server_Full/Server/lib/room-rank-3127.js",
+    "change": "modified",
+    "sha256": "b7e70d03ad8e4f50a759ce5519b2b3817584c9db04b4759f551470adb4a9db49"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "added",
+    "sha256": "3fcb8f8788bbe79bbaf6c7e55b14e5e3b90b12ff225935603630c5a0f81647c4"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "0252a726be61ff1003fe6bb456430bdf74e9969d1ecec5e41c4005e1a1428e34"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage64-native.js",
+    "change": "added",
+    "sha256": "4b3747e9e6e008ed35ec064253cab29e7717faa1ef2eb94cf57a640dbe94311b"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage64-boss-reference.test.js",
+    "change": "added",
+    "sha256": "9b2f5b6c00504b3f904022c12b786ec3897b71fac9f459cea2d3eb89b7065abd"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage64-map-ranks-native.test.js",
+    "change": "added",
+    "sha256": "2d56b30c9a49a94e396148721c6fa60de134054fec9792a9311b323f2e7b0325"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage64-quest-recovery.test.js",
+    "change": "added",
+    "sha256": "386e57b8d948ae9cf0b7068abf38327ec6a22bdb157e8dbd80d416fed79107f6"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "f3f0f423dffa86787802bc8072901bca21e05865e43a42fbac8840a9ad8b9065"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "80fa98c63690643ace52cde6588c695745724c6ca4651718aa4efe6ae3280960"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_PVPBOARD_PLACEMENT_PRESERVATION.json",
+    "change": "added",
+    "sha256": "3e26f556a961f8b5f09261bb605c9d2bd8f8d4d33314e123123b4d9f9c520dae"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_RESTORATION.json",
+    "change": "added",
+    "sha256": "33076dd1c6b0b0cb1b7f879b8a6120bccbb4af9e60a74911175bf601bdc01c94"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_SMOKE.log",
+    "change": "added",
+    "sha256": "8b8010c958206bb1240d51f27d194eb8d22be432b5c931dfb380205567707333"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_TESTS.log",
+    "change": "added",
+    "sha256": "51c70c23ae200c1fb78bbb843fe70c018f049155ce725f81373492d9d8fd25f6"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_VALIDATION.json",
+    "change": "added",
+    "sha256": "0f1903ce13daf8e5a8f8fe1517189c40bebacc677ca3788727435b8b95704d58"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE64_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/ActivityViewLantern.ts",
+    "change": "added",
+    "sha256": "318197bf7c8184675293873d8e1bb83e806d3a54a95d2131e47f2558de994b30"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCBossInfoTips.ts",
+    "change": "added",
+    "sha256": "d3d85871dd9273cea894532389298048057288839281dcd27caeb98972573cf0"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCPVPBoard.ts",
+    "change": "added",
+    "sha256": "972da01c4605f844366ea7d12fb16cc2d9b85e2bb9cb4096a07544e3660ec2bc"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCRankLayer.ts",
+    "change": "added",
+    "sha256": "4affa3f3044f51a9821404532c3f84a97eb257cf222afa0ae9b2555d796c9093"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCRankSystem.ts",
+    "change": "added",
+    "sha256": "c4eaf223cfc2bc4f8362cc286cc299a8d7e851564516bf3141697aae19c365b4"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCScene.ts",
+    "change": "added",
+    "sha256": "a84d48ea2c20bb55934ef5ad299475049a509224da706788de8acf0445d3f4f6"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCSignalComp.ts",
+    "change": "added",
+    "sha256": "da617ba99b8206c33804a88a51ae66c92873effbc815024e2aebd38cd22bc8a5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CCTaskComp.ts",
+    "change": "added",
+    "sha256": "0f852e3caa36a609b46c828194c2cf7dd92c43268357dad8ec26947b937c6dcf"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/CollectionController.ts",
+    "change": "added",
+    "sha256": "de3be90d64b197cddc383bd5511f389ccaa40df2ef4c814c8d8e4da474b116b5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/MonsterInfoView.ts",
+    "change": "added",
+    "sha256": "4f5403d7a7522c2642a634b113aa4d22e4718afc418bbd8fdaf4ff69dc3b21a6"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/PlayerAction.ts",
+    "change": "added",
+    "sha256": "c8d47734d537349714a9a7a27261c92d8393815b083475e7da027a4f2edb348b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/PropLevelSchemeMananger.ts",
+    "change": "added",
+    "sha256": "3e1f4306c5f234420fe345679d724762491690ef0f4d3afc12bf6e9e1f98dddc"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/RankController.ts",
+    "change": "added",
+    "sha256": "af40e161d162d5694f965240351a610d7b84fb02582ab10846fe12a2cec50a0d"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/RankInfoView.ts",
+    "change": "added",
+    "sha256": "49be4d2f4e1db01526bf4c329f7750fda219eb47cec47ca8b4aeb2bf5f763665"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/RankNetWork.ts",
+    "change": "added",
+    "sha256": "9c02e89d349d67d099f475db350e45ae8ed2a31929cb73d2fa89ae3848fdbaf2"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/Task.ts",
+    "change": "added",
+    "sha256": "0da32e437caf25e4ee4c991cdbb84e7ca15d2f874e231e1e8f869c2dcce4a5c7"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/TaskManager.ts",
+    "change": "added",
+    "sha256": "47542fedb3aa639112972559572211d975e33adb6068e64102437ef263a826ff"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage64/UserManager.ts",
+    "change": "added",
+    "sha256": "427139db34cd0be85cc51c7d9b8d00a69d1a4c04cbf230bc3f898d326165ada4"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "2f587f092cf31398386a65be3366b4f6970143d47dc15e963c53abb667702dd2"
+  }
+]

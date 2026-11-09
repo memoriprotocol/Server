@@ -1,0 +1,1300 @@
+{
+  "version": "2026-10-28-stage28",
+  "mapId": 2,
+  "source": "Official client 3.12.7 CreatureScheme combined with native asset index (retail only)",
+  "warning": "NPC visual catalog only. Official CreatureScheme IDs confirmed where present. God of War arena gateway / hero switch function not confirmed from extracted 3.12 data.",
+  "npcIds": 27,
+  "npcAppearanceAssets": 92,
+  "totalPlacedInstances": 22,
+  "npcs": [
+    {
+      "cid": 401,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/401/npc1",
+          "index": 32791,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/401/npc",
+          "index": 32973,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/401/LD_sr_001",
+          "index": 14139,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/401/NPC_01",
+          "index": 22875,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/401/npc1",
+          "index": 32791,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/401/npc",
+          "index": 32973,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "皮肤商杜亚",
+      "nativeCreatureType3127": 401,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 402,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/402/npc-0",
+          "index": 23336,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/402/npc-0",
+          "index": 23336,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "仓库管理员",
+      "nativeCreatureType3127": 402,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 403,
+      "name": "Охранник north 1",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/403/npc2",
+          "index": 83,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/403/npc",
+          "index": 25186,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/403/npc2",
+          "index": 83,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/403/NPC_02_a",
+          "index": 7951,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/403/weapon_paper",
+          "index": 22772,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/403/npc",
+          "index": 25186,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26601,
+          "entityId": 50026601,
+          "name": "Охранник north 1",
+          "role": "gate-guard",
+          "x": -214.168,
+          "y": 3744.328,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26602,
+          "entityId": 50026602,
+          "name": "Охранник north 2",
+          "role": "gate-guard",
+          "x": 295.832,
+          "y": 3744.328,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26603,
+          "entityId": 50026603,
+          "name": "Охранник south 1",
+          "role": "gate-guard",
+          "x": -214.168,
+          "y": -4471.592,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26604,
+          "entityId": 50026604,
+          "name": "Охранник south 2",
+          "role": "gate-guard",
+          "x": 295.832,
+          "y": -4471.592,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26605,
+          "entityId": 50026605,
+          "name": "Охранник west 1",
+          "role": "gate-guard",
+          "x": -4165.049,
+          "y": -628.632,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26606,
+          "entityId": 50026606,
+          "name": "Охранник west 2",
+          "role": "gate-guard",
+          "x": -4165.049,
+          "y": -98.632,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26607,
+          "entityId": 50026607,
+          "name": "Охранник east 1",
+          "role": "gate-guard",
+          "x": 4246.714,
+          "y": -628.632,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26608,
+          "entityId": 50026608,
+          "name": "Охранник east 2",
+          "role": "gate-guard",
+          "x": 4246.714,
+          "y": -98.632,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26611,
+          "entityId": 50026611,
+          "name": "Охранник безопасной зоны center-001",
+          "role": "safezone-guard",
+          "x": 6.615,
+          "y": 20212.307,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26612,
+          "entityId": 50026612,
+          "name": "Охранник безопасной зоны center-002",
+          "role": "safezone-guard",
+          "x": 113.632,
+          "y": -16567.826,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26613,
+          "entityId": 50026613,
+          "name": "Охранник безопасной зоны center-003",
+          "role": "safezone-guard",
+          "x": -15827.161,
+          "y": -125.534,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        },
+        {
+          "sourceId": 26614,
+          "entityId": 50026614,
+          "name": "Охранник безопасной зоны center-004",
+          "role": "safezone-guard",
+          "x": 16627.925,
+          "y": -125.534,
+          "angle": 0,
+          "prefab_path": "arena/npc/403/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "visual placeholder: native NPC prefab verified; precise guard model not identified"
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "鉴宝商辛达",
+      "nativeCreatureType3127": 403,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 404,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/404/npc",
+          "index": 23097,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/404/NPC_02_b",
+          "index": 22716,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/404/npc",
+          "index": 23097,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/404/recipe",
+          "index": 29517,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "食谱商店",
+      "nativeCreatureType3127": 404,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 405,
+      "name": "Склад",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/405/npc",
+          "index": 36223,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/405/resource_chest",
+          "index": 10548,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/405/NPC_02_c",
+          "index": 25527,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/405/npc",
+          "index": 36223,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26505,
+          "entityId": 50026505,
+          "name": "Склад",
+          "role": "warehouse",
+          "x": -1200,
+          "y": -500,
+          "angle": 0,
+          "prefab_path": "arena/npc/405/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "operator provisional role assignment; client prefab path verified, retail role not established"
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "资源包商店",
+      "nativeCreatureType3127": 405,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 406,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/406/npc6",
+          "index": 6832,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/406/npc",
+          "index": 27889,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/406/npc6",
+          "index": 6832,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/406/shopkeeper",
+          "index": 7568,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/406/npc",
+          "index": 27889,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "包工头蒙特",
+      "nativeCreatureType3127": 406,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 407,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/407/npc",
+          "index": 997,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/407/npc5",
+          "index": 32692,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/407/npc",
+          "index": 997,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/407/npc5",
+          "index": 32692,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "资源商人",
+      "nativeCreatureType3127": 407,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 408,
+      "name": "The Carrier",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/408/npc",
+          "index": 25335,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/408/npc4",
+          "index": 32566,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/408/npc8",
+          "index": 35138,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/408/npc",
+          "index": 25335,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/408/npc4",
+          "index": 32566,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/408/npc8",
+          "index": 35138,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26508,
+          "entityId": 50026508,
+          "name": "The Carrier",
+          "role": null,
+          "x": -1200.828,
+          "y": -1500,
+          "angle": 0,
+          "prefab_path": "arena/npc/408/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": null
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "探险家昆特",
+      "nativeCreatureType3127": 408,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 409,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/409/npc4",
+          "index": 15187,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/409/npc",
+          "index": 20870,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/409/npc9",
+          "index": 33048,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/409/npc4",
+          "index": 15187,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/409/npc",
+          "index": 20870,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/409/npc9",
+          "index": 33048,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "国王凯撒二世",
+      "nativeCreatureType3127": 409,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 410,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/410/npc4",
+          "index": 9453,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/410/npc10",
+          "index": 20152,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/410/npc",
+          "index": 24890,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/410/npc4",
+          "index": 9453,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/410/npc10",
+          "index": 20152,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/410/npc",
+          "index": 24890,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "吟游诗人菲斯",
+      "nativeCreatureType3127": 410,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 411,
+      "name": "Смена героя",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/411/npc11",
+          "index": 17826,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/411/npc4",
+          "index": 31799,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/411/npc",
+          "index": 34294,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/411/npc11",
+          "index": 17826,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/411/npc4",
+          "index": 31799,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/411/npc",
+          "index": 34294,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26511,
+          "entityId": 50026511,
+          "name": "Смена героя",
+          "role": "change-hero",
+          "x": 550,
+          "y": -1150,
+          "angle": 0,
+          "prefab_path": "arena/npc/411/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "operator provisional role assignment; client prefab path verified, retail role not established"
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "学者维克托",
+      "nativeCreatureType3127": 411,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 412,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/412/npc",
+          "index": 6263,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/412/npc12",
+          "index": 11392,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/412/npc",
+          "index": 6263,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/412/npc12",
+          "index": 11392,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "军官杰里",
+      "nativeCreatureType3127": 412,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 414,
+      "name": "Sage Merlin",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/414/npc12",
+          "index": 15111,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/npc",
+          "index": 27894,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/npc4",
+          "index": 31859,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/414/ui_main_npcchat_bg",
+          "index": 238,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/npc12",
+          "index": 15111,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/ui_main_npc_gift",
+          "index": 25603,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/npc",
+          "index": 27894,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/LD_zz_001",
+          "index": 28958,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/414/npc4",
+          "index": 31859,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26514,
+          "entityId": 50026514,
+          "name": "Sage Merlin",
+          "role": null,
+          "x": 4100.396,
+          "y": -3700.15,
+          "angle": 0,
+          "prefab_path": "arena/npc/414/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": null
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "酒馆老板娘",
+      "nativeCreatureType3127": 414,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 415,
+      "name": "Blacksmith Carter",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/415/npc",
+          "index": 15001,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/415/npc12",
+          "index": 40193,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/415/npc",
+          "index": 15001,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/415/ui_main_npcchat_bg2",
+          "index": 16831,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/415/ui_main_dialog_space",
+          "index": 17714,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/415/LD_tj_001",
+          "index": 27577,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/415/ui_main_npc_choose",
+          "index": 28714,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/415/npc12",
+          "index": 40193,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26515,
+          "entityId": 50026515,
+          "name": "Blacksmith Carter",
+          "role": null,
+          "x": 1600.493,
+          "y": 1341.449,
+          "angle": 0,
+          "prefab_path": "arena/npc/415/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": null
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "物资供需官",
+      "nativeCreatureType3127": 415,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 419,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/419/npc-2",
+          "index": 18396,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/419/npc-3",
+          "index": 47352,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/419/npc-1",
+          "index": 48721,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/419/npc-2",
+          "index": 18396,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/419/npc-3",
+          "index": 47352,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/419/npc-1",
+          "index": 48721,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "洞穴门卫",
+      "nativeCreatureType3127": 419,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 420,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/420/npc-0",
+          "index": 49937,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/420/npc-0",
+          "index": 49937,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "不死之地入口",
+      "nativeCreatureType3127": 420,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 421,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/421/npc-0",
+          "index": 8030,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/421/npc-0",
+          "index": 8030,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "转职大师",
+      "nativeCreatureType3127": 421,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 422,
+      "name": "Почта",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/422/npc-0",
+          "index": 5353,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/422/npc-0",
+          "index": 5353,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/422/ZC-ctxx-002-s",
+          "index": 27013,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/422/ui_main_npc_mail",
+          "index": 34021,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26522,
+          "entityId": 50026522,
+          "name": "Почта",
+          "role": "mail",
+          "x": -460,
+          "y": -1150,
+          "angle": 0,
+          "prefab_path": "arena/npc/422/npc-0",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "operator provisional role assignment; client prefab path verified, retail role not established"
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "邮箱",
+      "nativeCreatureType3127": 422,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 423,
+      "name": "Book of Merlin",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/423/npc-0",
+          "index": 19056,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/423/npc-0",
+          "index": 19056,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26523,
+          "entityId": 50026523,
+          "name": "Book of Merlin",
+          "role": null,
+          "x": 3600.828,
+          "y": -4200.186,
+          "angle": 0,
+          "prefab_path": "arena/npc/423/npc-0",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": null
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "梅林之书",
+      "nativeCreatureType3127": 423,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 424,
+      "name": "Anvil",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/424/npc-0",
+          "index": 27105,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/424/npc-0",
+          "index": 27105,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26524,
+          "entityId": 50026524,
+          "name": "Anvil",
+          "role": null,
+          "x": 1000.056,
+          "y": 1200.333,
+          "angle": 0,
+          "prefab_path": "arena/npc/424/npc-0",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": null
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "锻造炉",
+      "nativeCreatureType3127": 424,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 425,
+      "name": "Valkyrie",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/425/npc",
+          "index": 11120,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/425/npc",
+          "index": 11120,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26525,
+          "entityId": 50026525,
+          "name": "Valkyrie",
+          "role": null,
+          "x": -1600.061,
+          "y": 1300.887,
+          "angle": 0,
+          "prefab_path": "arena/npc/425/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": null
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "女武神",
+      "nativeCreatureType3127": 425,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 426,
+      "name": "God of War",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/426/npc",
+          "index": 21546,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/426/npc",
+          "index": 21546,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [
+        {
+          "sourceId": 26526,
+          "entityId": 50026526,
+          "name": "God of War",
+          "role": "god-of-war",
+          "x": 1300,
+          "y": -500,
+          "angle": 0,
+          "prefab_path": "arena/npc/426/npc",
+          "placementStatus": "operator-maincity-layout",
+          "roleEvidence": "operator provisional role assignment; client prefab path verified, retail role not established"
+        }
+      ],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "莉娅",
+      "nativeCreatureType3127": 426,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 429,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/429/npc",
+          "index": 3339,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/429/npc",
+          "index": 3339,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/429/NPC019",
+          "index": 24870,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "塔防商店",
+      "nativeCreatureType3127": 428,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 430,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/430/npc",
+          "index": 49735,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/430/npc",
+          "index": 49735,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "塔防外美女",
+      "nativeCreatureType3127": 430,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 431,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/431/npc",
+          "index": 31189,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/431/NPC03",
+          "index": 12225,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/431/npc",
+          "index": 31189,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "塔防黑商",
+      "nativeCreatureType3127": 431,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 432,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/432/npc-0",
+          "index": 25115,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/432/NPC022",
+          "index": 18926,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/432/npc-0",
+          "index": 25115,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "宴会大厨",
+      "nativeCreatureType3127": 432,
+      "officialCreatureScheme3127": true
+    },
+    {
+      "cid": 433,
+      "name": "Не установлено по доступным файлам",
+      "modelPrefabs": [
+        {
+          "path": "arena/npc/433/npc",
+          "index": 48663,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "allAssets": [
+        {
+          "path": "arena/npc/433/LD_sr_001",
+          "index": 16829,
+          "category": "npc_appearance_asset"
+        },
+        {
+          "path": "arena/npc/433/npc",
+          "index": 48663,
+          "category": "npc_appearance_asset"
+        }
+      ],
+      "placements": [],
+      "originalRoleConfirmed": false,
+      "nameNative3127": "雪币商店",
+      "nativeCreatureType3127": 433,
+      "officialCreatureScheme3127": true
+    }
+  ],
+  "unassignedAssets": [
+    {
+      "path": "arena/npc/shark",
+      "index": 14
+    },
+    {
+      "path": "arena/npc/NPC04/NPC04",
+      "index": 1311
+    },
+    {
+      "path": "arena/npc/NPC015/NPC015",
+      "index": 1762
+    },
+    {
+      "path": "arena/npc/NPC02/NPC02",
+      "index": 3101
+    },
+    {
+      "path": "arena/npc/flow",
+      "index": 4393
+    },
+    {
+      "path": "arena/npc/NPC20/NPC20",
+      "index": 5249
+    },
+    {
+      "path": "arena/npc/bigger",
+      "index": 5490
+    },
+    {
+      "path": "arena/npc/NPC03/NPC03",
+      "index": 9502
+    },
+    {
+      "path": "arena/npc/NPC21/NPC21",
+      "index": 10036
+    },
+    {
+      "path": "arena/npc/NPC011/NPC011/NPC_11",
+      "index": 12091
+    },
+    {
+      "path": "arena/npc/NPC016/NPC016",
+      "index": 12729
+    },
+    {
+      "path": "arena/npc/NPC06/NPC06",
+      "index": 13772
+    },
+    {
+      "path": "arena/npc/NPC010/NPC010",
+      "index": 14561
+    },
+    {
+      "path": "arena/npc/NPC011/NPC11a/NPC_11",
+      "index": 15750
+    },
+    {
+      "path": "arena/npc/NPC018/NPC018",
+      "index": 16125
+    },
+    {
+      "path": "arena/npc/NPC011/NPC11b/NPC11b",
+      "index": 16346
+    },
+    {
+      "path": "arena/npc/NPC01/NPC01",
+      "index": 16904
+    },
+    {
+      "path": "arena/npc/NPC09/NPC09",
+      "index": 20772
+    },
+    {
+      "path": "arena/npc/light",
+      "index": 24854
+    },
+    {
+      "path": "arena/npc/NPC08/NPC08",
+      "index": 25948
+    },
+    {
+      "path": "arena/npc/NPC07/NPC07",
+      "index": 32415
+    },
+    {
+      "path": "arena/npc/npc1",
+      "index": 34408
+    },
+    {
+      "path": "arena/npc/npc2",
+      "index": 40064
+    },
+    {
+      "path": "arena/npc/NPC011/NPC11b/NPC11b2",
+      "index": 40181
+    },
+    {
+      "path": "arena/npc/blood_bar/blood_bar",
+      "index": 50694
+    }
+  ],
+  "clientVersion": "3.12.7"
+}

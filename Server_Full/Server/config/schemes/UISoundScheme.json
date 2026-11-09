@@ -1,0 +1,249 @@
+{
+  "UISound": [
+    {
+      "ID": 1,
+      "Key": "click_select_hero",
+      "SoundName": "sound_ui_button_select"
+    },
+    {
+      "ID": 2,
+      "Key": "click_hero_card",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 3,
+      "Key": "click_top_bar",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 4,
+      "Key": "click_recharge_gold",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 5,
+      "Key": "click_recharge_diamond",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 6,
+      "Key": "click_start_game",
+      "SoundName": "sound_ui_button_start"
+    },
+    {
+      "ID": 7,
+      "Key": "click_mail",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 8,
+      "Key": "click_team",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 9,
+      "Key": "click_head",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 10,
+      "Key": "click_promote",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 11,
+      "Key": "click_kick_teamate",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 12,
+      "Key": "click_close_setting",
+      "SoundName": "sound_ui_close"
+    },
+    {
+      "ID": 13,
+      "Key": "click_settle",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 14,
+      "Key": "click_guild",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 15,
+      "Key": "get_reward",
+      "SoundName": "sound_ui_reward"
+    },
+    {
+      "ID": 16,
+      "Key": "close_seven_day",
+      "SoundName": "sound_ui_close"
+    },
+    {
+      "ID": 17,
+      "Key": "click_seven_day",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 18,
+      "Key": "common_close",
+      "SoundName": "sound_ui_close"
+    },
+    {
+      "ID": 19,
+      "Key": "common_click",
+      "SoundName": "sound_ui_click"
+    },
+    {
+      "ID": 20,
+      "Key": "click_collection_btn",
+      "SoundName": "sound_ui_collection_button"
+    },
+    {
+      "ID": 21,
+      "Key": "click_collection_item",
+      "SoundName": "sound_ui_collection_click"
+    },
+    {
+      "ID": 22,
+      "Key": "upgrade_collection",
+      "SoundName": "sound_ui_collection_activate"
+    },
+    {
+      "ID": 23,
+      "Key": "get_collection",
+      "SoundName": "sound_ui_collection_obtain"
+    },
+    {
+      "ID": 24,
+      "Key": "weapondraw_btn",
+      "SoundName": "sound_ui_mastery_raffle_button"
+    },
+    {
+      "ID": 25,
+      "Key": "weapondraw_open",
+      "SoundName": "sound_ui_mastery_open"
+    },
+    {
+      "ID": 26,
+      "Key": "weapondraw_ani",
+      "SoundName": "sound_ui_mastery_raffle_process"
+    },
+    {
+      "ID": 27,
+      "Key": "weapondraw_nomal",
+      "SoundName": "sound_ui_mastery_obtain_01"
+    },
+    {
+      "ID": 28,
+      "Key": "weapondraw_up",
+      "SoundName": "sound_ui_mastery_obtain_02"
+    },
+    {
+      "ID": 29,
+      "Key": "weapondraw_interrupt",
+      "SoundName": "sound_ui_mastery_obtain_stop"
+    },
+    {
+      "ID": 30,
+      "Key": "weaponpockedex_open",
+      "SoundName": "sound_ui_mastery_button"
+    },
+    {
+      "ID": 31,
+      "Key": "weaponpockedex_click",
+      "SoundName": "sound_ui_mastery_click"
+    },
+    {
+      "ID": 32,
+      "Key": "island_open",
+      "SoundName": "sound_ui_carrier_open"
+    },
+    {
+      "ID": 33,
+      "Key": "map2_banner_open",
+      "SoundName": "sound_ui_carrier_map02"
+    },
+    {
+      "ID": 34,
+      "Key": "map4_banner_open",
+      "SoundName": "sound_ui_carrier_map04"
+    },
+    {
+      "ID": 35,
+      "Key": "map5_banner_open",
+      "SoundName": "sound_ui_carrier_map05"
+    },
+    {
+      "ID": 36,
+      "Key": "map7_banner_open",
+      "SoundName": "sound_ui_carrier_map07"
+    },
+    {
+      "ID": 37,
+      "Key": "map_lock",
+      "SoundName": "sound_ui_carrier_error"
+    },
+    {
+      "ID": 38,
+      "Key": "low_level",
+      "SoundName": "sound_ui_carrier_error"
+    },
+    {
+      "ID": 39,
+      "Key": "activity_start",
+      "SoundName": "sound_ui_hunting_open"
+    },
+    {
+      "ID": 40,
+      "Key": "activity_end",
+      "SoundName": "sound_ui_hunting_end"
+    },
+    {
+      "ID": 41,
+      "Key": "map8_banner_open",
+      "SoundName": "sound_ui_carrier_map08"
+    },
+    {
+      "ID": 42,
+      "Key": "pass_open",
+      "SoundName": "sound_ui_passport_button"
+    },
+    {
+      "ID": 43,
+      "Key": "pass_sign",
+      "SoundName": "sound_ui_passport_sign"
+    },
+    {
+      "ID": 44,
+      "Key": "pass_up_btn",
+      "SoundName": "sound_ui_passport_improve"
+    },
+    {
+      "ID": 45,
+      "Key": "pass_up_success",
+      "SoundName": "sound_ui_passport_advance"
+    },
+    {
+      "ID": 46,
+      "Key": "cost_diamond",
+      "SoundName": "sound_ui_diamond_button"
+    },
+    {
+      "ID": 47,
+      "Key": "new_hero_pet_skin",
+      "SoundName": "sound_ui_general_achieve_unit"
+    },
+    {
+      "ID": 48,
+      "Key": "map11_banner_open",
+      "SoundName": "sound_ui_carrier_map11"
+    },
+    {
+      "ID": 49,
+      "Key": "map18_banner_open",
+      "SoundName": "sound_ui_carrier_map18"
+    }
+  ]
+}

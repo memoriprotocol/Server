@@ -1,0 +1,3 @@
+[STAGE60] World quests/fishing/heal fixes, payment delivery, native pass windows, Frozen Armor; all19 client maps tracked; full 1:1 unfinished; Stage44 walls preserved
+[WORLD CONTENT] map=2 {"mob":289,"boss":4,"tree":160,"stone":100,"ore":80,"well":24,"statue":8,"chest":104} waterCells=857 render=UNVERIFIED
+{"status":"PASS","version":"0.38.0-stage60-world-events-payments","authHTTP":true,"gameHTTP":true,"websiteHTTP":true,"isolatedPaymentTestMode":{"realHTTPWebsiteToAuthenticatedGameCallback":true,"missingSecretRejected":true,"openingDoesNotGrant":true,"creditPersisted":true,"repeatDoesNotDoubleCredit":true,"reconciliationUsesCurrentBalance":true},"maps":19,"clientOpenMaps":17,"frozenArmorVariants":6,"livePaymentProviderCharged":false,"windowsClientRendered":false}

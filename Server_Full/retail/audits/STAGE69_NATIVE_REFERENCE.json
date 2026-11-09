@@ -1,0 +1,132 @@
+{
+  "factories": [
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionController.ts",
+      "sha256": "de3be90d64b197cddc383bd5511f389ccaa40df2ef4c814c8d8e4da474b116b5",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionModel.ts",
+      "sha256": "609636344d5f956b999beca2f62d47c59a153ed1276ca3ec5928d223659dff19",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionNetwork.ts",
+      "sha256": "543c05a91c29a6df298b96336cb915eab48708748e264d407a80b81683af4c5f",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionStar.ts",
+      "sha256": "d9f571b45074945bf5fdde5cbdc94ea5a7a9cd4901cbe86baca641ed81687151",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionStarManager.ts",
+      "sha256": "2403a243a13bc21399c80987cd06745fe8aa6a70d789332613cb94333b4648de",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionTask.ts",
+      "sha256": "b3625743b3a8ad7bfd436d3ddcf0d7e56b2afa16f730d17944ba4816e23d4c29",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionTaskManager.ts",
+      "sha256": "a38588e7818bb5a8126ac0346a7a71ae717e78648d33dbc08c720a6626f172c3",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionView.ts",
+      "sha256": "c4dc6b884e5e8e282a51d65f4df95d3ba3ff55407c61017851733ab9c2d5d8e9",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/Collections.ts",
+      "sha256": "ef41e9854b384705b9df400995d8c5e731a6debc88c8ca9bf7e939b095e1add1",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage69/CollectionsManager.ts",
+      "sha256": "d4251e92c46b89e8eb8cb9bddb45d4c48e02fe5aef4a7af74c539bf2a59f7981",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "languageDescriptions": {
+    "fragments": [
+      {
+        "language": "en",
+        "key": "collection/prop/1",
+        "verbatimFragment": "collection/prop/1\",\"Increase Fire DMG dealt to monsters by ${cfg.percent}%\""
+      },
+      {
+        "language": "en",
+        "key": "collection/prop/3",
+        "verbatimFragment": "collection/prop/3\",\"Gain ${cfg.percent}% Ice DMG Reduction vs monsters\""
+      },
+      {
+        "language": "en",
+        "key": "collection/prop/15/1",
+        "verbatimFragment": "collection/prop/15/1\",\"Reach 4 and 5 Stars to receive a [Duskbringers] via Mail\""
+      },
+      {
+        "language": "en",
+        "key": "collection/prop/18",
+        "verbatimFragment": "collection/prop/18\",'STA\\x20Regen\\x20+${cfg.percent}\\x20in\\x20Heartless\\x20Sea'"
+      },
+      {
+        "language": "zh",
+        "key": "collection/prop/1",
+        "verbatimFragment": "collection/prop/1\",\"对怪物造成的火属性伤害增伤${cfg.percent}%\""
+      },
+      {
+        "language": "zh",
+        "key": "collection/prop/3",
+        "verbatimFragment": "collection/prop/3\",\"受到怪物冰属性伤害减伤${cfg.percent}%\""
+      },
+      {
+        "language": "zh",
+        "key": "collection/prop/15/1",
+        "verbatimFragment": "collection/prop/15/1\",\"达到四星、五星时，发送【夜幕锋刃】奖励邮件\""
+      },
+      {
+        "language": "zh",
+        "key": "collection/prop/18",
+        "verbatimFragment": "collection/prop/18\",\"在无尽深海中，体力恢复+${cfg.percent}\""
+      }
+    ],
+    "sources": [
+      {
+        "language": "en",
+        "sha256": "614aeacd2a35a243aa15c3be4632ab032631ab85c365e88620ad2536c1949ceb"
+      },
+      {
+        "language": "zh",
+        "sha256": "583812f0968b98e41e26e377c27427a7076b939847d120bd87b67171ba845b1e"
+      }
+    ]
+  },
+  "schemes": [
+    {
+      "name": "Collections",
+      "sha256": "87a061e53b142c9eac573b88032d36eea72cc22339adff087cb626527d2ff49b",
+      "rows": 18
+    },
+    {
+      "name": "CollectionStar",
+      "sha256": "203e385afad07a788650efa437d34316bb726d88451ba893425ba0744e1f57ec",
+      "rows": 93
+    },
+    {
+      "name": "CollectionTask",
+      "sha256": "e8f8d7a75e293cd3bd07a10b14aae742a5afebf7a53cddcd3d186dff013d6d5b",
+      "rows": 93
+    }
+  ],
+  "nativeVMConsumersExecuted": [
+    "CollectionModel.getInfoById/setCollectionInfo/collectionIsUnlock",
+    "CollectionController.loadCollectionInfo/upgradeCollection/checkCollectionRed",
+    "CollectionNetwork.refreshCollection/refreshCollectionTask"
+  ],
+  "originalIndexUntouched": true,
+  "windowsClientRendered": false
+}

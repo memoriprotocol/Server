@@ -1,0 +1,66 @@
+{
+  "from": "Stage30 unchanged boss snapshot",
+  "visibilityRadius": 4800,
+  "bosses": [
+    {
+      "data": {
+        "id": 60000290,
+        "cid": 1305,
+        "type": 93,
+        "kind": "boss",
+        "x": -12799.50415011961,
+        "y": 16373.85534255447,
+        "level": 105,
+        "respawnMs": 150000,
+        "prefab": "arena_3d/monsters/monster_1305/monster",
+        "areaId": 299
+      },
+      "entityWireSha256": "c946d3e6d8dd2baa0eb943e46b602b8595f1af09025bb2fd7c9529ce07b87770"
+    },
+    {
+      "data": {
+        "id": 60000291,
+        "cid": 1302,
+        "type": 88,
+        "kind": "boss",
+        "x": 13597.013428981601,
+        "y": 17447.06856298671,
+        "level": 105,
+        "respawnMs": 150000,
+        "prefab": "arena_3d/monsters/monster_1302/monster",
+        "areaId": 300
+      },
+      "entityWireSha256": "a3a82fb41f08bf0c01b6de4ee710f8ff84fcb934271063ea8ca5792e0f010bf9"
+    },
+    {
+      "data": {
+        "id": 60000292,
+        "cid": 1306,
+        "type": 94,
+        "kind": "boss",
+        "x": 12388.68687868286,
+        "y": -15097.226763008142,
+        "level": 105,
+        "respawnMs": 150000,
+        "prefab": "arena_3d/monsters/monster_1306/monster",
+        "areaId": 301
+      },
+      "entityWireSha256": "c7e89d4e15dc99ce0cb5aab2aafdb0215a11679185d68a23e14ff5cd641e94de"
+    },
+    {
+      "data": {
+        "id": 60000293,
+        "cid": 1307,
+        "type": 95,
+        "kind": "boss",
+        "x": -15292.662074204907,
+        "y": -17048.489596615833,
+        "level": 105,
+        "respawnMs": 150000,
+        "prefab": "arena_3d/monsters/monster_1307/monster",
+        "areaId": 302
+      },
+      "entityWireSha256": "8e0b44041d77f3dffe748cd1af473848ee7df5a07aada821a3a5dc72740d7d55"
+    }
+  ]
+}

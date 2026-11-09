@@ -1,0 +1,100 @@
+TAP version 13
+# Subtest: original 2024 bindings: distinct active/passive, buff 273, acidMucus=1045, native prefab per star
+ok 1 - original 2024 bindings: distinct active/passive, buff 273, acidMucus=1045, native prefab per star
+  ---
+  duration_ms: 1.625342
+  type: 'test'
+  ...
+# Subtest: Slime star 1: F disguises and does NOT damage directly; break spawns 5s acidMucus with native UD
+ok 2 - Slime star 1: F disguises and does NOT damage directly; break spawns 5s acidMucus with native UD
+  ---
+  duration_ms: 32.936644
+  type: 'test'
+  ...
+# Subtest: Slime star 2: F disguises and does NOT damage directly; break spawns 5s acidMucus with native UD
+ok 3 - Slime star 2: F disguises and does NOT damage directly; break spawns 5s acidMucus with native UD
+  ---
+  duration_ms: 4.278169
+  type: 'test'
+  ...
+# Subtest: Slime star 3: F disguises and does NOT damage directly; break spawns 5s acidMucus with native UD
+ok 4 - Slime star 3: F disguises and does NOT damage directly; break spawns 5s acidMucus with native UD
+  ---
+  duration_ms: 3.671978
+  type: 'test'
+  ...
+# Subtest: Slime star3: 1.5s confusion only at disguise break, independent from tick slow
+ok 5 - Slime star3: 1.5s confusion only at disguise break, independent from tick slow
+  ---
+  duration_ms: 2.911234
+  type: 'test'
+  ...
+# Subtest: Slime hurt breaks disguise and heals 15% maxHP only if alive
+ok 6 - Slime hurt breaks disguise and heals 15% maxHP only if alive
+  ---
+  duration_ms: 3.256273
+  type: 'test'
+  ...
+# Subtest: Slime nearest eligible object: no BOSS, no chest, no target means no cast/no cooldown
+ok 7 - Slime nearest eligible object: no BOSS, no chest, no target means no cast/no cooldown
+  ---
+  duration_ms: 1.800947
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on death prevents late damage and leaked VFX
+ok 8 - Slime cleanup on death prevents late damage and leaked VFX
+  ---
+  duration_ms: 1.745022
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on actor prevents late damage and leaked VFX
+ok 9 - Slime cleanup on actor prevents late damage and leaked VFX
+  ---
+  duration_ms: 2.19604
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on room prevents late damage and leaked VFX
+ok 10 - Slime cleanup on room prevents late damage and leaked VFX
+  ---
+  duration_ms: 2.770744
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on map prevents late damage and leaked VFX
+ok 11 - Slime cleanup on map prevents late damage and leaked VFX
+  ---
+  duration_ms: 1.867106
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on star prevents late damage and leaked VFX
+ok 12 - Slime cleanup on star prevents late damage and leaked VFX
+  ---
+  duration_ms: 1.531561
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on hero prevents late damage and leaked VFX
+ok 13 - Slime cleanup on hero prevents late damage and leaked VFX
+  ---
+  duration_ms: 0.997659
+  type: 'test'
+  ...
+# Subtest: Slime cleanup on life prevents late damage and leaked VFX
+ok 14 - Slime cleanup on life prevents late damage and leaked VFX
+  ---
+  duration_ms: 1.121766
+  type: 'test'
+  ...
+# Subtest: Slime interruption on weapon usage and hero switch are routed through server runtime
+ok 15 - Slime interruption on weapon usage and hero switch are routed through server runtime
+  ---
+  duration_ms: 1.139102
+  type: 'test'
+  ...
+1..15
+# tests 15
+# suites 0
+# pass 15
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 337.6164

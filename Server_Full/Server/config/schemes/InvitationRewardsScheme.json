@@ -1,0 +1,136 @@
+{
+  "InvitationRewards": [
+    {
+      "ID": 1,
+      "type": 0,
+      "targetArgs": 1,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        1000
+      ]
+    },
+    {
+      "ID": 2,
+      "type": 2,
+      "targetArgs": 1,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        1000
+      ]
+    },
+    {
+      "ID": 3,
+      "type": 1,
+      "targetArgs": 1,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        100
+      ]
+    },
+    {
+      "ID": 4,
+      "type": 1,
+      "targetArgs": 2,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        200
+      ]
+    },
+    {
+      "ID": 5,
+      "type": 1,
+      "targetArgs": 3,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        300
+      ]
+    },
+    {
+      "ID": 6,
+      "type": 1,
+      "targetArgs": 4,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        400
+      ]
+    },
+    {
+      "ID": 7,
+      "type": 1,
+      "targetArgs": 5,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        500
+      ]
+    },
+    {
+      "ID": 8,
+      "type": 1,
+      "targetArgs": 6,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        600
+      ]
+    },
+    {
+      "ID": 9,
+      "type": 1,
+      "targetArgs": 7,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        700
+      ]
+    },
+    {
+      "ID": 10,
+      "type": 1,
+      "targetArgs": 8,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        800
+      ]
+    },
+    {
+      "ID": 11,
+      "type": 1,
+      "targetArgs": 9,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        900
+      ]
+    },
+    {
+      "ID": 12,
+      "type": 1,
+      "targetArgs": 10,
+      "rewardID": [
+        109
+      ],
+      "rewardNum": [
+        1000
+      ]
+    }
+  ]
+}

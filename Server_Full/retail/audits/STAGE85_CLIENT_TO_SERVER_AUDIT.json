@@ -1,0 +1,116 @@
+{
+  "stage": 85,
+  "baseStage": 84,
+  "version": "0.56.0-stage85-hero-roster-passives",
+  "builtAtMoscow": "2026-11-07T09:45:21.963901+03:00",
+  "baseArchive": {
+    "name": "SERVER_STAGE84_LEVELS_DAN_FIX.zip",
+    "sha256": "b5a40bedb1eef64a5a2465ba7201cf7d7323488658cfd35fbcbcf6f3d5ebf467",
+    "bytes": 6811065
+  },
+  "client": "HeroLand 3.12.7, 2024-02-22",
+  "originalIndexEdited": false,
+  "originalClientIndexSHA256": "5e26e97b06bf03ae0b60de7f2b318e6b2b7b51513d35b2bbc7ce0f3eea62304b",
+  "nativeFactoriesByteIdentical": {
+    "CCFlowerFairyPullWire.ts": "aba238fbe3f6aa1c2697044f77745c7b50baac7b72b27bcec0e35e89de401e06",
+    "ccImpSkillEffect.ts": "f12f8e85e9f571a7f32e6a6c67730dc0313db524dba17f29a355ce026059474f",
+    "CCDevilSkill.ts": "897a1a64df28c938ecf951bbd26b74bf530c856bac0d82d66c8400ad2e81bd8c",
+    "CCDragonPrinceThundercloud.ts": "037bb2ce42f8ba823121ce1f3278098c62327ef060c91f43757d63464ef9935d",
+    "en.ts": "614aeacd2a35a243aa15c3be4632ab032631ab85c365e88620ad2536c1949ceb",
+    "Weapon.ts": "8ecb52a7fee4b802fd8dd33ffcc4e7755052feb084c6114e3eb350f702395f37",
+    "CCVikingSkill.ts": "7b8e0ebf3f61ca801b8632491fcf9e97b9492ebce07b1be62ded158f95e1cc19",
+    "CCArmoredMan.ts": "249880fedec118ea5cea712e649eccf31e2bf4cc6440948066402a925043a0a5",
+    "CCLightingRabbit.ts": "c7751fa8c96a247ac3a1f49c5599f8a865089a0f449ece4e9f9807ea034dc6a3",
+    "CCBuffComp.ts": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b",
+    "zh.ts": "583812f0968b98e41e26e377c27427a7076b939847d120bd87b67171ba845b1e"
+  },
+  "scope": {
+    "heroesInRoster": 26,
+    "nativeSkillStarRows": 96,
+    "all3StarsPerHeroChecked": true,
+    "NPCAndStar3CooldownsOverRealWebSocket": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      17,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "nativeVFXAssetSkinStarRows": 33,
+    "allMatchedNativePrefabMetadata": true,
+    "complete1to1": false
+  },
+  "newMechanics": [
+    "Devil fire bonus5/10/15%; native fire RES100 not doubled; 1500ms delayed1055 meteor; burn297 four ticks; stun298 at2/3 stars; silence302 at3 stars",
+    "Wyvern native1315 cloud follows caster and strikes one closest PvE target per1000/700/500ms by star; duration30000ms",
+    "Rabbit native2 charges, speed2000/miss200 for4000ms, native317+602 back/front visuals,346 and482, star2/3 aura pulses",
+    "Fairy recovers1/1.5/2% maxHP each1000ms, no catchup burst or healing from stale actor/life/hero/star/skin",
+    "Gadgeteer3/6/10% monster/boss XP bonus committed with original reward receipt; no bonus for sale/fishing/quest/chest XP",
+    "Bomber3/6% weapon CD reduction at2/3 stars from native343",
+    "Viking HP-loss stacks from724 drive actual melee outgoing/incoming damage and native stack packet",
+    "Current-star syncSkillCD for all heroes, fixing Chicken and Hamster initial CD",
+    "NPC switch derives all shared hero stat modifiers after applying new hero identity",
+    "Devil and Hamster passives activate on actual ordinary9-to10 XP transition; no base mutation or compound refresh"
+  ],
+  "reconstructionPoliciesNotRecoveredRetail": [
+    "Viking hpArgs4 interpreted as percent missingHP per stack; floor/cap15; existing max-with-other-reductions policy retained",
+    "Devil damage snapshot at launch; bounded impact retry1000ms; no PvP meteor certification; final burn tick inclusive at4000ms, no catchup burst",
+    "Wyvern target search uses native effectSize radius with hitbox allowance; first attack after onceTime, at most one per tick; lightning retention up to1000ms; no PvP targeting",
+    "Rabbit independent miss curve with food evasion; bounded PvE aura contacts/pulse edges; native unit-collision/PvP server behavior incomplete",
+    "All original server mitigation, threat, PvP and full rendered-client behaviors remain subject to earlier audit limitations"
+  ],
+  "knownMajorHeroGaps": {
+    "21": "Weapon-cast bomb and death bomb/revive cycle",
+    "24": "Devour/spit player/ally interaction",
+    "26": "GM-74 mech active transformation/elemental projectiles/shield cycle",
+    "27": "Big/small axe projectile/health cost/lifesteal/control",
+    "28": "Movement distance trigger for healing marsh passive",
+    "29": "Ally link wire/shared damage/shared healing"
+  },
+  "validation": {
+    "tests": 2406,
+    "passed": 2406,
+    "oldTestsUnchanged": 2313,
+    "newTests": 93,
+    "networkSmoke": "PASS",
+    "nativeFactoriesExecutedInVM": [
+      "ccImpSkillEffect.create",
+      "CCDragonPrinceThundercloud.create"
+    ],
+    "all26SharedStatsImmutable": true,
+    "nativeConfigsUnchangedFromStage84": true,
+    "websiteFixture": "Only two existing source-inspection tests require sibling Website_Full, copied unchanged from stage72 for validation. Not part of this server archive.",
+    "windowsClientRendered": false
+  },
+  "preserved": {
+    "Stage44CityWallConfigsSHA256": {
+      "Server_Full/Server/config/city-main-3127.json": "72b5f5ff9e1ad900272d1caf96bab5ae92c6d082d5b32416cb2c213216758730",
+      "Server_Full/Server/config/map2-city-objects-3127.json": "4e0fe572d2cb8d33aca7b6ce480c685bc5de098431f992b6225684cff2bb8bfa"
+    },
+    "PVPBoard": "unchanged native configs",
+    "Stage83DeathHallReentry": "retained and tested",
+    "Stage84OrdinaryLevelsDan": "retained and tested"
+  },
+  "allHeroMechanicsComplete": false,
+  "restorationComplete": false
+}

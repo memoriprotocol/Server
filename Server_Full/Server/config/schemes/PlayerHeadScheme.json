@@ -1,0 +1,174 @@
+{
+  "PlayerHead": [
+    {
+      "ID": 1,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281001,
+      "Icon": "main/player_head/heads/ui_avatar_01/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 2,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281002,
+      "Icon": "main/player_head/heads/ui_avatar_02/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 3,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281003,
+      "Icon": "main/player_head/heads/ui_avatar_03/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 4,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281004,
+      "Icon": "main/player_head/heads/ui_avatar_04/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 5,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281005,
+      "Icon": "main/player_head/heads/ui_avatar_05/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 6,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281006,
+      "Icon": "main/player_head/heads/ui_avatar_06/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 7,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281007,
+      "Icon": "main/player_head/heads/ui_avatar_07/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 8,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281008,
+      "Icon": "main/player_head/heads/ui_avatar_08/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 9,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281009,
+      "Icon": "main/player_head/heads/ui_avatar_09/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 10,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281010,
+      "Icon": "main/player_head/heads/ui_avatar_10/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 11,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281011,
+      "Icon": "main/player_head/heads/ui_avatar_11/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 12,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281012,
+      "Icon": "main/player_head/heads/ui_avatar_12/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 13,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281013,
+      "Icon": "main/player_head/heads/ui_avatar_13/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 14,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281014,
+      "Icon": "main/player_head/heads/ui_avatar_14/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 15,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281015,
+      "Icon": "main/player_head/heads/ui_avatar_15/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 16,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281016,
+      "Icon": "main/player_head/heads/ui_avatar_16/spriteFrame",
+      "isValid": true
+    },
+    {
+      "ID": 17,
+      "HeadType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 281017,
+      "Icon": "main/player_head/heads/ui_avatar_17/spriteFrame",
+      "isValid": true
+    }
+  ]
+}

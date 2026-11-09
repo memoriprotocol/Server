@@ -1,0 +1,42 @@
+[
+  {
+    "language": "en",
+    "key": "collection/prop/1",
+    "verbatimFragment": "collection/prop/1\",\"Increase Fire DMG dealt to monsters by ${cfg.percent}%\""
+  },
+  {
+    "language": "en",
+    "key": "collection/prop/3",
+    "verbatimFragment": "collection/prop/3\",\"Gain ${cfg.percent}% Ice DMG Reduction vs monsters\""
+  },
+  {
+    "language": "en",
+    "key": "collection/prop/15/1",
+    "verbatimFragment": "collection/prop/15/1\",\"Reach 4 and 5 Stars to receive a [Duskbringers] via Mail\""
+  },
+  {
+    "language": "en",
+    "key": "collection/prop/18",
+    "verbatimFragment": "collection/prop/18\",'STA\\x20Regen\\x20+${cfg.percent}\\x20in\\x20Heartless\\x20Sea'"
+  },
+  {
+    "language": "zh",
+    "key": "collection/prop/1",
+    "verbatimFragment": "collection/prop/1\",\"对怪物造成的火属性伤害增伤${cfg.percent}%\""
+  },
+  {
+    "language": "zh",
+    "key": "collection/prop/3",
+    "verbatimFragment": "collection/prop/3\",\"受到怪物冰属性伤害减伤${cfg.percent}%\""
+  },
+  {
+    "language": "zh",
+    "key": "collection/prop/15/1",
+    "verbatimFragment": "collection/prop/15/1\",\"达到四星、五星时，发送【夜幕锋刃】奖励邮件\""
+  },
+  {
+    "language": "zh",
+    "key": "collection/prop/18",
+    "verbatimFragment": "collection/prop/18\",\"在无尽深海中，体力恢复+${cfg.percent}\""
+  }
+]

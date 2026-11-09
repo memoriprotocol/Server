@@ -1,0 +1,161 @@
+{
+  "stage": 70,
+  "version": "0.48.0-stage70-bard-support",
+  "tests": {
+    "tests": 1567,
+    "pass": 1567,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage70": 53,
+    "modifiedOldTests": 0
+  },
+  "syntax": {
+    "status": "PASS",
+    "checked": 12,
+    "paths": [
+      "stage70/Server_Full/server.js",
+      "stage70/Server_Full/Server/lib/player-skills-3127.js",
+      "stage70/Server_Full/Server/lib/hero-vfx-3127.js",
+      "stage70/Server_Full/Server/lib/runtime-tick-3127.js",
+      "stage70/Server_Full/Server/lib/combat-input-3127.js",
+      "stage70/Server_Full/Server/lib/bard-3127.js",
+      "stage70/Server_Full/Server/lib/talents-3127.js",
+      "stage70/Server_Full/Server/lib/world.js",
+      "stage70/Server_Full/Server/lib/hero-support-3127.js",
+      "stage70/Server_Full/Server/tests/stage70-bard.test.js",
+      "stage70/Server_Full/Server/tests/stage70-native-bard.test.js",
+      "stage70/Server_Full/Server/tests/helpers/stage70-native.js"
+    ]
+  },
+  "smoke": {
+    "stage70": {
+      "nativeBardF": true,
+      "passive6032": true,
+      "attack10Percent": true,
+      "speed300": true,
+      "nativeEntity1035": true,
+      "tenLiveHealPulses": true,
+      "duplicateFRejected": true,
+      "expiryAndHeroSwitchClear": true
+    },
+    "stage69Regression": {
+      "native18EntryLoad": true,
+      "nativePiecesPush": true,
+      "nativeUpgrade": true,
+      "nativeTaskPush": true,
+      "killReceiptOnce": true,
+      "durableArchive": true,
+      "noPhantomItem": true,
+      "unsupportedDailyHonest": true,
+      "nativeStarRewardMailAndClaimOnce": true
+    },
+    "stage68Regression": {
+      "nativeChefF": true,
+      "nativePot1038": true,
+      "nativeCommand94Food": true,
+      "portionsOnce": true,
+      "sharedFoodCooldown": true,
+      "casterHPHealShield": true,
+      "nativeFoodStats": true,
+      "nativeItem32Consumed": true,
+      "periodicFoodRegen": true
+    },
+    "stage67Regression": {
+      "nativeSwordF": true,
+      "backstep": true,
+      "visibleEntity1208": true,
+      "star3WaveDamage": true,
+      "swordWeaponPassive": true,
+      "nativeWizardFrostStacksAndFreeze": true,
+      "nunWeaponHealingBonus": true
+    },
+    "stage66Regression": {
+      "nativeFrames": true,
+      "spartanTickAndToggle": true,
+      "mageStaffCDPacket": true,
+      "paladinCleanseAndInvulnerability": true,
+      "nunDelayedHealAndDefence": true,
+      "weaponDoubleCharge": true,
+      "thirdChargeRejected": true
+    },
+    "stage65Regression": {
+      "nativeHeroF": true,
+      "nativeWeaponRMB": true,
+      "delayedFieldCreation": true,
+      "wizardPulseDamage": true,
+      "vortex500DamageCap": true,
+      "nativeEffect107And1065": true,
+      "variantScale12": true
+    },
+    "stage64Regression": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.48.0-stage70-bard-support",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "PVPBoardPreserved": true,
+    "allConfigsSchemesPlacementsUnchanged": true,
+    "websiteAddonUnchanged": true,
+    "originalIndexUntouched": true,
+    "newMapsOpened": 0,
+    "defaultPvPNotEnabled": true
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

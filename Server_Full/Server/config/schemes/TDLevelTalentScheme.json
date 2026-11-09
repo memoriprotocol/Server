@@ -1,0 +1,104 @@
+{
+  "TDLevelTalent": [
+    {
+      "ID": 1,
+      "Level": 10,
+      "TalentBoxesID": 4
+    },
+    {
+      "ID": 2,
+      "Level": 20,
+      "TalentBoxesID": 4
+    },
+    {
+      "ID": 3,
+      "Level": 30,
+      "TalentBoxesID": 4
+    },
+    {
+      "ID": 4,
+      "Level": 40,
+      "TalentBoxesID": 4
+    },
+    {
+      "ID": 5,
+      "Level": 50,
+      "TalentBoxesID": 4
+    },
+    {
+      "ID": 6,
+      "Level": 60,
+      "TalentBoxesID": 5
+    },
+    {
+      "ID": 7,
+      "Level": 70,
+      "TalentBoxesID": 5
+    },
+    {
+      "ID": 8,
+      "Level": 80,
+      "TalentBoxesID": 5
+    },
+    {
+      "ID": 9,
+      "Level": 90,
+      "TalentBoxesID": 5
+    },
+    {
+      "ID": 10,
+      "Level": 100,
+      "TalentBoxesID": 5
+    },
+    {
+      "ID": 11,
+      "Level": 110,
+      "TalentBoxesID": 5
+    },
+    {
+      "ID": 12,
+      "Level": 120,
+      "TalentBoxesID": 6
+    },
+    {
+      "ID": 13,
+      "Level": 130,
+      "TalentBoxesID": 6
+    },
+    {
+      "ID": 14,
+      "Level": 140,
+      "TalentBoxesID": 6
+    },
+    {
+      "ID": 15,
+      "Level": 150,
+      "TalentBoxesID": 6
+    },
+    {
+      "ID": 16,
+      "Level": 160,
+      "TalentBoxesID": 6
+    },
+    {
+      "ID": 17,
+      "Level": 170,
+      "TalentBoxesID": 7
+    },
+    {
+      "ID": 18,
+      "Level": 180,
+      "TalentBoxesID": 7
+    },
+    {
+      "ID": 19,
+      "Level": 190,
+      "TalentBoxesID": 7
+    },
+    {
+      "ID": 20,
+      "Level": 200,
+      "TalentBoxesID": 7
+    }
+  ]
+}

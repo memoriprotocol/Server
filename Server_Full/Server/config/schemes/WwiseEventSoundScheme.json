@@ -1,0 +1,76 @@
+{
+  "EventSound": [
+    {
+      "Name": "zhujue_1",
+      "EventName": "move",
+      "PlayEvent": "event",
+      "Skin": "101|102"
+    },
+    {
+      "Name": "zhujue_1",
+      "EventName": "move",
+      "PlayEvent": "event_103",
+      "Skin": "103"
+    },
+    {
+      "Name": "mount_001",
+      "EventName": "move",
+      "PlayEvent": "event_mount",
+      "Skin": ""
+    },
+    {
+      "Name": "622000_skill",
+      "EventName": "sound_weapon_622000_blow",
+      "PlayEvent": "sound_weapon_622000_blow",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004",
+      "EventName": "sound_mount_004_action_01",
+      "PlayEvent": "sound_mount_004_action_01",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004",
+      "EventName": "sound_mount_004_action_02",
+      "PlayEvent": "sound_mount_004_action_02",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004",
+      "EventName": "sound_mount_004_action_03",
+      "PlayEvent": "sound_mount_004_action_03",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004_01",
+      "EventName": "sound_mount_004_action_01",
+      "PlayEvent": "sound_mount_004_action_01",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004_01",
+      "EventName": "sound_mount_004_action_02",
+      "PlayEvent": "sound_mount_004_action_02",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004_01",
+      "EventName": "sound_mount_004_action_03",
+      "PlayEvent": "sound_mount_004_action_03",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004_01",
+      "EventName": "sound_mount_004_footstep",
+      "PlayEvent": "sound_mount_004_footstep",
+      "Skin": ""
+    },
+    {
+      "Name": "mount_004",
+      "EventName": "sound_mount_004_footstep",
+      "PlayEvent": "sound_mount_004_footstep",
+      "Skin": ""
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "stage": 64,
+  "version": "0.42.0-stage64-map-ranks-quest-recovery",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage64/ActivityViewLantern.ts",
+      "sha256": "318197bf7c8184675293873d8e1bb83e806d3a54a95d2131e47f2558de994b30",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCBossInfoTips.ts",
+      "sha256": "d3d85871dd9273cea894532389298048057288839281dcd27caeb98972573cf0",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCPVPBoard.ts",
+      "sha256": "972da01c4605f844366ea7d12fb16cc2d9b85e2bb9cb4096a07544e3660ec2bc",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCRankLayer.ts",
+      "sha256": "4affa3f3044f51a9821404532c3f84a97eb257cf222afa0ae9b2555d796c9093",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCRankSystem.ts",
+      "sha256": "c4eaf223cfc2bc4f8362cc286cc299a8d7e851564516bf3141697aae19c365b4",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCScene.ts",
+      "sha256": "a84d48ea2c20bb55934ef5ad299475049a509224da706788de8acf0445d3f4f6",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCSignalComp.ts",
+      "sha256": "da617ba99b8206c33804a88a51ae66c92873effbc815024e2aebd38cd22bc8a5",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CCTaskComp.ts",
+      "sha256": "0f852e3caa36a609b46c828194c2cf7dd92c43268357dad8ec26947b937c6dcf",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/CollectionController.ts",
+      "sha256": "de3be90d64b197cddc383bd5511f389ccaa40df2ef4c814c8d8e4da474b116b5",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/MonsterInfoView.ts",
+      "sha256": "4f5403d7a7522c2642a634b113aa4d22e4718afc418bbd8fdaf4ff69dc3b21a6",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/PlayerAction.ts",
+      "sha256": "c8d47734d537349714a9a7a27261c92d8393815b083475e7da027a4f2edb348b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/PropLevelSchemeMananger.ts",
+      "sha256": "3e1f4306c5f234420fe345679d724762491690ef0f4d3afc12bf6e9e1f98dddc",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/RankController.ts",
+      "sha256": "af40e161d162d5694f965240351a610d7b84fb02582ab10846fe12a2cec50a0d",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/RankInfoView.ts",
+      "sha256": "49be4d2f4e1db01526bf4c329f7750fda219eb47cec47ca8b4aeb2bf5f763665",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/RankNetWork.ts",
+      "sha256": "9c02e89d349d67d099f475db350e45ae8ed2a31929cb73d2fa89ae3848fdbaf2",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/Task.ts",
+      "sha256": "0da32e437caf25e4ee4c991cdbb84e7ca15d2f874e231e1e8f869c2dcce4a5c7",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/TaskManager.ts",
+      "sha256": "47542fedb3aa639112972559572211d975e33adb6068e64102437ef263a826ff",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage64/UserManager.ts",
+      "sha256": "427139db34cd0be85cc51c7d9b8d00a69d1a4c04cbf230bc3f898d326165ada4",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "PVPBoard": "UNCHANGED_NOT_REPLACED_OR_REMOVED",
+  "mapRanks": {
+    "nativeProtocol": "system12/updateRank3",
+    "ready": "immediate private publish on loginLoadingFinish, including reload",
+    "periodic": "existing1000ms change detection,5000ms heartbeat",
+    "nativeUI": "CCRankSystem, RankInfoView refresh/scroll layout/number row, CCRankLayer preference tested",
+    "physicalLeaderboardObjectsAdded": false,
+    "globalPush": "updateRankings only to previously queried RankModule; native model update, live global-panel redraw not claimed",
+    "scoreFormula": "unchanged local reconstruction fromStage63",
+    "pvpKillCounter": "not restored here; prior experimental PvP restrictions remain"
+  },
+  "quests": {
+    "nativeDefinitions": 100,
+    "nonDeleted": 92,
+    "correctCategory2": "lantern",
+    "connectedSources": [
+      3,
+      6,
+      7,
+      11,
+      14,
+      16,
+      20,
+      21,
+      23
+    ],
+    "atomic": [
+      "monster/boss/chest killXP/drop/quest",
+      "resource inventory/quest",
+      "hero change/quest",
+      "campfire actual HP/quest when persistent"
+    ],
+    "stateObjectives": "native equipment-family suit thresholds, selected weapon and concurrent worn gear; completed states retained; no fake grade when missing",
+    "delivery": "private1000ms diff, no reward replay; volatile transport retry without newclientACK",
+    "category": "bound to origin run and retained across transfers",
+    "localInferences": [
+      "Graded3 mobs are elite for task14",
+      "Bonfire num is interpreted as actual received HP; not recovered server code",
+      "state conditions count current gear and accept grades at least target; not recovered retail server algorithm"
+    ],
+    "limits": [
+      "emoji chat trigger23 still unconnected, native gestures are connected",
+      "Lantern21tasks require event parameters",
+      "PvP and every quest-source/collection effect not restored",
+      "deleted quests stay disabled"
+    ]
+  },
+  "bossBook": {
+    "standaloneArchive": "NOT_CONFIRMED_IN_EXAMINED_3_12_7_CLIENT",
+    "positiveEvidence": [
+      "CCBossInfoTips",
+      "MonsterInfoView.renderMonsterInfo",
+      "CollectionController separate archive"
+    ],
+    "nativeMap2BossCardsVM": [
+      1305,
+      1302,
+      1306,
+      1307
+    ],
+    "collectionHandlerImplemented": false,
+    "unverified": "live hover/rendering in Windows and whether user means later-version BossBook"
+  },
+  "runtime": "each subsystem catches failures, logs at most5000ms, map ranks before world tick",
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

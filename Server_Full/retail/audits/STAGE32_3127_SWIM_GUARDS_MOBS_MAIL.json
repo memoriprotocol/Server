@@ -1,0 +1,36 @@
+{
+  "version": "stage32",
+  "reference": "supplied 3.12.7 CreatureScheme/BuffScheme and extracted client index.js",
+  "verified": {
+    "guardCreatureIds": [
+      3001,
+      3002,
+      3003,
+      3004,
+      3005
+    ],
+    "guardType": 1037,
+    "warehouseId": 402,
+    "mailId": 422,
+    "classChangeMasterId": 421,
+    "waterBuffId": 181,
+    "swimBuffName": "inWater"
+  },
+  "provisional": {
+    "godOfWar": "Visible native officer model 412 is a provisional stand-in only; PvP arena entrance function NOT implemented",
+    "heroChange": "Model 421 is a class-change master, not independently confirmed as hero-switch NPC",
+    "mobRenderer": "Native creature IDs and type exported at scene entry; missing legacy 3D prefab override removed; client render needs visual test"
+  },
+  "mail": {
+    "timestamp": "Unix seconds",
+    "isExist": 0,
+    "legacyMails": true,
+    "claimOnce": true
+  },
+  "world": {
+    "initialNormalMobs": "289 ordinary mobs included in initial battle.iob.enter snapshot",
+    "bosses": "4 boss entities unchanged from Stage30 in spawn data, models, AI and render pipeline; not included in initial mob batch",
+    "delayedOnly": "bosses and scenery follow original Stage30 visibility and streaming rules"
+  },
+  "note": "No 1.0.58 NPC models introduced. Client assets and site not changed."
+}

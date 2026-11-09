@@ -1,0 +1,10 @@
+function encodeRemoteSystemNotice(noticeType, value) {
+  const event = Buffer.concat([
+    protoVarint(1, BigInt.asUintN(64, -1n)),
+    // Retail remote system-event envelope captured for kill_boss:
+    // systemType=25, eventType=20, payload=InfoHistoryEvent(type,json).
+    protoVarint(2, 25), protoVarint(3, 20),
+    protoBytes(4, infoHistoryEvent(String(noticeType || ''), value || {})),
+  ]);
+  return protoBytes(1, event);
+}

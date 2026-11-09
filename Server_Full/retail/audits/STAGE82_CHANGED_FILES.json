@@ -1,0 +1,30 @@
+{
+  "changedExisting": [
+    "Server_Full/Server/lib/combat-input-3127.js",
+    "Server_Full/Server/lib/hero-passives-3127.js",
+    "Server_Full/Server/lib/hero-switch-3127.js",
+    "Server_Full/Server/lib/hero-vfx-3127.js",
+    "Server_Full/Server/lib/life-3127.js",
+    "Server_Full/Server/lib/monster-effects-3127.js",
+    "Server_Full/Server/lib/player-skills-3127.js",
+    "Server_Full/Server/lib/world.js",
+    "Server_Full/package.json"
+  ],
+  "added": [
+    "ISSUES_STAGE82_RU.txt",
+    "README_STAGE82_RU.txt",
+    "Server_Full/README_STAGE82_RU.txt",
+    "Server_Full/Server/lib/hamster-3127.js",
+    "Server_Full/Server/lib/hero-init-passives-3127.js",
+    "Server_Full/Server/lib/slime-3127.js",
+    "Server_Full/Server/tests/stage82-native-hero-init-ninja.test.js",
+    "Server_Full/Server/tests/stage82-slime-native-active-passive.test.js",
+    "Server_Full/retail/audits/STAGE82_ALL_TESTS.log",
+    "Server_Full/retail/audits/STAGE82_CLIENT_TO_SERVER_AUDIT.json",
+    "Server_Full/retail/audits/STAGE82_SLIME_FOCUSED.log",
+    "Server_Full/retail/client-reference/stage82/CCSlim.ts",
+    "Server_Full/retail/client-reference/stage82/CCSlimComp.ts",
+    "Server_Full/retail/client-reference/stage82/CCSlimPassive.ts"
+  ],
+  "removed": []
+}

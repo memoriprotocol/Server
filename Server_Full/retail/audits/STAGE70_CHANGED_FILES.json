@@ -1,0 +1,147 @@
+[
+  {
+    "path": "ISSUES_STAGE70_RU.txt",
+    "change": "added",
+    "sha256": "2e6e2ddf42f9842b1e7c643e47cc4785db9b177a0111e25ae9ddfe1b6c0451db"
+  },
+  {
+    "path": "README_STAGE70_RU.txt",
+    "change": "added",
+    "sha256": "71df392369e3836c0fe6c4ec29cf3cee08c1fc29e796e063aaae8c94815724ed"
+  },
+  {
+    "path": "SKILL_COVERAGE_STAGE70_RU.txt",
+    "change": "added",
+    "sha256": "ea50d5fe4e37b472712d08bc70a48b52c2c4327a6f8927a6ad838081b6e554ec"
+  },
+  {
+    "path": "Server_Full/README_STAGE70_RU.txt",
+    "change": "added",
+    "sha256": "71df392369e3836c0fe6c4ec29cf3cee08c1fc29e796e063aaae8c94815724ed"
+  },
+  {
+    "path": "Server_Full/Server/lib/bard-3127.js",
+    "change": "added",
+    "sha256": "30c2cfa8a957a255582e1e9179a81f95cd7fae88fab7481cb485d7d41f2ef70e"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "71fd366855c01731055cc4c82fd1a74b35d7404c6e9af39046591b7c6377a9b5"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-support-3127.js",
+    "change": "modified",
+    "sha256": "2be10f25501cc98161e4f80b04b2211736bd145ea8ee068531b631d063b8e92b"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "29d73fd00a72facfbe33ecb083e0c5d17cbdf74ec5846ec7f1d4fe99d7cc53b1"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "717c8e4107feb158f6215582af2dc81beeb0d3c1956d0391d1cba8032f692cbd"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "modified",
+    "sha256": "20abcb2c6b88099bd6ae8f9867e24f8959fdd487231babf4c0784d32096adb7a"
+  },
+  {
+    "path": "Server_Full/Server/lib/talents-3127.js",
+    "change": "modified",
+    "sha256": "ca096be49b23db1edb83c2a2d433e8c3dfc816a6905b948fb1a4b67313979cf1"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "6a9af4d46302e2b73031f0e85be0d38f305ec264bdf46c2b21bef5ec566987cc"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage70-native.js",
+    "change": "added",
+    "sha256": "7a2b57177d48edc207397a5046f0f548469691024aad3f1490583ec9d4220a3e"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage70-bard.test.js",
+    "change": "added",
+    "sha256": "f03fd4fd3689a2ef244bc02516a36f5e547fb45ba2f7e753c669a23b55a90e02"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage70-native-bard.test.js",
+    "change": "added",
+    "sha256": "20bbc0c6fa8bc616d445bb9b959e48f355667378354315b0075e56140ca5fece"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "cdc620da3f59efbc90fabf4f40f1e4e98007da59adf03ba3d36a560fa9b84554"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_BARD_SUPPORT.json",
+    "change": "added",
+    "sha256": "7e051246d94d4a3f856a1a7d52be43ffdd60beb8c4294e3f406c96a7bf46491f"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "cb09a27af865f052ead4bdbd9ec3dec8c64888ef1391350d3cc3f8f08e4667b6"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "91419712bd5b0a432fbcf37432da3df8440621c549f3c4191484ca10e53aa0bc"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_SMOKE.log",
+    "change": "added",
+    "sha256": "b05720f9ebaa7a617e3e1494b82d24595f3782f900e887c03bb71f3040ad4a8a"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_TESTS.log",
+    "change": "added",
+    "sha256": "7cfe1ad90b0018bf67f5504439e2d96b516e51c096c2e6dcfa2712498f398156"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_VALIDATION.json",
+    "change": "added",
+    "sha256": "3924bed48ff16dd642834d1af25717a3ad1562749267bc16a2023af577467469"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE70_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage70/CCBard.ts",
+    "change": "added",
+    "sha256": "7e058d514a45c47ab8e0726e0c9457c65722275bda59a276d3acf9983c5af1a5"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage70/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage70/SkillCfg.ts",
+    "change": "added",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage70/bard-assets.json",
+    "change": "added",
+    "sha256": "f43161468c3bfae9f35ddd37ac28cf8729b535f4ca7cde046d3e029fc0964d1d"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage70/native-descriptions.json",
+    "change": "added",
+    "sha256": "e78482a5e41d25900bfe3f0c5e29ef9686727347dd5bcb90642b71ad06c17b16"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "d779e126ad0cb521157fc4d4ca1ec1da2a1866900f04b0753b43ec3f17513131"
+  }
+]

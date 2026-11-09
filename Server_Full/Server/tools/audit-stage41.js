@@ -1,0 +1,22 @@
+'use strict';
+const path=require('node:path'),{execFileSync}=require('node:child_process');
+const base=JSON.parse(execFileSync(process.execPath,[path.join(__dirname,'audit-stage40.js')],{encoding:'utf8'}));
+const environment=require('../lib/environment-3127'),damage=require('../lib/damage-3127'),life=require('../lib/life-3127');
+const {proto,entityEvent}=require('../lib/proto'),configs=require('../config/schemes/MonsterContent.json').MonsterCfg,models=require('../config/monster-models-3127.json').models;
+const reference=require('../../retail/client-reference/stage41/CLIENT_CONTRACT_EVIDENCE.json');
+const forms={},mismatches=[];let changedFromStage40=0;
+for(const r of environment.templates.filter(r=>r.kind==='mob')){
+ const cfg=configs.find(c=>c.CreatureID===r.cid&&c.Level<=r.level&&c.MaxLevel>=r.level),expected=models[r.cid]?.[cfg?.Form];forms[cfg?.Form]=(forms[cfg?.Form]||0)+1;
+ if(r.prefab!==expected)mismatches.push({id:r.id,cid:r.cid,level:r.level,actual:r.prefab,expected});
+ if(r.prefab!==require('../config/world-content-3127.json').models[r.cid])changedFromStage40++;
+}
+const typeMatches=Object.entries(damage.TYPE).every(([key,value])=>reference.DamageType[key]===value);
+const report={...base,stage:41,fullRestoration1to1:false,clientRenderVerified:false,
+ critical:{nativeDamageType:damage.TYPE.crit,normalDamageType:damage.TYPE.normal,typesMatchDecodedClient:typeMatches,hero1BaseRatePercent:require('../lib/progression-3127').stats(1).property.crit,hero1BaseMultiplierPercent:require('../lib/progression-3127').stats(1).property.critHarm,rollAuthority:'Server crypto RNG; clients cannot supply crit chance, multiplier, result or RNG',appliesTo:['Implemented hero ordinary/held/auto attacks','Implemented mob/boss hits and projectile impacts'],display:'beHurt.damageType=2 and subHP.dmgType=2; shield absorption=7, poison=3, resource collection=6; no critical zero when fully absorbed',mitigationStatus:'RETAIL_RESISTANCE_AND_FINAL_CRIT_RULES_UNRESOLVED'},
+ mobForms:{counts:forms,changedFromStage40,mismatches,source:'MonsterContent.Form + original cc.Prefab catalogue',assetPathsCertified:reference.prefabs.every(x=>x.type==='cc.Prefab')},
+ life:{flow:['Persistent death transaction','Public native death; private settleInfo','battle.iob.reEnter enterType1 continue / enterType3 restart','Full HP at MapScheme.Born; native relive','Persistent protection deadline, native buff28'],continueLevelRule:'ceil(deadLevel/2), confirmed by DeadPanel',replayCount:life.value('reliveCount',3),replayCoinSchedule:[0,1,2].map(life.replayPrice),priceCallerConvention:'INFERRED: use client ConstantsManager.getReliveCost after consuming continuation; 20/40/80. Original server call arguments are not available.',rebornProtectSeconds:life.value('rebornProtectTime',10),settlementRatios:{main:life.conversion({world:{level:'main'}},{xpEarned:100000}),rookie:life.conversion({world:{level:'rookie'}},{xpEarned:100000})},settlementPolicy:'Conversion ratios native; floor rounding and once-per-earned-XP segment accounting are server implementation decisions, not captured retail transactions.',accountTitleXP:'Separate persisted titleExp, no longer mirrors battle hero XP',inventoryDeathLoss:'NOT_RESTORED: owned items retained; exact bag/equipment loss, warehouse and protection interactions unresolved',vipAndAds:'NOT_RESTORED',reconnect:'Pending death restored; reEnter0 is read-only; replay/spend cannot repeat; protection is not extended by reconnect'},
+ destruction:{leave:1,dead:0,source:'CCEntitySystem.onEntityDestroyed releases typ1 as leave, others as dead'},
+ schemas:{death:entityEvent.death.toObject(entityEvent.death.create(),{defaults:true}),settleInfo:entityEvent.settleInfo.toObject(entityEvent.settleInfo.create(),{defaults:true,longs:String}),relive:entityEvent.relive.toObject(entityEvent.relive.create(),{defaults:true})},
+ unresolved:[...base.unresolved.filter(s=>!s.startsWith('Native player death')),'Original continuation-price call convention, VIP/free continues, death inventory punishment and retail settlement policies','Full hero career and active weapon skill effects remain unimplemented beyond their existing animation/input contracts','Native PvP rules and PvP death remain incomplete; existing experimental opt-in retained']};
+console.log(JSON.stringify(report,null,2));
+if(mismatches.length||!typeMatches||!report.mobForms.assetPathsCertified||!base.bossChecks.every(x=>x.wireMatchesOriginal))process.exitCode=1;

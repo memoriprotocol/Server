@@ -1,0 +1,147 @@
+[
+  {
+    "path": "ISSUES_STAGE74_RU.txt",
+    "change": "added",
+    "sha256": "d68c0edb4bc1f79845301c63ba7231e40bc75659fcebba574913e6e7f371dbe0"
+  },
+  {
+    "path": "README_STAGE74_RU.txt",
+    "change": "added",
+    "sha256": "93b78b399dad7888d1f44ec9b86b0a0ceacf0b9cb9edfe5e691967db18be9eb9"
+  },
+  {
+    "path": "Server_Full/README_STAGE74_RU.txt",
+    "change": "added",
+    "sha256": "93b78b399dad7888d1f44ec9b86b0a0ceacf0b9cb9edfe5e691967db18be9eb9"
+  },
+  {
+    "path": "Server_Full/Server/lib/combat-input-3127.js",
+    "change": "modified",
+    "sha256": "e39fbeaf6c66a3a33c551f55692aa3745e63576e603a76827ebd12aac4d62419"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-switch-3127.js",
+    "change": "modified",
+    "sha256": "2f7b3d664fcb0504ec7f0dfba2234825596253dd6d371e48817aca60ae2ec6ad"
+  },
+  {
+    "path": "Server_Full/Server/lib/hero-vfx-3127.js",
+    "change": "modified",
+    "sha256": "3956081b467b9e816f70f7b503d533871b9e4b153de7bb87a00b4fe5001edd07"
+  },
+  {
+    "path": "Server_Full/Server/lib/inventory.js",
+    "change": "modified",
+    "sha256": "29a355d9d95c09934dcd5c07221664bc40d3f18c7132cfd1cec93a55734219d3"
+  },
+  {
+    "path": "Server_Full/Server/lib/player-skills-3127.js",
+    "change": "modified",
+    "sha256": "48d6d7aa072393a851957925639a26ae32643d6f163e857d2a6099a00b991fc1"
+  },
+  {
+    "path": "Server_Full/Server/lib/runtime-tick-3127.js",
+    "change": "modified",
+    "sha256": "5428ff701d4ba248fd46b0bd09f3eb96dccf5ec44510c937b799abfb4d88815e"
+  },
+  {
+    "path": "Server_Full/Server/lib/witch-3127.js",
+    "change": "added",
+    "sha256": "29992002a700f529873bd9ad1b3e33728d7ecaf6e14312b3b9e3029886edf032"
+  },
+  {
+    "path": "Server_Full/Server/tests/helpers/stage74-native.js",
+    "change": "added",
+    "sha256": "c4341d8cb2fcca0ac1f837b0f47bd89bf7a3249af8d08866e0931b8d03c9be54"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage74-native-witch.test.js",
+    "change": "added",
+    "sha256": "4dd00ee4458797fe6d82f850f760a180177268e8873757acbbd8e777fde9b5e1"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage74-witch.test.js",
+    "change": "added",
+    "sha256": "b446845eef7b4409ef5b2c80aa8c936e43e9c89d4f53c64f8e58378a667bd6b3"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "b348846f064b47bda85d48b3d424b4e62a984c1918494b78727c1d0b8adecae4"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "51e595ce01fd596c148c62989fa26b2e941234ecadc12fe00c3a26a9475421a9"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_SKILL_COVERAGE.json",
+    "change": "added",
+    "sha256": "71f78bb350d3b71ca9eca076b97fc2247bb6525e3ab7e403b3baca2dc341e688"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_SMOKE.log",
+    "change": "added",
+    "sha256": "c1eb1a943a1b26f1012cb5b7af287e5724062d1132a0cf8b61c4c3fdfdafd09d"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_TESTS.log",
+    "change": "added",
+    "sha256": "839f426d8e35351cb115db88ccb76209a83225ebad7728d76b85b1e39f27e00d"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_VALIDATION.json",
+    "change": "added",
+    "sha256": "f800e7a126d1f40a50fd0924c1d60f60cb0b2580bb71d6658a794611e13e3ed3"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE74_WITCH.json",
+    "change": "added",
+    "sha256": "8abbcdc558b2e8a8b1be46ecaceb32049a17e854003f0e7221af67fc2e5a36f1"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/CCBuffComp.ts",
+    "change": "added",
+    "sha256": "a24fe408401ccb608774e027d7a3130b6ecba07ff3c42f4c1999684407aa2d3b"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/CCWitchStove.ts",
+    "change": "added",
+    "sha256": "d0df452154f1232585e6d9b28f63486a41153779eb464c093753466c388d6923"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/CCWitchStoveFire.ts",
+    "change": "added",
+    "sha256": "f7eef8da15b1e6a574487503839c06de34cf748504fdd29acc1d3235a702e5a7"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/CCWitchStoveTraceFire.ts",
+    "change": "added",
+    "sha256": "7bec0ca802e4bae06dc0886f7228c9da099556028f433d72e334f31121a532fe"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/SkillCfg.ts",
+    "change": "added",
+    "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/native-descriptions.json",
+    "change": "added",
+    "sha256": "21e2cc2e0ab1861549c98b784857b0b1f459b77b73edb2e03acb3b5b80f51ae7"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage74/witch-assets.json",
+    "change": "added",
+    "sha256": "0b7cc68adc65023b177ea39a457484cafae07cd1353a89362f41918f67ab07e3"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "dc11c1ee909f731a572c51d83896b4d6bcb21b314171988c928c694bac9bb0f7"
+  }
+]

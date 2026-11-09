@@ -1,0 +1,823 @@
+{
+  "clientVersion": "3.12.7",
+  "mapId": 2,
+  "assetAvailabilityOnly": true,
+  "noPositionInferred": true,
+  "assets": [
+    {
+      "path": "arena/npc/shark",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 14
+    },
+    {
+      "path": "arena/npc/403/npc2",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 83
+    },
+    {
+      "path": "arena/npc/414/ui_main_npcchat_bg",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 238
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/LD_ckhwj_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 365
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_zz_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 978
+    },
+    {
+      "path": "arena/npc/407/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 997
+    },
+    {
+      "path": "arena/npc/NPC04/NPC04",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 1311
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_008",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 1629
+    },
+    {
+      "path": "arena/npc/NPC015/NPC015",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 1762
+    },
+    {
+      "path": "arena/npc/NPC02/NPC02",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 3101
+    },
+    {
+      "path": "arena/npc/429/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 3339
+    },
+    {
+      "path": "arena/npc/flow",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 4393
+    },
+    {
+      "path": "arena/npc/NPC20/NPC20",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 5249
+    },
+    {
+      "path": "arena/npc/422/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 5353
+    },
+    {
+      "path": "arena/npc/bigger",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 5490
+    },
+    {
+      "path": "arena/npc/412/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 6263
+    },
+    {
+      "path": "arena/npc/406/npc6",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 6832
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_013",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 7105
+    },
+    {
+      "path": "arena/npc/406/shopkeeper",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 7568
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_003",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 7628
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_002",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 7893
+    },
+    {
+      "path": "arena/npc/403/NPC_02_a",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 7951
+    },
+    {
+      "path": "arena/npc/421/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 8030
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_tjkc_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 8925
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_011",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 9372
+    },
+    {
+      "path": "arena/npc/410/npc4",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 9453
+    },
+    {
+      "path": "arena/npc/NPC03/NPC03",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 9502
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_changyi_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 9910
+    },
+    {
+      "path": "arena/npc/NPC21/NPC21",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 10036
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_001",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 10400
+    },
+    {
+      "path": "arena/npc/405/resource_chest",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 10548
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_huapen_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 10602
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_tjdtz_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 10691
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_004",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 10851
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_005",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 10971
+    },
+    {
+      "path": "arena/npc/425/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 11120
+    },
+    {
+      "path": "arena/npc/412/npc12",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 11392
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_007",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 11940
+    },
+    {
+      "path": "arena/npc/NPC011/NPC011/NPC_11",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 12091
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_005",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 12094
+    },
+    {
+      "path": "arena/npc/431/NPC03",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 12225
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_lianmengqizhi_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 12450
+    },
+    {
+      "path": "arena/npc/NPC016/NPC016",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 12729
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_003",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 12730
+    },
+    {
+      "path": "arena/npc/NPC06/NPC06",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 13772
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_zhalanzuhe_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 13809
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_srxz_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 13956
+    },
+    {
+      "path": "arena/npc/401/LD_sr_001",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 14139
+    },
+    {
+      "path": "arena/npc/NPC010/NPC010",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 14561
+    },
+    {
+      "path": "arena/npc/415/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 15001
+    },
+    {
+      "path": "arena/npc/414/npc12",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 15111
+    },
+    {
+      "path": "arena/npc/409/npc4",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 15187
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_001",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 15342
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_bpcsb_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 15409
+    },
+    {
+      "path": "arena/npc/NPC011/NPC11a/NPC_11",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 15750
+    },
+    {
+      "path": "arena/npc/NPC018/NPC018",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 16125
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_zhalanzuhe_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 16282
+    },
+    {
+      "path": "arena/npc/NPC011/NPC11b/NPC11b",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 16346
+    },
+    {
+      "path": "arena/npc/433/LD_sr_001",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 16829
+    },
+    {
+      "path": "arena/npc/415/ui_main_npcchat_bg2",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 16831
+    },
+    {
+      "path": "arena/npc/NPC01/NPC01",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 16904
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_ludeng_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 17443
+    },
+    {
+      "path": "arena/npc/415/ui_main_dialog_space",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 17714
+    },
+    {
+      "path": "arena/npc/411/npc11",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 17826
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_xinxiang_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 17875
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_jiutong_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 18345
+    },
+    {
+      "path": "arena/npc/419/npc-2",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 18396
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_zz_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 18502
+    },
+    {
+      "path": "arena/npc/432/NPC022",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 18926
+    },
+    {
+      "path": "arena/npc/423/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 19056
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_012",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 19120
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_004",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 19499
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_huapen_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 19630
+    },
+    {
+      "path": "arena/npc/410/npc10",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 20152
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_pkgaoshi_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 20441
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_tjst_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 20634
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_tuiche_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 20694
+    },
+    {
+      "path": "arena/npc/NPC09/NPC09",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 20772
+    },
+    {
+      "path": "arena/npc/409/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 20870
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/a_preview",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 21387
+    },
+    {
+      "path": "arena/npc/426/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 21546
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_srcjj_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 21924
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_002",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 22052
+    },
+    {
+      "path": "arena/npc/404/NPC_02_b",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 22716
+    },
+    {
+      "path": "arena/npc/403/weapon_paper",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 22772
+    },
+    {
+      "path": "arena/npc/401/NPC_01",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 22875
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_009",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 23007
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_zhalan_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 23011
+    },
+    {
+      "path": "arena/npc/404/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 23097
+    },
+    {
+      "path": "arena/npc/402/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 23336
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_tjlz_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 23912
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_jiutong_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 24268
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_bpcsb_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 24509
+    },
+    {
+      "path": "arena/npc/light",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 24854
+    },
+    {
+      "path": "arena/npc/429/NPC019",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 24870
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_huapen_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 24874
+    },
+    {
+      "path": "arena/npc/410/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 24890
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/a_preview",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 25085
+    },
+    {
+      "path": "arena/npc/432/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 25115
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_004-r",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 25185
+    },
+    {
+      "path": "arena/npc/403/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 25186
+    },
+    {
+      "path": "arena/npc/408/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 25335
+    },
+    {
+      "path": "arena/npc/405/NPC_02_c",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 25527
+    },
+    {
+      "path": "arena/npc/414/ui_main_npc_gift",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 25603
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_zhalanzuhe_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 25702
+    },
+    {
+      "path": "arena/npc/NPC08/NPC08",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 25948
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/LD_ckhwj_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 26634
+    },
+    {
+      "path": "arena/npc/422/ZC-ctxx-002-s",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 27013
+    },
+    {
+      "path": "arena/npc/424/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 27105
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_006",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 27340
+    },
+    {
+      "path": "arena/npc/415/LD_tj_001",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 27577
+    },
+    {
+      "path": "arena/npc/406/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 27889
+    },
+    {
+      "path": "arena/npc/414/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 27894
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map10_城堡/石桥/CB_sq_003-r",
+      "category": "bridge_appearance_other_map",
+      "clientPathIndex": 27930
+    },
+    {
+      "path": "arena/npc/415/ui_main_npc_choose",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 28714
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_006",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 28732
+    },
+    {
+      "path": "arena/npc/414/LD_zz_001",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 28958
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_010",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 29106
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/NPC012/NPC012",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 29439
+    },
+    {
+      "path": "arena/npc/404/recipe",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 29517
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_shuichi_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 29521
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_srxz_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 29556
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_004",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 30162
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_jiutong_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 30404
+    },
+    {
+      "path": "arena/npc/431/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 31189
+    },
+    {
+      "path": "arena/npc/411/npc4",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 31799
+    },
+    {
+      "path": "arena/npc/414/npc4",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 31859
+    },
+    {
+      "path": "arena/npc/NPC07/NPC07",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 32415
+    },
+    {
+      "path": "arena/npc/408/npc4",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 32566
+    },
+    {
+      "path": "arena/npc/407/npc5",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 32692
+    },
+    {
+      "path": "arena/npc/401/npc1",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 32791
+    },
+    {
+      "path": "arena/npc/401/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 32973
+    },
+    {
+      "path": "arena/npc/409/npc9",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 33048
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_zhalan_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 33180
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 33576
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_tjbqj_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 33579
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_zz_004",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 33898
+    },
+    {
+      "path": "arena/npc/422/ui_main_npc_mail",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 34021
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_shuichi_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 34100
+    },
+    {
+      "path": "arena/npc/411/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 34294
+    },
+    {
+      "path": "arena/npc/npc1",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 34408
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 34530
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/a_preview",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 34622
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_srxz_004",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 34635
+    },
+    {
+      "path": "arena/maps/universe-new/objects/grass/map9_大逃杀/城墙/DTS_cq_005",
+      "category": "wall_appearance_other_map",
+      "clientPathIndex": 34938
+    },
+    {
+      "path": "arena/npc/408/npc8",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 35138
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_srxz_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 36127
+    },
+    {
+      "path": "arena/npc/405/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 36223
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/LD_ckhwj_002",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 37145
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_003",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 37429
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_tuiche_001",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 37435
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/ZX_cazhuo_000",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 39384
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_mz_007",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 39986
+    },
+    {
+      "path": "arena/npc/npc2",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 40064
+    },
+    {
+      "path": "arena/npc/NPC011/NPC11b/NPC11b2",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 40181
+    },
+    {
+      "path": "arena/npc/415/npc12",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 40193
+    },
+    {
+      "path": "arena/npc/419/npc-3",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 47352
+    },
+    {
+      "path": "arena/maps/universe-new/objects/town/new/LD_portal_dts",
+      "category": "town_appearance_asset",
+      "clientPathIndex": 48047
+    },
+    {
+      "path": "arena/npc/433/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 48663
+    },
+    {
+      "path": "arena/npc/419/npc-1",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 48721
+    },
+    {
+      "path": "arena/npc/430/npc",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 49735
+    },
+    {
+      "path": "arena/npc/420/npc-0",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 49937
+    },
+    {
+      "path": "arena/npc/blood_bar/blood_bar",
+      "category": "npc_appearance_asset",
+      "clientPathIndex": 50694
+    }
+  ]
+}

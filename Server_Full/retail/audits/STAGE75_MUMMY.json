@@ -1,0 +1,669 @@
+{
+  "stage": 75,
+  "version": "0.53.0-stage75-mummy-scarabs",
+  "nativeReferences": [
+    {
+      "path": "Server_Full/retail/client-reference/stage75/CCScarabBomb.ts",
+      "sha256": "d85c141286e2e024e7d6c0df38858f0da29e186199660d3119b85a1931fd390b",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage75/CCScarabBombPoisonFog.ts",
+      "sha256": "65ab2bf58c01ed3ec4c4f3d85df2d82f5ee123b0484bdde18f5af707a7c3c014",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage75/CCStaticPhysicsComp.ts",
+      "sha256": "41573b933c7a5a2674882fe5bc8ef5f5a59b9c5eba80f9c75b8520ca55665214",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage75/HeroSkill.ts",
+      "sha256": "d19beaeb50b7eb5fae8aca6d2731df4e37675eea4b0ec556007e13822faa95cb",
+      "verbatimOriginalFactory": true
+    },
+    {
+      "path": "Server_Full/retail/client-reference/stage75/SkillCfg.ts",
+      "sha256": "f0cbfed6ed84a59acaaec587c1fabb640dfc0c75d0d082157f689f932fd46884",
+      "verbatimOriginalFactory": true
+    }
+  ],
+  "nativeSkills": [
+    {
+      "ID": 6009,
+      "level": 1,
+      "skillType": 336,
+      "name": "木乃伊1星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 90000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 2000,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        200
+      ],
+      "skillShape": 1,
+      "skillSize": [
+        120,
+        80
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6009/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 30000,
+      "atkargs": 0,
+      "args": [
+        "damage:30000",
+        "num:5",
+        "existence:2000",
+        "atkArgs:0"
+      ]
+    },
+    {
+      "ID": 6009,
+      "level": 2,
+      "skillType": 337,
+      "name": "木乃伊2星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 90000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 2000,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        200
+      ],
+      "skillShape": 1,
+      "skillSize": [
+        120,
+        80
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6009/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 30000,
+      "atkargs": 0,
+      "args": [
+        "damage:30000",
+        "num:5",
+        "existence:2000",
+        "atkArgs:0",
+        "healRate:100"
+      ]
+    },
+    {
+      "ID": 6009,
+      "level": 3,
+      "skillType": 338,
+      "name": "木乃伊3星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 90000,
+      "castPointTime": 200,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 2000,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        300
+      ],
+      "skillShape": 1,
+      "skillSize": [
+        240,
+        160
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": false,
+      "initSelfBuff": [
+        237
+      ],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [
+        "propValue:0"
+      ],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 0,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6009/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 30000,
+      "atkargs": 0,
+      "args": [
+        "damage:30000",
+        "num:5",
+        "duration:5000",
+        "size:400",
+        "existence:2000",
+        "atkArgs:0",
+        "healRate:100",
+        "passiveCD:1500"
+      ]
+    },
+    {
+      "ID": 6023,
+      "level": 1,
+      "skillType": 413,
+      "name": "木乃伊被动1星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 2000,
+      "castPointTime": 0,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 2000,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        450
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        150
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": true,
+      "initSelfBuff": [],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 7,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6021/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 5000,
+      "atkargs": 25,
+      "args": []
+    },
+    {
+      "ID": 6023,
+      "level": 2,
+      "skillType": 414,
+      "name": "木乃伊被动2星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 2000,
+      "castPointTime": 0,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 2000,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        550
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        200
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": true,
+      "initSelfBuff": [],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 7,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6021/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 5000,
+      "atkargs": 40,
+      "args": []
+    },
+    {
+      "ID": 6023,
+      "level": 3,
+      "skillType": 415,
+      "name": "木乃伊被动3星",
+      "skillEffectType": 0,
+      "isSkill": true,
+      "isMoveSkill": false,
+      "isFirst": false,
+      "canCrit": true,
+      "isSpecialBeHurtEffect": false,
+      "cd": 2000,
+      "castPointTime": 0,
+      "slowDownTime": 0,
+      "slowDownPer": 0,
+      "slowDownBeforeUse": false,
+      "daoGuangDelayTime": 0,
+      "shakeAfterMillis": 0,
+      "startOffset": 0,
+      "startOffsetY": 0,
+      "startOffsetZ": 0,
+      "startOffsetAngle": 0,
+      "duration": 5000,
+      "maxDistance": 2000,
+      "skillSpeed": 1500,
+      "targetType": 3,
+      "buffTargetType": 3,
+      "targetBuffID": [],
+      "targetBuffArgs": [],
+      "skillRange": 2,
+      "effectSize": [
+        700
+      ],
+      "skillShape": 2,
+      "skillSize": [
+        250
+      ],
+      "shakeId": 0,
+      "attribute": 4,
+      "hit": 100,
+      "selfBuff": "",
+      "selfBuffArgs": [],
+      "isPassive": true,
+      "initSelfBuff": [],
+      "isMountSkill": false,
+      "initSelfBuffArgs": [],
+      "onHitEnemyBuff": [],
+      "castPointActionTime": 0,
+      "onHitEnemyBuffArgs": [],
+      "onHitSelfBuff": [],
+      "onHitSelfBuffArgs": [],
+      "triggerType": 7,
+      "triggerTypeArgs": [],
+      "quickWeaponBuff": [],
+      "quickWeaponBuffArgs": [],
+      "iconPath": "arena/skill_icon/6021/spriteFrame",
+      "desc": "",
+      "unlockLv": 10,
+      "chargeNum": 1,
+      "stageNum": 1,
+      "waveNum": 0,
+      "waveSkillSpace": 0,
+      "damaga": 5000,
+      "atkargs": 70,
+      "args": []
+    }
+  ],
+  "nativeAssets": [
+    {
+      "path": "arena/heroskill/300700_skill_tx/prefab/300700_skill_tx",
+      "index": 38651,
+      "pack": "0f93670e4",
+      "importSHA256": "e05a2bba849d666cb66771f40b095d1be404eddbd4b5dc73c14965a6881adce8",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300700_skill_tx_702/prefab/300700_skill_tx",
+      "index": 14083,
+      "pack": "04d7a9cad",
+      "importSHA256": "e1ad609b277766e2144676523e34425a3d710f0dd5aa4e5c531de394831e51ed",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    },
+    {
+      "path": "arena/heroskill/300700_skill_tx_703/prefab/300700_skill_tx",
+      "index": 32228,
+      "pack": "0b42918f8",
+      "importSHA256": "5335891a1344925872b974af40657946b247ab54e814c8916672bba47cfd6517",
+      "importCRCVerified": true,
+      "rawNativeTimelineDecoded": false
+    }
+  ],
+  "nativeDescriptions": [
+    {
+      "language": "en",
+      "key": "hero/skill/6009/1",
+      "verbatimFragment": "\"hero/skill/6009/1\",'Release\\x20${cfg.args.num}\\x20explosive\\x20scarabs.\\x20Each\\x20scarab\\x20deals\\x20${cfg.args.damage/100}\\x20DMG.\\x20Release\\x20an\\x20extra\\x20scarab\\x20for\\x20every\\x201000\\x20Max\\x20HP\\x20Mummy\\x20has.'"
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6009/2",
+      "verbatimFragment": "\"hero/skill/6009/2\",'Release\\x20${cfg.args.num}\\x20explosive\\x20scarabs.\\x20Each\\x20scarab\\x20deals\\x20${cfg.args.damage/100}\\x20DMG,\\x20restoring\\x20${cfg.DamageHealth}\\x20HP\\x20for\\x20Mummy.\\x20Release\\x20an\\x20extra\\x20scarab\\x20for\\x20every\\x201000\\x20Max\\x20HP\\x20Mummy\\x20has.'"
+    },
+    {
+      "language": "en",
+      "key": "hero/skill/6009/3",
+      "verbatimFragment": "\"hero/skill/6009/3\",\"Release ${cfg.args.num} explosive scarabs. Each scarab deals ${cfg.args.damage/100} DMG, restoring ${cfg.DamageHealth} HP for Mummy. Release an extra scarab for every 1000 Max HP Mummy has. Passive: Automatically release a scarab when taking damage; Cooldown ${cfg.args.passiveCD/1000} seconds.\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6009/1",
+      "verbatimFragment": "\"hero/skill/6009/1\",'向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害。每有1000最大生命值，可额外释放1只圣甲虫。'"
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6009/2",
+      "verbatimFragment": "'hero/skill/6009/2',\"向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害，并为木乃伊提供${cfg.DamageHealth}点生命回复。每有1000最大生命值，可额外释放1只圣甲虫。\""
+    },
+    {
+      "language": "zh",
+      "key": "hero/skill/6009/3",
+      "verbatimFragment": "\"hero/skill/6009/3\",\"向前方释放${cfg.args.num}只圣甲虫进行自爆攻击，每只圣甲虫造成${cfg.args.damage/100}点范围伤害，并为木乃伊提供${cfg.DamageHealth}点生命回复。每有1000最大生命值，可额外释放1只圣甲虫。被动：被攻击时自动释放一只圣甲虫，冷却${cfg.args.passiveCD/1000}秒。\""
+    }
+  ],
+  "nativeContract": {
+    "hero": 7,
+    "activeSkill": 6009,
+    "passiveSkill": 6023,
+    "unlockLevel": 10,
+    "activeCD": 90000,
+    "castPointTime": 200,
+    "count": "args.num5+floor(maxHP/1000)",
+    "speed": 1500,
+    "maxDistance": 2000,
+    "activeExistenceFromArgs": 2000,
+    "activeEffectSize": [
+      200,
+      200,
+      300
+    ],
+    "activeSkillSize": [
+      [
+        120,
+        80
+      ],
+      [
+        120,
+        80
+      ],
+      [
+        240,
+        160
+      ]
+    ],
+    "activeDamageFromArgs": 30000,
+    "activeHealRate": [
+      null,
+      100,
+      100
+    ],
+    "scarab": {
+      "type": 1023,
+      "wireFields": [
+        "skinID"
+      ],
+      "skins": [
+        701,
+        702,
+        703
+      ],
+      "event": "scarabBomb123 empty native message; stops Animation, sets Skeleton white, plays skill then schedules explosion sound after0.2s",
+      "nativeCountdown": "empty function despite scheduleOnce3s; client does not autonomously trigger a fuse",
+      "nativeRelease": "onDestroy scheduled1s after release callbacks; does not prove server explosion lifetime"
+    },
+    "passive": {
+      "thirdStarOnlyFromDescription": true,
+      "triggerType": 7,
+      "nativeCDConflict": {
+        "6009star3ArgsAndDescription": 1500,
+        "6023scheme": 2000
+      },
+      "selectedCD": 1500,
+      "schemeDamageFields": [
+        "damaga:5000",
+        "atkargs:25/40/70"
+      ],
+      "args": [],
+      "tooltipLimitation": "native getTotalSkillCfg reads args.damage/atkArgs, therefore returns NaN for6023; this function does not prove passive server damage math"
+    },
+    "fog": {
+      "type": 1024,
+      "nativeFields": [
+        "prefab_path",
+        "poisonFogDuration"
+      ],
+      "nativeThirdStarArgs": {
+        "duration": 5000,
+        "size": 400
+      },
+      "restored": false,
+      "reason": "no proven fog prefab_path or skill-to-fog contact/damage linkage recovered"
+    }
+  },
+  "localPolicies": {
+    "scope": "Map2 Mummy PvE only; other maps and PvP not restored by this stage",
+    "castAndGroup": "200ms first release, latest cursor fixed direction at first release; accept maxHP count once; <=6 spawned per observed50ms batch; invalid source/CC/deadline cancels remaining group",
+    "capacity": "64 live+reserved beetles; reject before paying F cooldown instead of truncation; passive full capacity does not pay passive CD",
+    "formation": "parallel lateral offsets across native skillSize[0], centered on current hero; illegal offset falls back to legal caster position; exact retail formation and release cadence unproven",
+    "movement": "native speed1500, maxDistance2000, active args.existence2000/passive Skill.duration5000; observed movement dt capped100ms; swept native-body collision and current terrain/building colliders; no lag catch-up teleport",
+    "contact": "native skillSize[0]/2 used as sweep radius plus native creature radius; initial overlap is contact atfraction0; first enemy/terrain/invalid/safe/range/expiry starts explosion; geometry unproven",
+    "arming": "minimum100ms before123 and at least1000ms explosion entity linger; local async-loading grace, not an asset/render ACK or guarantee that a slow original client rendered it",
+    "explosion": "native effectSize[0] interpreted as AoE radius plus target body radius; mobs/bosses only, hidden/dead/safe excluded; contacts captured once, successful contacts marked before remaining bounded250ms retries; no successful victim damage replay",
+    "damage": "snapshot attack at group release, existing damage/resistance/crit/relic/loot-XP pipeline; passive consumes misspelled native damaga/atkargs through existing engine; retail mitigation and passive linkage unproven",
+    "healing": "one heal per completed ACTIVE beetle explosion, even zero contacts; base native tooltip DamageHealth300 atstars2/3, no critical/resistance multiplier and no per-victim multiplication; this trigger and empty-explosion interpretation are local, not retail proved; passive has no healRate",
+    "passive": "only positive actual HP damage in surviving monster-effects.hitPlayer, not shield-only/protection/death/zero or pet/summon paths; single6023level3 beetle, latest cursor direction, no F animation/cooldown charge; passive allowed under confusion; native generic beAttack scope outside this pipeline remains incomplete",
+    "lifetime": "world, actor, room, map, battle life, hero and skin binding; old room cleanup uses captured room; target actor/spawn binding prevents recycled-ID damage",
+    "delivery": "failed sends queue bounded128 actors per recipient, <=250ms currentHP snapshot corrections, never replay damage/healing/XP; stale recipient or target life discarded; normal visibility queue creates entities and replays123 for already exploding late observations",
+    "unsupported": "native1024 fog, exact retail attack triggers, hit geometry, heal conditions, all-map/PvP behaviour and Windows/Cocos real rendering remain incomplete"
+  },
+  "validation": {
+    "tests": {
+      "tests": 1935,
+      "pass": 1935,
+      "fail": 0,
+      "skipped": 0,
+      "cancelled": 0
+    },
+    "newTests": 82,
+    "oldTestsModified": 0,
+    "nativeVM": [
+      "CCScaraBomb original factory create/event123/animation/sound/model+skin all9skin-star combinations",
+      "original SkillCfg active/passive/trigger enums",
+      "original en/zh descriptions",
+      "original HeroSkill.getTotalSkillCfg native active damage/heal and passive NaN limitation",
+      "original CCStaticPhysicsComp inheritance"
+    ],
+    "imports": {
+      "hashedAndCRCVerified": 3,
+      "rawNativeTimelinesDecoded": false
+    },
+    "websocket": {
+      "nativeMummyF": true,
+      "castPoint200": true,
+      "nativeBeetle1023Skin701": true,
+      "fullHPScaledGroup": true,
+      "nativeExplosion123": true,
+      "delayedActiveDamage": true,
+      "perBeetleHealing": true,
+      "authoritativeDamageHookPassive6023": true,
+      "passiveOwnCooldown": true,
+      "heroMasterCleanup": true
+    },
+    "testIsolation": "only65075001 added test monster has future skill cooldown; passive tested via actual authoritative FX.hitPlayer then native WS replication, not a fabricated client command; full prior HTTP/WS regression preserved, no live charges"
+  },
+  "preservation": {
+    "wallsStage44": true,
+    "PVPBoard": true,
+    "allConfigsSchemesPlacementsUnchanged": true,
+    "websiteAddon": true,
+    "originalIndex": true,
+    "Stage72AIStage73TreantStage74WitchUnchanged": true,
+    "previous1853TestsUnchanged": true
+  },
+  "remaining": [
+    "Mummy native1024 poison fog, retail formation/trajectory/contact/heal trigger and6023 CD conflict need further evidence",
+    "native model resources/event consumers verified in VM, actual Windows/Cocos rendering not tested",
+    "all other hero/weapon mechanics, Map2 Fishman/decor, locations and user backlog remain"
+  ],
+  "fullMummyRetailParity": false,
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

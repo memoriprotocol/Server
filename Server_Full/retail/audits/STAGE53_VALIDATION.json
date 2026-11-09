@@ -1,0 +1,31 @@
+{
+  "stage": 53,
+  "version": "0.31.0-stage53-map2-weapon-knockback",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "tests": {
+    "tests": 661,
+    "passed": 661,
+    "failed": 0,
+    "newStage53": 50,
+    "nativeVMTests": 2,
+    "nativeSchemaContractTests": 1,
+    "nativeVM": "Executed original BuffCfg factory and BuffSchemeTable.load/getBuffBytype; validates249/261/442 and native200ms Strong control. Not Windows rendering."
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.31.0-stage53-map2-weapon-knockback",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "knockbackStatus": "NATIVE_DISTANCE_DURATION_LOCAL_MOTION_AND_IMMUNITY_POLICY",
+    "windowsClientRendered": false
+  }
+}

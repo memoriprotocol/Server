@@ -1,0 +1,129 @@
+{
+  "TowerDefenseWave": [
+    {
+      "Wave": 1,
+      "Time": 70,
+      "Time_Total": 70
+    },
+    {
+      "Wave": 2,
+      "Time": 70,
+      "Time_Total": 140
+    },
+    {
+      "Wave": 3,
+      "Time": 80,
+      "Time_Total": 220
+    },
+    {
+      "Wave": 4,
+      "Time": 80,
+      "Time_Total": 300
+    },
+    {
+      "Wave": 5,
+      "Time": 60,
+      "Time_Total": 360
+    },
+    {
+      "Wave": 6,
+      "Time": 85,
+      "Time_Total": 445
+    },
+    {
+      "Wave": 7,
+      "Time": 85,
+      "Time_Total": 530
+    },
+    {
+      "Wave": 8,
+      "Time": 85,
+      "Time_Total": 615
+    },
+    {
+      "Wave": 9,
+      "Time": 100,
+      "Time_Total": 715
+    },
+    {
+      "Wave": 10,
+      "Time": 85,
+      "Time_Total": 800
+    },
+    {
+      "Wave": 11,
+      "Time": 115,
+      "Time_Total": 915
+    },
+    {
+      "Wave": 12,
+      "Time": 100,
+      "Time_Total": 1015
+    },
+    {
+      "Wave": 13,
+      "Time": 105,
+      "Time_Total": 1120
+    },
+    {
+      "Wave": 14,
+      "Time": 130,
+      "Time_Total": 1250
+    },
+    {
+      "Wave": 15,
+      "Time": 105,
+      "Time_Total": 1355
+    },
+    {
+      "Wave": 16,
+      "Time": 105,
+      "Time_Total": 1460
+    },
+    {
+      "Wave": 17,
+      "Time": 120,
+      "Time_Total": 1580
+    },
+    {
+      "Wave": 18,
+      "Time": 135,
+      "Time_Total": 1715
+    },
+    {
+      "Wave": 19,
+      "Time": 165,
+      "Time_Total": 1880
+    },
+    {
+      "Wave": 20,
+      "Time": 120,
+      "Time_Total": 2000
+    },
+    {
+      "Wave": 21,
+      "Time": 135,
+      "Time_Total": 2135
+    },
+    {
+      "Wave": 22,
+      "Time": 220,
+      "Time_Total": 2355
+    },
+    {
+      "Wave": 23,
+      "Time": 135,
+      "Time_Total": 2490
+    },
+    {
+      "Wave": 24,
+      "Time": 135,
+      "Time_Total": 2625
+    },
+    {
+      "Wave": 25,
+      "Time": 300,
+      "Time_Total": 2925
+    }
+  ]
+}

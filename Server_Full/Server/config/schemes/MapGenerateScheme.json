@@ -1,0 +1,31 @@
+{
+  "MapGenerate": [
+    {
+      "ID": 1,
+      "MapID": 10,
+      "GeneratorType": 1240,
+      "CreationType": 1234,
+      "Mode": 1,
+      "Num": 20,
+      "RefreshInterval": 0
+    },
+    {
+      "ID": 2,
+      "MapID": 10,
+      "GeneratorType": 1241,
+      "CreationType": 1242,
+      "Mode": 1,
+      "Num": 8,
+      "RefreshInterval": 0
+    },
+    {
+      "ID": 3,
+      "MapID": 17,
+      "GeneratorType": 1407,
+      "CreationType": 0,
+      "Mode": 1,
+      "Num": 46,
+      "RefreshInterval": 30
+    }
+  ]
+}

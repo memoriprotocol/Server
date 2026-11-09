@@ -1,0 +1,280 @@
+{
+  "1": {
+    "heroId": 1,
+    "name": "斯巴达",
+    "allSkillIDs": [
+      6013
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "2": {
+    "heroId": 2,
+    "name": "修女",
+    "allSkillIDs": [
+      6006
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "3": {
+    "heroId": 3,
+    "name": "吸血鬼",
+    "allSkillIDs": [
+      6003
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "4": {
+    "heroId": 4,
+    "name": "魔法师",
+    "allSkillIDs": [
+      6004
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "5": {
+    "heroId": 5,
+    "name": "亡灵术士",
+    "allSkillIDs": [
+      6007
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "6": {
+    "heroId": 6,
+    "name": "圣骑士",
+    "allSkillIDs": [
+      6005
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "7": {
+    "heroId": 7,
+    "name": "木乃伊",
+    "allSkillIDs": [
+      6009,
+      6023
+    ],
+    "explicitPassiveSkillIDs": [
+      6023
+    ],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "8": {
+    "heroId": 8,
+    "name": "德鲁伊",
+    "allSkillIDs": [
+      6008
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "9": {
+    "heroId": 9,
+    "name": "树人",
+    "allSkillIDs": [
+      6010,
+      6028
+    ],
+    "explicitPassiveSkillIDs": [
+      6028
+    ],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "10": {
+    "heroId": 10,
+    "name": "国王",
+    "allSkillIDs": [
+      6011
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "11": {
+    "heroId": 11,
+    "name": "女巫",
+    "allSkillIDs": [
+      6012
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "12": {
+    "heroId": 12,
+    "name": "忍者",
+    "allSkillIDs": [
+      6014
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "13": {
+    "heroId": 13,
+    "name": "吟游诗人",
+    "allSkillIDs": [
+      6015,
+      6032
+    ],
+    "explicitPassiveSkillIDs": [
+      6032
+    ],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "15": {
+    "heroId": 15,
+    "name": "兔耳游侠",
+    "allSkillIDs": [
+      6017
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "17": {
+    "heroId": 17,
+    "name": "厨娘",
+    "allSkillIDs": [
+      6019
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "19": {
+    "heroId": 19,
+    "name": "史莱姆",
+    "allSkillIDs": [
+      6020,
+      6021
+    ],
+    "explicitPassiveSkillIDs": [
+      6021
+    ],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "20": {
+    "heroId": 20,
+    "name": "小恶魔",
+    "allSkillIDs": [
+      6022
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "21": {
+    "heroId": 21,
+    "name": "炸弹人",
+    "allSkillIDs": [
+      6024,
+      6025
+    ],
+    "explicitPassiveSkillIDs": [
+      6025
+    ],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "22": {
+    "heroId": 22,
+    "name": "狼人",
+    "allSkillIDs": [
+      6026
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "23": {
+    "heroId": 23,
+    "name": "咕咕",
+    "allSkillIDs": [
+      6029
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "24": {
+    "heroId": 24,
+    "name": "仓鼠",
+    "allSkillIDs": [
+      6030
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "25": {
+    "heroId": 25,
+    "name": "剑客",
+    "allSkillIDs": [
+      6031
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "26": {
+    "heroId": 26,
+    "name": "工程师",
+    "allSkillIDs": [
+      6033
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "27": {
+    "heroId": 27,
+    "name": "维京战士",
+    "allSkillIDs": [
+      6039
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "28": {
+    "heroId": 28,
+    "name": "龙太子",
+    "allSkillIDs": [
+      6040,
+      6041
+    ],
+    "explicitPassiveSkillIDs": [
+      6041
+    ],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  },
+  "29": {
+    "heroId": 29,
+    "name": "花仙子",
+    "allSkillIDs": [
+      6042
+    ],
+    "explicitPassiveSkillIDs": [],
+    "implicitEffectsAlsoNeedAudit": true,
+    "fullyRetailVerified": false
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "stage": 51,
+  "version": "0.29.0-stage51-map2-pet-actions-portals",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "skillIDs": [
+    2226,
+    2239,
+    2260,
+    2268,
+    2349
+  ],
+  "nativeSource": [
+    "MonsterAnim.getAnim",
+    "CCBodyMonsterAnimComp.useSkill/state/petUpgradeStar",
+    "CCVultureHurriance.create",
+    "CCMonsterSkillEffectComp.onSkillCast",
+    "SkillScheme/PetAffection/MonsterCfg"
+  ],
+  "coverage": [
+    {
+      "cid": 1404,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2042,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2226,
+          "skillType": 108,
+          "status": "NATIVE_ARGS_SWEPT_DASH_LOCAL_SERVER_INTEGRATION"
+        }
+      ]
+    },
+    {
+      "cid": 1427,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2068,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2228,
+          "skillType": 318,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "cid": 1411,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2048,
+          "skillType": 70,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        },
+        {
+          "skillID": 2238,
+          "skillType": 333,
+          "status": "ALLY_SUPPORT_NATIVE_ARGS_LOCAL_SELECTION"
+        }
+      ]
+    },
+    {
+      "cid": 1413,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2051,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2232,
+          "skillType": 327,
+          "status": "ALLY_SUPPORT_NATIVE_ARGS_LOCAL_SELECTION"
+        }
+      ]
+    },
+    {
+      "cid": 1403,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2041,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2239,
+          "skillType": 334,
+          "status": "TARGET_CENTERED_AREA_NATIVE_ARGS_LOCAL_TARGET_SNAPSHOT_POLICY"
+        }
+      ]
+    },
+    {
+      "cid": 1438,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2085,
+          "skillType": 70,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        },
+        {
+          "skillID": 2248,
+          "skillType": 70,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        }
+      ]
+    },
+    {
+      "cid": 1410,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2047,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2236,
+          "skillType": 331,
+          "status": "ALLY_SUPPORT_NATIVE_ARGS_LOCAL_SELECTION"
+        }
+      ]
+    },
+    {
+      "cid": 1420,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2060,
+          "skillType": 213,
+          "status": "NATIVE_PROJECTILE_CORE_COMPOUND_BEHAVIOR_NOT_FULLY_VERIFIED"
+        }
+      ]
+    },
+    {
+      "cid": 1428,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2069,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "cid": 1426,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2067,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "cid": 1435,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2079,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2235,
+          "skillType": 330,
+          "status": "ALLY_SUPPORT_NATIVE_ARGS_LOCAL_SELECTION"
+        }
+      ]
+    },
+    {
+      "cid": 1430,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2071,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2249,
+          "skillType": 370,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "cid": 1443,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2259,
+          "skillType": 70,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        },
+        {
+          "skillID": 2260,
+          "skillType": 403,
+          "status": "NATIVE_CONE_AND_DESCRIPTION_DELAY_SUCTION_POLICY_RECONSTRUCTED"
+        }
+      ]
+    },
+    {
+      "cid": 1464,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2267,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2268,
+          "skillType": 406,
+          "status": "TWO_NATIVE_TYPE1053_HURRICANES_TRAJECTORY_CONTACT_LOCAL_PAIR_SPACING"
+        }
+      ]
+    },
+    {
+      "cid": 1444,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2291,
+          "skillType": 463,
+          "status": "NATIVE_PROJECTILE_CORE_COMPOUND_BEHAVIOR_NOT_FULLY_VERIFIED"
+        },
+        {
+          "skillID": 2292,
+          "skillType": 464,
+          "status": "PACT_NATIVE_ARGS_LOCAL_QUANTIZATION_OR_TARGET_POLICY"
+        }
+      ]
+    },
+    {
+      "cid": 1445,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2349,
+          "skillType": 564,
+          "status": "TARGET_CENTERED_AREA_NATIVE_ARGS_LOCAL_TARGET_SNAPSHOT_POLICY"
+        },
+        {
+          "skillID": 2348,
+          "skillType": 563,
+          "status": "PACT_NATIVE_ARGS_LOCAL_QUANTIZATION_OR_TARGET_POLICY"
+        }
+      ]
+    },
+    {
+      "cid": 1446,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2361,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2362,
+          "skillType": 602,
+          "status": "PACT_NATIVE_ARGS_LOCAL_QUANTIZATION_OR_TARGET_POLICY"
+        }
+      ]
+    },
+    {
+      "cid": 1447,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2372,
+          "skillType": 605,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        },
+        {
+          "skillID": 2373,
+          "skillType": 606,
+          "status": "NOT_RESTORED_COMPOUND_PACT"
+        }
+      ]
+    },
+    {
+      "cid": 1448,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2904,
+          "skillType": 624,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        },
+        {
+          "skillID": 2905,
+          "skillType": 625,
+          "status": "NOT_RESTORED_COMPOUND_PACT"
+        }
+      ]
+    },
+    {
+      "cid": 1449,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2924,
+          "skillType": 657,
+          "status": "NOT_RESTORED_SPECIAL_OR_PROJECTILE"
+        },
+        {
+          "skillID": 2925,
+          "skillType": 658,
+          "status": "NOT_RESTORED_COMPOUND_PACT"
+        }
+      ]
+    },
+    {
+      "cid": 1451,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2976,
+          "skillType": 70,
+          "status": "AREA_DAMAGE_NATIVE_ARGS_GEOMETRY_PARITY_UNVERIFIED"
+        },
+        {
+          "skillID": 2977,
+          "skillType": 787,
+          "status": "NOT_RESTORED_COMPOUND_PACT"
+        }
+      ]
+    },
+    {
+      "cid": 1452,
+      "nativeEntityType": 101,
+      "deployment": true,
+      "skillCoverage": [
+        {
+          "skillID": 2974,
+          "skillType": 789,
+          "status": "NATIVE_PROJECTILE_CORE_COMPOUND_BEHAVIOR_NOT_FULLY_VERIFIED"
+        },
+        {
+          "skillID": 2975,
+          "skillType": 786,
+          "status": "PACT_NATIVE_ARGS_LOCAL_QUANTIZATION_OR_TARGET_POLICY"
+        }
+      ]
+    }
+  ],
+  "changes": [
+    "Pet idle/walk/chase/attack state and isMoving events",
+    "PropertyComp.star on pet creation plus petUpgradeStar on its entity",
+    "Boar pet 1404 swept dash 2226",
+    "Pet 1443 suction 2260 and delayed cone damage",
+    "Pet 1464 two native type1053 hurricane entities using source pet stats",
+    "Pet point area 2239/2349 centered on selected enemy; 2349 native visual receives target posX/posY",
+    "Per-target retry markers prevent replay of already settled special-action damage",
+    "All five existing Map2 portals relocate companions while retaining HP/life/ID and cooldowns",
+    "Hurricane entities are in Map2 visibility rows for late observers and failed-create/destroy recovery"
+  ],
+  "policies": {
+    "dash": "Distance=min(native maxDistance,current distance to target), fixed angle, speed=buffSpeedUp, per-step cap100ms, collision radius=skillSize[0], one hit per target, blocks on water/static/player structures. Radius interpretation, travel stopping and path algorithm not proven retail.",
+    "suctionTiming": "English native description says after 2 seconds; SkillScheme.duration=1600 differs. Chosen description delay2000ms after cast. This conflict is explicit, not claimed exact retail timing.",
+    "suctionMotion": "Linear interpolation minSuction..maxSuction by distance, max100ms integration, 60-unit stop gap; bosses anchored, known immune-control/immune-repel buffs skip pull; native cone and args. Motion curve, boss immunity policy and interrupt behavior reconstructed.",
+    "pointArea": "Circle radius from native effectSize[0] at enemy location captured on release; source cannot select beyond native maxDistance. 2349 posX/posY target contract proved by native effect loader. 2239 visual target binding not fully verified.",
+    "hurricanes": "Native description specifies TWO; entityType1053 and prefab recovered from client. Parallel spacing=skillSize[0] total, speed/range from SkillScheme; each projectile can strike same enemy once, including overlap of both hurricanes. Pair spacing, overlap rule and radius policy not proven retail.",
+    "collision": "City and player structure rays use current server collider reconstruction; no new edits to Stage44 walls. Pet hurricanes ignore resource farming and respect safe target areas.",
+    "retry": "Each target object marked only after damage settlement; failed remainder retries after250ms. Already successful targets are not damaged again; impact target list is frozen at first impact.",
+    "recovery": "skillBackswing keeps pet from starting another skill after action; cancel on modes, confusion, owner death, recycle, mount and same-map portal.",
+    "portals": "One-time companion transfer near owner with dry non-colliding 160/240/80/0 offsets; fallback withdraw preserving life/HP if no placement. IDs, HP, life and ready cooldown map retained; active attacks/old shots cancelled. Placement/transfer policy reconstructed.",
+    "motion": "Native state events drive animations. This proves event binding, not full Windows rendering. Current follow/target algorithm remains local.",
+    "fullParity": "All other limitations from Stage50 remain. Normal ranged fox/hamster/owl projectiles, compound pet attacks/pacts, broader game mechanics and full delivery/controller recovery are still incomplete."
+  },
+  "tests": {
+    "tests": 570,
+    "passed": 570,
+    "failed": 0,
+    "newStage51": 35,
+    "nativeAssetImportsVerified": 3,
+    "nativeVMTests": 6
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "smoke": {
+    "status": "PASS",
+    "version": "0.29.0-stage51-map2-pet-actions-portals",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "petActions": [
+      2226,
+      2239,
+      2260,
+      2268,
+      2349
+    ],
+    "windowsClientRendered": false
+  }
+}

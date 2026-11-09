@@ -1,0 +1,70 @@
+{
+  "PlayerAction": [
+    {
+      "ID": 1,
+      "ActionType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 321001,
+      "Path": "arena/digger/signal/xiuxian01/spriteFrame",
+      "AnimationName": "b_001_xiuxian",
+      "isValid": true
+    },
+    {
+      "ID": 2,
+      "ActionType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 321002,
+      "Path": "arena/digger/signal/xiuxian02/spriteFrame",
+      "AnimationName": "b_002_xiuxian",
+      "isValid": true
+    },
+    {
+      "ID": 3,
+      "ActionType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 321003,
+      "Path": "arena/digger/signal/xiuxian03/spriteFrame",
+      "AnimationName": "b_003_xiuxian",
+      "isValid": true
+    },
+    {
+      "ID": 4,
+      "ActionType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 321004,
+      "Path": "arena/digger/signal/xiuxian06/spriteFrame",
+      "AnimationName": "b_006_xiuxian",
+      "isValid": true
+    },
+    {
+      "ID": 5,
+      "ActionType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 321005,
+      "Path": "arena/digger/signal/xiuxian09/spriteFrame",
+      "AnimationName": "b_009_xiuxian",
+      "isValid": true
+    },
+    {
+      "ID": 6,
+      "ActionType": [
+        0
+      ],
+      "TargetArgs": [],
+      "ItemID": 321006,
+      "Path": "arena/digger/signal/xiuxian10/spriteFrame",
+      "AnimationName": "b_010_xiuxian",
+      "isValid": true
+    }
+  ]
+}

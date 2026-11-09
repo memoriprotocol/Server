@@ -1,0 +1,147 @@
+[
+  {
+    "path": "ISSUES_STAGE62_RU.txt",
+    "change": "added",
+    "sha256": "2424840e937b20c50a6804bd4b6856e0546670749133f447d7d51d861eaa49c3"
+  },
+  {
+    "path": "PASS_TASKS_STAGE62_RU.txt",
+    "change": "added",
+    "sha256": "ae3a8accd109ee919aeb2591d82bb2c5d707fedd10295a6bae0bc0a2750d1e26"
+  },
+  {
+    "path": "README_STAGE62_RU.txt",
+    "change": "added",
+    "sha256": "89d031f285046878734a73f1e75551da811888ae27c172ee2f58dc267f517c6e"
+  },
+  {
+    "path": "Server_Full/README_STAGE62_RU.txt",
+    "change": "added",
+    "sha256": "89d031f285046878734a73f1e75551da811888ae27c172ee2f58dc267f517c6e"
+  },
+  {
+    "path": "Server_Full/Server/lib/bag.js",
+    "change": "modified",
+    "sha256": "71d49952b35defb02f0b56e6ee02aa4fbd737ba77363b225ccfc1b26f3191358"
+  },
+  {
+    "path": "Server_Full/Server/lib/game.js",
+    "change": "modified",
+    "sha256": "1a608e8217852dae14d55910a6a8043f5e4f39649c9810de99100a66b44b0eb8"
+  },
+  {
+    "path": "Server_Full/Server/lib/inventory.js",
+    "change": "modified",
+    "sha256": "791b7d1ff8e6ee00d093461696ddc7bfd1ab21f0a00f0a002c4a5a0cb7e6c7e9"
+  },
+  {
+    "path": "Server_Full/Server/lib/item-exchange-3127.js",
+    "change": "added",
+    "sha256": "54c42c5d62b6853ff5047bd2f48d8a1d153906ecc9b5ab5a1b8979d05185a372"
+  },
+  {
+    "path": "Server_Full/Server/lib/pass-restoration-3127.js",
+    "change": "modified",
+    "sha256": "c2a241018d362a9c38cc2963eb4324fda92ac66a3f057fb50455dba3d8e5cba5"
+  },
+  {
+    "path": "Server_Full/Server/lib/world.js",
+    "change": "modified",
+    "sha256": "41a2617e69be471b6a9a12901637b216a44b7de0f9c35aecc3e6b873bb573aa0"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage61-pass-cycle.test.js",
+    "change": "modified",
+    "sha256": "29f82b61461b822030c963f2b84c8d77ef41b33ba87d0b8ec0479406c3dfb6ee"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage62-item-exchange.test.js",
+    "change": "added",
+    "sha256": "335ce9f03b1a7fc284dc68d55a6ab8ba2a027dcb542719b2596138339ecbe0d8"
+  },
+  {
+    "path": "Server_Full/Server/tests/stage62-native-exchange.test.js",
+    "change": "added",
+    "sha256": "6a9f731dbca0f4c155af1f3314631d8f0d50e997ce58c5c050b88ec75565062e"
+  },
+  {
+    "path": "Server_Full/package.json",
+    "change": "modified",
+    "sha256": "c8c805f520904022f9b5c5416c7d4253c9da87f511ef1b06cf78968e6b1f74ae"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_ITEM_EXCHANGE.json",
+    "change": "added",
+    "sha256": "e3cd112049901b59fb5d104e5a713bc029b659c10b562a94a96d5e87d714ef0b"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_NATIVE_REFERENCE.json",
+    "change": "added",
+    "sha256": "00064d1cce9d406d0a40c1d18274256eda6db5e28ffcd057c8c37e392b0f9300"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_NPC415_ASSET.json",
+    "change": "added",
+    "sha256": "f904a43c0569c70c8b9164d5b8d4637bd3c104c43a0023aad82cdab58d671dad"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_SMOKE.log",
+    "change": "added",
+    "sha256": "e3876a6b3fae28351129dd5856c42daf061be81ae9831eb4b4d8842a891bd246"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_TASK_COVERAGE.json",
+    "change": "added",
+    "sha256": "9f431afd3b93670ac23daac05fcd43197098a758d034c3b05d18d511c3ef259e"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_TESTS.log",
+    "change": "added",
+    "sha256": "84eaea90af7ea1675d84d2679485a16b5f1840589ee3b856933880246d85a39e"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_VALIDATION.json",
+    "change": "added",
+    "sha256": "6d5d3e8b8dab9178fc86055f3e2c37293e6a57290bc0dfd56e6015db0297eb37"
+  },
+  {
+    "path": "Server_Full/retail/audits/STAGE62_WALLS_FROM_STAGE44.json",
+    "change": "added",
+    "sha256": "2d2ba84c936da9e28af7634e6884d5b4349063727795e35f0459682b27f62593"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/CCExchangePanel.ts",
+    "change": "added",
+    "sha256": "2edb9b80feff456545e30a68e9c2e2099e6d74cc77b5eed1c8085a3085427d95"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/CCItemView.ts",
+    "change": "added",
+    "sha256": "403056a1a3d0e1da0893448c5c62f3514223f1bae36d10a6e81c94e982d48ee7"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/CCSupplyOffice.ts",
+    "change": "added",
+    "sha256": "ae43847a0ca0c38cf81c51cb7e48c75ac771eaf8cd8292ec1264da2ee5c324ee"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/Creatures.ts",
+    "change": "added",
+    "sha256": "5aeb648b07e277682c40186458e6dd6defea8530e33f18735424beeb9fe2a349"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/ItemManager.ts",
+    "change": "added",
+    "sha256": "de9ba1e6c181667039905020eed2981a0f1091239c33181f15de3b42f7309076"
+  },
+  {
+    "path": "Server_Full/retail/client-reference/stage62/WeaponManager.ts",
+    "change": "added",
+    "sha256": "f63a77a43e420423633676a5fd2b9faca5c480f7bca919b0c7cf3a678da1d589"
+  },
+  {
+    "path": "Server_Full/server.js",
+    "change": "modified",
+    "sha256": "e1df376102198ad187b66694cfbc9ae210eb37c4acd4887c8abd4d2db0a2d40d"
+  }
+]

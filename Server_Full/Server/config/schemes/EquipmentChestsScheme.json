@@ -1,0 +1,100 @@
+{
+  "EquipmentChests": [
+    {
+      "Level": 1,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 20,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 30,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 50,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 60,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 70,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 90,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Level": 100,
+      "ConsumeID": 102,
+      "Consume": 200,
+      "QualityProb": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

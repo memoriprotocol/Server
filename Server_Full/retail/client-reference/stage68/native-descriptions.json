@@ -1,0 +1,6 @@
+{
+  "hero/skill/6019/1": "[\"hero/skill/6019/1\",\"Passive: Base GTH +100 Make ${cfg.args.num} delicacies. Eat to gain ${cfg.HpShield} HP and ${cfg.HpShield} Shield (${cfg.args.hpArgs}% of Maid's Max HP) for 80s\"]",
+  "hero/skill/6019/2": "[\"hero/skill/6019/2\",\"Passive: Base GTH +100 Make ${cfg.args.num} delicacies. Eat to gain ${cfg.HpShield} HP, ${cfg.HpShield} Shield (${cfg.args.hpArgs}% of Maid's Max HP), and +80 ATK for 80s\"]",
+  "hero/skill/6019/3": "[\"hero/skill/6019/3\",\"Passive: Base GTH +100 Make ${cfg.args.num} delicacies. Eat to gain ${cfg.HpShield} HP, ${cfg.HpShield} Shield (${cfg.args.hpArgs}% of Maid's Max HP), +80 ATK, and +100 SPD for 80s\"]",
+  "buff/name/ethereal_2": "['buff/name/ethereal_2',\"Ignores unit collision\"]"
+}

@@ -1,0 +1,88 @@
+{
+  "Store": [
+    {
+      "ID": 100001,
+      "ProductId": 100001,
+      "NameId": "7500钻石",
+      "Type": 1,
+      "ItemID": 111,
+      "ItemNum": 13000,
+      "Extra": 3000,
+      "BasePrice": 9999,
+      "DiscountPrice": 9999,
+      "Currency": "USD",
+      "Description": "en:13000 diamonds|zh-CN:13000 钻石|zh-TW:13000 鑽石",
+      "IconURL": "icon_d_06"
+    },
+    {
+      "ID": 100002,
+      "ProductId": 100002,
+      "NameId": "6000钻石",
+      "Type": 1,
+      "ItemID": 111,
+      "ItemNum": 6000,
+      "Extra": 1000,
+      "BasePrice": 4999,
+      "DiscountPrice": 4999,
+      "Currency": "USD",
+      "Description": "en:6000 diamonds|zh-CN:6000 钻石|zh-TW:6000 鑽石",
+      "IconURL": "icon_d_05"
+    },
+    {
+      "ID": 100003,
+      "ProductId": 100003,
+      "NameId": "2200钻石",
+      "Type": 1,
+      "ItemID": 111,
+      "ItemNum": 2200,
+      "Extra": 200,
+      "BasePrice": 1999,
+      "DiscountPrice": 1999,
+      "Currency": "USD",
+      "Description": "en:2200 diamonds|zh-CN:2200 钻石|zh-TW:2200 鑽石",
+      "IconURL": "icon_d_04"
+    },
+    {
+      "ID": 100004,
+      "ProductId": 100004,
+      "NameId": "1050钻石",
+      "Type": 1,
+      "ItemID": 111,
+      "ItemNum": 1050,
+      "Extra": 50,
+      "BasePrice": 999,
+      "DiscountPrice": 999,
+      "Currency": "USD",
+      "Description": "en:1050 diamonds|zh-CN:1050 钻石|zh-TW:1050 鑽石",
+      "IconURL": "icon_d_03"
+    },
+    {
+      "ID": 100005,
+      "ProductId": 100005,
+      "NameId": "520钻石",
+      "Type": 1,
+      "ItemID": 111,
+      "ItemNum": 520,
+      "Extra": 20,
+      "BasePrice": 499,
+      "DiscountPrice": 499,
+      "Currency": "USD",
+      "Description": "en:520 diamonds|zh-CN:520 钻石|zh-TW:520 鑽石",
+      "IconURL": "icon_d_02"
+    },
+    {
+      "ID": 100006,
+      "ProductId": 100006,
+      "NameId": "200钻石",
+      "Type": 1,
+      "ItemID": 111,
+      "ItemNum": 200,
+      "Extra": 0,
+      "BasePrice": 199,
+      "DiscountPrice": 199,
+      "Currency": "USD",
+      "Description": "en:200 diamonds|zh-CN:200 钻石|zh-TW:200 鑽石",
+      "IconURL": "icon_d_01"
+    }
+  ]
+}

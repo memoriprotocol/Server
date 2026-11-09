@@ -1,0 +1,132 @@
+{
+  "stage": 67,
+  "version": "0.45.0-stage67-swordsman-hero-passives",
+  "tests": {
+    "tests": 1368,
+    "pass": 1368,
+    "fail": 0,
+    "skipped": 0,
+    "cancelled": 0,
+    "newStage67": 74,
+    "modifiedOldTests": 0,
+    "command": "node --test --test-concurrency=4 stage67/Server_Full/Server/tests/*.test.js"
+  },
+  "syntax": {
+    "status": "PASS",
+    "checkedJavaScriptFiles": 15,
+    "files": [
+      "Server_Full/Server/lib/actions-3127.js",
+      "Server_Full/Server/lib/combat-input-3127.js",
+      "Server_Full/Server/lib/displacement-3127.js",
+      "Server_Full/Server/lib/hero-passives-3127.js",
+      "Server_Full/Server/lib/hero-vfx-3127.js",
+      "Server_Full/Server/lib/player-skills-3127.js",
+      "Server_Full/Server/lib/projectiles-3127.js",
+      "Server_Full/Server/lib/storm-skills-3127.js",
+      "Server_Full/Server/lib/swordsman-3127.js",
+      "Server_Full/Server/lib/wizard-frost-3127.js",
+      "Server_Full/Server/tests/helpers/stage67-native.js",
+      "Server_Full/Server/tests/stage67-frost-passives.test.js",
+      "Server_Full/Server/tests/stage67-native-visuals.test.js",
+      "Server_Full/Server/tests/stage67-swordsman.test.js",
+      "Server_Full/server.js"
+    ]
+  },
+  "smoke": {
+    "stage67": {
+      "nativeSwordF": true,
+      "backstep": true,
+      "visibleEntity1208": true,
+      "star3WaveDamage": true,
+      "swordWeaponPassive": true,
+      "nativeWizardFrostStacksAndFreeze": true,
+      "nunWeaponHealingBonus": true
+    },
+    "stage66Regression": {
+      "nativeFrames": true,
+      "spartanTickAndToggle": true,
+      "mageStaffCDPacket": true,
+      "paladinCleanseAndInvulnerability": true,
+      "nunDelayedHealAndDefence": true,
+      "weaponDoubleCharge": true,
+      "thirdChargeRejected": true
+    },
+    "stage65Regression": {
+      "nativeHeroF": true,
+      "nativeWeaponRMB": true,
+      "delayedFieldCreation": true,
+      "wizardPulseDamage": true,
+      "vortex500DamageCap": true,
+      "nativeEffect107And1065": true,
+      "variantScale12": true
+    },
+    "stage64Regression": {
+      "nativeOpenMapQuest": true,
+      "nativeRelaxationQuest": true,
+      "questClaimPersisted": true,
+      "repeatedQuestClaimRejected": true,
+      "firstLoadMapRank": true,
+      "globalRankCachePush": true,
+      "diagnosticNativeCategoryVerified": true
+    },
+    "stage63Regression": {
+      "nativeGoldSwap": true,
+      "prestigeAwardOnce": true,
+      "liveAdminPassSwitch": true,
+      "taskShopFilterSent": true,
+      "nativeRoomRank": true,
+      "nativeOffline88": true,
+      "accountXPPersisted": true,
+      "noDuplicateExitReward": true,
+      "newRunResourcesZero": true,
+      "scorePersists": true
+    },
+    "status": "PASS",
+    "version": "0.45.0-stage67-swordsman-hero-passives",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "websiteHTTP": true,
+    "nativeExchangeRealWebSocket": {
+      "frame89": true,
+      "frame162Lock": true,
+      "lockedBatchRejected": true,
+      "unlockAccepted": true,
+      "nativeXP100500": true,
+      "noGoldInvented": true,
+      "inventoryConsumed": true,
+      "repeatedUUIDRejected": true,
+      "bothPassSaleTypesRecorded": true
+    },
+    "passCycleRealWebSocket": {
+      "authenticated": true,
+      "nativeReadReplyWithoutReset": true,
+      "automaticWeeklyXPAndTaskPush": true,
+      "rewardPersisted": true,
+      "repeatedClaimRejected": true,
+      "sevenDayRewardPersisted": true
+    },
+    "isolatedPaymentTestMode": {
+      "realHTTPWebsiteToAuthenticatedGameCallback": true,
+      "missingSecretRejected": true,
+      "openingDoesNotGrant": true,
+      "creditPersisted": true,
+      "repeatDoesNotDoubleCredit": true,
+      "reconciliationUsesCurrentBalance": true
+    },
+    "maps": 19,
+    "clientOpenMaps": 17,
+    "frozenArmorVariants": 6,
+    "livePaymentProviderCharged": false,
+    "windowsClientRendered": false
+  },
+  "preservation": {
+    "stage44WallConfigsByteIdentical": true,
+    "PVPBoardNotRemovedOrReplaced": true,
+    "allConfigSchemesByteIdenticalToStage66": true,
+    "clientAddonWebsiteByteIdenticalToStage66": true,
+    "originalIndexUntouched": true,
+    "newLocationsOpened": 0
+  },
+  "restorationComplete": false,
+  "windowsClientRendered": false
+}

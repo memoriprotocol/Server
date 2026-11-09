@@ -1,0 +1,365 @@
+{
+  "resourcesConfigSHA256": "3c101918ae592ba59ddd9c6cdf3cbc98ecc1adb756af0c5d3b0a96156a6bf5b7",
+  "source": "Original native handler paths + original resources config cc.Prefab table. No generated replacements; metadata path check, not Windows rendered visual verification.",
+  "rows": [
+    {
+      "heroID": 15,
+      "skinID": 1501,
+      "originSkinID": 1501,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/301500_skill_tx/prefab/301500_skill_final_01"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1501,
+      "originSkinID": 1501,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/301500_skill_tx/prefab/301500_skill_final_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1501,
+      "originSkinID": 1501,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/301500_skill_tx/prefab/301500_skill_final_03"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1502,
+      "originSkinID": 1502,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/301500_skill_tx/prefab/301500_skill_final_01"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1502,
+      "originSkinID": 1502,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/301500_skill_tx/prefab/301500_skill_final_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1502,
+      "originSkinID": 1502,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/301500_skill_tx/prefab/301500_skill_final_03"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1503,
+      "originSkinID": 1503,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1503/prefab/301500_skill_final_01_back",
+        "arena/heroskill/301500_skill_tx_1503/prefab/301500_skill_final_01_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1503,
+      "originSkinID": 1503,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1503/prefab/301500_skill_final_02_back",
+        "arena/heroskill/301500_skill_tx_1503/prefab/301500_skill_final_02_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1503,
+      "originSkinID": 1503,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1503/prefab/301500_skill_final_03_back",
+        "arena/heroskill/301500_skill_tx_1503/prefab/301500_skill_final_03_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1504,
+      "originSkinID": 1504,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1504/prefab/301500_skill_final_01_back",
+        "arena/heroskill/301500_skill_tx_1504/prefab/301500_skill_final_01_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1504,
+      "originSkinID": 1504,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1504/prefab/301500_skill_final_02_back",
+        "arena/heroskill/301500_skill_tx_1504/prefab/301500_skill_final_02_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1504,
+      "originSkinID": 1504,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1504/prefab/301500_skill_final_03_back",
+        "arena/heroskill/301500_skill_tx_1504/prefab/301500_skill_final_03_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1505,
+      "originSkinID": 1505,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1505/prefab/301500_skill_final_01_back",
+        "arena/heroskill/301500_skill_tx_1505/prefab/301500_skill_final_01_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1505,
+      "originSkinID": 1505,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1505/prefab/301500_skill_final_02_back",
+        "arena/heroskill/301500_skill_tx_1505/prefab/301500_skill_final_02_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 15,
+      "skinID": 1505,
+      "originSkinID": 1505,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/301500_skill_tx_1505/prefab/301500_skill_final_03_back",
+        "arena/heroskill/301500_skill_tx_1505/prefab/301500_skill_final_03_front"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2001,
+      "originSkinID": 2001,
+      "star": 1,
+      "paths": [
+        "arena/skills/impSkill/prefab/302000_sikll_01",
+        "arena/skills/impSkill/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2001,
+      "originSkinID": 2001,
+      "star": 2,
+      "paths": [
+        "arena/skills/impSkill/prefab/302000_sikll_01",
+        "arena/skills/impSkill/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2001,
+      "originSkinID": 2001,
+      "star": 3,
+      "paths": [
+        "arena/skills/impSkill/prefab/302000_sikll_01",
+        "arena/skills/impSkill/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2002,
+      "originSkinID": 2002,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2002/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2002/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2002,
+      "originSkinID": 2002,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2002/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2002/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2002,
+      "originSkinID": 2002,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2002/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2002/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2003,
+      "originSkinID": 2003,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2003/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2003/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2003,
+      "originSkinID": 2003,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2003/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2003/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2003,
+      "originSkinID": 2003,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2003/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2003/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2004,
+      "originSkinID": 2004,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2004/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2004/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2004,
+      "originSkinID": 2004,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2004/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2004/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 20,
+      "skinID": 2004,
+      "originSkinID": 2004,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/302000_skill_tx_2004/prefab/302000_sikll_01",
+        "arena/heroskill/302000_skill_tx_2004/prefab/302000_sikll_02"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 28,
+      "skinID": 2801,
+      "originSkinID": 2801,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/302800_skill_tx_2801/prefab/302800_skill_tx_yun",
+        "arena/heroskill/302800_skill_tx_2801/prefab/302800_skill_tx_shandian"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 28,
+      "skinID": 2801,
+      "originSkinID": 2801,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/302800_skill_tx_2801/prefab/302800_skill_tx_yun",
+        "arena/heroskill/302800_skill_tx_2801/prefab/302800_skill_tx_shandian"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 28,
+      "skinID": 2801,
+      "originSkinID": 2801,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/302800_skill_tx_2801/prefab/302800_skill_tx_yun",
+        "arena/heroskill/302800_skill_tx_2801/prefab/302800_skill_tx_shandian"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 28,
+      "skinID": 2802,
+      "originSkinID": 2802,
+      "star": 1,
+      "paths": [
+        "arena/heroskill/302800_skill_tx_2802/prefab/302800_skill_tx_yun",
+        "arena/heroskill/302800_skill_tx_2802/prefab/302800_skill_tx_shandian"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 28,
+      "skinID": 2802,
+      "originSkinID": 2802,
+      "star": 2,
+      "paths": [
+        "arena/heroskill/302800_skill_tx_2802/prefab/302800_skill_tx_yun",
+        "arena/heroskill/302800_skill_tx_2802/prefab/302800_skill_tx_shandian"
+      ],
+      "missing": []
+    },
+    {
+      "heroID": 28,
+      "skinID": 2802,
+      "originSkinID": 2802,
+      "star": 3,
+      "paths": [
+        "arena/heroskill/302800_skill_tx_2802/prefab/302800_skill_tx_yun",
+        "arena/heroskill/302800_skill_tx_2802/prefab/302800_skill_tx_shandian"
+      ],
+      "missing": []
+    }
+  ],
+  "missingRows": [],
+  "windowsRenderedClient": false
+}

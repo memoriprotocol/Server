@@ -1,0 +1,440 @@
+{
+  "stage": 53,
+  "version": "0.31.0-stage53-map2-weapon-knockback",
+  "scope": "MAP2_AND_GENERAL_MECHANICS_ONLY",
+  "restorationComplete": false,
+  "windowsClientRendered": false,
+  "native": {
+    "source": "Original client3.12.7 SkillScheme/BuffScheme/BuffCfg",
+    "repelBuff": 249,
+    "monsterRepelBuff": 261,
+    "immuneRepelBuff": 442,
+    "durationMillis": 200,
+    "examples": {
+      "3189": 1100,
+      "3070": 200,
+      "3191": 600
+    },
+    "onHitRows": [
+      {
+        "id": 2269,
+        "name": "冰刺召唤",
+        "onHitEnemyBuff": [
+          "100,repel",
+          "100,slowDownPer_3"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:500",
+          "duration:2000,propValue:30"
+        ]
+      },
+      {
+        "id": 2965,
+        "name": "抗拒雷环",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:600"
+        ]
+      },
+      {
+        "id": 3070,
+        "name": "长矛",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3036,
+        "name": "天空的裁决",
+        "onHitEnemyBuff": [
+          "17,thunderHit",
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "buffDmgKey:4500",
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3124,
+        "name": "冰枪",
+        "onHitEnemyBuff": [
+          "15,stun_5",
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "duration:1000",
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3100,
+        "name": "波塞冬之歌普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3126,
+        "name": "雷霆审判",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3057,
+        "name": "干草叉",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3169,
+        "name": "毒矛",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3189,
+        "name": "飓风魔杖技能",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:1100"
+        ]
+      },
+      {
+        "id": 3191,
+        "name": "火炮普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:600"
+        ]
+      },
+      {
+        "id": 3192,
+        "name": "火炮技能",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:600"
+        ]
+      },
+      {
+        "id": 3205,
+        "name": "风神之弓被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3211,
+        "name": "凛冬守望法杖被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 3212,
+        "name": "风暴叹息战矛普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 3292,
+        "name": "圣诞树普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6181013,
+        "name": "风神之弓被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6181023,
+        "name": "风神之弓被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6181033,
+        "name": "风神之弓被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6181503,
+        "name": "风神之弓被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6181043,
+        "name": "风神之弓被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 6183013,
+        "name": "凛冬守望法杖被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 6183023,
+        "name": "凛冬守望法杖被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 6183033,
+        "name": "凛冬守望法杖被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 6183043,
+        "name": "凛冬守望法杖被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 6183503,
+        "name": "凛冬守望法杖被动",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:300"
+        ]
+      },
+      {
+        "id": 6184011,
+        "name": "风暴叹息战矛普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6184021,
+        "name": "风暴叹息战矛普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6184031,
+        "name": "风暴叹息战矛普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6184041,
+        "name": "风暴叹息战矛普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6199011,
+        "name": "荒漠瞭望者普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:400"
+        ]
+      },
+      {
+        "id": 6220011,
+        "name": "圣诞树普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6220021,
+        "name": "圣诞树普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6220031,
+        "name": "圣诞树普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 6220041,
+        "name": "圣诞树普攻",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:200"
+        ]
+      },
+      {
+        "id": 1001,
+        "name": "疾风守御项链项链技能",
+        "onHitEnemyBuff": [
+          "100,repel"
+        ],
+        "onHitEnemyBuffArgs": [
+          "distance:700"
+        ]
+      }
+    ],
+    "caveat": "This list documents native OnHit definitions. It does NOT mean every listed passive or accessory skill has a restored activation/trigger path."
+  },
+  "changes": [
+    "Native repel distance/duration now create authoritative displacement on actual mob/boss contact",
+    "Projectile impact carries travel angle and companion actor/source into OnHit; melee pushes away from actual attacker",
+    "Shared room displacement advances before the250ms AI gate on50ms world timer; no per-observer duplicate integration",
+    "Swept city/building collision, sampled water and protected-area body footprint checks stop travel at boundaries",
+    "Known native control/debuff/repel immunity buffs block corresponding new OnHit statuses",
+    "Cancels pending monster cast and pauses its normal AI during displacement; death/scene/source/identity changes cancel remaining travel",
+    "Bounded per-observer pending position correction retries failed final move/buff removal using latest authoritative position",
+    "DOT wake recomputes surviving status flags in same AI pass, eliminating extra controlled step after sleep removal"
+  ],
+  "policies": {
+    "trajectory": "Linear distance over native200ms. Projectile direction follows travel; melee uses actual attacker-to-target vector, exact overlap uses cursor. These direction/motion rules are reconstructed, not original server source.",
+    "replacement": "New repel replaces remaining travel from current position; it does not accumulate pending distance. Different repel type removes previous status. Cancelled travel does not restart.",
+    "collision": "MonsterContent.CollideSize max dimension/2, fallback40, clamp1..600; circle approximation even for rectangular monsters. Expanded city/building ray colliders,20-unit boundary sampling and12-step bisection; first blocker stops entire movement. Map bounds, full target-body safe area footprint and native water.canMove policy used. Shape/curve/stop policy not proven retail.",
+    "ai": "Pending monster casts interrupted; normal AI paused during active displacement. Reconstructed gameplay policy, not inferred solely from isBanSkill (native249 has isBanSkill=false).",
+    "immunity": "Explicit known control IDs125,256,274,393,441,658,695,720,829; debuff IDs256,274,720;442 blocks repel only,451 blocks450 only. Uses native isCtrl/isDebuff classification and valid/unexpired wire buffs. Complete immunity semantics, activation, cleansing and stacking remain incomplete.",
+    "bosses": "No new implicit immunity for every boss. Active native immunity buffs are respected. monsterRepel261 excludes bosses by native small/elite description. Full boss immunity activation is NOT restored or claimed.",
+    "lifecycle": "Source death/scene-not-ready/world replacement/map or room change/source safe-zone entry, pet death/mount/removal, target death/respawn, control removal and newly gained immunity cancel. No-peer rooms discard travel/status. These cancellation choices are local.",
+    "correction": "One pending record per seen target per observer; latest position/buff snapshot retried each environment/world frame. Drops on lost visibility/death/record or spawn identity change. This handles final displacement updates only, not general UI/texture queue or every skill event."
+  },
+  "tests": {
+    "tests": 661,
+    "passed": 661,
+    "failed": 0,
+    "newStage53": 50,
+    "nativeVMTests": 2,
+    "nativeSchemaContractTests": 1,
+    "nativeVM": "Executed original BuffCfg factory and BuffSchemeTable.load/getBuffBytype; validates249/261/442 and native200ms Strong control. Not Windows rendering."
+  },
+  "preservation": {
+    "stage44WallsByteIdentical": true,
+    "cityCodeUnchanged": true,
+    "fiveCenteredPortalsConfigUnchanged": true,
+    "websiteClientPatchesUnchanged": true,
+    "map5AndOtherMapsNotExpanded": true
+  },
+  "incomplete": [
+    "Full hero/weapon activation, compound passives and Thunder stack mechanic",
+    "Full boss AI, control immunity activation and every skill effect",
+    "Ordinary ranged pet renderer/compound pet pacts",
+    "Complete UI/asset queue and native texture recovery",
+    "All prior outstanding Map2 and general-game requirements",
+    "End-to-end Windows client visual/play verification"
+  ],
+  "smoke": {
+    "status": "PASS",
+    "version": "0.31.0-stage53-map2-weapon-knockback",
+    "authHTTP": true,
+    "gameHTTP": true,
+    "knockbackStatus": "NATIVE_DISTANCE_DURATION_LOCAL_MOTION_AND_IMMUNITY_POLICY",
+    "windowsClientRendered": false
+  }
+}

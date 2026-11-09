@@ -1,0 +1,40 @@
+{
+  "client": "3.12.7",
+  "plans": {
+    "42000001:0": {
+      "mountId": 42000001,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_001/mount_001",
+      "verified": true
+    },
+    "42000002:0": {
+      "mountId": 42000002,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_002/mount_002",
+      "verified": true
+    },
+    "42000003:0": {
+      "mountId": 42000003,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_003/mount_003",
+      "verified": true
+    },
+    "42000004:0": {
+      "mountId": 42000004,
+      "skinId": 0,
+      "skeleton": "arena/player/mount/mount_004/mount_004",
+      "verified": true
+    },
+    "42000004:1": {
+      "mountId": 42000004,
+      "skinId": 1,
+      "skeleton": "arena/player/mount/mount_004_01/mount_004_01",
+      "verified": true
+    }
+  },
+  "unmounted": {
+    "skeleton": "arena/player/mount/zuoqi_000/zuoqi_000",
+    "verified": true
+  },
+  "method": "MountManager.getMountPath; sp.SkeletonData table and CRC-verified original imports. Native textures/rendering not executed."
+}

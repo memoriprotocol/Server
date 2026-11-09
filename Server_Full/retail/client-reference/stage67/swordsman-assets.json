@@ -1,0 +1,146 @@
+[
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/302500_skill_tx_03",
+    "index": 9323,
+    "pack": "02d6676c0",
+    "importSHA256": "418d94f6102cff650ca51a8d8dfa019217c8962bd9a6d73f10282e45d7666350"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/302500_skill_tx_01",
+    "index": 10357,
+    "pack": "01a502959",
+    "importSHA256": "30496fee67b96b1897d37db187d6c1e547328358ca582820b77f1e110bfbf4ef"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/302500_skill_tx_02",
+    "index": 15659,
+    "pack": "057d4fd1a",
+    "importSHA256": "ccbe8a64b8dc0d8442706252fd04b7d6848c0559a8c7d2e98fabfe76d1d26c53"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/302500_skill_tx_01",
+    "index": 15722,
+    "pack": "0989fc08b",
+    "importSHA256": "ef8c27fa1c9ddee71d01a96c8c4c0388ebddc665d861aff101ee293ec7fd6ed1"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/302500_skill_tx_03",
+    "index": 17615,
+    "pack": "0ec39d7d6",
+    "importSHA256": "3e76c8a97a3b03a967c6648017f0c85d15b2650dec09c7aee50f92b6433231ff"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/302500_skill_tx_01",
+    "index": 21514,
+    "pack": "09025f07e",
+    "importSHA256": "04db7b0a09f1dec7dd0571db3a5c8d7874067748e2f4b95af3ef7d55776b73d5"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/302500_skill_tx_buff_1",
+    "index": 26997,
+    "pack": "05b32e9d4",
+    "importSHA256": "8e7edd8e07b6283a34f424712e7aeb38cf997b76ee99671e773de7bac3238dc0"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/302500_skill_tx_buff_2",
+    "index": 27661,
+    "pack": "081ac751a",
+    "importSHA256": "569492f3b9374f3a466a8d1df6226ccbf29e51572a47bd9bbcd7de060a76520b"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/302500_skill_tx_buff_2",
+    "index": 29769,
+    "pack": "0b92e1fba",
+    "importSHA256": "2d87564fbae5cbb6783b0230d3fd7571978db5c765e7fd359926c05c863ed787"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/302500_skill_tx_02",
+    "index": 32827,
+    "pack": "07b179038",
+    "importSHA256": "5f31e3cca82fdf11920942084570dbe4a51f8a59051937e730d3d78315cb1cbe"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/302500_skill_tx_02",
+    "index": 36257,
+    "pack": "0b81e3b10",
+    "importSHA256": "28ada3b0fab2c777ff126237728e5aff64c6adb92d65ad2be0b9ab851152e1b6"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/302500_skill_tx_03",
+    "index": 36414,
+    "pack": "0af3e25fe",
+    "importSHA256": "f532aa17f18da0aea13534b15ba6a415ebc22e3104ca08ced34363d118152c46"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/302500_skill_tx_buff_2",
+    "index": 38298,
+    "pack": "0692bbfcd",
+    "importSHA256": "1a904fb31e4d5eb0e61928bea191c4f1efc63fcbd59bd52b4143a599f4378a7b"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/302500_skill_tx_buff_1",
+    "index": 46381,
+    "pack": "5799c460-275c-4189-a53d-9d1753c52c7d",
+    "importSHA256": "5028e6c8f7acb70f2b8482fb22419b0a2b1e1e1101103d093d7c0921f3c9230d"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/sound_2",
+    "index": 46629,
+    "pack": "5bff9cf6-9c09-4d65-a814-42785ac12d36",
+    "importSHA256": "dfc2545ba03dd30f5bce50501e23c9643c6da2dcac7089ee2cc568d892031a6d"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/sound_2",
+    "index": 48099,
+    "pack": "77adec70-cc57-470f-9e80-56d3162244ce",
+    "importSHA256": "44721c5a44ac2653f3f6997f9a35cdaa760cf2a2cf26c943cf3dd7fc4fb4598f"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/sound_3",
+    "index": 48840,
+    "pack": "85701725-f873-4bb1-babd-772a14b086ce",
+    "importSHA256": "c5de28ce4d0f00658a7f95c0e448ffeff6a4b554bb34c4de0e431dc4a6ade4f9"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/sound_1",
+    "index": 50902,
+    "pack": "abce3016-bd75-4984-9b39-763bba95d47c",
+    "importSHA256": "7cd5e19e94f26ac9aed7c9d5b3514137cf43c063650d8089564ba683c394b53c"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/sound_1",
+    "index": 52573,
+    "pack": "c98813d7-54ca-42df-b8f7-c140e0ed098e",
+    "importSHA256": "fd7ba538abc7224a0266d8231609f465f455c5ace6a824cf39477297934061dd"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2502/prefab/sound_3",
+    "index": 52957,
+    "pack": "d0088b0f-3e3e-46bb-aa29-20949c43379c",
+    "importSHA256": "12d98b3d679c0b3dd2443dd3ac7000a420b535521531c6fadc351e891b54a991"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2501/prefab/sound_1",
+    "index": 53027,
+    "pack": "d196936d-21b4-4f88-982b-31bf9bdac185",
+    "importSHA256": "f223f4e8a349cbc99831960e2cb0e5d14252c81c359851cb185cc69b25fdda0d"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/sound_3",
+    "index": 53213,
+    "pack": "d51d3ade-46ae-407e-a809-4d813f3a734e",
+    "importSHA256": "460d501414379d1a7c64c5b3ff3bc429ed5187dd4385c38f9555ff2a2cb31cf3"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/sound_2",
+    "index": 54223,
+    "pack": "e7c1f47a-1bc0-4765-bd87-385fd0fe1b86",
+    "importSHA256": "e6f1e7f95e8a3c83ef4b59db029f536d05f4cc52645435ba19c89bcfee968201"
+  },
+  {
+    "path": "arena/heroskill/302500_skill_tx_2503/prefab/302500_skill_tx_buff_1",
+    "index": 54549,
+    "pack": "ee1be63a-56bf-468d-ae38-404b497dbbb1",
+    "importSHA256": "05ec18114ed6e9f57b54365207e1c9df4dde641fb2fe7f2c9df883e81c889f4c"
+  }
+]

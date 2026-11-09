@@ -1,0 +1,70 @@
+TAP version 13
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=guest
+# [GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+# [game] login uid=1 account=networker lang=
+# [GAME ROUTE] game.gameHandler.getServers uid=1 bytes=0
+# [GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=40
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [GAME ROUTE] battle.iob.enter uid=1 bytes=19
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=7
+# [GAME ROUTE] battle.iob.reEnter uid=1 bytes=16
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=guest
+# [GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+# [game] login uid=1 account=networker lang=
+# [GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=35
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [GAME WS] close uid=guest
+# [GAME ROUTE] battle.iob.enter uid=1 bytes=16
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=2 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=2 push=rm
+# Subtest: real WebSocket login -> client-filtered lobby -> scene -> item frame -> reconnect snapshot
+ok 1 - real WebSocket login -> client-filtered lobby -> scene -> item frame -> reconnect snapshot
+  ---
+  duration_ms: 194.575221
+  type: 'test'
+  ...
+# [GAME WS] close uid=1
+# [GAME WS] upgrade from 127.0.0.1 path=/
+# [GAME WS] connected
+# [GAME WS] handshake
+# [GAME WS] handshake ack uid=guest
+# [GAME ROUTE] connector.entryHandler.login uid=guest bytes=45
+# [game] login uid=1 account=networkcrit lang=
+# [GAME ROUTE] game.gameHandler.enterBattle uid=1 bytes=19
+# [WORLD] assigned uid=1 level=main map=2 mode=0 room=local-main\#1\#1
+# [GAME ROUTE] battle.iob.enter uid=1 bytes=0
+# [WORLD LOAD] uid=1 phase=enter cityMode=deferred initialEntities=1 cityQueued=58
+# [CITY WORLD] uid=1 map=2 stage=scene-enter planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=0 render=UNVERIFIED
+# [WORLD] snapshot uid=1 map=2 players=1 entities=1 push=rm
+# [WORLD LOAD] uid=1 phase=first-client-frame afterMs=2
+# [WORLD LOAD] uid=1 phase=loginLoadingFinish
+# [CITY WORLD] uid=1 map=2 stage=client-loading-finished planned=58 npc=22 wall=32 bridge=4 other=0 transmitted=0 npcSent=0 wallSent=0 bridgeSent=0 remaining=58 clientFrames=1 render=UNVERIFIED
+# [GAME ROUTE] battle.iob.reEnter uid=1 bytes=4
+# Subtest: Stage41 real WebSocket carries critical numbers, private death settlement and native relive
+ok 2 - Stage41 real WebSocket carries critical numbers, private death settlement and native relive
+  ---
+  duration_ms: 110.836222
+  type: 'test'
+  ...
+# [GAME WS] close uid=1
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 671.148373

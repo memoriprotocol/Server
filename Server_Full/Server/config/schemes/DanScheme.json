@@ -1,0 +1,196 @@
+{
+  "Dan": [
+    {
+      "ID": 1,
+      "name": "鸡仔",
+      "exp": 0,
+      "color": "#cdcdcd",
+      "petNum": 1,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        500
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_01",
+      "dropHeroNum": 1,
+      "dropPetNum": 0
+    },
+    {
+      "ID": 2,
+      "name": "青蛙",
+      "exp": 5000,
+      "color": "#bc957c",
+      "petNum": 1,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        600
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_02",
+      "dropHeroNum": 1,
+      "dropPetNum": 0
+    },
+    {
+      "ID": 3,
+      "name": "兔子",
+      "exp": 10000,
+      "color": "#cc8787",
+      "petNum": 1,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        700
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_03",
+      "dropHeroNum": 1,
+      "dropPetNum": 1
+    },
+    {
+      "ID": 4,
+      "name": "小鹿",
+      "exp": 50000,
+      "color": "#49b9bd",
+      "petNum": 2,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        800
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_04",
+      "dropHeroNum": 1,
+      "dropPetNum": 2
+    },
+    {
+      "ID": 5,
+      "name": "野狼",
+      "exp": 100000,
+      "color": "#54c24c",
+      "petNum": 2,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        900
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_05",
+      "dropHeroNum": 2,
+      "dropPetNum": 1
+    },
+    {
+      "ID": 6,
+      "name": "棕熊",
+      "exp": 200000,
+      "color": "#cf40f8",
+      "petNum": 2,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        1100
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_06",
+      "dropHeroNum": 2,
+      "dropPetNum": 2
+    },
+    {
+      "ID": 7,
+      "name": "大象",
+      "exp": 350000,
+      "color": "#ed3560",
+      "petNum": 3,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        1300
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_07",
+      "dropHeroNum": 2,
+      "dropPetNum": 3
+    },
+    {
+      "ID": 8,
+      "name": "狮王",
+      "exp": 500000,
+      "color": "#ed6935",
+      "petNum": 3,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        1500
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_08",
+      "dropHeroNum": 3,
+      "dropPetNum": 2
+    },
+    {
+      "ID": 9,
+      "name": "巨龙",
+      "exp": 750000,
+      "color": "#b89427",
+      "petNum": 3,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        1800
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_09",
+      "dropHeroNum": 3,
+      "dropPetNum": 3
+    },
+    {
+      "ID": 10,
+      "name": "恶魔",
+      "exp": 1000000,
+      "color": "#feeb49",
+      "petNum": 3,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        2100
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_10",
+      "dropHeroNum": 3,
+      "dropPetNum": 4
+    },
+    {
+      "ID": 11,
+      "name": "天使",
+      "exp": 3000000,
+      "color": "#feeb49",
+      "petNum": 3,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        2500
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_11",
+      "dropHeroNum": 3,
+      "dropPetNum": 6
+    },
+    {
+      "ID": 12,
+      "name": "神王",
+      "exp": 10000000,
+      "color": "#feeb49",
+      "petNum": 3,
+      "RewardID": [
+        13
+      ],
+      "RewardNum": [
+        3000
+      ],
+      "iconPath": "arena/digger/rank_icon/ui_rank_icon_12",
+      "dropHeroNum": 4,
+      "dropPetNum": 5
+    }
+  ]
+}

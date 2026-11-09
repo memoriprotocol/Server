@@ -1,0 +1,92 @@
+{
+  "source": "3.12.7 native MapProduction and map2 area polygons for mobs/bosses. Resource/well/statue placement is seeded local placement outside safe areas and water, not a recovered retail scene export.",
+  "models": {
+    "1302": "arena_3d/monsters/monster_1302/monster",
+    "1305": "arena_3d/monsters/monster_1305/monster",
+    "1306": "arena_3d/monsters/monster_1306/monster",
+    "1307": "arena_3d/monsters/monster_1307/monster",
+    "1210": "arena_3d/monsters/monster_1210/a/monster",
+    "1211": "arena_3d/monsters/monster_1211/a/monster",
+    "1213": "arena_3d/monsters/monster_1213/a/monster",
+    "1226": "arena_3d/monsters/monster_1226/a/monster",
+    "1227": "arena_3d/monsters/monster_1227/a/monster",
+    "1228": "arena_3d/monsters/monster_1228/a/monster",
+    "1230": "arena_3d/monsters/monster_1230/a/monster",
+    "1232": "arena_3d/monsters/monster_1232/a/monster",
+    "1235": "arena_3d/monsters/monster_1235/a/monster",
+    "1238": "arena_3d/monsters/monster_1238/a/monster",
+    "1258": "arena_3d/monsters/monster_1258/a/monster",
+    "1260": "arena_3d/monsters/monster_1260/monster",
+    "1264": "arena_3d/monsters/monster_1264/a/monster"
+  },
+  "bossIds": [
+    1302,
+    1305,
+    1306,
+    1307
+  ],
+  "static": {
+    "tree": {
+      "cid": 10005,
+      "type": 72,
+      "count": 160,
+      "prefab": "arena_3d/scene_item_new/10005-client/main_1",
+      "respawnMs": 60000,
+      "rewardItem": 5
+    },
+    "stone": {
+      "cid": 10007,
+      "type": 70,
+      "count": 100,
+      "prefab": "arena_3d/scene_item_new/10007/main_1",
+      "respawnMs": 90000,
+      "rewardItem": 7
+    },
+    "ore": {
+      "cid": 10008,
+      "type": 71,
+      "count": 80,
+      "prefab": "arena_3d/scene_item_new/10008/main_1",
+      "respawnMs": 120000,
+      "rewardItem": 8
+    },
+    "well": {
+      "cid": 0,
+      "type": 1013,
+      "count": 24,
+      "prefab": "arena/maps/universe-new/objects/grass/纯阻挡/ld_004",
+      "respawnMs": 60000
+    },
+    "statue": {
+      "cid": 11003,
+      "type": 1014,
+      "count": 8,
+      "prefab": "arena/maps/universe-new/objects/grass/纯阻挡/LD_shixiang_001",
+      "respawnMs": 60000
+    }
+  },
+  "statueBuffs": [
+    {
+      "id": 152,
+      "duration": 20000,
+      "value": 200,
+      "weight": 50,
+      "kind": "weaponSpeedUp"
+    },
+    {
+      "id": 16,
+      "duration": 8000,
+      "value": 200,
+      "weight": 30,
+      "kind": "addHp"
+    },
+    {
+      "id": 78,
+      "duration": 30000,
+      "value": 9000,
+      "weight": 20,
+      "kind": "incrGather"
+    }
+  ],
+  "statueSource": "DecorationsScheme Type=1014 Level=1: weight 50|30|20, buffTypes weaponSpeedUp|addHp|incrGather, exact durations and arguments; enum IDs decoded from client."
+}
